@@ -1,0 +1,572 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.36,
+      "to": 1.62,
+      "sid": 1,
+      "location": 2,
+      "content": "性价比极高",
+      "music": 0.0
+    },
+    {
+      "from": 1.62,
+      "to": 3.12,
+      "sid": 2,
+      "location": 2,
+      "content": "随坡一摊好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 3.12,
+      "to": 5.22,
+      "sid": 3,
+      "location": 2,
+      "content": "郑州藏在巷子里边的小店",
+      "music": 0.0
+    },
+    {
+      "from": 5.22,
+      "to": 6.98,
+      "sid": 4,
+      "location": 2,
+      "content": "杨记小炒老店",
+      "music": 0.0
+    },
+    {
+      "from": 6.98,
+      "to": 8.64,
+      "sid": 5,
+      "location": 2,
+      "content": "224",
+      "music": 0.0
+    },
+    {
+      "from": 15.0,
+      "to": 16.8,
+      "sid": 6,
+      "location": 2,
+      "content": "花那个柠檬厚",
+      "music": 0.0
+    },
+    {
+      "from": 16.8,
+      "to": 18.36,
+      "sid": 7,
+      "location": 2,
+      "content": "真脆",
+      "music": 0.0
+    },
+    {
+      "from": 18.76,
+      "to": 19.88,
+      "sid": 8,
+      "location": 2,
+      "content": "羊肉只有香味",
+      "music": 0.0
+    },
+    {
+      "from": 19.88,
+      "to": 20.62,
+      "sid": 9,
+      "location": 2,
+      "content": "没有膻味",
+      "music": 0.0
+    },
+    {
+      "from": 20.62,
+      "to": 22.18,
+      "sid": 10,
+      "location": 2,
+      "content": "熟的羊肉挂了一个脆皮糊",
+      "music": 0.0
+    },
+    {
+      "from": 22.18,
+      "to": 23.06,
+      "sid": 11,
+      "location": 2,
+      "content": "然后下锅炸",
+      "music": 0.0
+    },
+    {
+      "from": 23.06,
+      "to": 24.28,
+      "sid": 12,
+      "location": 2,
+      "content": "撒上点孜然哦",
+      "music": 0.0
+    },
+    {
+      "from": 24.28,
+      "to": 24.98,
+      "sid": 13,
+      "location": 2,
+      "content": "挺好吃",
+      "music": 0.0
+    },
+    {
+      "from": 24.98,
+      "to": 30.06,
+      "sid": 14,
+      "location": 2,
+      "content": "还没豆芽炒粉子而吃",
+      "music": 0.0
+    },
+    {
+      "from": 30.06,
+      "to": 31.34,
+      "sid": 15,
+      "location": 2,
+      "content": "豆面做的不错",
+      "music": 0.0
+    },
+    {
+      "from": 31.34,
+      "to": 34.46,
+      "sid": 16,
+      "location": 2,
+      "content": "哈哈甜香酸一点点的辣",
+      "music": 0.0
+    },
+    {
+      "from": 34.46,
+      "to": 35.26,
+      "sid": 17,
+      "location": 2,
+      "content": "先炒豆芽",
+      "music": 0.0
+    },
+    {
+      "from": 35.26,
+      "to": 37.08,
+      "sid": 18,
+      "location": 2,
+      "content": "豆芽炒的差不多了之后",
+      "music": 0.0
+    },
+    {
+      "from": 37.08,
+      "to": 38.0,
+      "sid": 19,
+      "location": 2,
+      "content": "把散子往那一放",
+      "music": 0.0
+    },
+    {
+      "from": 38.0,
+      "to": 38.88,
+      "sid": 20,
+      "location": 2,
+      "content": "散子这个还吃",
+      "music": 0.0
+    },
+    {
+      "from": 38.88,
+      "to": 39.6,
+      "sid": 21,
+      "location": 2,
+      "content": "现在还是脆的",
+      "music": 0.0
+    },
+    {
+      "from": 39.6,
+      "to": 40.6,
+      "sid": 22,
+      "location": 2,
+      "content": "豆芽也是脆的",
+      "music": 0.0
+    },
+    {
+      "from": 40.6,
+      "to": 41.04,
+      "sid": 23,
+      "location": 2,
+      "content": "一个是酥",
+      "music": 0.0
+    },
+    {
+      "from": 41.04,
+      "to": 41.58,
+      "sid": 24,
+      "location": 2,
+      "content": "一个是脆",
+      "music": 0.0
+    },
+    {
+      "from": 41.58,
+      "to": 43.32,
+      "sid": 25,
+      "location": 2,
+      "content": "两个一起吃还挺奇妙的啊",
+      "music": 0.0
+    },
+    {
+      "from": 43.32,
+      "to": 44.22,
+      "sid": 26,
+      "location": 2,
+      "content": "还挺奇妙的",
+      "music": 0.0
+    },
+    {
+      "from": 44.22,
+      "to": 44.92,
+      "sid": 27,
+      "location": 2,
+      "content": "烧肚片",
+      "music": 0.0
+    },
+    {
+      "from": 44.92,
+      "to": 46.0,
+      "sid": 28,
+      "location": 2,
+      "content": "38",
+      "music": 0.0
+    },
+    {
+      "from": 48.16,
+      "to": 49.56,
+      "sid": 29,
+      "location": 2,
+      "content": "很新鲜的牛肚",
+      "music": 0.0
+    },
+    {
+      "from": 49.56,
+      "to": 50.68,
+      "sid": 30,
+      "location": 2,
+      "content": "一点杂味都没有",
+      "music": 0.0
+    },
+    {
+      "from": 50.68,
+      "to": 52.46,
+      "sid": 31,
+      "location": 2,
+      "content": "有葱姜蒜炝锅的味道",
+      "music": 0.0
+    },
+    {
+      "from": 52.46,
+      "to": 53.74,
+      "sid": 32,
+      "location": 2,
+      "content": "挂了一个很薄的",
+      "music": 0.0
+    },
+    {
+      "from": 53.74,
+      "to": 55.1,
+      "sid": 33,
+      "location": 2,
+      "content": "往下锅炸了一下",
+      "music": 0.0
+    },
+    {
+      "from": 55.1,
+      "to": 56.14,
+      "sid": 34,
+      "location": 2,
+      "content": "感觉挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 56.14,
+      "to": 57.24,
+      "sid": 35,
+      "location": 2,
+      "content": "原料非常新鲜",
+      "music": 0.0
+    },
+    {
+      "from": 57.24,
+      "to": 59.9,
+      "sid": 36,
+      "location": 2,
+      "content": "熬炒鸡38是太便宜了",
+      "music": 0.0
+    },
+    {
+      "from": 59.9,
+      "to": 61.82,
+      "sid": 37,
+      "location": 2,
+      "content": "这花不太贵",
+      "music": 0.0
+    },
+    {
+      "from": 63.16,
+      "to": 64.78,
+      "sid": 38,
+      "location": 2,
+      "content": "明显的这鸡没焯水",
+      "music": 0.0
+    },
+    {
+      "from": 64.78,
+      "to": 66.09,
+      "sid": 39,
+      "location": 2,
+      "content": "正经没焯水",
+      "music": 0.0
+    },
+    {
+      "from": 66.09,
+      "to": 68.49,
+      "sid": 40,
+      "location": 2,
+      "content": "他选的这种鸡本身就不老",
+      "music": 0.0
+    },
+    {
+      "from": 68.49,
+      "to": 70.11,
+      "sid": 41,
+      "location": 2,
+      "content": "圆锅煸呢先出水",
+      "music": 0.0
+    },
+    {
+      "from": 70.11,
+      "to": 70.89,
+      "sid": 42,
+      "location": 2,
+      "content": "然后再出油",
+      "music": 0.0
+    },
+    {
+      "from": 70.89,
+      "to": 72.39,
+      "sid": 43,
+      "location": 2,
+      "content": "它就迅速的吸进去了",
+      "music": 0.0
+    },
+    {
+      "from": 72.39,
+      "to": 74.8,
+      "sid": 44,
+      "location": 2,
+      "content": "咸香不好吃吗",
+      "music": 0.0
+    },
+    {
+      "from": 74.8,
+      "to": 76.0,
+      "sid": 45,
+      "location": 2,
+      "content": "我觉得还可以",
+      "music": 0.0
+    },
+    {
+      "from": 76.0,
+      "to": 77.12,
+      "sid": 46,
+      "location": 2,
+      "content": "没有那么的惊艳",
+      "music": 0.0
+    },
+    {
+      "from": 77.12,
+      "to": 78.42,
+      "sid": 47,
+      "location": 2,
+      "content": "但是他们两个难吃",
+      "music": 0.0
+    },
+    {
+      "from": 78.42,
+      "to": 79.9,
+      "sid": 48,
+      "location": 2,
+      "content": "就像家常烤鸡一样",
+      "music": 0.0
+    },
+    {
+      "from": 79.9,
+      "to": 80.84,
+      "sid": 49,
+      "location": 2,
+      "content": "分很烫",
+      "music": 0.0
+    },
+    {
+      "from": 80.84,
+      "to": 82.5,
+      "sid": 50,
+      "location": 2,
+      "content": "22不就酸辣汤吗",
+      "music": 0.0
+    },
+    {
+      "from": 82.5,
+      "to": 83.39,
+      "sid": 51,
+      "location": 2,
+      "content": "你说一遍",
+      "music": 0.0
+    },
+    {
+      "from": 83.39,
+      "to": 87.53,
+      "sid": 52,
+      "location": 2,
+      "content": "你刚说出来那个很咸很酸很辣哦",
+      "music": 0.0
+    },
+    {
+      "from": 87.53,
+      "to": 89.48,
+      "sid": 53,
+      "location": 2,
+      "content": "辣这个真不具备",
+      "music": 0.0
+    },
+    {
+      "from": 89.48,
+      "to": 91.74,
+      "sid": 54,
+      "location": 2,
+      "content": "这个不咸也不酸",
+      "music": 0.0
+    },
+    {
+      "from": 91.74,
+      "to": 92.74,
+      "sid": 55,
+      "location": 2,
+      "content": "也不是很辣",
+      "music": 0.0
+    },
+    {
+      "from": 92.74,
+      "to": 93.82,
+      "sid": 56,
+      "location": 2,
+      "content": "但是就是很稠",
+      "music": 0.0
+    },
+    {
+      "from": 93.82,
+      "to": 95.61,
+      "sid": 57,
+      "location": 2,
+      "content": "酱焖鲤鱼48",
+      "music": 0.0
+    },
+    {
+      "from": 95.61,
+      "to": 96.49,
+      "sid": 58,
+      "location": 2,
+      "content": "这正经不贵",
+      "music": 0.0
+    },
+    {
+      "from": 99.45,
+      "to": 101.34,
+      "sid": 59,
+      "location": 2,
+      "content": "咸鲜微甜的味道",
+      "music": 0.0
+    },
+    {
+      "from": 101.34,
+      "to": 103.72,
+      "sid": 60,
+      "location": 2,
+      "content": "表面有这个蹲过的干辣椒和麻椒",
+      "music": 0.0
+    },
+    {
+      "from": 103.72,
+      "to": 105.82,
+      "sid": 61,
+      "location": 2,
+      "content": "那个麻辣味肉呢还有点发白",
+      "music": 0.0
+    },
+    {
+      "from": 105.82,
+      "to": 108.06,
+      "sid": 62,
+      "location": 2,
+      "content": "就是晚上烧的48块钱还行吧",
+      "music": 0.0
+    },
+    {
+      "from": 108.06,
+      "to": 109.16,
+      "sid": 63,
+      "location": 2,
+      "content": "性价比极高",
+      "music": 0.0
+    },
+    {
+      "from": 109.16,
+      "to": 111.2,
+      "sid": 64,
+      "location": 2,
+      "content": "这条得将近二斤",
+      "music": 0.0
+    },
+    {
+      "from": 111.2,
+      "to": 112.52,
+      "sid": 65,
+      "location": 2,
+      "content": "八两到三斤了",
+      "music": 0.0
+    },
+    {
+      "from": 112.52,
+      "to": 113.36,
+      "sid": 66,
+      "location": 2,
+      "content": "我们做个总结",
+      "music": 0.0
+    },
+    {
+      "from": 113.36,
+      "to": 114.9,
+      "sid": 67,
+      "location": 2,
+      "content": "今儿我们吃了224",
+      "music": 0.0
+    },
+    {
+      "from": 114.9,
+      "to": 115.72,
+      "sid": 68,
+      "location": 2,
+      "content": "得五个人的量",
+      "music": 0.0
+    },
+    {
+      "from": 115.72,
+      "to": 117.18,
+      "sid": 69,
+      "location": 2,
+      "content": "有一点点可以提高的地方",
+      "music": 0.0
+    },
+    {
+      "from": 117.18,
+      "to": 118.68,
+      "sid": 70,
+      "location": 2,
+      "content": "但是绝对对得起价格",
+      "music": 0.0
+    }
+  ]
+}

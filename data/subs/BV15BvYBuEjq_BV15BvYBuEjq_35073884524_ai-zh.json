@@ -1,0 +1,1180 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.12,
+      "to": 1.52,
+      "sid": 1,
+      "location": 2,
+      "content": "这个辣椒怎么吃呢",
+      "music": 0.0
+    },
+    {
+      "from": 1.52,
+      "to": 3.36,
+      "sid": 2,
+      "location": 2,
+      "content": "第一种加馒头",
+      "music": 0.0
+    },
+    {
+      "from": 3.36,
+      "to": 6.13,
+      "sid": 3,
+      "location": 2,
+      "content": "第二种拌面条",
+      "music": 0.0
+    },
+    {
+      "from": 6.33,
+      "to": 11.84,
+      "sid": 4,
+      "location": 2,
+      "content": "第三个在重庆吃的那个毛肚炒菜也能用",
+      "music": 0.0
+    },
+    {
+      "from": 12.12,
+      "to": 14.58,
+      "sid": 5,
+      "location": 2,
+      "content": "最近更新频率慢了一些",
+      "music": 0.0
+    },
+    {
+      "from": 14.58,
+      "to": 16.9,
+      "sid": 6,
+      "location": 2,
+      "content": "是因为我们在装修新的厨房",
+      "music": 0.0
+    },
+    {
+      "from": 16.9,
+      "to": 19.62,
+      "sid": 7,
+      "location": 2,
+      "content": "唉厨房装好了就开始还债了",
+      "music": 0.0
+    },
+    {
+      "from": 19.62,
+      "to": 20.1,
+      "sid": 8,
+      "location": 2,
+      "content": "来吧",
+      "music": 0.0
+    },
+    {
+      "from": 20.1,
+      "to": 22.36,
+      "sid": 9,
+      "location": 2,
+      "content": "第一个教你们做一个万能辣椒酱",
+      "music": 0.0
+    },
+    {
+      "from": 22.36,
+      "to": 27.02,
+      "sid": 10,
+      "location": 2,
+      "content": "噔噔噔噔噔噔噔噔哈哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 27.02,
+      "to": 29.04,
+      "sid": 11,
+      "location": 2,
+      "content": "拌毛肚拼牛肉",
+      "music": 0.0
+    },
+    {
+      "from": 29.72,
+      "to": 30.72,
+      "sid": 12,
+      "location": 2,
+      "content": "一口咬下去",
+      "music": 0.0
+    },
+    {
+      "from": 30.72,
+      "to": 31.88,
+      "sid": 13,
+      "location": 2,
+      "content": "表面那个辣椒脆",
+      "music": 0.0
+    },
+    {
+      "from": 31.88,
+      "to": 32.98,
+      "sid": 14,
+      "location": 2,
+      "content": "芝麻的香味",
+      "music": 0.0
+    },
+    {
+      "from": 32.98,
+      "to": 34.12,
+      "sid": 15,
+      "location": 2,
+      "content": "辣椒的酥香",
+      "music": 0.0
+    },
+    {
+      "from": 34.12,
+      "to": 37.88,
+      "sid": 16,
+      "location": 2,
+      "content": "越嚼越香脆香",
+      "music": 0.0
+    },
+    {
+      "from": 42.86,
+      "to": 44.62,
+      "sid": 17,
+      "location": 2,
+      "content": "下午试了一下",
+      "music": 0.0
+    },
+    {
+      "from": 44.62,
+      "to": 46.24,
+      "sid": 18,
+      "location": 2,
+      "content": "生炫了三个馒头",
+      "music": 0.0
+    },
+    {
+      "from": 46.24,
+      "to": 46.86,
+      "sid": 19,
+      "location": 2,
+      "content": "太狠了",
+      "music": 0.0
+    },
+    {
+      "from": 46.86,
+      "to": 48.86,
+      "sid": 20,
+      "location": 2,
+      "content": "这个酱那来吧",
+      "music": 0.0
+    },
+    {
+      "from": 48.86,
+      "to": 51.51,
+      "sid": 21,
+      "location": 2,
+      "content": "咱们准备点蒜片",
+      "music": 0.0
+    },
+    {
+      "from": 52.69,
+      "to": 53.49,
+      "sid": 22,
+      "location": 2,
+      "content": "横着切啊",
+      "music": 0.0
+    },
+    {
+      "from": 53.49,
+      "to": 54.77,
+      "sid": 23,
+      "location": 2,
+      "content": "竖着切片有点大",
+      "music": 0.0
+    },
+    {
+      "from": 54.77,
+      "to": 55.69,
+      "sid": 24,
+      "location": 2,
+      "content": "这不是连刀了",
+      "music": 0.0
+    },
+    {
+      "from": 55.69,
+      "to": 56.65,
+      "sid": 25,
+      "location": 2,
+      "content": "酸辣素粘上了",
+      "music": 0.0
+    },
+    {
+      "from": 56.65,
+      "to": 59.21,
+      "sid": 26,
+      "location": 2,
+      "content": "你看没连刀啊",
+      "music": 0.0
+    },
+    {
+      "from": 64.899,
+      "to": 66.979,
+      "sid": 27,
+      "location": 2,
+      "content": "切完了蒜要拿水泡一下",
+      "music": 0.0
+    },
+    {
+      "from": 66.979,
+      "to": 68.639,
+      "sid": 28,
+      "location": 2,
+      "content": "把那个酸辣醋啊泡掉一些",
+      "music": 0.0
+    },
+    {
+      "from": 68.639,
+      "to": 69.979,
+      "sid": 29,
+      "location": 2,
+      "content": "要不炸完以后会苦的",
+      "music": 0.0
+    },
+    {
+      "from": 69.979,
+      "to": 71.26,
+      "sid": 30,
+      "location": 2,
+      "content": "这是蛋干的虾干",
+      "music": 0.0
+    },
+    {
+      "from": 71.26,
+      "to": 72.36,
+      "sid": 31,
+      "location": 2,
+      "content": "家里有海米也行啊",
+      "music": 0.0
+    },
+    {
+      "from": 72.36,
+      "to": 73.98,
+      "sid": 32,
+      "location": 2,
+      "content": "但是你得稍微的洗一下",
+      "music": 0.0
+    },
+    {
+      "from": 73.98,
+      "to": 75.08,
+      "sid": 33,
+      "location": 2,
+      "content": "不太咸就行",
+      "music": 0.0
+    },
+    {
+      "from": 75.08,
+      "to": 77.4,
+      "sid": 34,
+      "location": 2,
+      "content": "吃的时候它多了一层复合味",
+      "music": 0.0
+    },
+    {
+      "from": 77.4,
+      "to": 80.49,
+      "sid": 35,
+      "location": 2,
+      "content": "鲜味来源主要就是这个虾膏",
+      "music": 0.0
+    },
+    {
+      "from": 80.49,
+      "to": 81.97,
+      "sid": 36,
+      "location": 2,
+      "content": "不能这样理解吗",
+      "music": 0.0
+    },
+    {
+      "from": 83.09,
+      "to": 84.77,
+      "sid": 37,
+      "location": 2,
+      "content": "你再放微信",
+      "music": 0.0
+    },
+    {
+      "from": 85.71,
+      "to": 89.26,
+      "sid": 38,
+      "location": 2,
+      "content": "葱姜小料",
+      "music": 0.0
+    },
+    {
+      "from": 89.26,
+      "to": 90.44,
+      "sid": 39,
+      "location": 2,
+      "content": "花生碎",
+      "music": 0.0
+    },
+    {
+      "from": 90.44,
+      "to": 91.78,
+      "sid": 40,
+      "location": 2,
+      "content": "豆瓣酱",
+      "music": 0.0
+    },
+    {
+      "from": 91.78,
+      "to": 93.84,
+      "sid": 41,
+      "location": 2,
+      "content": "辣椒芝麻蒜末",
+      "music": 0.0
+    },
+    {
+      "from": 93.84,
+      "to": 95.42,
+      "sid": 42,
+      "location": 2,
+      "content": "咱们是放两次蒜",
+      "music": 0.0
+    },
+    {
+      "from": 95.42,
+      "to": 97.24,
+      "sid": 43,
+      "location": 2,
+      "content": "你们看就行了吗",
+      "music": 0.0
+    },
+    {
+      "from": 97.24,
+      "to": 97.78,
+      "sid": 44,
+      "location": 2,
+      "content": "开始吧",
+      "music": 0.0
+    },
+    {
+      "from": 97.78,
+      "to": 98.04,
+      "sid": 45,
+      "location": 2,
+      "content": "好",
+      "music": 0.0
+    },
+    {
+      "from": 98.04,
+      "to": 98.68,
+      "sid": 46,
+      "location": 2,
+      "content": "先热锅",
+      "music": 0.0
+    },
+    {
+      "from": 98.68,
+      "to": 100.74,
+      "sid": 47,
+      "location": 2,
+      "content": "芝麻要炒一下",
+      "music": 0.0
+    },
+    {
+      "from": 101.41,
+      "to": 103.17,
+      "sid": 48,
+      "location": 2,
+      "content": "芝麻要炒的那种焦黄色",
+      "music": 0.0
+    },
+    {
+      "from": 103.17,
+      "to": 103.99,
+      "sid": 49,
+      "location": 2,
+      "content": "它才能香",
+      "music": 0.0
+    },
+    {
+      "from": 103.99,
+      "to": 105.99,
+      "sid": 50,
+      "location": 2,
+      "content": "我闻见香味",
+      "music": 0.0
+    },
+    {
+      "from": 106.67,
+      "to": 109.33,
+      "sid": 51,
+      "location": 2,
+      "content": "这个其实跟榨油是一个道理",
+      "music": 0.0
+    },
+    {
+      "from": 109.33,
+      "to": 110.93,
+      "sid": 52,
+      "location": 2,
+      "content": "炒香了之后再榨油",
+      "music": 0.0
+    },
+    {
+      "from": 110.93,
+      "to": 113.15,
+      "sid": 53,
+      "location": 2,
+      "content": "他就特别有那种焦香",
+      "music": 0.0
+    },
+    {
+      "from": 113.15,
+      "to": 116.14,
+      "sid": 54,
+      "location": 2,
+      "content": "就特别好吃好了",
+      "music": 0.0
+    },
+    {
+      "from": 119.7,
+      "to": 122.79,
+      "sid": 55,
+      "location": 2,
+      "content": "加入食用油行了",
+      "music": 0.0
+    },
+    {
+      "from": 122.79,
+      "to": 123.59,
+      "sid": 56,
+      "location": 2,
+      "content": "油差不多了",
+      "music": 0.0
+    },
+    {
+      "from": 123.59,
+      "to": 127.09,
+      "sid": 57,
+      "location": 2,
+      "content": "加入葱姜花椒大料",
+      "music": 0.0
+    },
+    {
+      "from": 128.36,
+      "to": 129.72,
+      "sid": 58,
+      "location": 2,
+      "content": "撒了好多芝麻呀",
+      "music": 0.0
+    },
+    {
+      "from": 133.64,
+      "to": 136.26,
+      "sid": 59,
+      "location": 2,
+      "content": "倍儿香灶也不错",
+      "music": 0.0
+    },
+    {
+      "from": 136.26,
+      "to": 138.9,
+      "sid": 60,
+      "location": 2,
+      "content": "人那小眼小蓝火苗嗖嗖嗖",
+      "music": 0.0
+    },
+    {
+      "from": 138.9,
+      "to": 140.22,
+      "sid": 61,
+      "location": 2,
+      "content": "倍冲",
+      "music": 0.0
+    },
+    {
+      "from": 141.339,
+      "to": 142.979,
+      "sid": 62,
+      "location": 2,
+      "content": "一根红火苗都没有",
+      "music": 0.0
+    },
+    {
+      "from": 142.979,
+      "to": 144.939,
+      "sid": 63,
+      "location": 2,
+      "content": "下次让咱投一个造的上单",
+      "music": 0.0
+    },
+    {
+      "from": 147.939,
+      "to": 148.739,
+      "sid": 64,
+      "location": 2,
+      "content": "好就是好",
+      "music": 0.0
+    },
+    {
+      "from": 148.739,
+      "to": 150.88,
+      "sid": 65,
+      "location": 2,
+      "content": "真的其实还得分谁用",
+      "music": 0.0
+    },
+    {
+      "from": 150.88,
+      "to": 151.72,
+      "sid": 66,
+      "location": 2,
+      "content": "你说",
+      "music": 0.0
+    },
+    {
+      "from": 155.12,
+      "to": 158.08,
+      "sid": 67,
+      "location": 2,
+      "content": "把把炸好的葱呢捞一下",
+      "music": 0.0
+    },
+    {
+      "from": 159.9,
+      "to": 162.58,
+      "sid": 68,
+      "location": 2,
+      "content": "这会儿呢我们要炸这个蒜片",
+      "music": 0.0
+    },
+    {
+      "from": 162.58,
+      "to": 164.34,
+      "sid": 69,
+      "location": 2,
+      "content": "关小火了啊",
+      "music": 0.0
+    },
+    {
+      "from": 165.25,
+      "to": 166.53,
+      "sid": 70,
+      "location": 2,
+      "content": "小火慢慢煮",
+      "music": 0.0
+    },
+    {
+      "from": 166.53,
+      "to": 169.73,
+      "sid": 71,
+      "location": 2,
+      "content": "炸是为了让它更酥",
+      "music": 0.0
+    },
+    {
+      "from": 174.18,
+      "to": 175.82,
+      "sid": 72,
+      "location": 2,
+      "content": "可以吧",
+      "music": 0.0
+    },
+    {
+      "from": 179.38,
+      "to": 180.86,
+      "sid": 73,
+      "location": 2,
+      "content": "加入蒜蓉",
+      "music": 0.0
+    },
+    {
+      "from": 180.86,
+      "to": 182.18,
+      "sid": 74,
+      "location": 2,
+      "content": "蒜蓉是洗过的吗",
+      "music": 0.0
+    },
+    {
+      "from": 182.18,
+      "to": 184.78,
+      "sid": 75,
+      "location": 2,
+      "content": "洗过的洗过的蒜蓉啊",
+      "music": 0.0
+    },
+    {
+      "from": 186.22,
+      "to": 189.7,
+      "sid": 76,
+      "location": 2,
+      "content": "花生碎倒进去跟蒜一块炸",
+      "music": 0.0
+    },
+    {
+      "from": 191.92,
+      "to": 194.0,
+      "sid": 77,
+      "location": 2,
+      "content": "不停的翻着它",
+      "music": 0.0
+    },
+    {
+      "from": 194.0,
+      "to": 196.32,
+      "sid": 78,
+      "location": 2,
+      "content": "防止这个蒜糊底",
+      "music": 0.0
+    },
+    {
+      "from": 199.38,
+      "to": 200.18,
+      "sid": 79,
+      "location": 2,
+      "content": "可以了",
+      "music": 0.0
+    },
+    {
+      "from": 200.18,
+      "to": 200.92,
+      "sid": 80,
+      "location": 2,
+      "content": "金黄色",
+      "music": 0.0
+    },
+    {
+      "from": 200.92,
+      "to": 203.44,
+      "sid": 81,
+      "location": 2,
+      "content": "然后把芝麻倒进去",
+      "music": 0.0
+    },
+    {
+      "from": 203.44,
+      "to": 206.22,
+      "sid": 82,
+      "location": 2,
+      "content": "辣椒面倒进去",
+      "music": 0.0
+    },
+    {
+      "from": 209.66,
+      "to": 211.06,
+      "sid": 83,
+      "location": 2,
+      "content": "然后把豆瓣酱倒进去",
+      "music": 0.0
+    },
+    {
+      "from": 213.5,
+      "to": 215.81,
+      "sid": 84,
+      "location": 2,
+      "content": "这步是挺关键的",
+      "music": 0.0
+    },
+    {
+      "from": 215.81,
+      "to": 217.97,
+      "sid": 85,
+      "location": 2,
+      "content": "这个辣椒片高油温过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 217.97,
+      "to": 220.81,
+      "sid": 86,
+      "location": 2,
+      "content": "会吸收豆瓣酱渗出的那些水分",
+      "music": 0.0
+    },
+    {
+      "from": 220.81,
+      "to": 222.37,
+      "sid": 87,
+      "location": 2,
+      "content": "炸出那个豆瓣酱的香味来",
+      "music": 0.0
+    },
+    {
+      "from": 222.37,
+      "to": 225.45,
+      "sid": 88,
+      "location": 2,
+      "content": "下干好嘞",
+      "music": 0.0
+    },
+    {
+      "from": 225.97,
+      "to": 227.87,
+      "sid": 89,
+      "location": 2,
+      "content": "这会儿啊你闻一下",
+      "music": 0.0
+    },
+    {
+      "from": 227.87,
+      "to": 230.61,
+      "sid": 90,
+      "location": 2,
+      "content": "咱们就可以闻到豆瓣酱的香味了",
+      "music": 0.0
+    },
+    {
+      "from": 230.61,
+      "to": 231.41,
+      "sid": 91,
+      "location": 2,
+      "content": "有了吧",
+      "music": 0.0
+    },
+    {
+      "from": 231.41,
+      "to": 232.91,
+      "sid": 92,
+      "location": 2,
+      "content": "有了有了之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 232.91,
+      "to": 236.07,
+      "sid": 93,
+      "location": 2,
+      "content": "这个辣椒片呢它也会慢慢的脱去水分",
+      "music": 0.0
+    },
+    {
+      "from": 236.07,
+      "to": 237.77,
+      "sid": 94,
+      "location": 2,
+      "content": "这会儿我们要加点生抽",
+      "music": 0.0
+    },
+    {
+      "from": 237.77,
+      "to": 242.25,
+      "sid": 95,
+      "location": 2,
+      "content": "大火加进去的生抽会被炸干了的",
+      "music": 0.0
+    },
+    {
+      "from": 242.25,
+      "to": 244.09,
+      "sid": 96,
+      "location": 2,
+      "content": "辣椒片全部都吸进去",
+      "music": 0.0
+    },
+    {
+      "from": 244.09,
+      "to": 245.69,
+      "sid": 97,
+      "location": 2,
+      "content": "它的水汽再熬出去",
+      "music": 0.0
+    },
+    {
+      "from": 245.69,
+      "to": 248.01,
+      "sid": 98,
+      "location": 2,
+      "content": "这个辣椒片会更香",
+      "music": 0.0
+    },
+    {
+      "from": 249.9,
+      "to": 253.18,
+      "sid": 99,
+      "location": 2,
+      "content": "关小火尝一下咸淡味啊",
+      "music": 0.0
+    },
+    {
+      "from": 261.399,
+      "to": 264.959,
+      "sid": 100,
+      "location": 2,
+      "content": "这得慢慢慢慢炸个",
+      "music": 0.0
+    },
+    {
+      "from": 264.959,
+      "to": 266.159,
+      "sid": 101,
+      "location": 2,
+      "content": "大约得有个45分钟",
+      "music": 0.0
+    },
+    {
+      "from": 266.159,
+      "to": 269.349,
+      "sid": 102,
+      "location": 2,
+      "content": "得让那水分慢慢全部都搓干",
+      "music": 0.0
+    },
+    {
+      "from": 269.349,
+      "to": 271.449,
+      "sid": 103,
+      "location": 2,
+      "content": "然后到最后稍微一凉的时候",
+      "music": 0.0
+    },
+    {
+      "from": 271.449,
+      "to": 273.329,
+      "sid": 104,
+      "location": 2,
+      "content": "吃那个辣椒都是酥的",
+      "music": 0.0
+    },
+    {
+      "from": 273.329,
+      "to": 274.349,
+      "sid": 105,
+      "location": 2,
+      "content": "一不留神",
+      "music": 0.0
+    },
+    {
+      "from": 274.349,
+      "to": 275.86,
+      "sid": 106,
+      "location": 2,
+      "content": "这锅扎多了",
+      "music": 0.0
+    },
+    {
+      "from": 275.86,
+      "to": 277.98,
+      "sid": 107,
+      "location": 2,
+      "content": "剩不下",
+      "music": 0.0
+    },
+    {
+      "from": 278.45,
+      "to": 281.79,
+      "sid": 108,
+      "location": 2,
+      "content": "你不相信我",
+      "music": 0.0
+    },
+    {
+      "from": 281.79,
+      "to": 284.25,
+      "sid": 109,
+      "location": 2,
+      "content": "蒜片倒进去",
+      "music": 0.0
+    },
+    {
+      "from": 285.78,
+      "to": 289.2,
+      "sid": 110,
+      "location": 2,
+      "content": "2克味精确实加上两颗",
+      "music": 0.0
+    },
+    {
+      "from": 289.2,
+      "to": 290.48,
+      "sid": 111,
+      "location": 2,
+      "content": "绝对味不一样",
+      "music": 0.0
+    },
+    {
+      "from": 290.48,
+      "to": 291.82,
+      "sid": 112,
+      "location": 2,
+      "content": "好出锅了啊",
+      "music": 0.0
+    },
+    {
+      "from": 291.82,
+      "to": 293.26,
+      "sid": 113,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 294.66,
+      "to": 296.26,
+      "sid": 114,
+      "location": 2,
+      "content": "准备馒头",
+      "music": 0.0
+    },
+    {
+      "from": 302.12,
+      "to": 303.1,
+      "sid": 115,
+      "location": 2,
+      "content": "馋死我了",
+      "music": 0.0
+    },
+    {
+      "from": 303.1,
+      "to": 305.52,
+      "sid": 116,
+      "location": 2,
+      "content": "弟弟带着筷子来了呀",
+      "music": 0.0
+    },
+    {
+      "from": 305.52,
+      "to": 306.94,
+      "sid": 117,
+      "location": 2,
+      "content": "这个辣椒怎么吃呢",
+      "music": 0.0
+    },
+    {
+      "from": 306.94,
+      "to": 309.08,
+      "sid": 118,
+      "location": 2,
+      "content": "第一种加馒头",
+      "music": 0.0
+    },
+    {
+      "from": 312.9,
+      "to": 316.22,
+      "sid": 119,
+      "location": 2,
+      "content": "哎呀第二种拌面条",
+      "music": 0.0
+    },
+    {
+      "from": 324.24,
+      "to": 325.57,
+      "sid": 120,
+      "location": 2,
+      "content": "这个面条超好吃了",
+      "music": 0.0
+    },
+    {
+      "from": 325.57,
+      "to": 329.73,
+      "sid": 121,
+      "location": 2,
+      "content": "第三个就是我们在重庆吃的那个原版毛肚",
+      "music": 0.0
+    },
+    {
+      "from": 329.73,
+      "to": 332.13,
+      "sid": 122,
+      "location": 2,
+      "content": "焯个水直接往上一拌",
+      "music": 0.0
+    },
+    {
+      "from": 334.98,
+      "to": 336.68,
+      "sid": 123,
+      "location": 2,
+      "content": "嘶很下巴",
+      "music": 0.0
+    },
+    {
+      "from": 336.68,
+      "to": 337.62,
+      "sid": 124,
+      "location": 2,
+      "content": "它已经凉了",
+      "music": 0.0
+    },
+    {
+      "from": 337.62,
+      "to": 339.46,
+      "sid": 125,
+      "location": 2,
+      "content": "但是凉的感觉更好吃",
+      "music": 0.0
+    },
+    {
+      "from": 339.46,
+      "to": 341.38,
+      "sid": 126,
+      "location": 2,
+      "content": "炒菜也能用",
+      "music": 0.0
+    },
+    {
+      "from": 341.38,
+      "to": 342.1,
+      "sid": 127,
+      "location": 2,
+      "content": "切点肉片",
+      "music": 0.0
+    },
+    {
+      "from": 342.1,
+      "to": 343.76,
+      "sid": 128,
+      "location": 2,
+      "content": "芹菜呢蒜搁锅里扒拉",
+      "music": 0.0
+    },
+    {
+      "from": 343.76,
+      "to": 345.789,
+      "sid": 129,
+      "location": 2,
+      "content": "临出锅的时候放了一个辣椒酱",
+      "music": 0.0
+    },
+    {
+      "from": 345.789,
+      "to": 346.629,
+      "sid": 130,
+      "location": 2,
+      "content": "咸淡的多少",
+      "music": 0.0
+    },
+    {
+      "from": 346.629,
+      "to": 347.709,
+      "sid": 131,
+      "location": 2,
+      "content": "不沾酱油就行了啊",
+      "music": 0.0
+    },
+    {
+      "from": 347.709,
+      "to": 348.909,
+      "sid": 132,
+      "location": 2,
+      "content": "咱们去卖吧",
+      "music": 0.0
+    },
+    {
+      "from": 350.209,
+      "to": 352.389,
+      "sid": 133,
+      "location": 2,
+      "content": "每一样东西全部都是酥的",
+      "music": 0.0
+    },
+    {
+      "from": 352.389,
+      "to": 354.309,
+      "sid": 134,
+      "location": 2,
+      "content": "但是它们的香味又不一样",
+      "music": 0.0
+    },
+    {
+      "from": 354.309,
+      "to": 355.109,
+      "sid": 135,
+      "location": 2,
+      "content": "那不太一样",
+      "music": 0.0
+    },
+    {
+      "from": 355.109,
+      "to": 358.79,
+      "sid": 136,
+      "location": 2,
+      "content": "拌加馒头炒那种味道和感觉都不一样",
+      "music": 0.0
+    },
+    {
+      "from": 358.79,
+      "to": 360.97,
+      "sid": 137,
+      "location": 2,
+      "content": "所以这几种香味都还特别搭",
+      "music": 0.0
+    },
+    {
+      "from": 360.97,
+      "to": 362.6,
+      "sid": 138,
+      "location": 2,
+      "content": "咱们真找个工厂去卖吧",
+      "music": 0.0
+    },
+    {
+      "from": 362.6,
+      "to": 364.8,
+      "sid": 139,
+      "location": 2,
+      "content": "我觉得这个咱们肯定能发财了",
+      "music": 0.0
+    },
+    {
+      "from": 364.8,
+      "to": 368.68,
+      "sid": 140,
+      "location": 2,
+      "content": "哥这就是我们的万能辣椒酱",
+      "music": 0.0
+    },
+    {
+      "from": 368.68,
+      "to": 371.34,
+      "sid": 141,
+      "location": 2,
+      "content": "一定试一下这工艺的复杂",
+      "music": 0.0
+    },
+    {
+      "from": 371.34,
+      "to": 372.4,
+      "sid": 142,
+      "location": 2,
+      "content": "但是不繁琐",
+      "music": 0.0
+    },
+    {
+      "from": 372.4,
+      "to": 375.4,
+      "sid": 143,
+      "location": 2,
+      "content": "所有东西下的顺序我都是给你们想过的",
+      "music": 0.0
+    },
+    {
+      "from": 375.4,
+      "to": 376.78,
+      "sid": 144,
+      "location": 2,
+      "content": "再来开去做吧",
+      "music": 0.0
+    },
+    {
+      "from": 376.78,
+      "to": 378.32,
+      "sid": 145,
+      "location": 2,
+      "content": "拜拜拜",
+      "music": 0.0
+    },
+    {
+      "from": 378.32,
+      "to": 380.06,
+      "sid": 146,
+      "location": 2,
+      "content": "好久没做这动作了",
+      "music": 0.0
+    }
+  ]
+}

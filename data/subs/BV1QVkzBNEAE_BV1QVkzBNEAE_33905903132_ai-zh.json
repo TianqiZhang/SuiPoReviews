@@ -1,0 +1,1332 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.82,
+      "sid": 1,
+      "location": 2,
+      "content": "随婆婆菜秋精做饭",
+      "music": 0.0
+    },
+    {
+      "from": 1.82,
+      "to": 3.08,
+      "sid": 2,
+      "location": 2,
+      "content": "各位平平安安",
+      "music": 0.0
+    },
+    {
+      "from": 3.08,
+      "to": 5.28,
+      "sid": 3,
+      "location": 2,
+      "content": "记得按时吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 7.88,
+      "to": 9.0,
+      "sid": 4,
+      "location": 2,
+      "content": "唱的真准不对",
+      "music": 0.0
+    },
+    {
+      "from": 9.0,
+      "to": 10.44,
+      "sid": 5,
+      "location": 2,
+      "content": "没有人哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 10.44,
+      "to": 13.2,
+      "sid": 6,
+      "location": 2,
+      "content": "雷老师人参菜单罗汉大虾",
+      "music": 0.0
+    },
+    {
+      "from": 13.2,
+      "to": 14.99,
+      "sid": 7,
+      "location": 2,
+      "content": "他说我做",
+      "music": 0.2363636148760345
+    },
+    {
+      "from": 14.99,
+      "to": 16.93,
+      "sid": 8,
+      "location": 2,
+      "content": "首先呢先剁点猪肥膘",
+      "music": 0.0
+    },
+    {
+      "from": 16.93,
+      "to": 20.96,
+      "sid": 9,
+      "location": 2,
+      "content": "猪通脊下边那块剁得越细",
+      "music": 0.0
+    },
+    {
+      "from": 20.96,
+      "to": 23.7,
+      "sid": 10,
+      "location": 2,
+      "content": "一会跟那个虾泥拌的时候越滋润",
+      "music": 0.0
+    },
+    {
+      "from": 24.14,
+      "to": 24.979,
+      "sid": 11,
+      "location": 2,
+      "content": "可以了",
+      "music": 0.0
+    },
+    {
+      "from": 24.979,
+      "to": 27.659,
+      "sid": 12,
+      "location": 2,
+      "content": "这就是猪肥膘尼简称",
+      "music": 0.0
+    },
+    {
+      "from": 27.659,
+      "to": 30.259,
+      "sid": 13,
+      "location": 2,
+      "content": "祝你生日快乐",
+      "music": 0.0
+    },
+    {
+      "from": 30.259,
+      "to": 31.619,
+      "sid": 14,
+      "location": 2,
+      "content": "这个这个梗一般啊",
+      "music": 0.0
+    },
+    {
+      "from": 31.619,
+      "to": 33.1,
+      "sid": 15,
+      "location": 2,
+      "content": "这个梗一般哈哈哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 33.1,
+      "to": 34.98,
+      "sid": 16,
+      "location": 2,
+      "content": "你身材其实特别的标准",
+      "music": 0.0
+    },
+    {
+      "from": 34.98,
+      "to": 36.7,
+      "sid": 17,
+      "location": 2,
+      "content": "但是让这衣服给你衬托的哎",
+      "music": 0.0
+    },
+    {
+      "from": 36.7,
+      "to": 38.84,
+      "sid": 18,
+      "location": 2,
+      "content": "遗憾青虾仁开背啊",
+      "music": 0.0
+    },
+    {
+      "from": 38.84,
+      "to": 40.22,
+      "sid": 19,
+      "location": 2,
+      "content": "去虾线",
+      "music": 0.0
+    },
+    {
+      "from": 40.65,
+      "to": 41.77,
+      "sid": 20,
+      "location": 2,
+      "content": "葱姜水给它泡一下",
+      "music": 0.0
+    },
+    {
+      "from": 41.77,
+      "to": 42.59,
+      "sid": 21,
+      "location": 2,
+      "content": "去下腥味",
+      "music": 0.0
+    },
+    {
+      "from": 42.59,
+      "to": 45.05,
+      "sid": 22,
+      "location": 2,
+      "content": "然后找一个布把洗干净洗一下",
+      "music": 0.0
+    },
+    {
+      "from": 45.05,
+      "to": 45.93,
+      "sid": 23,
+      "location": 2,
+      "content": "然后再给它蒜呗",
+      "music": 0.0
+    },
+    {
+      "from": 45.93,
+      "to": 48.05,
+      "sid": 24,
+      "location": 2,
+      "content": "要不然感觉这个有点脏了",
+      "music": 0.0
+    },
+    {
+      "from": 48.05,
+      "to": 50.2,
+      "sid": 25,
+      "location": 2,
+      "content": "很腥的嗯",
+      "music": 0.0
+    },
+    {
+      "from": 50.2,
+      "to": 51.5,
+      "sid": 26,
+      "location": 2,
+      "content": "两个虾不能摞在一起",
+      "music": 0.0
+    },
+    {
+      "from": 51.5,
+      "to": 52.18,
+      "sid": 27,
+      "location": 2,
+      "content": "给它铺平",
+      "music": 0.0
+    },
+    {
+      "from": 52.18,
+      "to": 53.68,
+      "sid": 28,
+      "location": 2,
+      "content": "在这铺垫哦",
+      "music": 0.0
+    },
+    {
+      "from": 53.68,
+      "to": 54.74,
+      "sid": 29,
+      "location": 2,
+      "content": "这不能偷懒",
+      "music": 0.0
+    },
+    {
+      "from": 54.74,
+      "to": 56.38,
+      "sid": 30,
+      "location": 2,
+      "content": "还手撕",
+      "music": 0.0
+    },
+    {
+      "from": 57.389,
+      "to": 60.44,
+      "sid": 31,
+      "location": 2,
+      "content": "发粘了就证明水分吸差不多了",
+      "music": 0.0
+    },
+    {
+      "from": 60.5,
+      "to": 62.68,
+      "sid": 32,
+      "location": 2,
+      "content": "不错行吗",
+      "music": 0.0
+    },
+    {
+      "from": 62.68,
+      "to": 64.06,
+      "sid": 33,
+      "location": 2,
+      "content": "可以有料理机的话",
+      "music": 0.0
+    },
+    {
+      "from": 64.06,
+      "to": 68.7,
+      "sid": 34,
+      "location": 2,
+      "content": "直接可以使料理机有有有",
+      "music": 0.0
+    },
+    {
+      "from": 68.7,
+      "to": 70.16,
+      "sid": 35,
+      "location": 2,
+      "content": "但我非不用",
+      "music": 0.0
+    },
+    {
+      "from": 77.26,
+      "to": 78.96,
+      "sid": 36,
+      "location": 2,
+      "content": "把除非不给进去",
+      "music": 0.0
+    },
+    {
+      "from": 78.96,
+      "to": 80.98,
+      "sid": 37,
+      "location": 2,
+      "content": "快慢结合",
+      "music": 0.0
+    },
+    {
+      "from": 82.3,
+      "to": 86.44,
+      "sid": 38,
+      "location": 2,
+      "content": "让里边的虾线它得转起来行可以了",
+      "music": 0.0
+    },
+    {
+      "from": 86.44,
+      "to": 88.0,
+      "sid": 39,
+      "location": 2,
+      "content": "打好的虾泥对",
+      "music": 0.0
+    },
+    {
+      "from": 88.0,
+      "to": 89.48,
+      "sid": 40,
+      "location": 2,
+      "content": "加点姜水盐",
+      "music": 0.0
+    },
+    {
+      "from": 89.48,
+      "to": 90.14,
+      "sid": 41,
+      "location": 2,
+      "content": "然后味精",
+      "music": 0.0
+    },
+    {
+      "from": 90.14,
+      "to": 90.76,
+      "sid": 42,
+      "location": 2,
+      "content": "胡椒粉",
+      "music": 0.0
+    },
+    {
+      "from": 90.76,
+      "to": 91.84,
+      "sid": 43,
+      "location": 2,
+      "content": "凉豆酒",
+      "music": 0.0
+    },
+    {
+      "from": 91.84,
+      "to": 92.4,
+      "sid": 44,
+      "location": 2,
+      "content": "盐",
+      "music": 0.0
+    },
+    {
+      "from": 92.4,
+      "to": 94.84,
+      "sid": 45,
+      "location": 2,
+      "content": "淀粉够了",
+      "music": 0.0
+    },
+    {
+      "from": 95.31,
+      "to": 96.63,
+      "sid": 46,
+      "location": 2,
+      "content": "香油来两滴哦",
+      "music": 0.0
+    },
+    {
+      "from": 96.63,
+      "to": 97.45,
+      "sid": 47,
+      "location": 2,
+      "content": "哦多了啊",
+      "music": 0.0
+    },
+    {
+      "from": 97.45,
+      "to": 99.97,
+      "sid": 48,
+      "location": 2,
+      "content": "多了什么饺子馅对",
+      "music": 0.0
+    },
+    {
+      "from": 99.97,
+      "to": 101.85,
+      "sid": 49,
+      "location": 2,
+      "content": "搅完之后放到冰箱里边震一下",
+      "music": 0.0
+    },
+    {
+      "from": 101.85,
+      "to": 102.93,
+      "sid": 50,
+      "location": 2,
+      "content": "胶质感会更好一点",
+      "music": 0.0
+    },
+    {
+      "from": 102.93,
+      "to": 106.12,
+      "sid": 51,
+      "location": 2,
+      "content": "接下来处理大虾虾呢要选这种个头大的",
+      "music": 0.0
+    },
+    {
+      "from": 106.12,
+      "to": 107.48,
+      "sid": 52,
+      "location": 2,
+      "content": "六头一两多",
+      "music": 0.0
+    },
+    {
+      "from": 107.48,
+      "to": 108.68,
+      "sid": 53,
+      "location": 2,
+      "content": "一只60克左右",
+      "music": 0.0
+    },
+    {
+      "from": 108.68,
+      "to": 110.87,
+      "sid": 54,
+      "location": 2,
+      "content": "虾腔角料呢便于挑沙包",
+      "music": 0.0
+    },
+    {
+      "from": 110.87,
+      "to": 114.19,
+      "sid": 55,
+      "location": 2,
+      "content": "开虾背呢是为了纱线给它炒出来来",
+      "music": 0.0
+    },
+    {
+      "from": 114.19,
+      "to": 116.58,
+      "sid": 56,
+      "location": 2,
+      "content": "我们处理好的虾给它洗一下",
+      "music": 0.0
+    },
+    {
+      "from": 116.58,
+      "to": 118.28,
+      "sid": 57,
+      "location": 2,
+      "content": "我这滚筒洗衣机",
+      "music": 0.0
+    },
+    {
+      "from": 119.62,
+      "to": 120.94,
+      "sid": 58,
+      "location": 2,
+      "content": "这个这个梗一般啊",
+      "music": 0.0
+    },
+    {
+      "from": 121.96,
+      "to": 123.84,
+      "sid": 59,
+      "location": 2,
+      "content": "后边不要留太大费虾馅儿",
+      "music": 0.0
+    },
+    {
+      "from": 123.84,
+      "to": 125.46,
+      "sid": 60,
+      "location": 2,
+      "content": "就在第三节前面就行",
+      "music": 0.0
+    },
+    {
+      "from": 125.46,
+      "to": 126.6,
+      "sid": 61,
+      "location": 2,
+      "content": "挺好的不错",
+      "music": 0.0
+    },
+    {
+      "from": 126.6,
+      "to": 127.52,
+      "sid": 62,
+      "location": 2,
+      "content": "非常好",
+      "music": 0.0
+    },
+    {
+      "from": 127.52,
+      "to": 130.69,
+      "sid": 63,
+      "location": 2,
+      "content": "罗汉大虾为什么它它是骨呀",
+      "music": 0.0
+    },
+    {
+      "from": 130.69,
+      "to": 132.78,
+      "sid": 64,
+      "location": 2,
+      "content": "然后把虾头拿出来",
+      "music": 0.0
+    },
+    {
+      "from": 133.06,
+      "to": 135.96,
+      "sid": 65,
+      "location": 2,
+      "content": "还有一个好剥虾皮",
+      "music": 0.0
+    },
+    {
+      "from": 135.96,
+      "to": 136.66,
+      "sid": 66,
+      "location": 2,
+      "content": "剥虾皮",
+      "music": 0.0
+    },
+    {
+      "from": 136.66,
+      "to": 138.82,
+      "sid": 67,
+      "location": 2,
+      "content": "OK留尾巴",
+      "music": 0.0
+    },
+    {
+      "from": 144.6,
+      "to": 145.38,
+      "sid": 68,
+      "location": 2,
+      "content": "扎手了吧",
+      "music": 0.0
+    },
+    {
+      "from": 145.38,
+      "to": 145.84,
+      "sid": 69,
+      "location": 2,
+      "content": "没事",
+      "music": 0.0
+    },
+    {
+      "from": 145.84,
+      "to": 147.81,
+      "sid": 70,
+      "location": 2,
+      "content": "反正我不疼",
+      "music": 0.0
+    },
+    {
+      "from": 148.37,
+      "to": 149.17,
+      "sid": 71,
+      "location": 2,
+      "content": "你别说话",
+      "music": 0.0
+    },
+    {
+      "from": 149.17,
+      "to": 149.81,
+      "sid": 72,
+      "location": 2,
+      "content": "别人也不知道",
+      "music": 0.0
+    },
+    {
+      "from": 151.769,
+      "to": 153.109,
+      "sid": 73,
+      "location": 2,
+      "content": "可想而知了",
+      "music": 0.0
+    },
+    {
+      "from": 153.109,
+      "to": 154.729,
+      "sid": 74,
+      "location": 2,
+      "content": "我今天干了30只",
+      "music": 0.0
+    },
+    {
+      "from": 154.729,
+      "to": 156.929,
+      "sid": 75,
+      "location": 2,
+      "content": "我干这几只我都满头大汗了",
+      "music": 0.0
+    },
+    {
+      "from": 156.929,
+      "to": 158.089,
+      "sid": 76,
+      "location": 2,
+      "content": "你应该叫我一声",
+      "music": 0.0
+    },
+    {
+      "from": 158.089,
+      "to": 159.089,
+      "sid": 77,
+      "location": 2,
+      "content": "我来给你当帮厨",
+      "music": 0.0
+    },
+    {
+      "from": 159.089,
+      "to": 159.94,
+      "sid": 78,
+      "location": 2,
+      "content": "诶",
+      "music": 0.0
+    },
+    {
+      "from": 159.94,
+      "to": 161.5,
+      "sid": 79,
+      "location": 2,
+      "content": "还没提这个事儿似的",
+      "music": 0.0
+    },
+    {
+      "from": 161.5,
+      "to": 162.94,
+      "sid": 80,
+      "location": 2,
+      "content": "其实我干活跟师傅一样",
+      "music": 0.0
+    },
+    {
+      "from": 162.94,
+      "to": 165.76,
+      "sid": 81,
+      "location": 2,
+      "content": "不喜欢麻烦别人啊",
+      "music": 0.0
+    },
+    {
+      "from": 168.88,
+      "to": 171.92,
+      "sid": 82,
+      "location": 2,
+      "content": "开背打开展筋",
+      "music": 0.0
+    },
+    {
+      "from": 173.96,
+      "to": 175.13,
+      "sid": 83,
+      "location": 2,
+      "content": "对哎呀",
+      "music": 0.0
+    },
+    {
+      "from": 175.13,
+      "to": 176.45,
+      "sid": 84,
+      "location": 2,
+      "content": "好聪明行吗",
+      "music": 0.0
+    },
+    {
+      "from": 176.45,
+      "to": 178.33,
+      "sid": 85,
+      "location": 2,
+      "content": "这样这菜麻烦不麻烦",
+      "music": 0.0
+    },
+    {
+      "from": 178.33,
+      "to": 179.35,
+      "sid": 86,
+      "location": 2,
+      "content": "肯定麻烦",
+      "music": 0.0
+    },
+    {
+      "from": 179.35,
+      "to": 184.075,
+      "sid": 87,
+      "location": 2,
+      "content": "但是有些钱就得别人给哈哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 184.459,
+      "to": 186.919,
+      "sid": 88,
+      "location": 2,
+      "content": "对虾肉稍微给点盐",
+      "music": 0.0
+    },
+    {
+      "from": 186.919,
+      "to": 189.359,
+      "sid": 89,
+      "location": 2,
+      "content": "葱姜水轻轻抓",
+      "music": 0.0
+    },
+    {
+      "from": 189.359,
+      "to": 195.62,
+      "sid": 90,
+      "location": 2,
+      "content": "让每一片虾肉上都沾上盐和葱姜和水",
+      "music": 0.0
+    },
+    {
+      "from": 197.6,
+      "to": 201.12,
+      "sid": 91,
+      "location": 2,
+      "content": "这菜啊值得用这么多厨房纸",
+      "music": 0.0
+    },
+    {
+      "from": 202.18,
+      "to": 203.58,
+      "sid": 92,
+      "location": 2,
+      "content": "每个上面撒淀粉",
+      "music": 0.0
+    },
+    {
+      "from": 203.58,
+      "to": 204.94,
+      "sid": 93,
+      "location": 2,
+      "content": "要让他拍上一层",
+      "music": 0.0
+    },
+    {
+      "from": 204.94,
+      "to": 208.93,
+      "sid": 94,
+      "location": 2,
+      "content": "这个用勺还真不行",
+      "music": 0.0
+    },
+    {
+      "from": 208.93,
+      "to": 211.75,
+      "sid": 95,
+      "location": 2,
+      "content": "这个虾泥要摔打一下",
+      "music": 0.0
+    },
+    {
+      "from": 211.75,
+      "to": 214.37,
+      "sid": 96,
+      "location": 2,
+      "content": "擦了个手回来随老师干上活了",
+      "music": 0.0
+    },
+    {
+      "from": 215.17,
+      "to": 218.81,
+      "sid": 97,
+      "location": 2,
+      "content": "然后嗯嗯提一下",
+      "music": 0.0
+    },
+    {
+      "from": 218.81,
+      "to": 222.1,
+      "sid": 98,
+      "location": 2,
+      "content": "这就这活就拦不住",
+      "music": 0.0
+    },
+    {
+      "from": 222.1,
+      "to": 222.9,
+      "sid": 99,
+      "location": 2,
+      "content": "就就得圆",
+      "music": 0.0
+    },
+    {
+      "from": 222.9,
+      "to": 225.14,
+      "sid": 100,
+      "location": 2,
+      "content": "其实呢如果剩个一星半点",
+      "music": 0.0
+    },
+    {
+      "from": 225.14,
+      "to": 226.6,
+      "sid": 101,
+      "location": 2,
+      "content": "就是每一个匀一下",
+      "music": 0.0
+    },
+    {
+      "from": 226.6,
+      "to": 227.24,
+      "sid": 102,
+      "location": 2,
+      "content": "什么意思",
+      "music": 0.0
+    },
+    {
+      "from": 227.24,
+      "to": 228.92,
+      "sid": 103,
+      "location": 2,
+      "content": "就基本上你就不剩哦",
+      "music": 0.0
+    },
+    {
+      "from": 228.92,
+      "to": 232.56,
+      "sid": 104,
+      "location": 2,
+      "content": "明白这就是师傅教我的干活手法啊",
+      "music": 0.0
+    },
+    {
+      "from": 232.56,
+      "to": 234.07,
+      "sid": 105,
+      "location": 2,
+      "content": "给他塑形行了",
+      "music": 0.0
+    },
+    {
+      "from": 234.07,
+      "to": 237.47,
+      "sid": 106,
+      "location": 2,
+      "content": "洗手干一定要少上带水菜",
+      "music": 0.0
+    },
+    {
+      "from": 237.85,
+      "to": 239.65,
+      "sid": 107,
+      "location": 2,
+      "content": "蘸黑芝麻",
+      "music": 0.0
+    },
+    {
+      "from": 240.22,
+      "to": 241.42,
+      "sid": 108,
+      "location": 2,
+      "content": "罗汉揭发吗",
+      "music": 0.0
+    },
+    {
+      "from": 241.42,
+      "to": 242.52,
+      "sid": 109,
+      "location": 2,
+      "content": "这是罗汉肚脐眼",
+      "music": 0.0
+    },
+    {
+      "from": 242.52,
+      "to": 243.98,
+      "sid": 110,
+      "location": 2,
+      "content": "你给隋老师气笑了",
+      "music": 0.0
+    },
+    {
+      "from": 249.1,
+      "to": 251.78,
+      "sid": 111,
+      "location": 2,
+      "content": "哎呀30个我怎么断开了",
+      "music": 0.0
+    },
+    {
+      "from": 253.34,
+      "to": 253.66,
+      "sid": 112,
+      "location": 2,
+      "content": "阿派",
+      "music": 0.0
+    },
+    {
+      "from": 253.66,
+      "to": 254.74,
+      "sid": 113,
+      "location": 2,
+      "content": "你真给你累坏了",
+      "music": 0.0
+    },
+    {
+      "from": 254.74,
+      "to": 258.55,
+      "sid": 114,
+      "location": 2,
+      "content": "真是这道菜呢是比较体现这工艺的菜",
+      "music": 0.0
+    },
+    {
+      "from": 258.55,
+      "to": 260.67,
+      "sid": 115,
+      "location": 2,
+      "content": "不是老师傅真干不了这活",
+      "music": 0.0
+    },
+    {
+      "from": 262.03,
+      "to": 265.68,
+      "sid": 116,
+      "location": 2,
+      "content": "洗手完之后拍照叫洗手液",
+      "music": 0.0
+    },
+    {
+      "from": 265.68,
+      "to": 267.0,
+      "sid": 117,
+      "location": 2,
+      "content": "这个梗一般啊",
+      "music": 0.0
+    },
+    {
+      "from": 267.0,
+      "to": 269.74,
+      "sid": 118,
+      "location": 2,
+      "content": "炸往下下很多货",
+      "music": 0.0
+    },
+    {
+      "from": 271.88,
+      "to": 274.72,
+      "sid": 119,
+      "location": 2,
+      "content": "可以了下吧",
+      "music": 0.0
+    },
+    {
+      "from": 276.26,
+      "to": 279.54,
+      "sid": 120,
+      "location": 2,
+      "content": "怎么样可以准出击",
+      "music": 0.0
+    },
+    {
+      "from": 280.5,
+      "to": 283.68,
+      "sid": 121,
+      "location": 2,
+      "content": "虾线打的越细就越光滑",
+      "music": 0.0
+    },
+    {
+      "from": 283.68,
+      "to": 285.24,
+      "sid": 122,
+      "location": 2,
+      "content": "所以我们这还不算稀",
+      "music": 0.0
+    },
+    {
+      "from": 285.24,
+      "to": 286.16,
+      "sid": 123,
+      "location": 2,
+      "content": "可以吧",
+      "music": 0.0
+    },
+    {
+      "from": 286.16,
+      "to": 288.6,
+      "sid": 124,
+      "location": 2,
+      "content": "你看他为什么有的弯曲的没弯曲呢",
+      "music": 0.0
+    },
+    {
+      "from": 288.6,
+      "to": 291.52,
+      "sid": 125,
+      "location": 2,
+      "content": "就是虾筋有的打断了就没打断",
+      "music": 0.0
+    },
+    {
+      "from": 293.46,
+      "to": 295.1,
+      "sid": 126,
+      "location": 2,
+      "content": "熟了一",
+      "music": 0.0
+    },
+    {
+      "from": 297.38,
+      "to": 299.1,
+      "sid": 127,
+      "location": 2,
+      "content": "热锅凉油",
+      "music": 0.0
+    },
+    {
+      "from": 300.26,
+      "to": 301.62,
+      "sid": 128,
+      "location": 2,
+      "content": "下入虾头",
+      "music": 0.0
+    },
+    {
+      "from": 303.68,
+      "to": 304.4,
+      "sid": 129,
+      "location": 2,
+      "content": "时不长了",
+      "music": 0.0
+    },
+    {
+      "from": 304.4,
+      "to": 304.92,
+      "sid": 130,
+      "location": 2,
+      "content": "冻一冻虾",
+      "music": 0.0
+    },
+    {
+      "from": 304.92,
+      "to": 307.72,
+      "sid": 131,
+      "location": 2,
+      "content": "让它基本都在这油里边",
+      "music": 0.0
+    },
+    {
+      "from": 310.12,
+      "to": 310.72,
+      "sid": 132,
+      "location": 2,
+      "content": "轻点鸭",
+      "music": 0.0
+    },
+    {
+      "from": 310.72,
+      "to": 311.6,
+      "sid": 133,
+      "location": 2,
+      "content": "别把你头压烂了",
+      "music": 0.0
+    },
+    {
+      "from": 311.6,
+      "to": 314.64,
+      "sid": 134,
+      "location": 2,
+      "content": "就边煎这个葱姜",
+      "music": 0.0
+    },
+    {
+      "from": 314.64,
+      "to": 316.08,
+      "sid": 135,
+      "location": 2,
+      "content": "一边煎虾",
+      "music": 0.0
+    },
+    {
+      "from": 319.76,
+      "to": 322.06,
+      "sid": 136,
+      "location": 2,
+      "content": "因为这个我们这个虾颜色不够",
+      "music": 0.0
+    },
+    {
+      "from": 322.06,
+      "to": 325.04,
+      "sid": 137,
+      "location": 2,
+      "content": "得来点沙丝补色",
+      "music": 0.0
+    },
+    {
+      "from": 327.26,
+      "to": 329.46,
+      "sid": 138,
+      "location": 2,
+      "content": "8年黄酒",
+      "music": 0.0
+    },
+    {
+      "from": 332.16,
+      "to": 333.62,
+      "sid": 139,
+      "location": 2,
+      "content": "很香嗯",
+      "music": 0.0
+    },
+    {
+      "from": 333.62,
+      "to": 334.48,
+      "sid": 140,
+      "location": 2,
+      "content": "这个味就对了",
+      "music": 0.0
+    },
+    {
+      "from": 334.48,
+      "to": 337.049,
+      "sid": 141,
+      "location": 2,
+      "content": "倒水调味",
+      "music": 0.0
+    },
+    {
+      "from": 337.049,
+      "to": 339.269,
+      "sid": 142,
+      "location": 2,
+      "content": "糖盐",
+      "music": 0.0
+    },
+    {
+      "from": 341.56,
+      "to": 342.92,
+      "sid": 143,
+      "location": 2,
+      "content": "行这盖不好",
+      "music": 0.0
+    },
+    {
+      "from": 342.92,
+      "to": 344.12,
+      "sid": 144,
+      "location": 2,
+      "content": "气大了就大火",
+      "music": 0.0
+    },
+    {
+      "from": 344.12,
+      "to": 344.78,
+      "sid": 145,
+      "location": 2,
+      "content": "2分钟",
+      "music": 0.0
+    },
+    {
+      "from": 344.78,
+      "to": 347.26,
+      "sid": 146,
+      "location": 2,
+      "content": "一分钟就行啊",
+      "music": 0.0
+    },
+    {
+      "from": 349.34,
+      "to": 350.58,
+      "sid": 147,
+      "location": 2,
+      "content": "好一个",
+      "music": 0.0
+    },
+    {
+      "from": 350.58,
+      "to": 354.74,
+      "sid": 148,
+      "location": 2,
+      "content": "你看这个这个这个汤汁色是跟虾是一个色",
+      "music": 0.0
+    },
+    {
+      "from": 354.74,
+      "to": 356.02,
+      "sid": 149,
+      "location": 2,
+      "content": "是烫的",
+      "music": 0.0
+    },
+    {
+      "from": 356.02,
+      "to": 357.47,
+      "sid": 150,
+      "location": 2,
+      "content": "真准有病",
+      "music": 0.0
+    },
+    {
+      "from": 357.47,
+      "to": 358.15,
+      "sid": 151,
+      "location": 2,
+      "content": "可以了",
+      "music": 0.0
+    },
+    {
+      "from": 358.15,
+      "to": 359.39,
+      "sid": 152,
+      "location": 2,
+      "content": "虾头单独出啊",
+      "music": 0.0
+    },
+    {
+      "from": 359.39,
+      "to": 361.47,
+      "sid": 153,
+      "location": 2,
+      "content": "这是要过滤的",
+      "music": 0.0
+    },
+    {
+      "from": 362.03,
+      "to": 364.27,
+      "sid": 154,
+      "location": 2,
+      "content": "我们这油焖虾头做好了之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 364.27,
+      "to": 366.27,
+      "sid": 155,
+      "location": 2,
+      "content": "我们要开始给它复炸",
+      "music": 0.0
+    },
+    {
+      "from": 369.0,
+      "to": 372.32,
+      "sid": 156,
+      "location": 2,
+      "content": "微微上色就直接开往出打",
+      "music": 0.0
+    },
+    {
+      "from": 374.1,
+      "to": 375.02,
+      "sid": 157,
+      "location": 2,
+      "content": "装盘了啊",
+      "music": 0.0
+    },
+    {
+      "from": 375.02,
+      "to": 378.13,
+      "sid": 158,
+      "location": 2,
+      "content": "这个时候再把汁儿稍微收浓一点",
+      "music": 0.0
+    },
+    {
+      "from": 378.13,
+      "to": 381.69,
+      "sid": 159,
+      "location": 2,
+      "content": "这个拿走放盘",
+      "music": 0.0
+    },
+    {
+      "from": 384.97,
+      "to": 387.23,
+      "sid": 160,
+      "location": 2,
+      "content": "这菜外面得卖100多块钱一只",
+      "music": 0.0
+    },
+    {
+      "from": 387.23,
+      "to": 389.71,
+      "sid": 161,
+      "location": 2,
+      "content": "第一口必须得粉丝先吃诶",
+      "music": 0.0
+    },
+    {
+      "from": 389.71,
+      "to": 390.21,
+      "sid": 162,
+      "location": 2,
+      "content": "我是粉丝",
+      "music": 0.0
+    },
+    {
+      "from": 390.21,
+      "to": 390.75,
+      "sid": 163,
+      "location": 2,
+      "content": "我先来",
+      "music": 0.0
+    },
+    {
+      "from": 390.75,
+      "to": 393.18,
+      "sid": 164,
+      "location": 2,
+      "content": "你给我起开去去边去来",
+      "music": 0.0
+    },
+    {
+      "from": 393.18,
+      "to": 395.1,
+      "sid": 165,
+      "location": 2,
+      "content": "宝宝来来快快快快吃快吃",
+      "music": 0.0
+    }
+  ]
+}

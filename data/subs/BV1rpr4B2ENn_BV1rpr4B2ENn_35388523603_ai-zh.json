@@ -1,0 +1,588 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 2.0,
+      "to": 3.34,
+      "sid": 1,
+      "location": 2,
+      "content": "所有配菜好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 3.34,
+      "to": 4.04,
+      "sid": 2,
+      "location": 2,
+      "content": "招牌都没有的",
+      "music": 0.0
+    },
+    {
+      "from": 4.04,
+      "to": 4.54,
+      "sid": 3,
+      "location": 2,
+      "content": "小面馆",
+      "music": 0.0
+    },
+    {
+      "from": 4.54,
+      "to": 5.62,
+      "sid": 4,
+      "location": 2,
+      "content": "宏光面馆",
+      "music": 0.0
+    },
+    {
+      "from": 5.62,
+      "to": 6.58,
+      "sid": 5,
+      "location": 2,
+      "content": "87",
+      "music": 0.0
+    },
+    {
+      "from": 6.58,
+      "to": 7.76,
+      "sid": 6,
+      "location": 2,
+      "content": "没有啊",
+      "music": 0.0
+    },
+    {
+      "from": 7.76,
+      "to": 10.49,
+      "sid": 7,
+      "location": 2,
+      "content": "找找你好",
+      "music": 0.0
+    },
+    {
+      "from": 10.49,
+      "to": 11.59,
+      "sid": 8,
+      "location": 2,
+      "content": "我是关注你的",
+      "music": 0.0
+    },
+    {
+      "from": 11.59,
+      "to": 12.89,
+      "sid": 9,
+      "location": 2,
+      "content": "在那前面啊",
+      "music": 0.0
+    },
+    {
+      "from": 12.89,
+      "to": 15.3,
+      "sid": 10,
+      "location": 2,
+      "content": "谢谢好的",
+      "music": 0.0
+    },
+    {
+      "from": 15.9,
+      "to": 17.26,
+      "sid": 11,
+      "location": 2,
+      "content": "真不太好找",
+      "music": 0.0
+    },
+    {
+      "from": 17.26,
+      "to": 18.94,
+      "sid": 12,
+      "location": 2,
+      "content": "吃个面",
+      "music": 0.0
+    },
+    {
+      "from": 22.42,
+      "to": 23.74,
+      "sid": 13,
+      "location": 2,
+      "content": "要不是小哥指路",
+      "music": 0.0
+    },
+    {
+      "from": 23.74,
+      "to": 24.7,
+      "sid": 14,
+      "location": 2,
+      "content": "我们还真找不着",
+      "music": 0.0
+    },
+    {
+      "from": 24.7,
+      "to": 26.38,
+      "sid": 15,
+      "location": 2,
+      "content": "你们看菜单也很简单啊",
+      "music": 0.0
+    },
+    {
+      "from": 26.38,
+      "to": 27.12,
+      "sid": 16,
+      "location": 2,
+      "content": "歪塑胶",
+      "music": 0.0
+    },
+    {
+      "from": 27.12,
+      "to": 29.82,
+      "sid": 17,
+      "location": 2,
+      "content": "我们要的都是一两的九块",
+      "music": 0.0
+    },
+    {
+      "from": 33.359,
+      "to": 36.58,
+      "sid": 18,
+      "location": 2,
+      "content": "哎我愣没吃出来里边有什么调料",
+      "music": 0.0
+    },
+    {
+      "from": 36.82,
+      "to": 39.52,
+      "sid": 19,
+      "location": 2,
+      "content": "肉沫整个的酱汁都挂满了面条",
+      "music": 0.0
+    },
+    {
+      "from": 39.52,
+      "to": 40.68,
+      "sid": 20,
+      "location": 2,
+      "content": "胡辣椒非常的香",
+      "music": 0.0
+    },
+    {
+      "from": 40.68,
+      "to": 42.62,
+      "sid": 21,
+      "location": 2,
+      "content": "吃到最后有一点点的麻",
+      "music": 0.0
+    },
+    {
+      "from": 42.62,
+      "to": 45.18,
+      "sid": 22,
+      "location": 2,
+      "content": "他这胡辣椒的香真的香不辣",
+      "music": 0.0
+    },
+    {
+      "from": 45.18,
+      "to": 46.34,
+      "sid": 23,
+      "location": 2,
+      "content": "它又不苦",
+      "music": 0.0
+    },
+    {
+      "from": 49.24,
+      "to": 51.96,
+      "sid": 24,
+      "location": 2,
+      "content": "小林你尝一口真香",
+      "music": 0.0
+    },
+    {
+      "from": 51.96,
+      "to": 53.6,
+      "sid": 25,
+      "location": 2,
+      "content": "树胶杂酱九块",
+      "music": 0.0
+    },
+    {
+      "from": 53.6,
+      "to": 55.02,
+      "sid": 26,
+      "location": 2,
+      "content": "挺快啊",
+      "music": 0.0
+    },
+    {
+      "from": 57.0,
+      "to": 57.86,
+      "sid": 27,
+      "location": 2,
+      "content": "真的好香啊",
+      "music": 0.0
+    },
+    {
+      "from": 57.86,
+      "to": 60.42,
+      "sid": 28,
+      "location": 2,
+      "content": "这味道也感觉也没什么很特殊的",
+      "music": 0.0
+    },
+    {
+      "from": 60.42,
+      "to": 61.53,
+      "sid": 29,
+      "location": 2,
+      "content": "但是就是好香",
+      "music": 0.0
+    },
+    {
+      "from": 61.53,
+      "to": 64.19,
+      "sid": 30,
+      "location": 2,
+      "content": "就是你吃的里边肉香酱香",
+      "music": 0.0
+    },
+    {
+      "from": 64.19,
+      "to": 65.19,
+      "sid": 31,
+      "location": 2,
+      "content": "胡辣椒的香",
+      "music": 0.0
+    },
+    {
+      "from": 65.19,
+      "to": 66.95,
+      "sid": 32,
+      "location": 2,
+      "content": "还有回口的麻咸度",
+      "music": 0.0
+    },
+    {
+      "from": 66.95,
+      "to": 68.61,
+      "sid": 33,
+      "location": 2,
+      "content": "都是刚刚好恰到好处的",
+      "music": 0.0
+    },
+    {
+      "from": 68.61,
+      "to": 68.97,
+      "sid": 34,
+      "location": 2,
+      "content": "对",
+      "music": 0.0
+    },
+    {
+      "from": 68.97,
+      "to": 70.39,
+      "sid": 35,
+      "location": 2,
+      "content": "特别舒服啊",
+      "music": 0.0
+    },
+    {
+      "from": 70.39,
+      "to": 72.46,
+      "sid": 36,
+      "location": 2,
+      "content": "真的很舒服",
+      "music": 0.0
+    },
+    {
+      "from": 80.0,
+      "to": 82.28,
+      "sid": 37,
+      "location": 2,
+      "content": "这个呢他没放那两个",
+      "music": 0.0
+    },
+    {
+      "from": 82.28,
+      "to": 83.56,
+      "sid": 38,
+      "location": 2,
+      "content": "就肉香味就更足了",
+      "music": 0.0
+    },
+    {
+      "from": 83.56,
+      "to": 84.96,
+      "sid": 39,
+      "location": 2,
+      "content": "肉炒的完全不干",
+      "music": 0.0
+    },
+    {
+      "from": 84.96,
+      "to": 86.14,
+      "sid": 40,
+      "location": 2,
+      "content": "且非常的新鲜",
+      "music": 0.0
+    },
+    {
+      "from": 86.14,
+      "to": 89.9,
+      "sid": 41,
+      "location": 2,
+      "content": "吃的每一口的肉粒的油润咸香都很明显",
+      "music": 0.0
+    },
+    {
+      "from": 93.4,
+      "to": 96.52,
+      "sid": 42,
+      "location": 2,
+      "content": "排骨面九块尝一块排骨",
+      "music": 0.0
+    },
+    {
+      "from": 97.26,
+      "to": 98.46,
+      "sid": 43,
+      "location": 2,
+      "content": "排骨非常新鲜啊",
+      "music": 0.0
+    },
+    {
+      "from": 98.46,
+      "to": 102.48,
+      "sid": 44,
+      "location": 2,
+      "content": "炖的也够软烂嘶哦这个不错啊",
+      "music": 0.0
+    },
+    {
+      "from": 102.48,
+      "to": 104.84,
+      "sid": 45,
+      "location": 2,
+      "content": "他得把这豆瓣酱已经把那生味都熬没了",
+      "music": 0.0
+    },
+    {
+      "from": 104.84,
+      "to": 106.62,
+      "sid": 46,
+      "location": 2,
+      "content": "全都是熟豆瓣酱的香味",
+      "music": 0.0
+    },
+    {
+      "from": 106.62,
+      "to": 108.18,
+      "sid": 47,
+      "location": 2,
+      "content": "它这个面呢是粗一点的面",
+      "music": 0.0
+    },
+    {
+      "from": 108.18,
+      "to": 109.48,
+      "sid": 48,
+      "location": 2,
+      "content": "煮完之后就特别的筋道",
+      "music": 0.0
+    },
+    {
+      "from": 109.48,
+      "to": 110.76,
+      "sid": 49,
+      "location": 2,
+      "content": "挂味挂的都很明显",
+      "music": 0.0
+    },
+    {
+      "from": 110.76,
+      "to": 112.38,
+      "sid": 50,
+      "location": 2,
+      "content": "入口之后这味道非常的饱满",
+      "music": 0.0
+    },
+    {
+      "from": 112.38,
+      "to": 114.66,
+      "sid": 51,
+      "location": 2,
+      "content": "一会吃你俩再要啊",
+      "music": 0.0
+    },
+    {
+      "from": 115.05,
+      "to": 116.45,
+      "sid": 52,
+      "location": 2,
+      "content": "不是哥",
+      "music": 0.0
+    },
+    {
+      "from": 116.45,
+      "to": 117.85,
+      "sid": 53,
+      "location": 2,
+      "content": "那你知道我先拍个特写",
+      "music": 0.0
+    },
+    {
+      "from": 117.85,
+      "to": 119.94,
+      "sid": 54,
+      "location": 2,
+      "content": "你妈就在说慢一点没了",
+      "music": 0.0
+    },
+    {
+      "from": 119.94,
+      "to": 121.9,
+      "sid": 55,
+      "location": 2,
+      "content": "一个牛肉面加牛肉",
+      "music": 0.0
+    },
+    {
+      "from": 121.9,
+      "to": 125.23,
+      "sid": 56,
+      "location": 2,
+      "content": "一斤牛肉加牛肉素胶加排骨",
+      "music": 0.0
+    },
+    {
+      "from": 125.23,
+      "to": 126.87,
+      "sid": 57,
+      "location": 2,
+      "content": "我这个看着也可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 126.87,
+      "to": 129.23,
+      "sid": 58,
+      "location": 2,
+      "content": "哥啊昨天跟我说的时候说",
+      "music": 0.0
+    },
+    {
+      "from": 129.23,
+      "to": 131.47,
+      "sid": 59,
+      "location": 2,
+      "content": "这是他从幼儿园这吃到现在的",
+      "music": 0.0
+    },
+    {
+      "from": 131.47,
+      "to": 132.459,
+      "sid": 60,
+      "location": 2,
+      "content": "我信了",
+      "music": 0.0
+    },
+    {
+      "from": 132.459,
+      "to": 133.879,
+      "sid": 61,
+      "location": 2,
+      "content": "我说你他是本地人啊",
+      "music": 0.0
+    },
+    {
+      "from": 133.879,
+      "to": 136.939,
+      "sid": 62,
+      "location": 2,
+      "content": "啊对你们俩别叫啊",
+      "music": 0.0
+    },
+    {
+      "from": 138.98,
+      "to": 140.96,
+      "sid": 63,
+      "location": 2,
+      "content": "不用做总结了",
+      "music": 0.0
+    },
+    {
+      "from": 140.96,
+      "to": 142.82,
+      "sid": 64,
+      "location": 2,
+      "content": "直接看我们的桌子就行了",
+      "music": 0.0
+    },
+    {
+      "from": 142.82,
+      "to": 144.12,
+      "sid": 65,
+      "location": 2,
+      "content": "战绩可查",
+      "music": 0.0
+    },
+    {
+      "from": 144.12,
+      "to": 146.48,
+      "sid": 66,
+      "location": 2,
+      "content": "你要看这屋里的环境啊",
+      "music": 0.0
+    },
+    {
+      "from": 146.48,
+      "to": 150.19,
+      "sid": 67,
+      "location": 2,
+      "content": "你可能想象不到他给的那个碗餐具有多干净",
+      "music": 0.0
+    },
+    {
+      "from": 150.19,
+      "to": 151.99,
+      "sid": 68,
+      "location": 2,
+      "content": "你看那碗搁在盆里边",
+      "music": 0.0
+    },
+    {
+      "from": 151.99,
+      "to": 153.19,
+      "sid": 69,
+      "location": 2,
+      "content": "一个个洗的份干净",
+      "music": 0.0
+    },
+    {
+      "from": 153.19,
+      "to": 154.65,
+      "sid": 70,
+      "location": 2,
+      "content": "拿一块布给你盖上来",
+      "music": 0.0
+    },
+    {
+      "from": 154.65,
+      "to": 156.555,
+      "sid": 71,
+      "location": 2,
+      "content": "纸还是免费的",
+      "music": 0.0
+    },
+    {
+      "from": 157.05,
+      "to": 158.37,
+      "sid": 72,
+      "location": 2,
+      "content": "还没有服务费",
+      "music": 0.0
+    }
+  ]
+}

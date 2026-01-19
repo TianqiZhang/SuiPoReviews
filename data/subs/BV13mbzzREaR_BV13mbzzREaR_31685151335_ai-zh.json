@@ -1,0 +1,612 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.42,
+      "to": 2.94,
+      "sid": 1,
+      "location": 2,
+      "content": "松茸一个卖几万",
+      "music": 0.0
+    },
+    {
+      "from": 2.94,
+      "to": 4.86,
+      "sid": 2,
+      "location": 2,
+      "content": "我非得去看看怎么回事",
+      "music": 0.0
+    },
+    {
+      "from": 4.86,
+      "to": 6.5,
+      "sid": 3,
+      "location": 2,
+      "content": "给你们来个转场",
+      "music": 0.0
+    },
+    {
+      "from": 6.7,
+      "to": 9.38,
+      "sid": 4,
+      "location": 2,
+      "content": "这次收到了林芝政府部门的邀请",
+      "music": 0.0
+    },
+    {
+      "from": 9.38,
+      "to": 10.98,
+      "sid": 5,
+      "location": 2,
+      "content": "来尝尝当地的松茸灵芝",
+      "music": 0.0
+    },
+    {
+      "from": 10.98,
+      "to": 11.8,
+      "sid": 6,
+      "location": 2,
+      "content": "太好看了",
+      "music": 0.0
+    },
+    {
+      "from": 11.8,
+      "to": 14.9,
+      "sid": 7,
+      "location": 2,
+      "content": "你们看远处的山和云",
+      "music": 0.0
+    },
+    {
+      "from": 16.2,
+      "to": 18.24,
+      "sid": 8,
+      "location": 2,
+      "content": "当地的工作人员非常热情",
+      "music": 0.0
+    },
+    {
+      "from": 18.24,
+      "to": 21.68,
+      "sid": 9,
+      "location": 2,
+      "content": "一下飞机就请我们吃了一顿超级丰盛的饭",
+      "music": 0.0
+    },
+    {
+      "from": 21.68,
+      "to": 23.57,
+      "sid": 10,
+      "location": 2,
+      "content": "欢迎来到灵芝",
+      "music": 0.7799999220000061
+    },
+    {
+      "from": 24.01,
+      "to": 25.93,
+      "sid": 11,
+      "location": 2,
+      "content": "我啊倒是第一次来高原",
+      "music": 0.0
+    },
+    {
+      "from": 25.93,
+      "to": 28.25,
+      "sid": 12,
+      "location": 2,
+      "content": "吃着吃着我手有点痒了",
+      "music": 0.0
+    },
+    {
+      "from": 28.25,
+      "to": 29.85,
+      "sid": 13,
+      "location": 2,
+      "content": "直接奔饭店的厨房做饭去",
+      "music": 0.0
+    },
+    {
+      "from": 29.85,
+      "to": 32.43,
+      "sid": 14,
+      "location": 2,
+      "content": "体验一下在高原上做饭是什么感觉",
+      "music": 0.0
+    },
+    {
+      "from": 32.43,
+      "to": 33.11,
+      "sid": 15,
+      "location": 2,
+      "content": "小李说",
+      "music": 0.0
+    },
+    {
+      "from": 33.11,
+      "to": 34.39,
+      "sid": 16,
+      "location": 2,
+      "content": "我天生就是干活的命",
+      "music": 0.0
+    },
+    {
+      "from": 34.39,
+      "to": 36.95,
+      "sid": 17,
+      "location": 2,
+      "content": "我一脚就踹他身上了",
+      "music": 0.0
+    },
+    {
+      "from": 37.63,
+      "to": 41.79,
+      "sid": 18,
+      "location": 2,
+      "content": "灵芝松茸美食文化节开幕",
+      "music": 0.0
+    },
+    {
+      "from": 41.79,
+      "to": 46.53,
+      "sid": 19,
+      "location": 2,
+      "content": "嘘每一个参赛选手选一个材料跟松茸一起做",
+      "music": 0.0
+    },
+    {
+      "from": 46.53,
+      "to": 48.39,
+      "sid": 20,
+      "location": 2,
+      "content": "看谁做的好吃",
+      "music": 0.0
+    },
+    {
+      "from": 48.71,
+      "to": 49.75,
+      "sid": 21,
+      "location": 2,
+      "content": "一共做几道菜",
+      "music": 0.0
+    },
+    {
+      "from": 49.75,
+      "to": 51.16,
+      "sid": 22,
+      "location": 2,
+      "content": "就一道菜一道菜",
+      "music": 0.0
+    },
+    {
+      "from": 51.16,
+      "to": 53.68,
+      "sid": 23,
+      "location": 2,
+      "content": "这松茸是咱们当地的吧",
+      "music": 0.0
+    },
+    {
+      "from": 53.68,
+      "to": 54.64,
+      "sid": 24,
+      "location": 2,
+      "content": "对当地的",
+      "music": 0.0
+    },
+    {
+      "from": 54.64,
+      "to": 55.92,
+      "sid": 25,
+      "location": 2,
+      "content": "这是藏香猪的吧",
+      "music": 0.0
+    },
+    {
+      "from": 55.92,
+      "to": 56.84,
+      "sid": 26,
+      "location": 2,
+      "content": "对对对",
+      "music": 0.5641024917817281
+    },
+    {
+      "from": 56.84,
+      "to": 59.44,
+      "sid": 27,
+      "location": 2,
+      "content": "功夫香囊藏香猪的藏香猪肉",
+      "music": 0.2553191353553641
+    },
+    {
+      "from": 61.52,
+      "to": 63.1,
+      "sid": 28,
+      "location": 2,
+      "content": "公司被赶出来了",
+      "music": 0.12676055445348172
+    },
+    {
+      "from": 63.1,
+      "to": 63.96,
+      "sid": 29,
+      "location": 2,
+      "content": "趁着他们做饭",
+      "music": 0.0
+    },
+    {
+      "from": 63.96,
+      "to": 66.4,
+      "sid": 30,
+      "location": 2,
+      "content": "还有一个拍卖的环节开始拍卖了啊",
+      "music": 0.07377048877990065
+    },
+    {
+      "from": 66.4,
+      "to": 68.18,
+      "sid": 31,
+      "location": 2,
+      "content": "松茸王1万5",
+      "music": 0.0
+    },
+    {
+      "from": 68.18,
+      "to": 69.2,
+      "sid": 32,
+      "location": 2,
+      "content": "2万7",
+      "music": 0.0
+    },
+    {
+      "from": 69.2,
+      "to": 70.58,
+      "sid": 33,
+      "location": 2,
+      "content": "5万5",
+      "music": 0.0
+    },
+    {
+      "from": 70.71,
+      "to": 72.009,
+      "sid": 34,
+      "location": 2,
+      "content": "6万8",
+      "music": 0.32258059313216464
+    },
+    {
+      "from": 72.009,
+      "to": 74.729,
+      "sid": 35,
+      "location": 2,
+      "content": "68134",
+      "music": 0.0
+    },
+    {
+      "from": 74.729,
+      "to": 75.749,
+      "sid": 36,
+      "location": 2,
+      "content": "恭喜你",
+      "music": 0.0
+    },
+    {
+      "from": 75.749,
+      "to": 77.569,
+      "sid": 37,
+      "location": 2,
+      "content": "我刚才想要举报来着",
+      "music": 0.0
+    },
+    {
+      "from": 80.509,
+      "to": 81.889,
+      "sid": 38,
+      "location": 2,
+      "content": "他们的菜也做好了",
+      "music": 0.0
+    },
+    {
+      "from": 81.889,
+      "to": 84.249,
+      "sid": 39,
+      "location": 2,
+      "content": "高原上做菜也确实不好做",
+      "music": 0.0
+    },
+    {
+      "from": 84.249,
+      "to": 85.429,
+      "sid": 40,
+      "location": 2,
+      "content": "我是已经体验过了",
+      "music": 0.0
+    },
+    {
+      "from": 85.429,
+      "to": 87.12,
+      "sid": 41,
+      "location": 2,
+      "content": "大家做的菜有好有坏",
+      "music": 0.0
+    },
+    {
+      "from": 87.12,
+      "to": 88.58,
+      "sid": 42,
+      "location": 2,
+      "content": "但是来这儿我发现了一件事",
+      "music": 0.0
+    },
+    {
+      "from": 88.58,
+      "to": 90.28,
+      "sid": 43,
+      "location": 2,
+      "content": "当地的松茸还是真好",
+      "music": 0.0
+    },
+    {
+      "from": 90.28,
+      "to": 90.9,
+      "sid": 44,
+      "location": 2,
+      "content": "吃着的",
+      "music": 0.0
+    },
+    {
+      "from": 90.9,
+      "to": 92.819,
+      "sid": 45,
+      "location": 2,
+      "content": "松茸脆嫩",
+      "music": 0.0
+    },
+    {
+      "from": 92.819,
+      "to": 94.95,
+      "sid": 46,
+      "location": 2,
+      "content": "香度特别的浓",
+      "music": 0.0
+    },
+    {
+      "from": 94.95,
+      "to": 98.37,
+      "sid": 47,
+      "location": 2,
+      "content": "两位老师分别用一句话也好",
+      "music": 0.07117437469130435
+    },
+    {
+      "from": 98.37,
+      "to": 99.29,
+      "sid": 48,
+      "location": 2,
+      "content": "两句话也好",
+      "music": 0.0
+    },
+    {
+      "from": 99.29,
+      "to": 100.31,
+      "sid": 49,
+      "location": 2,
+      "content": "三句话也好",
+      "music": 0.0
+    },
+    {
+      "from": 100.31,
+      "to": 102.15,
+      "sid": 50,
+      "location": 2,
+      "content": "推荐一下我们的领军",
+      "music": 0.0
+    },
+    {
+      "from": 102.15,
+      "to": 103.47,
+      "sid": 51,
+      "location": 2,
+      "content": "哪位先来呢",
+      "music": 0.0
+    },
+    {
+      "from": 103.47,
+      "to": 106.21,
+      "sid": 52,
+      "location": 2,
+      "content": "我跟手机前的网友们说",
+      "music": 0.36936935273111376
+    },
+    {
+      "from": 106.21,
+      "to": 107.49,
+      "sid": 53,
+      "location": 2,
+      "content": "这里是高原",
+      "music": 0.0
+    },
+    {
+      "from": 107.49,
+      "to": 109.49,
+      "sid": 54,
+      "location": 2,
+      "content": "但是你到这里不严重",
+      "music": 0.0
+    },
+    {
+      "from": 109.49,
+      "to": 111.45,
+      "sid": 55,
+      "location": 2,
+      "content": "这里的风景不来",
+      "music": 0.0
+    },
+    {
+      "from": 111.45,
+      "to": 112.95,
+      "sid": 56,
+      "location": 2,
+      "content": "你永远看不到",
+      "music": 0.0
+    },
+    {
+      "from": 112.95,
+      "to": 113.69,
+      "sid": 57,
+      "location": 2,
+      "content": "你不来",
+      "music": 0.0
+    },
+    {
+      "from": 113.69,
+      "to": 117.93,
+      "sid": 58,
+      "location": 2,
+      "content": "你不知道咱们过去的山水画有多么的景",
+      "music": 0.0
+    },
+    {
+      "from": 118.529,
+      "to": 121.929,
+      "sid": 59,
+      "location": 2,
+      "content": "哎呀谢谢唐老师把话都说完了",
+      "music": 0.0
+    },
+    {
+      "from": 121.929,
+      "to": 123.049,
+      "sid": 60,
+      "location": 2,
+      "content": "那让我说什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 123.049,
+      "to": 125.729,
+      "sid": 61,
+      "location": 2,
+      "content": "人生经验发言一定要靠前",
+      "music": 0.0
+    },
+    {
+      "from": 125.729,
+      "to": 127.769,
+      "sid": 62,
+      "location": 2,
+      "content": "今天通过这次比赛",
+      "music": 0.0
+    },
+    {
+      "from": 127.769,
+      "to": 131.29,
+      "sid": 63,
+      "location": 2,
+      "content": "我们见证了松茸的不同做法",
+      "music": 0.0
+    },
+    {
+      "from": 131.29,
+      "to": 134.71,
+      "sid": 64,
+      "location": 2,
+      "content": "也希望呢我们林芝非常好的松茸呢",
+      "music": 0.0
+    },
+    {
+      "from": 134.71,
+      "to": 137.05,
+      "sid": 65,
+      "location": 2,
+      "content": "能够走出我们西藏",
+      "music": 0.0
+    },
+    {
+      "from": 137.05,
+      "to": 139.36,
+      "sid": 66,
+      "location": 2,
+      "content": "走到我们全国各地",
+      "music": 0.0
+    },
+    {
+      "from": 139.36,
+      "to": 143.54,
+      "sid": 67,
+      "location": 2,
+      "content": "希望大家都能品尝到我们林芝最好的松鼠",
+      "music": 0.0
+    },
+    {
+      "from": 143.54,
+      "to": 145.13,
+      "sid": 68,
+      "location": 2,
+      "content": "感觉松鼠咋样",
+      "music": 0.0
+    },
+    {
+      "from": 145.13,
+      "to": 146.15,
+      "sid": 69,
+      "location": 2,
+      "content": "松茸真挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 146.15,
+      "to": 147.73,
+      "sid": 70,
+      "location": 2,
+      "content": "而且我也是第一回来西藏",
+      "music": 0.0
+    },
+    {
+      "from": 147.73,
+      "to": 148.65,
+      "sid": 71,
+      "location": 2,
+      "content": "地方也特别好",
+      "music": 0.0
+    },
+    {
+      "from": 148.65,
+      "to": 149.71,
+      "sid": 72,
+      "location": 2,
+      "content": "真的特别好",
+      "music": 0.0
+    },
+    {
+      "from": 149.71,
+      "to": 150.77,
+      "sid": 73,
+      "location": 2,
+      "content": "那个水啊",
+      "music": 0.0
+    },
+    {
+      "from": 150.77,
+      "to": 151.57,
+      "sid": 74,
+      "location": 2,
+      "content": "特别的绿",
+      "music": 0.0
+    },
+    {
+      "from": 151.57,
+      "to": 153.16,
+      "sid": 75,
+      "location": 2,
+      "content": "大家旅游也都能来啊",
+      "music": 0.0
+    }
+  ]
+}

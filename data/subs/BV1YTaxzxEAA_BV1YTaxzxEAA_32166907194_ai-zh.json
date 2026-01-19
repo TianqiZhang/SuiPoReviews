@@ -1,0 +1,956 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.12,
+      "to": 2.76,
+      "sid": 1,
+      "location": 2,
+      "content": "就这些菜他不太会用素质菜呃",
+      "music": 0.0
+    },
+    {
+      "from": 2.76,
+      "to": 4.48,
+      "sid": 2,
+      "location": 2,
+      "content": "为啥我觉得成本包不出",
+      "music": 0.0
+    },
+    {
+      "from": 4.48,
+      "to": 5.76,
+      "sid": 3,
+      "location": 2,
+      "content": "所以陪他好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 5.76,
+      "to": 8.9,
+      "sid": 4,
+      "location": 2,
+      "content": "河咱洛阳听说是全国最便宜的盖浇饭",
+      "music": 0.0
+    },
+    {
+      "from": 8.9,
+      "to": 10.9,
+      "sid": 5,
+      "location": 2,
+      "content": "川味佳小吃两荤一素",
+      "music": 0.0
+    },
+    {
+      "from": 10.9,
+      "to": 13.32,
+      "sid": 6,
+      "location": 2,
+      "content": "持久没吃了",
+      "music": 0.0
+    },
+    {
+      "from": 16.04,
+      "to": 17.94,
+      "sid": 7,
+      "location": 2,
+      "content": "但离我学校真的好近啊",
+      "music": 0.0
+    },
+    {
+      "from": 17.94,
+      "to": 19.52,
+      "sid": 8,
+      "location": 2,
+      "content": "你上学生证还没有呢是吧",
+      "music": 0.0
+    },
+    {
+      "from": 19.52,
+      "to": 22.56,
+      "sid": 9,
+      "location": 2,
+      "content": "我没听说哈哈哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 22.56,
+      "to": 23.48,
+      "sid": 10,
+      "location": 2,
+      "content": "我听说了",
+      "music": 0.0
+    },
+    {
+      "from": 23.48,
+      "to": 25.49,
+      "sid": 11,
+      "location": 2,
+      "content": "我早来了呀",
+      "music": 0.0
+    },
+    {
+      "from": 25.49,
+      "to": 26.73,
+      "sid": 12,
+      "location": 2,
+      "content": "现在就不是这身材了",
+      "music": 0.0
+    },
+    {
+      "from": 27.75,
+      "to": 28.97,
+      "sid": 13,
+      "location": 2,
+      "content": "五块钱盖饭",
+      "music": 0.0
+    },
+    {
+      "from": 28.97,
+      "to": 30.83,
+      "sid": 14,
+      "location": 2,
+      "content": "剩下的七块肉菜",
+      "music": 0.0
+    },
+    {
+      "from": 30.83,
+      "to": 31.56,
+      "sid": 15,
+      "location": 2,
+      "content": "两块五",
+      "music": 0.0
+    },
+    {
+      "from": 32.7,
+      "to": 35.28,
+      "sid": 16,
+      "location": 2,
+      "content": "就这些菜他不太会用预制菜啊",
+      "music": 0.0
+    },
+    {
+      "from": 35.28,
+      "to": 38.04,
+      "sid": 17,
+      "location": 2,
+      "content": "为啥我觉得成本高不出",
+      "music": 0.0
+    },
+    {
+      "from": 39.94,
+      "to": 42.22,
+      "sid": 18,
+      "location": 2,
+      "content": "姐不错不错不错",
+      "music": 0.0
+    },
+    {
+      "from": 44.08,
+      "to": 46.22,
+      "sid": 19,
+      "location": 2,
+      "content": "你这给我们特殊照顾了没有",
+      "music": 0.0
+    },
+    {
+      "from": 46.22,
+      "to": 46.89,
+      "sid": 20,
+      "location": 2,
+      "content": "我们都不一样",
+      "music": 0.0
+    },
+    {
+      "from": 48.17,
+      "to": 50.67,
+      "sid": 21,
+      "location": 2,
+      "content": "番茄炒鸡蛋盖饭一块钱",
+      "music": 0.0
+    },
+    {
+      "from": 50.67,
+      "to": 52.55,
+      "sid": 22,
+      "location": 2,
+      "content": "不是他这鸡蛋给的好像有点多",
+      "music": 0.0
+    },
+    {
+      "from": 52.55,
+      "to": 53.55,
+      "sid": 23,
+      "location": 2,
+      "content": "看看多大",
+      "music": 0.0
+    },
+    {
+      "from": 53.55,
+      "to": 56.37,
+      "sid": 24,
+      "location": 2,
+      "content": "这个盘子直径是20cm",
+      "music": 0.0
+    },
+    {
+      "from": 59.0,
+      "to": 60.08,
+      "sid": 25,
+      "location": 2,
+      "content": "哇粉配熊",
+      "music": 0.0
+    },
+    {
+      "from": 60.08,
+      "to": 61.08,
+      "sid": 26,
+      "location": 2,
+      "content": "关键味道很浓",
+      "music": 0.0
+    },
+    {
+      "from": 61.08,
+      "to": 62.3,
+      "sid": 27,
+      "location": 2,
+      "content": "他鸡蛋给的真不少",
+      "music": 0.0
+    },
+    {
+      "from": 62.3,
+      "to": 63.76,
+      "sid": 28,
+      "location": 2,
+      "content": "就哎呦块还挺大的",
+      "music": 0.0
+    },
+    {
+      "from": 63.76,
+      "to": 65.06,
+      "sid": 29,
+      "location": 2,
+      "content": "简单的一个咸鲜味",
+      "music": 0.0
+    },
+    {
+      "from": 65.06,
+      "to": 67.59,
+      "sid": 30,
+      "location": 2,
+      "content": "家常味挺香的",
+      "music": 0.0
+    },
+    {
+      "from": 70.66,
+      "to": 73.42,
+      "sid": 31,
+      "location": 2,
+      "content": "我韭菜肉丝盖饭细看",
+      "music": 0.0
+    },
+    {
+      "from": 73.42,
+      "to": 75.99,
+      "sid": 32,
+      "location": 2,
+      "content": "我以为上面薄薄的一层菜",
+      "music": 0.0
+    },
+    {
+      "from": 75.99,
+      "to": 76.95,
+      "sid": 33,
+      "location": 2,
+      "content": "下面全是饭",
+      "music": 0.0
+    },
+    {
+      "from": 76.95,
+      "to": 79.39,
+      "sid": 34,
+      "location": 2,
+      "content": "你感觉这菜跟饭差不多一比一",
+      "music": 0.0
+    },
+    {
+      "from": 79.39,
+      "to": 80.47,
+      "sid": 35,
+      "location": 2,
+      "content": "我给你扒拉一下",
+      "music": 0.0
+    },
+    {
+      "from": 80.47,
+      "to": 81.29,
+      "sid": 36,
+      "location": 2,
+      "content": "你看看",
+      "music": 0.0
+    },
+    {
+      "from": 81.29,
+      "to": 82.31,
+      "sid": 37,
+      "location": 2,
+      "content": "我说老厚啊",
+      "music": 0.0
+    },
+    {
+      "from": 82.31,
+      "to": 84.86,
+      "sid": 38,
+      "location": 2,
+      "content": "这么多菜啊",
+      "music": 0.0
+    },
+    {
+      "from": 87.72,
+      "to": 88.48,
+      "sid": 39,
+      "location": 2,
+      "content": "不讲究",
+      "music": 0.0
+    },
+    {
+      "from": 88.48,
+      "to": 90.08,
+      "sid": 40,
+      "location": 2,
+      "content": "用什么葱姜蒜小料之类的",
+      "music": 0.0
+    },
+    {
+      "from": 90.08,
+      "to": 91.14,
+      "sid": 41,
+      "location": 2,
+      "content": "炒的时候加点酱油",
+      "music": 0.0
+    },
+    {
+      "from": 91.14,
+      "to": 93.12,
+      "sid": 42,
+      "location": 2,
+      "content": "韭菜呢吸收了肉的汁水",
+      "music": 0.0
+    },
+    {
+      "from": 93.12,
+      "to": 93.94,
+      "sid": 43,
+      "location": 2,
+      "content": "也挺香的",
+      "music": 0.0
+    },
+    {
+      "from": 93.94,
+      "to": 95.36,
+      "sid": 44,
+      "location": 2,
+      "content": "吃一块美术",
+      "music": 0.0
+    },
+    {
+      "from": 95.36,
+      "to": 97.09,
+      "sid": 45,
+      "location": 2,
+      "content": "我看他给的真不少",
+      "music": 0.0
+    },
+    {
+      "from": 97.09,
+      "to": 98.07,
+      "sid": 46,
+      "location": 2,
+      "content": "确实真不少",
+      "music": 0.0
+    },
+    {
+      "from": 98.07,
+      "to": 98.73,
+      "sid": 47,
+      "location": 2,
+      "content": "100克",
+      "music": 0.0
+    },
+    {
+      "from": 98.73,
+      "to": 99.99,
+      "sid": 48,
+      "location": 2,
+      "content": "而且还没给你上浆",
+      "music": 0.0
+    },
+    {
+      "from": 99.99,
+      "to": 101.93,
+      "sid": 49,
+      "location": 2,
+      "content": "上浆搁这小疙瘩还能蓬松蓬松",
+      "music": 0.0
+    },
+    {
+      "from": 101.93,
+      "to": 103.11,
+      "sid": 50,
+      "location": 2,
+      "content": "这连蓬松不蓬松",
+      "music": 0.0
+    },
+    {
+      "from": 103.11,
+      "to": 104.57,
+      "sid": 51,
+      "location": 2,
+      "content": "这肉搁锅里就抽抽抽",
+      "music": 0.0
+    },
+    {
+      "from": 104.57,
+      "to": 105.72,
+      "sid": 52,
+      "location": 2,
+      "content": "抽完还这么多呢",
+      "music": 0.0
+    },
+    {
+      "from": 105.72,
+      "to": 107.54,
+      "sid": 53,
+      "location": 2,
+      "content": "坐了半天高铁还有点累了",
+      "music": 0.0
+    },
+    {
+      "from": 107.54,
+      "to": 109.46,
+      "sid": 54,
+      "location": 2,
+      "content": "这样转场硬吗还行",
+      "music": 0.0
+    },
+    {
+      "from": 109.46,
+      "to": 110.76,
+      "sid": 55,
+      "location": 2,
+      "content": "硬了也不怕硬了",
+      "music": 0.0
+    },
+    {
+      "from": 110.76,
+      "to": 114.6,
+      "sid": 56,
+      "location": 2,
+      "content": "就用妙界按摩护腰坐姿椅往椅子上一放",
+      "music": 0.0
+    },
+    {
+      "from": 114.6,
+      "to": 116.16,
+      "sid": 57,
+      "location": 2,
+      "content": "坐着就能护好腰",
+      "music": 0.0
+    },
+    {
+      "from": 116.16,
+      "to": 117.74,
+      "sid": 58,
+      "location": 2,
+      "content": "不愧是按摩类的老大哥",
+      "music": 0.0
+    },
+    {
+      "from": 117.74,
+      "to": 119.2,
+      "sid": 59,
+      "location": 2,
+      "content": "功能全按摩护腰",
+      "music": 0.0
+    },
+    {
+      "from": 119.2,
+      "to": 120.86,
+      "sid": 60,
+      "location": 2,
+      "content": "脚姿热敷四合一",
+      "music": 0.0
+    },
+    {
+      "from": 120.86,
+      "to": 121.62,
+      "sid": 61,
+      "location": 2,
+      "content": "用着还贴心",
+      "music": 0.0
+    },
+    {
+      "from": 121.62,
+      "to": 122.28,
+      "sid": 62,
+      "location": 2,
+      "content": "不挑体型",
+      "music": 0.0
+    },
+    {
+      "from": 122.28,
+      "to": 123.26,
+      "sid": 63,
+      "location": 2,
+      "content": "不挑地工作",
+      "music": 0.0
+    },
+    {
+      "from": 123.26,
+      "to": 124.9,
+      "sid": 64,
+      "location": 2,
+      "content": "学习休闲娱乐都能靠着",
+      "music": 0.0
+    },
+    {
+      "from": 124.9,
+      "to": 127.06,
+      "sid": 65,
+      "location": 2,
+      "content": "所以不少朋友催我上卷准备复购呢",
+      "music": 0.0
+    },
+    {
+      "from": 127.06,
+      "to": 128.02,
+      "sid": 66,
+      "location": 2,
+      "content": "大家平时坐沙发",
+      "music": 0.0
+    },
+    {
+      "from": 128.02,
+      "to": 129.86,
+      "sid": 67,
+      "location": 2,
+      "content": "坐床没坐一会就往下滑",
+      "music": 0.0
+    },
+    {
+      "from": 129.86,
+      "to": 132.7,
+      "sid": 68,
+      "location": 2,
+      "content": "多少人是小李这个年纪却顶着一个老腰子",
+      "music": 0.0
+    },
+    {
+      "from": 132.7,
+      "to": 135.74,
+      "sid": 69,
+      "location": 2,
+      "content": "它有六大分区加53度黄金支撑脚",
+      "music": 0.0
+    },
+    {
+      "from": 135.74,
+      "to": 137.54,
+      "sid": 70,
+      "location": 2,
+      "content": "就像一双手把腰推起来",
+      "music": 0.0
+    },
+    {
+      "from": 137.54,
+      "to": 138.58,
+      "sid": 71,
+      "location": 2,
+      "content": "拖的直溜溜的",
+      "music": 0.0
+    },
+    {
+      "from": 138.58,
+      "to": 140.089,
+      "sid": 72,
+      "location": 2,
+      "content": "二郎腿都翘不起来了",
+      "music": 0.0
+    },
+    {
+      "from": 140.089,
+      "to": 143.569,
+      "sid": 73,
+      "location": 2,
+      "content": "35mm厚的高密度海绵地上床上随便放",
+      "music": 0.0
+    },
+    {
+      "from": 143.569,
+      "to": 144.049,
+      "sid": 74,
+      "location": 2,
+      "content": "直接爆",
+      "music": 0.0
+    },
+    {
+      "from": 144.049,
+      "to": 145.669,
+      "sid": 75,
+      "location": 2,
+      "content": "改成千元工学椅",
+      "music": 0.0
+    },
+    {
+      "from": 145.669,
+      "to": 147.409,
+      "sid": 76,
+      "location": 2,
+      "content": "而且承重有260",
+      "music": 0.0
+    },
+    {
+      "from": 147.409,
+      "to": 149.06,
+      "sid": 77,
+      "location": 2,
+      "content": "做累了能打开按摩热敷",
+      "music": 0.0
+    },
+    {
+      "from": 149.06,
+      "to": 150.52,
+      "sid": 78,
+      "location": 2,
+      "content": "怼着腰背的穴位",
+      "music": 0.0
+    },
+    {
+      "from": 150.52,
+      "to": 152.7,
+      "sid": 79,
+      "location": 2,
+      "content": "放松开深层肌肉坐姿",
+      "music": 0.0
+    },
+    {
+      "from": 152.7,
+      "to": 154.04,
+      "sid": 80,
+      "location": 2,
+      "content": "不知不觉就端正了",
+      "music": 0.0
+    },
+    {
+      "from": 154.04,
+      "to": 155.58,
+      "sid": 81,
+      "location": 2,
+      "content": "需要的记得选好颜色啊",
+      "music": 0.0
+    },
+    {
+      "from": 155.58,
+      "to": 157.79,
+      "sid": 82,
+      "location": 2,
+      "content": "妙界售后质保一向靠谱",
+      "music": 0.0
+    },
+    {
+      "from": 157.79,
+      "to": 159.33,
+      "sid": 83,
+      "location": 2,
+      "content": "放心领券没毛病",
+      "music": 0.0
+    },
+    {
+      "from": 159.33,
+      "to": 160.91,
+      "sid": 84,
+      "location": 2,
+      "content": "白菜回锅肉盖饭",
+      "music": 0.0
+    },
+    {
+      "from": 160.91,
+      "to": 162.19,
+      "sid": 85,
+      "location": 2,
+      "content": "切菜",
+      "music": 0.0
+    },
+    {
+      "from": 163.72,
+      "to": 166.8,
+      "sid": 86,
+      "location": 2,
+      "content": "汤汤里加点豆瓣酱",
+      "music": 0.0
+    },
+    {
+      "from": 166.8,
+      "to": 167.88,
+      "sid": 87,
+      "location": 2,
+      "content": "豆瓣酱味挺香",
+      "music": 0.0
+    },
+    {
+      "from": 167.88,
+      "to": 169.2,
+      "sid": 88,
+      "location": 2,
+      "content": "咸香辣",
+      "music": 0.0
+    },
+    {
+      "from": 169.2,
+      "to": 170.64,
+      "sid": 89,
+      "location": 2,
+      "content": "两块肉炒",
+      "music": 0.0
+    },
+    {
+      "from": 172.92,
+      "to": 174.36,
+      "sid": 90,
+      "location": 2,
+      "content": "肉呢就一般了",
+      "music": 0.0
+    },
+    {
+      "from": 174.36,
+      "to": 175.8,
+      "sid": 91,
+      "location": 2,
+      "content": "吃着中间还有肉腥味",
+      "music": 0.0
+    },
+    {
+      "from": 175.8,
+      "to": 177.28,
+      "sid": 92,
+      "location": 2,
+      "content": "老板如果你要刷到这个视频的话",
+      "music": 0.0
+    },
+    {
+      "from": 177.28,
+      "to": 179.16,
+      "sid": 93,
+      "location": 2,
+      "content": "就把这个肉啊腥再薄一点",
+      "music": 0.0
+    },
+    {
+      "from": 179.16,
+      "to": 180.38,
+      "sid": 94,
+      "location": 2,
+      "content": "里边那个腥味就没有了",
+      "music": 0.0
+    },
+    {
+      "from": 180.38,
+      "to": 180.98,
+      "sid": 95,
+      "location": 2,
+      "content": "还能吃辣",
+      "music": 0.0
+    },
+    {
+      "from": 180.98,
+      "to": 181.64,
+      "sid": 96,
+      "location": 2,
+      "content": "成本是吧",
+      "music": 0.0
+    },
+    {
+      "from": 181.64,
+      "to": 182.48,
+      "sid": 97,
+      "location": 2,
+      "content": "现在是五片",
+      "music": 0.0
+    },
+    {
+      "from": 182.48,
+      "to": 183.34,
+      "sid": 98,
+      "location": 2,
+      "content": "直接变十片了",
+      "music": 0.0
+    },
+    {
+      "from": 183.34,
+      "to": 184.5,
+      "sid": 99,
+      "location": 2,
+      "content": "那里边的豆瓣酱啊",
+      "music": 0.0
+    },
+    {
+      "from": 184.5,
+      "to": 185.5,
+      "sid": 100,
+      "location": 2,
+      "content": "这炒的还挺香的",
+      "music": 0.0
+    },
+    {
+      "from": 185.5,
+      "to": 186.86,
+      "sid": 101,
+      "location": 2,
+      "content": "第一口刚刚吃的豆瓣酱",
+      "music": 0.0
+    },
+    {
+      "from": 186.86,
+      "to": 188.86,
+      "sid": 102,
+      "location": 2,
+      "content": "炒那个圆白菜炒香肉",
+      "music": 0.0
+    },
+    {
+      "from": 188.86,
+      "to": 190.02,
+      "sid": 103,
+      "location": 2,
+      "content": "选的是没问题了是吧",
+      "music": 0.0
+    },
+    {
+      "from": 190.02,
+      "to": 191.79,
+      "sid": 104,
+      "location": 2,
+      "content": "好选辣子鸡丁",
+      "music": 0.0
+    },
+    {
+      "from": 191.79,
+      "to": 192.65,
+      "sid": 105,
+      "location": 2,
+      "content": "12块钱",
+      "music": 0.0
+    },
+    {
+      "from": 192.65,
+      "to": 193.65,
+      "sid": 106,
+      "location": 2,
+      "content": "这个不是盖浇饭啦",
+      "music": 0.0
+    },
+    {
+      "from": 193.65,
+      "to": 197.16,
+      "sid": 107,
+      "location": 2,
+      "content": "这个是炒菜一汤",
+      "music": 0.0
+    },
+    {
+      "from": 199.52,
+      "to": 202.61,
+      "sid": 108,
+      "location": 2,
+      "content": "别看外表看着其貌不扬的味儿",
+      "music": 0.0
+    },
+    {
+      "from": 202.61,
+      "to": 203.43,
+      "sid": 109,
+      "location": 2,
+      "content": "吃着还可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 203.43,
+      "to": 205.69,
+      "sid": 110,
+      "location": 2,
+      "content": "很新鲜的猪头肉咸香辣",
+      "music": 0.0
+    },
+    {
+      "from": 205.69,
+      "to": 206.87,
+      "sid": 111,
+      "location": 2,
+      "content": "但是煸的很透",
+      "music": 0.0
+    },
+    {
+      "from": 206.87,
+      "to": 208.81,
+      "sid": 112,
+      "location": 2,
+      "content": "豆瓣酱的味全都全都编进去了",
+      "music": 0.0
+    },
+    {
+      "from": 208.81,
+      "to": 210.76,
+      "sid": 113,
+      "location": 2,
+      "content": "这个拌个饭不错",
+      "music": 0.0
+    },
+    {
+      "from": 211.16,
+      "to": 212.64,
+      "sid": 114,
+      "location": 2,
+      "content": "就怕他不挂好",
+      "music": 0.0
+    },
+    {
+      "from": 212.64,
+      "to": 213.46,
+      "sid": 115,
+      "location": 2,
+      "content": "我们做不容易",
+      "music": 0.0
+    },
+    {
+      "from": 213.46,
+      "to": 215.6,
+      "sid": 116,
+      "location": 2,
+      "content": "小李现在捶胸顿足的",
+      "music": 0.0
+    },
+    {
+      "from": 215.6,
+      "to": 217.82,
+      "sid": 117,
+      "location": 2,
+      "content": "他说他伤心的程度不亚于毕业了",
+      "music": 0.0
+    },
+    {
+      "from": 217.82,
+      "to": 218.74,
+      "sid": 118,
+      "location": 2,
+      "content": "宿舍装空调了",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.26,
+      "to": 1.46,
+      "sid": 1,
+      "location": 2,
+      "content": "苏有朋友带好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 1.46,
+      "to": 2.62,
+      "sid": 2,
+      "location": 2,
+      "content": "我现在在祖国的边边",
+      "music": 0.0
+    },
+    {
+      "from": 2.62,
+      "to": 5.12,
+      "sid": 3,
+      "location": 2,
+      "content": "要去山里边吃一个很神秘的美食",
+      "music": 0.0
+    },
+    {
+      "from": 5.12,
+      "to": 6.02,
+      "sid": 4,
+      "location": 2,
+      "content": "就在山里边",
+      "music": 0.0
+    },
+    {
+      "from": 6.02,
+      "to": 7.0,
+      "sid": 5,
+      "location": 2,
+      "content": "你们可能看不到",
+      "music": 0.0
+    },
+    {
+      "from": 7.0,
+      "to": 9.62,
+      "sid": 6,
+      "location": 2,
+      "content": "小李240的长焦推",
+      "music": 0.0
+    },
+    {
+      "from": 11.7,
+      "to": 14.1,
+      "sid": 7,
+      "location": 2,
+      "content": "这次我们来的地方是",
+      "music": 0.0
+    },
+    {
+      "from": 14.1,
+      "to": 17.16,
+      "sid": 8,
+      "location": 2,
+      "content": "云南怒江傈僳族自治州的泸水市",
+      "music": 0.0
+    },
+    {
+      "from": 17.16,
+      "to": 20.54,
+      "sid": 9,
+      "location": 2,
+      "content": "傈僳族有很多人都住在山里",
+      "music": 0.0
+    },
+    {
+      "from": 21.27,
+      "to": 22.39,
+      "sid": 10,
+      "location": 2,
+      "content": "来这里以后",
+      "music": 0.0
+    },
+    {
+      "from": 22.39,
+      "to": 25.83,
+      "sid": 11,
+      "location": 2,
+      "content": "第一次对上山有了具体的概念",
+      "music": 0.0
+    },
+    {
+      "from": 26.61,
+      "to": 29.65,
+      "sid": 12,
+      "location": 2,
+      "content": "全程都感觉在云里穿梭",
+      "music": 0.0
+    },
+    {
+      "from": 30.0,
+      "to": 32.2,
+      "sid": 13,
+      "location": 2,
+      "content": "不过你们知道我的",
+      "music": 0.0
+    },
+    {
+      "from": 32.2,
+      "to": 35.0,
+      "sid": 14,
+      "location": 2,
+      "content": "我对这种东西向来不害怕",
+      "music": 0.0
+    },
+    {
+      "from": 36.319,
+      "to": 38.739,
+      "sid": 15,
+      "location": 2,
+      "content": "刚下完雨的路还是特别不好走的",
+      "music": 0.0
+    },
+    {
+      "from": 38.739,
+      "to": 40.999,
+      "sid": 16,
+      "location": 2,
+      "content": "还得小心山上的落石",
+      "music": 0.0
+    },
+    {
+      "from": 42.44,
+      "to": 44.56,
+      "sid": 17,
+      "location": 2,
+      "content": "没问题没问题",
+      "music": 0.0
+    },
+    {
+      "from": 44.56,
+      "to": 45.62,
+      "sid": 18,
+      "location": 2,
+      "content": "过过过",
+      "music": 0.0
+    },
+    {
+      "from": 45.62,
+      "to": 46.74,
+      "sid": 19,
+      "location": 2,
+      "content": "开车开了很久",
+      "music": 0.0
+    },
+    {
+      "from": 46.74,
+      "to": 51.99,
+      "sid": 20,
+      "location": 2,
+      "content": "终于到了很多傈僳族本地人都住在这样的山里",
+      "music": 0.0
+    },
+    {
+      "from": 51.99,
+      "to": 54.4,
+      "sid": 21,
+      "location": 2,
+      "content": "相传他们这里有一种特别本地",
+      "music": 0.0
+    },
+    {
+      "from": 54.4,
+      "to": 57.26,
+      "sid": 22,
+      "location": 2,
+      "content": "特别local特别隐藏的美食叫汽油机",
+      "music": 0.0
+    },
+    {
+      "from": 57.26,
+      "to": 59.22,
+      "sid": 23,
+      "location": 2,
+      "content": "我也没尝过",
+      "music": 0.0
+    },
+    {
+      "from": 59.86,
+      "to": 61.98,
+      "sid": 24,
+      "location": 2,
+      "content": "这个就是奇术",
+      "music": 0.0
+    },
+    {
+      "from": 62.45,
+      "to": 65.45,
+      "sid": 25,
+      "location": 2,
+      "content": "这个就是他们当地最有特色的叫漆树",
+      "music": 0.0
+    },
+    {
+      "from": 65.45,
+      "to": 68.94,
+      "sid": 26,
+      "location": 2,
+      "content": "这个颗粒状的就叫漆树籽榨油",
+      "music": 0.0
+    },
+    {
+      "from": 68.94,
+      "to": 70.52,
+      "sid": 27,
+      "location": 2,
+      "content": "平时当地人就吃这个做菜",
+      "music": 0.0
+    },
+    {
+      "from": 70.52,
+      "to": 73.86,
+      "sid": 28,
+      "location": 2,
+      "content": "慢慢慢慢就形成了当地人的一种特色",
+      "music": 0.0
+    },
+    {
+      "from": 74.22,
+      "to": 76.32,
+      "sid": 29,
+      "location": 2,
+      "content": "这个就是汽油",
+      "music": 0.0
+    },
+    {
+      "from": 76.32,
+      "to": 79.12,
+      "sid": 30,
+      "location": 2,
+      "content": "做完之后就是这种状态了",
+      "music": 0.0
+    },
+    {
+      "from": 80.78,
+      "to": 82.18,
+      "sid": 31,
+      "location": 2,
+      "content": "没有任何味道",
+      "music": 0.0
+    },
+    {
+      "from": 82.18,
+      "to": 85.08,
+      "sid": 32,
+      "location": 2,
+      "content": "现在吃的随着就脆脆的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 85.08,
+      "to": 87.96,
+      "sid": 33,
+      "location": 2,
+      "content": "你摸着还真是像肥皂肥皂那种质感",
+      "music": 0.0
+    },
+    {
+      "from": 87.96,
+      "to": 89.0,
+      "sid": 34,
+      "location": 2,
+      "content": "现在汽油有了",
+      "music": 0.0
+    },
+    {
+      "from": 89.0,
+      "to": 90.24,
+      "sid": 35,
+      "location": 2,
+      "content": "咱们去抓",
+      "music": 0.0
+    },
+    {
+      "from": 90.24,
+      "to": 91.76,
+      "sid": 36,
+      "location": 2,
+      "content": "当然也得自己抓了",
+      "music": 0.0
+    },
+    {
+      "from": 91.76,
+      "to": 94.16,
+      "sid": 37,
+      "location": 2,
+      "content": "这刚才我喂的就是它",
+      "music": 0.0
+    },
+    {
+      "from": 112.78,
+      "to": 114.68,
+      "sid": 38,
+      "location": 2,
+      "content": "放进去之后不用老翻它",
+      "music": 0.0
+    },
+    {
+      "from": 114.68,
+      "to": 116.3,
+      "sid": 39,
+      "location": 2,
+      "content": "因为底火没有那么冲",
+      "music": 0.0
+    },
+    {
+      "from": 116.3,
+      "to": 117.82,
+      "sid": 40,
+      "location": 2,
+      "content": "鸡炖上鸡肉那么多",
+      "music": 0.0
+    },
+    {
+      "from": 117.82,
+      "to": 118.66,
+      "sid": 41,
+      "location": 2,
+      "content": "我也吃不完啊",
+      "music": 0.0
+    },
+    {
+      "from": 118.66,
+      "to": 122.62,
+      "sid": 42,
+      "location": 2,
+      "content": "那咱们把当地幼儿园的孩子接过来一起吃吧",
+      "music": 0.0
+    },
+    {
+      "from": 123.56,
+      "to": 127.47,
+      "sid": 43,
+      "location": 2,
+      "content": "来本地幼儿园还和他们玩了一会",
+      "music": 0.0
+    },
+    {
+      "from": 127.47,
+      "to": 130.65,
+      "sid": 44,
+      "location": 2,
+      "content": "我看这个墙上挂了一个牌子",
+      "music": 0.0
+    },
+    {
+      "from": 130.65,
+      "to": 132.57,
+      "sid": 45,
+      "location": 2,
+      "content": "当地的随行人员给我们介绍",
+      "music": 0.0
+    },
+    {
+      "from": 132.57,
+      "to": 134.5,
+      "sid": 46,
+      "location": 2,
+      "content": "这是联劝公益的一个项目",
+      "music": 0.0
+    },
+    {
+      "from": 134.5,
+      "to": 137.94,
+      "sid": 47,
+      "location": 2,
+      "content": "棉券公益资助了这样的学校大概有1000多所",
+      "music": 0.0
+    },
+    {
+      "from": 137.94,
+      "to": 139.9,
+      "sid": 48,
+      "location": 2,
+      "content": "本身这个项目是从10年开始的",
+      "music": 0.0
+    },
+    {
+      "from": 139.9,
+      "to": 142.1,
+      "sid": 49,
+      "location": 2,
+      "content": "孩子们的摄入选择鸡蛋的时候",
+      "music": 0.0
+    },
+    {
+      "from": 142.1,
+      "to": 145.6,
+      "sid": 50,
+      "location": 2,
+      "content": "它的蛋白质的补充对它吸收来说是最好的",
+      "music": 0.0
+    },
+    {
+      "from": 145.6,
+      "to": 148.0,
+      "sid": 51,
+      "location": 2,
+      "content": "像小朋友他们连续吃鸡蛋的话",
+      "music": 0.0
+    },
+    {
+      "from": 148.0,
+      "to": 148.94,
+      "sid": 52,
+      "location": 2,
+      "content": "它们会长高",
+      "music": 0.0
+    },
+    {
+      "from": 148.94,
+      "to": 150.32,
+      "sid": 53,
+      "location": 2,
+      "content": "对应该是长高6cm",
+      "music": 0.0
+    },
+    {
+      "from": 150.32,
+      "to": 153.78,
+      "sid": 54,
+      "location": 2,
+      "content": "然后他们体重的话也能够有很明显的一个上升",
+      "music": 0.0
+    },
+    {
+      "from": 153.78,
+      "to": 154.68,
+      "sid": 55,
+      "location": 2,
+      "content": "带小朋友回来了",
+      "music": 0.0
+    },
+    {
+      "from": 154.68,
+      "to": 155.52,
+      "sid": 56,
+      "location": 2,
+      "content": "我跟你们说",
+      "music": 0.0
+    },
+    {
+      "from": 155.52,
+      "to": 158.76,
+      "sid": 57,
+      "location": 2,
+      "content": "我哄孩子还是真有一套",
+      "music": 0.0
+    },
+    {
+      "from": 160.2,
+      "to": 163.56,
+      "sid": 58,
+      "location": 2,
+      "content": "因为当时打完好怕身体",
+      "music": 0.0
+    },
+    {
+      "from": 163.58,
+      "to": 166.56,
+      "sid": 59,
+      "location": 2,
+      "content": "奥特曼奥特曼这个是什么",
+      "music": 0.0
+    },
+    {
+      "from": 166.56,
+      "to": 167.52,
+      "sid": 60,
+      "location": 2,
+      "content": "是不是黄瓜",
+      "music": 0.0
+    },
+    {
+      "from": 167.52,
+      "to": 170.15,
+      "sid": 61,
+      "location": 2,
+      "content": "你扯什么神奇",
+      "music": 0.0
+    },
+    {
+      "from": 172.25,
+      "to": 173.19,
+      "sid": 62,
+      "location": 2,
+      "content": "跟跟妈妈说",
+      "music": 0.0
+    },
+    {
+      "from": 173.19,
+      "to": 176.03,
+      "sid": 63,
+      "location": 2,
+      "content": "我要买吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 176.03,
+      "to": 176.45,
+      "sid": 64,
+      "location": 2,
+      "content": "做好了",
+      "music": 0.0
+    },
+    {
+      "from": 176.45,
+      "to": 178.12,
+      "sid": 65,
+      "location": 2,
+      "content": "咱们去和孩子们一起吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 178.12,
+      "to": 179.32,
+      "sid": 66,
+      "location": 2,
+      "content": "汽油机这东西啊",
+      "music": 0.0
+    },
+    {
+      "from": 179.32,
+      "to": 180.48,
+      "sid": 67,
+      "location": 2,
+      "content": "网上说的很神秘",
+      "music": 0.0
+    },
+    {
+      "from": 182.96,
+      "to": 185.4,
+      "sid": 68,
+      "location": 2,
+      "content": "这个鸡鸡皮吃的特别的脆",
+      "music": 0.0
+    },
+    {
+      "from": 185.4,
+      "to": 186.92,
+      "sid": 69,
+      "location": 2,
+      "content": "肉特别紧实",
+      "music": 0.0
+    },
+    {
+      "from": 186.92,
+      "to": 188.46,
+      "sid": 70,
+      "location": 2,
+      "content": "调料只放了盐",
+      "music": 0.0
+    },
+    {
+      "from": 188.46,
+      "to": 190.2,
+      "sid": 71,
+      "location": 2,
+      "content": "别的没有汽油",
+      "music": 0.0
+    },
+    {
+      "from": 190.2,
+      "to": 191.3,
+      "sid": 72,
+      "location": 2,
+      "content": "没有什么特殊的味道",
+      "music": 0.0
+    },
+    {
+      "from": 191.3,
+      "to": 193.61,
+      "sid": 73,
+      "location": 2,
+      "content": "但是鸡真的很好吃嘛",
+      "music": 0.0
+    },
+    {
+      "from": 193.685,
+      "to": 195.3,
+      "sid": 74,
+      "location": 2,
+      "content": "汤也很香",
+      "music": 0.0
+    },
+    {
+      "from": 195.3,
+      "to": 197.04,
+      "sid": 75,
+      "location": 2,
+      "content": "今天也算给你们解密了啊",
+      "music": 0.0
+    },
+    {
+      "from": 197.04,
+      "to": 198.82,
+      "sid": 76,
+      "location": 2,
+      "content": "我还想着给你们复刻来着",
+      "music": 0.0
+    },
+    {
+      "from": 198.82,
+      "to": 200.66,
+      "sid": 77,
+      "location": 2,
+      "content": "他们这耳机呢都是这种鸡",
+      "music": 0.0
+    },
+    {
+      "from": 200.66,
+      "to": 201.96,
+      "sid": 78,
+      "location": 2,
+      "content": "平常都很不好找",
+      "music": 0.0
+    },
+    {
+      "from": 201.96,
+      "to": 203.91,
+      "sid": 79,
+      "location": 2,
+      "content": "你们在家估计也找不到好吧",
+      "music": 0.0
+    },
+    {
+      "from": 203.91,
+      "to": 206.14,
+      "sid": 80,
+      "location": 2,
+      "content": "以上就是本期的全部内容了",
+      "music": 0.0
+    },
+    {
+      "from": 206.14,
+      "to": 209.34,
+      "sid": 81,
+      "location": 2,
+      "content": "感谢B站公益和联劝公益对于我们的支持",
+      "music": 0.0
+    },
+    {
+      "from": 209.34,
+      "to": 211.18,
+      "sid": 82,
+      "location": 2,
+      "content": "我们可能会一起共创",
+      "music": 0.0
+    },
+    {
+      "from": 211.18,
+      "to": 213.0,
+      "sid": 83,
+      "location": 2,
+      "content": "或者把他们的账号按在下面",
+      "music": 0.0
+    },
+    {
+      "from": 213.0,
+      "to": 215.56,
+      "sid": 84,
+      "location": 2,
+      "content": "接下来就是好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 215.56,
+      "to": 219.22,
+      "sid": 85,
+      "location": 2,
+      "content": "最后我们邀请大家关注乡村儿童营养健康",
+      "music": 0.0
+    },
+    {
+      "from": 219.22,
+      "to": 221.78,
+      "sid": 86,
+      "location": 2,
+      "content": "让孩子们每天吃上一个鸡蛋",
+      "music": 0.0
+    }
+  ]
+}

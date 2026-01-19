@@ -1,0 +1,380 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.1,
+      "to": 1.72,
+      "sid": 1,
+      "location": 2,
+      "content": "随坡一探烟台吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 1.72,
+      "to": 3.7,
+      "sid": 2,
+      "location": 2,
+      "content": "受到烟台文旅的邀请",
+      "music": 0.0
+    },
+    {
+      "from": 3.7,
+      "to": 7.66,
+      "sid": 3,
+      "location": 2,
+      "content": "来担任魏达美烟台海肠记御厨大赛的评委",
+      "music": 0.0
+    },
+    {
+      "from": 10.94,
+      "to": 13.62,
+      "sid": 4,
+      "location": 2,
+      "content": "这次比赛还真挺有意思",
+      "music": 0.0
+    },
+    {
+      "from": 13.62,
+      "to": 17.94,
+      "sid": 5,
+      "location": 2,
+      "content": "烟台厨师用海肠做了20道菜给你们看一下",
+      "music": 0.0
+    },
+    {
+      "from": 18.95,
+      "to": 21.45,
+      "sid": 6,
+      "location": 2,
+      "content": "也带你们体验一下当评委的第一视角",
+      "music": 0.0
+    },
+    {
+      "from": 21.45,
+      "to": 24.27,
+      "sid": 7,
+      "location": 2,
+      "content": "凉了窝油有创意",
+      "music": 0.0
+    },
+    {
+      "from": 24.27,
+      "to": 25.13,
+      "sid": 8,
+      "location": 2,
+      "content": "海参好吃",
+      "music": 0.0
+    },
+    {
+      "from": 25.13,
+      "to": 26.97,
+      "sid": 9,
+      "location": 2,
+      "content": "吃花蛤吃吃",
+      "music": 0.0
+    },
+    {
+      "from": 26.97,
+      "to": 28.97,
+      "sid": 10,
+      "location": 2,
+      "content": "他是用鸡蛋清吃的",
+      "music": 0.0
+    },
+    {
+      "from": 28.97,
+      "to": 32.51,
+      "sid": 11,
+      "location": 2,
+      "content": "雪莉糊包肉有借助在烟台市的旅游城市",
+      "music": 0.0
+    },
+    {
+      "from": 32.51,
+      "to": 35.09,
+      "sid": 12,
+      "location": 2,
+      "content": "海肠呢是咱当地的一个特点特色",
+      "music": 0.0
+    },
+    {
+      "from": 35.09,
+      "to": 36.01,
+      "sid": 13,
+      "location": 2,
+      "content": "等我发言了",
+      "music": 0.0
+    },
+    {
+      "from": 36.01,
+      "to": 37.51,
+      "sid": 14,
+      "location": 2,
+      "content": "为什么说不好",
+      "music": 0.0
+    },
+    {
+      "from": 37.51,
+      "to": 41.97,
+      "sid": 15,
+      "location": 2,
+      "content": "因为它吃肉的脆嫩香",
+      "music": 0.09120520875553102
+    },
+    {
+      "from": 41.97,
+      "to": 43.55,
+      "sid": 16,
+      "location": 2,
+      "content": "它生长的水域也比较老",
+      "music": 0.0
+    },
+    {
+      "from": 43.55,
+      "to": 44.47,
+      "sid": 17,
+      "location": 2,
+      "content": "生长时间长",
+      "music": 0.0
+    },
+    {
+      "from": 44.47,
+      "to": 45.69,
+      "sid": 18,
+      "location": 2,
+      "content": "肉也特别的厚",
+      "music": 0.0
+    },
+    {
+      "from": 45.69,
+      "to": 47.39,
+      "sid": 19,
+      "location": 2,
+      "content": "鲜味是非常的独特的",
+      "music": 0.0
+    },
+    {
+      "from": 47.39,
+      "to": 51.06,
+      "sid": 20,
+      "location": 2,
+      "content": "古代呢都用海肠晒干了后磨成粉来提鲜味",
+      "music": 0.0
+    },
+    {
+      "from": 51.06,
+      "to": 52.48,
+      "sid": 21,
+      "location": 2,
+      "content": "达美的把它复刻出来了",
+      "music": 0.0
+    },
+    {
+      "from": 52.48,
+      "to": 53.88,
+      "sid": 22,
+      "location": 2,
+      "content": "我看了里边的配料表",
+      "music": 0.0
+    },
+    {
+      "from": 53.88,
+      "to": 55.42,
+      "sid": 23,
+      "location": 2,
+      "content": "还是真的有海茶",
+      "music": 0.0
+    },
+    {
+      "from": 55.42,
+      "to": 57.5,
+      "sid": 24,
+      "location": 2,
+      "content": "晚上呢还有换装环节",
+      "music": 0.0
+    },
+    {
+      "from": 57.5,
+      "to": 59.14,
+      "sid": 25,
+      "location": 2,
+      "content": "请问来者何人",
+      "music": 0.0
+    },
+    {
+      "from": 59.14,
+      "to": 61.94,
+      "sid": 26,
+      "location": 2,
+      "content": "某乃特厨随坡",
+      "music": 0.0
+    },
+    {
+      "from": 61.94,
+      "to": 64.55,
+      "sid": 27,
+      "location": 2,
+      "content": "你们不知道拍这段有多尴尬",
+      "music": 0.0
+    },
+    {
+      "from": 64.55,
+      "to": 66.07,
+      "sid": 28,
+      "location": 2,
+      "content": "旁边全是人",
+      "music": 0.0
+    },
+    {
+      "from": 66.07,
+      "to": 67.83,
+      "sid": 29,
+      "location": 2,
+      "content": "不过得回碰见熟人了",
+      "music": 0.0
+    },
+    {
+      "from": 67.83,
+      "to": 70.93,
+      "sid": 30,
+      "location": 2,
+      "content": "感觉我跟唐老师的颜值跟南翔也差不多",
+      "music": 0.0
+    },
+    {
+      "from": 70.93,
+      "to": 72.71,
+      "sid": 31,
+      "location": 2,
+      "content": "你们觉得呢",
+      "music": 0.0
+    },
+    {
+      "from": 74.48,
+      "to": 76.64,
+      "sid": 32,
+      "location": 2,
+      "content": "晚上还有一顿海肠宴",
+      "music": 0.0
+    },
+    {
+      "from": 76.64,
+      "to": 79.64,
+      "sid": 33,
+      "location": 2,
+      "content": "全部是用海肠做的菜",
+      "music": 0.0
+    },
+    {
+      "from": 81.64,
+      "to": 83.4,
+      "sid": 34,
+      "location": 2,
+      "content": "嗯好吃",
+      "music": 0.0
+    },
+    {
+      "from": 83.4,
+      "to": 85.729,
+      "sid": 35,
+      "location": 2,
+      "content": "今天是不是把以前的菜汤都吃完了",
+      "music": 0.0
+    },
+    {
+      "from": 85.729,
+      "to": 88.789,
+      "sid": 36,
+      "location": 2,
+      "content": "嗯正常情况咱们快把两年的吃完了",
+      "music": 0.0
+    },
+    {
+      "from": 89.569,
+      "to": 90.809,
+      "sid": 37,
+      "location": 2,
+      "content": "海肠确实不错啊",
+      "music": 0.0
+    },
+    {
+      "from": 90.809,
+      "to": 93.849,
+      "sid": 38,
+      "location": 2,
+      "content": "听说这个菜只放了海肠鲜",
+      "music": 0.0
+    },
+    {
+      "from": 95.78,
+      "to": 100.22,
+      "sid": 39,
+      "location": 2,
+      "content": "啧哦这个鲜味还是真的跟其他的鲜味不一样",
+      "music": 0.0
+    },
+    {
+      "from": 100.22,
+      "to": 101.1,
+      "sid": 40,
+      "location": 2,
+      "content": "非常有厚度",
+      "music": 0.0
+    },
+    {
+      "from": 101.1,
+      "to": 102.58,
+      "sid": 41,
+      "location": 2,
+      "content": "不是停留在表面",
+      "music": 0.0
+    },
+    {
+      "from": 102.58,
+      "to": 105.509,
+      "sid": 42,
+      "location": 2,
+      "content": "此乃山东御厨秘方复刻",
+      "music": 0.0
+    },
+    {
+      "from": 108.06,
+      "to": 111.02,
+      "sid": 43,
+      "location": 2,
+      "content": "是一种沉下去的鲜",
+      "music": 0.0
+    },
+    {
+      "from": 111.02,
+      "to": 113.22,
+      "sid": 44,
+      "location": 2,
+      "content": "跟其他的鲜味还真不一样",
+      "music": 0.0
+    },
+    {
+      "from": 113.22,
+      "to": 116.96,
+      "sid": 45,
+      "location": 2,
+      "content": "烟台海肠记一起解锁渤海湾的鲜味密码",
+      "music": 0.0
+    },
+    {
+      "from": 116.96,
+      "to": 118.32,
+      "sid": 46,
+      "location": 2,
+      "content": "走撤退",
+      "music": 0.0
+    }
+  ]
+}

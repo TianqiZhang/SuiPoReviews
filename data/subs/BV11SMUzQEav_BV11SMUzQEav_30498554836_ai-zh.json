@@ -1,0 +1,772 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 3.4,
+      "to": 4.72,
+      "sid": 1,
+      "location": 2,
+      "content": "真香随波一探",
+      "music": 0.0
+    },
+    {
+      "from": 4.72,
+      "to": 5.48,
+      "sid": 2,
+      "location": 2,
+      "content": "好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 5.48,
+      "to": 8.1,
+      "sid": 3,
+      "location": 2,
+      "content": "这个账号建立以来第一个全好评餐厅",
+      "music": 0.0
+    },
+    {
+      "from": 8.1,
+      "to": 13.05,
+      "sid": 4,
+      "location": 2,
+      "content": "四川成都凤凰芙蓉黄餐厅",
+      "music": 0.0
+    },
+    {
+      "from": 13.05,
+      "to": 14.77,
+      "sid": 5,
+      "location": 2,
+      "content": "548",
+      "music": 0.0
+    },
+    {
+      "from": 18.1,
+      "to": 19.42,
+      "sid": 6,
+      "location": 2,
+      "content": "宫保鸡丁48",
+      "music": 0.0
+    },
+    {
+      "from": 21.82,
+      "to": 23.38,
+      "sid": 7,
+      "location": 2,
+      "content": "说实话这味儿做的还可以哦",
+      "music": 0.0
+    },
+    {
+      "from": 23.38,
+      "to": 25.14,
+      "sid": 8,
+      "location": 2,
+      "content": "小梨汁味口挺小的",
+      "music": 0.0
+    },
+    {
+      "from": 25.14,
+      "to": 26.14,
+      "sid": 9,
+      "location": 2,
+      "content": "就吃着很舒服",
+      "music": 0.0
+    },
+    {
+      "from": 26.14,
+      "to": 27.64,
+      "sid": 10,
+      "location": 2,
+      "content": "没有那么重的酸甜味",
+      "music": 0.0
+    },
+    {
+      "from": 27.64,
+      "to": 30.57,
+      "sid": 11,
+      "location": 2,
+      "content": "你们看这个鸡丁里边辣椒煸的这个颜色",
+      "music": 0.0
+    },
+    {
+      "from": 30.57,
+      "to": 31.69,
+      "sid": 12,
+      "location": 2,
+      "content": "这是完全对的啊",
+      "music": 0.0
+    },
+    {
+      "from": 31.69,
+      "to": 32.69,
+      "sid": 13,
+      "location": 2,
+      "content": "香味也出来了",
+      "music": 0.0
+    },
+    {
+      "from": 32.69,
+      "to": 33.37,
+      "sid": 14,
+      "location": 2,
+      "content": "不苦",
+      "music": 0.0
+    },
+    {
+      "from": 33.37,
+      "to": 35.2,
+      "sid": 15,
+      "location": 2,
+      "content": "体现出那种糊辣的味型",
+      "music": 0.0
+    },
+    {
+      "from": 35.2,
+      "to": 37.0,
+      "sid": 16,
+      "location": 2,
+      "content": "乡村萝卜干28",
+      "music": 0.0
+    },
+    {
+      "from": 37.0,
+      "to": 40.88,
+      "sid": 17,
+      "location": 2,
+      "content": "他一碟小咸菜卖不卖还是八不能尝一下",
+      "music": 0.0
+    },
+    {
+      "from": 43.04,
+      "to": 44.4,
+      "sid": 18,
+      "location": 2,
+      "content": "诶别说贵啊",
+      "music": 0.0
+    },
+    {
+      "from": 44.4,
+      "to": 45.78,
+      "sid": 19,
+      "location": 2,
+      "content": "我跟你说这个味道还可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 45.78,
+      "to": 46.64,
+      "sid": 20,
+      "location": 2,
+      "content": "挺好吃的",
+      "music": 0.0
+    },
+    {
+      "from": 46.64,
+      "to": 48.0,
+      "sid": 21,
+      "location": 2,
+      "content": "萝卜干搁点辣椒",
+      "music": 0.0
+    },
+    {
+      "from": 48.0,
+      "to": 48.76,
+      "sid": 22,
+      "location": 2,
+      "content": "搁点糖",
+      "music": 0.0
+    },
+    {
+      "from": 48.76,
+      "to": 50.68,
+      "sid": 23,
+      "location": 2,
+      "content": "然后好像还有麻味",
+      "music": 0.0
+    },
+    {
+      "from": 50.68,
+      "to": 54.47,
+      "sid": 24,
+      "location": 2,
+      "content": "咔一拌嘶还挺好吃",
+      "music": 0.0
+    },
+    {
+      "from": 54.47,
+      "to": 56.15,
+      "sid": 25,
+      "location": 2,
+      "content": "他这萝卜干妈好好吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 57.29,
+      "to": 57.83,
+      "sid": 26,
+      "location": 2,
+      "content": "干吃",
+      "music": 0.0
+    },
+    {
+      "from": 57.83,
+      "to": 59.29,
+      "sid": 27,
+      "location": 2,
+      "content": "把那个萝卜干吃完了",
+      "music": 0.0
+    },
+    {
+      "from": 59.29,
+      "to": 60.39,
+      "sid": 28,
+      "location": 2,
+      "content": "雪花鸡汤",
+      "music": 0.0
+    },
+    {
+      "from": 60.39,
+      "to": 61.05,
+      "sid": 29,
+      "location": 2,
+      "content": "78",
+      "music": 0.0
+    },
+    {
+      "from": 61.05,
+      "to": 63.61,
+      "sid": 30,
+      "location": 2,
+      "content": "川菜不辣的菜",
+      "music": 0.0
+    },
+    {
+      "from": 65.78,
+      "to": 69.74,
+      "sid": 31,
+      "location": 2,
+      "content": "给我尝一下上面撒的是不是是不是火腿沫啊",
+      "music": 0.0
+    },
+    {
+      "from": 70.66,
+      "to": 72.92,
+      "sid": 32,
+      "location": 2,
+      "content": "嗯嗯嗯筋道",
+      "music": 0.0
+    },
+    {
+      "from": 72.92,
+      "to": 76.79,
+      "sid": 33,
+      "location": 2,
+      "content": "入口是软滑鲜香嫩",
+      "music": 0.0
+    },
+    {
+      "from": 76.79,
+      "to": 80.02,
+      "sid": 34,
+      "location": 2,
+      "content": "这整个其实就是鸡茸蛋泡糊汤",
+      "music": 0.0
+    },
+    {
+      "from": 80.02,
+      "to": 82.7,
+      "sid": 35,
+      "location": 2,
+      "content": "打好之后下锅一推就像雪花一样",
+      "music": 0.0
+    },
+    {
+      "from": 82.7,
+      "to": 83.98,
+      "sid": 36,
+      "location": 2,
+      "content": "所以叫雪花提档",
+      "music": 0.0
+    },
+    {
+      "from": 83.98,
+      "to": 86.75,
+      "sid": 37,
+      "location": 2,
+      "content": "川菜不辣的菜是不是都好像挺费工夫的",
+      "music": 0.0
+    },
+    {
+      "from": 87.55,
+      "to": 89.23,
+      "sid": 38,
+      "location": 2,
+      "content": "好像是诶哈哈哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 89.23,
+      "to": 90.95,
+      "sid": 39,
+      "location": 2,
+      "content": "谢谢大家看这么硬的一个专场",
+      "music": 0.0
+    },
+    {
+      "from": 90.95,
+      "to": 92.11,
+      "sid": 40,
+      "location": 2,
+      "content": "这个广告是不拍的啊",
+      "music": 0.0
+    },
+    {
+      "from": 92.11,
+      "to": 93.33,
+      "sid": 41,
+      "location": 2,
+      "content": "我们是觉得这样有点硬",
+      "music": 0.0
+    },
+    {
+      "from": 93.33,
+      "to": 94.88,
+      "sid": 42,
+      "location": 2,
+      "content": "但是妙姐说完全没问题",
+      "music": 0.0
+    },
+    {
+      "from": 94.88,
+      "to": 97.12,
+      "sid": 43,
+      "location": 2,
+      "content": "这段时间我们确实多多少少遇点问题",
+      "music": 0.0
+    },
+    {
+      "from": 97.12,
+      "to": 98.94,
+      "sid": 44,
+      "location": 2,
+      "content": "好在除了各位粉丝朋友们",
+      "music": 0.0
+    },
+    {
+      "from": 98.94,
+      "to": 100.78,
+      "sid": 45,
+      "location": 2,
+      "content": "还有妙界一直在尽力支持我们",
+      "music": 0.0
+    },
+    {
+      "from": 100.78,
+      "to": 102.1,
+      "sid": 46,
+      "location": 2,
+      "content": "所以和妙界合作",
+      "music": 0.0
+    },
+    {
+      "from": 102.1,
+      "to": 103.98,
+      "sid": 47,
+      "location": 2,
+      "content": "我和小李我们是完全没有犹豫的",
+      "music": 0.0
+    },
+    {
+      "from": 103.98,
+      "to": 104.98,
+      "sid": 48,
+      "location": 2,
+      "content": "一是确实有兴奋在",
+      "music": 0.0
+    },
+    {
+      "from": 104.98,
+      "to": 107.3,
+      "sid": 49,
+      "location": 2,
+      "content": "二是东西我自己用的确实觉得也不错",
+      "music": 0.0
+    },
+    {
+      "from": 107.3,
+      "to": 108.5,
+      "sid": 50,
+      "location": 2,
+      "content": "也收到了很多好评",
+      "music": 0.0
+    },
+    {
+      "from": 108.5,
+      "to": 109.54,
+      "sid": 51,
+      "location": 2,
+      "content": "推荐出来也放心",
+      "music": 0.0
+    },
+    {
+      "from": 111.9,
+      "to": 113.74,
+      "sid": 52,
+      "location": 2,
+      "content": "当之无愧的按摩类top1了",
+      "music": 0.0
+    },
+    {
+      "from": 113.74,
+      "to": 115.4,
+      "sid": 53,
+      "location": 2,
+      "content": "手法和配置都很突出",
+      "music": 0.0
+    },
+    {
+      "from": 115.4,
+      "to": 117.12,
+      "sid": 54,
+      "location": 2,
+      "content": "8D安摩托就像人手一样",
+      "music": 0.0
+    },
+    {
+      "from": 117.12,
+      "to": 118.88,
+      "sid": 55,
+      "location": 2,
+      "content": "抓住脖子和斜方肌的穴位",
+      "music": 0.0
+    },
+    {
+      "from": 118.88,
+      "to": 119.66,
+      "sid": 56,
+      "location": 2,
+      "content": "特别深入",
+      "music": 0.0
+    },
+    {
+      "from": 119.66,
+      "to": 121.56,
+      "sid": 57,
+      "location": 2,
+      "content": "两档热敷配合三档力度",
+      "music": 0.0
+    },
+    {
+      "from": 121.56,
+      "to": 123.44,
+      "sid": 58,
+      "location": 2,
+      "content": "十几分钟就能推开肩背的硬度",
+      "music": 0.0
+    },
+    {
+      "from": 123.44,
+      "to": 124.04,
+      "sid": 59,
+      "location": 2,
+      "content": "保护颈椎",
+      "music": 0.0
+    },
+    {
+      "from": 124.04,
+      "to": 126.2,
+      "sid": 60,
+      "location": 2,
+      "content": "休息时还能按摩腰背和小腿",
+      "music": 0.0
+    },
+    {
+      "from": 126.2,
+      "to": 128.44,
+      "sid": 61,
+      "location": 2,
+      "content": "工作干活时呢就这么扣上",
+      "music": 0.0
+    },
+    {
+      "from": 128.44,
+      "to": 129.56,
+      "sid": 62,
+      "location": 2,
+      "content": "也不耽误做事",
+      "music": 0.0
+    },
+    {
+      "from": 129.56,
+      "to": 130.12,
+      "sid": 63,
+      "location": 2,
+      "content": "老朋友了",
+      "music": 0.0
+    },
+    {
+      "from": 130.12,
+      "to": 131.04,
+      "sid": 64,
+      "location": 2,
+      "content": "卖点就不啰嗦了",
+      "music": 0.0
+    },
+    {
+      "from": 131.04,
+      "to": 132.56,
+      "sid": 65,
+      "location": 2,
+      "content": "品牌诚意在领券叠加",
+      "music": 0.0
+    },
+    {
+      "from": 132.56,
+      "to": 134.98,
+      "sid": 66,
+      "location": 2,
+      "content": "现在618立减活动可以拿到全年底价",
+      "music": 0.0
+    },
+    {
+      "from": 134.98,
+      "to": 136.18,
+      "sid": 67,
+      "location": 2,
+      "content": "质保售后齐全",
+      "music": 0.0
+    },
+    {
+      "from": 136.18,
+      "to": 137.78,
+      "sid": 68,
+      "location": 2,
+      "content": "大家有需要可以支持一下",
+      "music": 0.0
+    },
+    {
+      "from": 137.78,
+      "to": 139.62,
+      "sid": 69,
+      "location": 2,
+      "content": "青菜腊肉烘泰米",
+      "music": 0.0
+    },
+    {
+      "from": 139.62,
+      "to": 140.38,
+      "sid": 70,
+      "location": 2,
+      "content": "58",
+      "music": 0.0
+    },
+    {
+      "from": 140.38,
+      "to": 141.42,
+      "sid": 71,
+      "location": 2,
+      "content": "真香啊",
+      "music": 0.0
+    },
+    {
+      "from": 141.42,
+      "to": 142.9,
+      "sid": 72,
+      "location": 2,
+      "content": "真香有锅气味",
+      "music": 0.0
+    },
+    {
+      "from": 142.9,
+      "to": 146.58,
+      "sid": 73,
+      "location": 2,
+      "content": "有腊肉的味儿挺香的",
+      "music": 0.0
+    },
+    {
+      "from": 148.71,
+      "to": 151.36,
+      "sid": 74,
+      "location": 2,
+      "content": "米饭搁嘴里一嚼就很有弹性",
+      "music": 0.0
+    },
+    {
+      "from": 151.36,
+      "to": 154.7,
+      "sid": 75,
+      "location": 2,
+      "content": "干香腊肉和酱油的那个味道都出来了",
+      "music": 0.0
+    },
+    {
+      "from": 154.7,
+      "to": 156.64,
+      "sid": 76,
+      "location": 2,
+      "content": "这腊肉选的还是老腊肉",
+      "music": 0.0
+    },
+    {
+      "from": 156.64,
+      "to": 157.6,
+      "sid": 77,
+      "location": 2,
+      "content": "卖挺贵的",
+      "music": 0.0
+    },
+    {
+      "from": 157.6,
+      "to": 158.38,
+      "sid": 78,
+      "location": 2,
+      "content": "但挺好吃",
+      "music": 0.0
+    },
+    {
+      "from": 158.38,
+      "to": 160.38,
+      "sid": 79,
+      "location": 2,
+      "content": "确实挺好吃的",
+      "music": 0.0
+    },
+    {
+      "from": 161.22,
+      "to": 164.56,
+      "sid": 80,
+      "location": 2,
+      "content": "嗯嗯真香",
+      "music": 0.0
+    },
+    {
+      "from": 164.56,
+      "to": 166.44,
+      "sid": 81,
+      "location": 2,
+      "content": "大蒜烧土鳝鱼",
+      "music": 0.0
+    },
+    {
+      "from": 166.44,
+      "to": 168.1,
+      "sid": 82,
+      "location": 2,
+      "content": "198",
+      "music": 0.0
+    },
+    {
+      "from": 168.49,
+      "to": 170.23,
+      "sid": 83,
+      "location": 2,
+      "content": "烧开了",
+      "music": 0.0
+    },
+    {
+      "from": 170.23,
+      "to": 173.24,
+      "sid": 84,
+      "location": 2,
+      "content": "鳝鱼的咸香酥烂",
+      "music": 0.0
+    },
+    {
+      "from": 173.24,
+      "to": 174.4,
+      "sid": 85,
+      "location": 2,
+      "content": "回口是麻的",
+      "music": 0.0
+    },
+    {
+      "from": 174.4,
+      "to": 176.88,
+      "sid": 86,
+      "location": 2,
+      "content": "你看他用的这个鳝片呢还是挺厚的",
+      "music": 0.0
+    },
+    {
+      "from": 176.88,
+      "to": 178.02,
+      "sid": 87,
+      "location": 2,
+      "content": "炸的程度也合适",
+      "music": 0.0
+    },
+    {
+      "from": 181.18,
+      "to": 181.5,
+      "sid": 88,
+      "location": 2,
+      "content": "好",
+      "music": 0.0
+    },
+    {
+      "from": 181.5,
+      "to": 182.26,
+      "sid": 89,
+      "location": 2,
+      "content": "我们做个总结",
+      "music": 0.0
+    },
+    {
+      "from": 182.26,
+      "to": 184.14,
+      "sid": 90,
+      "location": 2,
+      "content": "今儿我们吃了548",
+      "music": 0.0
+    },
+    {
+      "from": 184.14,
+      "to": 184.98,
+      "sid": 91,
+      "location": 2,
+      "content": "四五个人的量",
+      "music": 0.0
+    },
+    {
+      "from": 184.98,
+      "to": 186.38,
+      "sid": 92,
+      "location": 2,
+      "content": "我们三个人给他干得差不多了",
+      "music": 0.0
+    },
+    {
+      "from": 186.38,
+      "to": 187.26,
+      "sid": 93,
+      "location": 2,
+      "content": "这顿吃下来啊",
+      "music": 0.0
+    },
+    {
+      "from": 187.26,
+      "to": 189.14,
+      "sid": 94,
+      "location": 2,
+      "content": "唯一的缺点就是",
+      "music": 0.0
+    },
+    {
+      "from": 191.2,
+      "to": 192.92,
+      "sid": 95,
+      "location": 2,
+      "content": "啊啊哈哈",
+      "music": 0.0
+    }
+  ]
+}

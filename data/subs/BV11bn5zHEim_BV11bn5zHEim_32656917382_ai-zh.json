@@ -1,0 +1,908 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "sync-v1.7.0.4",
+  "body": [
+    {
+      "from": 0.2,
+      "to": 1.26,
+      "sid": 1,
+      "location": 2,
+      "content": "来给你们做个菜",
+      "music": 0.0
+    },
+    {
+      "from": 1.26,
+      "to": 3.8,
+      "sid": 2,
+      "location": 2,
+      "content": "今天做一个你们没见过的",
+      "music": 0.0
+    },
+    {
+      "from": 3.8,
+      "to": 6.68,
+      "sid": 3,
+      "location": 2,
+      "content": "特别的简单又方便炒牛肉",
+      "music": 0.0
+    },
+    {
+      "from": 11.66,
+      "to": 14.1,
+      "sid": 4,
+      "location": 2,
+      "content": "准备萝卜把它切了",
+      "music": 0.0
+    },
+    {
+      "from": 14.1,
+      "to": 17.82,
+      "sid": 5,
+      "location": 2,
+      "content": "先切片后切条",
+      "music": 0.0
+    },
+    {
+      "from": 22.6,
+      "to": 26.23,
+      "sid": 6,
+      "location": 2,
+      "content": "切完之后把它加入食用盐搅拌均匀",
+      "music": 0.0
+    },
+    {
+      "from": 26.23,
+      "to": 27.53,
+      "sid": 7,
+      "location": 2,
+      "content": "这是盐搁里头",
+      "music": 0.0
+    },
+    {
+      "from": 27.53,
+      "to": 28.87,
+      "sid": 8,
+      "location": 2,
+      "content": "咱们拌化了就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 28.87,
+      "to": 31.99,
+      "sid": 9,
+      "location": 2,
+      "content": "慢慢的他就会把萝卜杀出一些水分",
+      "music": 0.0
+    },
+    {
+      "from": 31.99,
+      "to": 33.63,
+      "sid": 10,
+      "location": 2,
+      "content": "正常阳光明媚的日子",
+      "music": 0.0
+    },
+    {
+      "from": 33.63,
+      "to": 35.31,
+      "sid": 11,
+      "location": 2,
+      "content": "咱们也得晒一周吧",
+      "music": 0.0
+    },
+    {
+      "from": 35.31,
+      "to": 37.129,
+      "sid": 12,
+      "location": 2,
+      "content": "这个就是晒好的",
+      "music": 0.0
+    },
+    {
+      "from": 37.129,
+      "to": 38.009,
+      "sid": 13,
+      "location": 2,
+      "content": "把灰尘啊",
+      "music": 0.0
+    },
+    {
+      "from": 38.009,
+      "to": 39.049,
+      "sid": 14,
+      "location": 2,
+      "content": "泥沙都给它洗干净",
+      "music": 0.0
+    },
+    {
+      "from": 39.049,
+      "to": 40.249,
+      "sid": 15,
+      "location": 2,
+      "content": "就变成这种状态了",
+      "music": 0.0
+    },
+    {
+      "from": 40.249,
+      "to": 41.049,
+      "sid": 16,
+      "location": 2,
+      "content": "同样的方法",
+      "music": 0.0
+    },
+    {
+      "from": 41.049,
+      "to": 42.609,
+      "sid": 17,
+      "location": 2,
+      "content": "你们可以用白萝卜",
+      "music": 0.0
+    },
+    {
+      "from": 42.609,
+      "to": 45.26,
+      "sid": 18,
+      "location": 2,
+      "content": "黄瓜什么笋都可以",
+      "music": 0.0
+    },
+    {
+      "from": 45.26,
+      "to": 46.44,
+      "sid": 19,
+      "location": 2,
+      "content": "然后咱里边加什么",
+      "music": 0.0
+    },
+    {
+      "from": 46.44,
+      "to": 47.12,
+      "sid": 20,
+      "location": 2,
+      "content": "加辣椒面",
+      "music": 0.0
+    },
+    {
+      "from": 47.12,
+      "to": 49.76,
+      "sid": 21,
+      "location": 2,
+      "content": "辣椒面倒进去",
+      "music": 0.0
+    },
+    {
+      "from": 50.9,
+      "to": 54.74,
+      "sid": 22,
+      "location": 2,
+      "content": "加盐加点味精抓就行了",
+      "music": 0.0
+    },
+    {
+      "from": 54.74,
+      "to": 59.34,
+      "sid": 23,
+      "location": 2,
+      "content": "一抓它里边的每根萝卜上面都会沾上这个辣椒面",
+      "music": 0.0
+    },
+    {
+      "from": 59.34,
+      "to": 60.5,
+      "sid": 24,
+      "location": 2,
+      "content": "就可以放冰箱了",
+      "music": 0.0
+    },
+    {
+      "from": 60.5,
+      "to": 61.1,
+      "sid": 25,
+      "location": 2,
+      "content": "嘴急的",
+      "music": 0.0
+    },
+    {
+      "from": 61.1,
+      "to": 62.54,
+      "sid": 26,
+      "location": 2,
+      "content": "现在就能吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 66.6,
+      "to": 68.44,
+      "sid": 27,
+      "location": 2,
+      "content": "需要腌制七天",
+      "music": 0.0
+    },
+    {
+      "from": 68.44,
+      "to": 69.96,
+      "sid": 28,
+      "location": 2,
+      "content": "它的味道才能渗进去啊",
+      "music": 0.0
+    },
+    {
+      "from": 69.96,
+      "to": 71.44,
+      "sid": 29,
+      "location": 2,
+      "content": "放到冰箱里面腌就行了",
+      "music": 0.0
+    },
+    {
+      "from": 71.44,
+      "to": 73.2,
+      "sid": 30,
+      "location": 2,
+      "content": "这个是前几天腌好的",
+      "music": 0.0
+    },
+    {
+      "from": 73.2,
+      "to": 75.54,
+      "sid": 31,
+      "location": 2,
+      "content": "现在先教你们第一种吃法",
+      "music": 0.0
+    },
+    {
+      "from": 75.54,
+      "to": 77.5,
+      "sid": 32,
+      "location": 2,
+      "content": "就是直接吃萝卜",
+      "music": 0.0
+    },
+    {
+      "from": 77.5,
+      "to": 78.62,
+      "sid": 33,
+      "location": 2,
+      "content": "那不好的味道都没有了",
+      "music": 0.0
+    },
+    {
+      "from": 78.62,
+      "to": 81.78,
+      "sid": 34,
+      "location": 2,
+      "content": "留下了萝卜的那点甜辣咸香",
+      "music": 0.0
+    },
+    {
+      "from": 81.78,
+      "to": 82.52,
+      "sid": 35,
+      "location": 2,
+      "content": "平常啊",
+      "music": 0.0
+    },
+    {
+      "from": 82.52,
+      "to": 83.1,
+      "sid": 36,
+      "location": 2,
+      "content": "配个粥",
+      "music": 0.0
+    },
+    {
+      "from": 83.1,
+      "to": 83.86,
+      "sid": 37,
+      "location": 2,
+      "content": "配个馒头",
+      "music": 0.0
+    },
+    {
+      "from": 83.86,
+      "to": 85.04,
+      "sid": 38,
+      "location": 2,
+      "content": "而且都非常不错",
+      "music": 0.0
+    },
+    {
+      "from": 85.04,
+      "to": 88.07,
+      "sid": 39,
+      "location": 2,
+      "content": "第二种呢就给它炒一下加油",
+      "music": 0.0
+    },
+    {
+      "from": 88.07,
+      "to": 90.05,
+      "sid": 40,
+      "location": 2,
+      "content": "然后把大料放进去",
+      "music": 0.0
+    },
+    {
+      "from": 90.05,
+      "to": 95.559,
+      "sid": 41,
+      "location": 2,
+      "content": "大蒜葱全都编这种黄黄的颜色",
+      "music": 0.0
+    },
+    {
+      "from": 95.559,
+      "to": 97.22,
+      "sid": 42,
+      "location": 2,
+      "content": "焦黄焦黄",
+      "music": 0.0
+    },
+    {
+      "from": 97.66,
+      "to": 99.74,
+      "sid": 43,
+      "location": 2,
+      "content": "然后就把这个咱们的咸菜倒进去",
+      "music": 0.0
+    },
+    {
+      "from": 101.3,
+      "to": 102.02,
+      "sid": 44,
+      "location": 2,
+      "content": "把它炒热",
+      "music": 0.0
+    },
+    {
+      "from": 102.02,
+      "to": 105.4,
+      "sid": 45,
+      "location": 2,
+      "content": "炒透来点酱油",
+      "music": 0.0
+    },
+    {
+      "from": 113.94,
+      "to": 115.18,
+      "sid": 46,
+      "location": 2,
+      "content": "那就下手没关系啊",
+      "music": 0.0
+    },
+    {
+      "from": 115.18,
+      "to": 116.6,
+      "sid": 47,
+      "location": 2,
+      "content": "下手没关系",
+      "music": 0.0
+    },
+    {
+      "from": 118.16,
+      "to": 120.12,
+      "sid": 48,
+      "location": 2,
+      "content": "小米汁它现在吃的更润了",
+      "music": 0.0
+    },
+    {
+      "from": 120.12,
+      "to": 121.22,
+      "sid": 49,
+      "location": 2,
+      "content": "刚才有有油了",
+      "music": 0.0
+    },
+    {
+      "from": 121.22,
+      "to": 123.52,
+      "sid": 50,
+      "location": 2,
+      "content": "里边多了很多那种复合味",
+      "music": 0.0
+    },
+    {
+      "from": 123.52,
+      "to": 125.92,
+      "sid": 51,
+      "location": 2,
+      "content": "如果碰巧你家境比较雄厚",
+      "music": 0.0
+    },
+    {
+      "from": 125.92,
+      "to": 127.34,
+      "sid": 52,
+      "location": 2,
+      "content": "家里边还有点肉的话",
+      "music": 0.0
+    },
+    {
+      "from": 127.34,
+      "to": 128.2,
+      "sid": 53,
+      "location": 2,
+      "content": "就能解锁",
+      "music": 0.0
+    },
+    {
+      "from": 128.2,
+      "to": 129.88,
+      "sid": 54,
+      "location": 2,
+      "content": "第三种吃法",
+      "music": 0.0
+    },
+    {
+      "from": 130.61,
+      "to": 133.21,
+      "sid": 55,
+      "location": 2,
+      "content": "牛肉要顶刀切啊",
+      "music": 0.0
+    },
+    {
+      "from": 134.86,
+      "to": 141.92,
+      "sid": 56,
+      "location": 2,
+      "content": "然后我们把切好的牛肉辣椒姜丝蒜放到一起",
+      "music": 0.0
+    },
+    {
+      "from": 141.92,
+      "to": 143.76,
+      "sid": 57,
+      "location": 2,
+      "content": "加酱油",
+      "music": 0.0
+    },
+    {
+      "from": 145.43,
+      "to": 148.15,
+      "sid": 58,
+      "location": 2,
+      "content": "味精抓匀",
+      "music": 0.0
+    },
+    {
+      "from": 149.25,
+      "to": 150.65,
+      "sid": 59,
+      "location": 2,
+      "content": "这种腌法就很简单",
+      "music": 0.0
+    },
+    {
+      "from": 150.65,
+      "to": 151.09,
+      "sid": 60,
+      "location": 2,
+      "content": "就入味",
+      "music": 0.0
+    },
+    {
+      "from": 151.09,
+      "to": 152.61,
+      "sid": 61,
+      "location": 2,
+      "content": "一抓它就进了萝卜干",
+      "music": 0.0
+    },
+    {
+      "from": 152.61,
+      "to": 154.97,
+      "sid": 62,
+      "location": 2,
+      "content": "把这长的要斩一下",
+      "music": 0.0
+    },
+    {
+      "from": 155.69,
+      "to": 157.31,
+      "sid": 63,
+      "location": 2,
+      "content": "现在就可以准备炒了",
+      "music": 0.0
+    },
+    {
+      "from": 157.31,
+      "to": 159.15,
+      "sid": 64,
+      "location": 2,
+      "content": "加油烧热",
+      "music": 0.0
+    },
+    {
+      "from": 159.15,
+      "to": 160.39,
+      "sid": 65,
+      "location": 2,
+      "content": "把蒜放进去",
+      "music": 0.0
+    },
+    {
+      "from": 160.39,
+      "to": 162.13,
+      "sid": 66,
+      "location": 2,
+      "content": "还有姜",
+      "music": 0.0
+    },
+    {
+      "from": 166.42,
+      "to": 168.06,
+      "sid": 67,
+      "location": 2,
+      "content": "把蒜煸到金黄",
+      "music": 0.0
+    },
+    {
+      "from": 168.06,
+      "to": 169.7,
+      "sid": 68,
+      "location": 2,
+      "content": "下牛肉",
+      "music": 0.0
+    },
+    {
+      "from": 171.2,
+      "to": 173.88,
+      "sid": 69,
+      "location": 2,
+      "content": "你看刚才下去呼温度就下去了",
+      "music": 0.0
+    },
+    {
+      "from": 173.88,
+      "to": 174.4,
+      "sid": 70,
+      "location": 2,
+      "content": "温度下去",
+      "music": 0.0
+    },
+    {
+      "from": 174.4,
+      "to": 175.18,
+      "sid": 71,
+      "location": 2,
+      "content": "你不用搭理它",
+      "music": 0.0
+    },
+    {
+      "from": 175.18,
+      "to": 177.28,
+      "sid": 72,
+      "location": 2,
+      "content": "它马上会上来的",
+      "music": 0.0
+    },
+    {
+      "from": 178.29,
+      "to": 180.77,
+      "sid": 73,
+      "location": 2,
+      "content": "变色就把萝卜干倒进去",
+      "music": 0.0
+    },
+    {
+      "from": 183.6,
+      "to": 185.18,
+      "sid": 74,
+      "location": 2,
+      "content": "锅底下噼里啪啦爆响",
+      "music": 0.0
+    },
+    {
+      "from": 185.18,
+      "to": 186.68,
+      "sid": 75,
+      "location": 2,
+      "content": "证明里边水分很多",
+      "music": 0.0
+    },
+    {
+      "from": 186.68,
+      "to": 187.56,
+      "sid": 76,
+      "location": 2,
+      "content": "别搭理他",
+      "music": 0.0
+    },
+    {
+      "from": 187.56,
+      "to": 189.12,
+      "sid": 77,
+      "location": 2,
+      "content": "糊不了",
+      "music": 0.0
+    },
+    {
+      "from": 190.359,
+      "to": 190.959,
+      "sid": 78,
+      "location": 2,
+      "content": "看锅底",
+      "music": 0.0
+    },
+    {
+      "from": 190.959,
+      "to": 192.899,
+      "sid": 79,
+      "location": 2,
+      "content": "这样几乎就没这水分了",
+      "music": 0.0
+    },
+    {
+      "from": 192.899,
+      "to": 194.879,
+      "sid": 80,
+      "location": 2,
+      "content": "好了出锅了",
+      "music": 0.0
+    },
+    {
+      "from": 202.2,
+      "to": 205.58,
+      "sid": 81,
+      "location": 2,
+      "content": "因为那个萝卜干本身就很好吃了",
+      "music": 0.0
+    },
+    {
+      "from": 205.58,
+      "to": 208.6,
+      "sid": 82,
+      "location": 2,
+      "content": "它就是外面是咸辣萝卜干那种甜",
+      "music": 0.0
+    },
+    {
+      "from": 208.6,
+      "to": 210.12,
+      "sid": 83,
+      "location": 2,
+      "content": "然后高温一炒",
+      "music": 0.0
+    },
+    {
+      "from": 210.12,
+      "to": 212.86,
+      "sid": 84,
+      "location": 2,
+      "content": "把那个香味全部都炒出来了",
+      "music": 0.0
+    },
+    {
+      "from": 212.86,
+      "to": 215.18,
+      "sid": 85,
+      "location": 2,
+      "content": "再加上牛肉本身牛油的香",
+      "music": 0.0
+    },
+    {
+      "from": 215.18,
+      "to": 216.5,
+      "sid": 86,
+      "location": 2,
+      "content": "你们都知道我的风格啊",
+      "music": 0.0
+    },
+    {
+      "from": 216.5,
+      "to": 219.12,
+      "sid": 87,
+      "location": 2,
+      "content": "给你们浇的菜冗余都是非常大的",
+      "music": 0.0
+    },
+    {
+      "from": 219.12,
+      "to": 220.42,
+      "sid": 88,
+      "location": 2,
+      "content": "我们今天用的是牛肉",
+      "music": 0.0
+    },
+    {
+      "from": 220.42,
+      "to": 221.98,
+      "sid": 89,
+      "location": 2,
+      "content": "那么你在家里用鸡肉啊",
+      "music": 0.0
+    },
+    {
+      "from": 221.98,
+      "to": 222.7,
+      "sid": 90,
+      "location": 2,
+      "content": "羊肉啊",
+      "music": 0.0
+    },
+    {
+      "from": 222.7,
+      "to": 223.9,
+      "sid": 91,
+      "location": 2,
+      "content": "哎都可以都可以",
+      "music": 0.0
+    },
+    {
+      "from": 223.9,
+      "to": 225.54,
+      "sid": 92,
+      "location": 2,
+      "content": "那家里没萝卜怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 225.54,
+      "to": 226.66,
+      "sid": 93,
+      "location": 2,
+      "content": "家里边你要没萝卜的",
+      "music": 0.0
+    },
+    {
+      "from": 226.66,
+      "to": 227.78,
+      "sid": 94,
+      "location": 2,
+      "content": "就用那个黄瓜呀",
+      "music": 0.0
+    },
+    {
+      "from": 227.78,
+      "to": 229.4,
+      "sid": 95,
+      "location": 2,
+      "content": "贡菜呀去腌一腌也可以",
+      "music": 0.0
+    },
+    {
+      "from": 229.4,
+      "to": 230.42,
+      "sid": 96,
+      "location": 2,
+      "content": "你要实在不想咽",
+      "music": 0.0
+    },
+    {
+      "from": 230.42,
+      "to": 231.38,
+      "sid": 97,
+      "location": 2,
+      "content": "你就买包榨菜",
+      "music": 0.0
+    },
+    {
+      "from": 231.38,
+      "to": 232.6,
+      "sid": 98,
+      "location": 2,
+      "content": "然后稍微洗一下",
+      "music": 0.0
+    },
+    {
+      "from": 232.6,
+      "to": 233.86,
+      "sid": 99,
+      "location": 2,
+      "content": "用辣椒面拌一下",
+      "music": 0.0
+    },
+    {
+      "from": 233.86,
+      "to": 236.2,
+      "sid": 100,
+      "location": 2,
+      "content": "同样用萝卜炒萝卜的方法给他炒一下",
+      "music": 0.0
+    },
+    {
+      "from": 236.2,
+      "to": 238.39,
+      "sid": 101,
+      "location": 2,
+      "content": "那是懒得买的",
+      "music": 0.0
+    },
+    {
+      "from": 238.39,
+      "to": 239.43,
+      "sid": 102,
+      "location": 2,
+      "content": "那就别吃了",
+      "music": 0.0
+    },
+    {
+      "from": 240.45,
+      "to": 243.01,
+      "sid": 103,
+      "location": 2,
+      "content": "就是哪怕不炒当个小咸菜也特别好",
+      "music": 0.0
+    },
+    {
+      "from": 243.01,
+      "to": 246.03,
+      "sid": 104,
+      "location": 2,
+      "content": "对哪怕不炒当个小咸菜也非常好",
+      "music": 0.0
+    },
+    {
+      "from": 246.03,
+      "to": 248.09,
+      "sid": 105,
+      "location": 2,
+      "content": "那谢谢大家观看",
+      "music": 0.0
+    },
+    {
+      "from": 248.09,
+      "to": 251.33,
+      "sid": 106,
+      "location": 2,
+      "content": "拜拜拜拜啊算了",
+      "music": 0.0
+    },
+    {
+      "from": 251.33,
+      "to": 253.66,
+      "sid": 107,
+      "location": 2,
+      "content": "他他好吃有点过分",
+      "music": 0.0
+    },
+    {
+      "from": 255.26,
+      "to": 257.98,
+      "sid": 108,
+      "location": 2,
+      "content": "为什么我没看你放什么特别复杂的",
+      "music": 0.0
+    },
+    {
+      "from": 257.98,
+      "to": 258.52,
+      "sid": 109,
+      "location": 2,
+      "content": "没有啊",
+      "music": 0.0
+    },
+    {
+      "from": 258.52,
+      "to": 259.66,
+      "sid": 110,
+      "location": 2,
+      "content": "就放点酱油味精",
+      "music": 0.0
+    },
+    {
+      "from": 259.66,
+      "to": 261.42,
+      "sid": 111,
+      "location": 2,
+      "content": "别的什么没放",
+      "music": 0.0
+    },
+    {
+      "from": 262.43,
+      "to": 264.6,
+      "sid": 112,
+      "location": 2,
+      "content": "它好吃的真有道",
+      "music": 0.0
+    }
+  ]
+}

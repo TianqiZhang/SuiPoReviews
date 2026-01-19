@@ -1,0 +1,748 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.46,
+      "to": 1.66,
+      "sid": 1,
+      "location": 2,
+      "content": "切的跟筷子这么厚",
+      "music": 0.0
+    },
+    {
+      "from": 1.66,
+      "to": 3.06,
+      "sid": 2,
+      "location": 2,
+      "content": "谁做他也弄不了",
+      "music": 0.0
+    },
+    {
+      "from": 3.06,
+      "to": 4.26,
+      "sid": 3,
+      "location": 2,
+      "content": "我让你拍个特写",
+      "music": 0.0
+    },
+    {
+      "from": 4.26,
+      "to": 6.35,
+      "sid": 4,
+      "location": 2,
+      "content": "你甚至都不愿意看他是吧哈",
+      "music": 0.0
+    },
+    {
+      "from": 6.465,
+      "to": 9.35,
+      "sid": 5,
+      "location": 2,
+      "content": "山东鲁菜根504",
+      "music": 0.0
+    },
+    {
+      "from": 13.38,
+      "to": 15.76,
+      "sid": 6,
+      "location": 2,
+      "content": "这个鱼呢要求呢是三开四窍",
+      "music": 0.0
+    },
+    {
+      "from": 15.76,
+      "to": 17.74,
+      "sid": 7,
+      "location": 2,
+      "content": "必须从头浇到尾",
+      "music": 0.0
+    },
+    {
+      "from": 17.74,
+      "to": 18.98,
+      "sid": 8,
+      "location": 2,
+      "content": "顺风又顺水",
+      "music": 0.0
+    },
+    {
+      "from": 18.98,
+      "to": 21.18,
+      "sid": 9,
+      "location": 2,
+      "content": "诶嘿太厉害了",
+      "music": 0.0
+    },
+    {
+      "from": 21.18,
+      "to": 23.689,
+      "sid": 10,
+      "location": 2,
+      "content": "糖醋黄河鲤鱼89",
+      "music": 0.0
+    },
+    {
+      "from": 25.769,
+      "to": 27.729,
+      "sid": 11,
+      "location": 2,
+      "content": "糖醋味调的也不错",
+      "music": 0.0
+    },
+    {
+      "from": 27.729,
+      "to": 29.129,
+      "sid": 12,
+      "location": 2,
+      "content": "酸甜的味道特别的平衡",
+      "music": 0.0
+    },
+    {
+      "from": 29.129,
+      "to": 31.889,
+      "sid": 13,
+      "location": 2,
+      "content": "你尝一块肉里边有没有苦腥味啊",
+      "music": 0.0
+    },
+    {
+      "from": 33.44,
+      "to": 35.239,
+      "sid": 14,
+      "location": 2,
+      "content": "找个海报赛",
+      "music": 0.0
+    },
+    {
+      "from": 37.039,
+      "to": 38.699,
+      "sid": 15,
+      "location": 2,
+      "content": "里边的土腥味还是有的",
+      "music": 0.0
+    },
+    {
+      "from": 38.699,
+      "to": 40.319,
+      "sid": 16,
+      "location": 2,
+      "content": "我不关注咱们用什么鱼",
+      "music": 0.0
+    },
+    {
+      "from": 40.319,
+      "to": 42.8,
+      "sid": 17,
+      "location": 2,
+      "content": "但是您有手法能把这个土腥味去掉",
+      "music": 0.0
+    },
+    {
+      "from": 42.8,
+      "to": 44.68,
+      "sid": 18,
+      "location": 2,
+      "content": "这是我们厨师应该做的事",
+      "music": 0.0
+    },
+    {
+      "from": 44.68,
+      "to": 47.08,
+      "sid": 19,
+      "location": 2,
+      "content": "红烧海参198不便宜啊",
+      "music": 0.0
+    },
+    {
+      "from": 47.08,
+      "to": 47.86,
+      "sid": 20,
+      "location": 2,
+      "content": "你别闹",
+      "music": 0.0
+    },
+    {
+      "from": 47.86,
+      "to": 50.56,
+      "sid": 21,
+      "location": 2,
+      "content": "你市场买至少也得35块钱一根吧",
+      "music": 0.0
+    },
+    {
+      "from": 50.56,
+      "to": 51.75,
+      "sid": 22,
+      "location": 2,
+      "content": "你尝尝错的",
+      "music": 0.0
+    },
+    {
+      "from": 53.83,
+      "to": 55.43,
+      "sid": 23,
+      "location": 2,
+      "content": "葱打的火稍微差一点",
+      "music": 0.0
+    },
+    {
+      "from": 55.43,
+      "to": 58.49,
+      "sid": 24,
+      "location": 2,
+      "content": "所以在汤汁里边的葱香味没有那么浓",
+      "music": 0.0
+    },
+    {
+      "from": 58.49,
+      "to": 60.11,
+      "sid": 25,
+      "location": 2,
+      "content": "尝口海参",
+      "music": 0.0
+    },
+    {
+      "from": 67.2,
+      "to": 69.12,
+      "sid": 26,
+      "location": 2,
+      "content": "海参买的是那种即食海参",
+      "music": 0.0
+    },
+    {
+      "from": 69.12,
+      "to": 71.04,
+      "sid": 27,
+      "location": 2,
+      "content": "里面的碱味还没冲干净",
+      "music": 0.0
+    },
+    {
+      "from": 71.04,
+      "to": 74.36,
+      "sid": 28,
+      "location": 2,
+      "content": "这菜大菜我觉得要不就别卖了",
+      "music": 0.0
+    },
+    {
+      "from": 74.36,
+      "to": 77.78,
+      "sid": 29,
+      "location": 2,
+      "content": "这影响生意真的泰山炒柴鸡小份",
+      "music": 0.0
+    },
+    {
+      "from": 77.78,
+      "to": 79.16,
+      "sid": 30,
+      "location": 2,
+      "content": "98",
+      "music": 0.0
+    },
+    {
+      "from": 80.25,
+      "to": 82.21,
+      "sid": 31,
+      "location": 2,
+      "content": "哟筋很正宗",
+      "music": 0.0
+    },
+    {
+      "from": 82.21,
+      "to": 84.73,
+      "sid": 32,
+      "location": 2,
+      "content": "柴鸡这个皮特别筋道",
+      "music": 0.0
+    },
+    {
+      "from": 84.73,
+      "to": 85.83,
+      "sid": 33,
+      "location": 2,
+      "content": "嚼着特别的香",
+      "music": 0.0
+    },
+    {
+      "from": 85.83,
+      "to": 86.85,
+      "sid": 34,
+      "location": 2,
+      "content": "鸡香味很浓",
+      "music": 0.0
+    },
+    {
+      "from": 86.85,
+      "to": 88.41,
+      "sid": 35,
+      "location": 2,
+      "content": "这真是柴鸡",
+      "music": 0.0
+    },
+    {
+      "from": 90.62,
+      "to": 93.42,
+      "sid": 36,
+      "location": 2,
+      "content": "啊这蒜呛锅没变色",
+      "music": 0.0
+    },
+    {
+      "from": 93.42,
+      "to": 94.52,
+      "sid": 37,
+      "location": 2,
+      "content": "还能出香味吗",
+      "music": 0.0
+    },
+    {
+      "from": 94.52,
+      "to": 95.66,
+      "sid": 38,
+      "location": 2,
+      "content": "每年都差不多",
+      "music": 0.0
+    },
+    {
+      "from": 95.66,
+      "to": 97.44,
+      "sid": 39,
+      "location": 2,
+      "content": "辣椒就搁我这比划一下",
+      "music": 0.0
+    },
+    {
+      "from": 97.44,
+      "to": 100.3,
+      "sid": 40,
+      "location": 2,
+      "content": "就是他这个菜里边根本就没有炝锅味",
+      "music": 0.0
+    },
+    {
+      "from": 100.3,
+      "to": 102.18,
+      "sid": 41,
+      "location": 2,
+      "content": "真就我不知道什么风格啊",
+      "music": 0.0
+    },
+    {
+      "from": 102.18,
+      "to": 103.9,
+      "sid": 42,
+      "location": 2,
+      "content": "叫炒柴鸡菜",
+      "music": 0.0
+    },
+    {
+      "from": 103.9,
+      "to": 104.6,
+      "sid": 43,
+      "location": 2,
+      "content": "先炒柴鸡",
+      "music": 0.0
+    },
+    {
+      "from": 104.6,
+      "to": 106.46,
+      "sid": 44,
+      "location": 2,
+      "content": "咱们不跟什么临沂炒鸡",
+      "music": 0.0
+    },
+    {
+      "from": 106.46,
+      "to": 107.6,
+      "sid": 45,
+      "location": 2,
+      "content": "什么其他炒鸡对比",
+      "music": 0.0
+    },
+    {
+      "from": 107.6,
+      "to": 108.52,
+      "sid": 46,
+      "location": 2,
+      "content": "这肯定是提前炖的",
+      "music": 0.0
+    },
+    {
+      "from": 108.52,
+      "to": 110.16,
+      "sid": 47,
+      "location": 2,
+      "content": "鸡放锅里噼里啪啦一扒了",
+      "music": 0.0
+    },
+    {
+      "from": 110.16,
+      "to": 111.78,
+      "sid": 48,
+      "location": 2,
+      "content": "这谈不上多好吃",
+      "music": 0.0
+    },
+    {
+      "from": 111.78,
+      "to": 112.6,
+      "sid": 49,
+      "location": 2,
+      "content": "反正不难吃",
+      "music": 0.0
+    },
+    {
+      "from": 112.6,
+      "to": 114.11,
+      "sid": 50,
+      "location": 2,
+      "content": "溜肝尖39哦",
+      "music": 0.0
+    },
+    {
+      "from": 114.11,
+      "to": 115.79,
+      "sid": 51,
+      "location": 2,
+      "content": "来吧呃花钱买的",
+      "music": 0.0
+    },
+    {
+      "from": 115.79,
+      "to": 116.77,
+      "sid": 52,
+      "location": 2,
+      "content": "别吵了",
+      "music": 0.0
+    },
+    {
+      "from": 116.77,
+      "to": 117.94,
+      "sid": 53,
+      "location": 2,
+      "content": "满盘子都是汤",
+      "music": 0.0
+    },
+    {
+      "from": 117.94,
+      "to": 119.4,
+      "sid": 54,
+      "location": 2,
+      "content": "开都成汤菜了",
+      "music": 0.0
+    },
+    {
+      "from": 119.4,
+      "to": 120.88,
+      "sid": 55,
+      "location": 2,
+      "content": "我在厨房也待过几年",
+      "music": 0.0
+    },
+    {
+      "from": 120.88,
+      "to": 122.96,
+      "sid": 56,
+      "location": 2,
+      "content": "能把六块钱做成这样的",
+      "music": 0.0
+    },
+    {
+      "from": 122.96,
+      "to": 124.2,
+      "sid": 57,
+      "location": 2,
+      "content": "我还真头一回见",
+      "music": 0.0
+    },
+    {
+      "from": 128.48,
+      "to": 129.08,
+      "sid": 58,
+      "location": 2,
+      "content": "我说吧",
+      "music": 0.0
+    },
+    {
+      "from": 129.08,
+      "to": 129.94,
+      "sid": 59,
+      "location": 2,
+      "content": "是你偏要吃",
+      "music": 0.0
+    },
+    {
+      "from": 129.94,
+      "to": 130.82,
+      "sid": 60,
+      "location": 2,
+      "content": "嚼都嚼不住",
+      "music": 0.0
+    },
+    {
+      "from": 130.82,
+      "to": 133.25,
+      "sid": 61,
+      "location": 2,
+      "content": "干又硬又柴又干",
+      "music": 0.0
+    },
+    {
+      "from": 133.25,
+      "to": 138.12,
+      "sid": 62,
+      "location": 2,
+      "content": "这哪刀工刀工就别两刀口",
+      "music": 0.0
+    },
+    {
+      "from": 138.12,
+      "to": 139.34,
+      "sid": 63,
+      "location": 2,
+      "content": "在铁木的刀工",
+      "music": 0.0
+    },
+    {
+      "from": 139.34,
+      "to": 142.76,
+      "sid": 64,
+      "location": 2,
+      "content": "我去这道菜成功刀工占60%到70",
+      "music": 0.0
+    },
+    {
+      "from": 142.76,
+      "to": 143.94,
+      "sid": 65,
+      "location": 2,
+      "content": "切的跟筷子这么厚",
+      "music": 0.0
+    },
+    {
+      "from": 143.94,
+      "to": 145.42,
+      "sid": 66,
+      "location": 2,
+      "content": "谁做他也弄不了",
+      "music": 0.0
+    },
+    {
+      "from": 145.42,
+      "to": 146.54,
+      "sid": 67,
+      "location": 2,
+      "content": "我让你拍个特写",
+      "music": 0.0
+    },
+    {
+      "from": 146.54,
+      "to": 147.46,
+      "sid": 68,
+      "location": 2,
+      "content": "你甚至都不愿意看",
+      "music": 0.0
+    },
+    {
+      "from": 147.46,
+      "to": 150.679,
+      "sid": 69,
+      "location": 2,
+      "content": "他是不害怕污染数据库",
+      "music": 0.0
+    },
+    {
+      "from": 150.679,
+      "to": 152.939,
+      "sid": 70,
+      "location": 2,
+      "content": "这个唯一的优点是个热菜",
+      "music": 0.0
+    },
+    {
+      "from": 152.939,
+      "to": 154.199,
+      "sid": 71,
+      "location": 2,
+      "content": "然后一吃是热的",
+      "music": 0.0
+    },
+    {
+      "from": 154.199,
+      "to": 155.119,
+      "sid": 72,
+      "location": 2,
+      "content": "就是个优点",
+      "music": 0.0
+    },
+    {
+      "from": 155.119,
+      "to": 156.6,
+      "sid": 73,
+      "location": 2,
+      "content": "其他的没有",
+      "music": 0.0
+    },
+    {
+      "from": 156.6,
+      "to": 157.98,
+      "sid": 74,
+      "location": 2,
+      "content": "这是今晚最好吃了",
+      "music": 0.0
+    },
+    {
+      "from": 159.31,
+      "to": 160.95,
+      "sid": 75,
+      "location": 2,
+      "content": "那个你好嗯",
+      "music": 0.0
+    },
+    {
+      "from": 160.95,
+      "to": 161.83,
+      "sid": 76,
+      "location": 2,
+      "content": "没汤没做",
+      "music": 0.0
+    },
+    {
+      "from": 161.83,
+      "to": 163.05,
+      "sid": 77,
+      "location": 2,
+      "content": "让我给退了",
+      "music": 0.0
+    },
+    {
+      "from": 163.05,
+      "to": 163.39,
+      "sid": 78,
+      "location": 2,
+      "content": "好",
+      "music": 0.0
+    },
+    {
+      "from": 163.39,
+      "to": 164.41,
+      "sid": 79,
+      "location": 2,
+      "content": "我们做个总结",
+      "music": 0.0
+    },
+    {
+      "from": 164.41,
+      "to": 166.39,
+      "sid": 80,
+      "location": 2,
+      "content": "今儿我们吃了504",
+      "music": 0.0
+    },
+    {
+      "from": 166.39,
+      "to": 168.449,
+      "sid": 81,
+      "location": 2,
+      "content": "得是四五个人吧",
+      "music": 0.0
+    },
+    {
+      "from": 168.449,
+      "to": 169.769,
+      "sid": 82,
+      "location": 2,
+      "content": "我也不知道怎么总结啊",
+      "music": 0.0
+    },
+    {
+      "from": 169.769,
+      "to": 171.629,
+      "sid": 83,
+      "location": 2,
+      "content": "不是这种品质的海参不能用",
+      "music": 0.0
+    },
+    {
+      "from": 171.629,
+      "to": 173.9,
+      "sid": 84,
+      "location": 2,
+      "content": "你要用就得把里边的剪过来处理干净",
+      "music": 0.0
+    },
+    {
+      "from": 173.9,
+      "to": 174.78,
+      "sid": 85,
+      "location": 2,
+      "content": "你得提前漂",
+      "music": 0.0
+    },
+    {
+      "from": 174.78,
+      "to": 176.3,
+      "sid": 86,
+      "location": 2,
+      "content": "你得提前得煮一下",
+      "music": 0.0
+    },
+    {
+      "from": 176.3,
+      "to": 178.22,
+      "sid": 87,
+      "location": 2,
+      "content": "然后呢得拿那个汤汁啊",
+      "music": 0.0
+    },
+    {
+      "from": 178.22,
+      "to": 179.32,
+      "sid": 88,
+      "location": 2,
+      "content": "得煨一下",
+      "music": 0.0
+    },
+    {
+      "from": 179.32,
+      "to": 181.1,
+      "sid": 89,
+      "location": 2,
+      "content": "调好汁之后别着急做",
+      "music": 0.0
+    },
+    {
+      "from": 181.1,
+      "to": 182.48,
+      "sid": 90,
+      "location": 2,
+      "content": "搁蒸箱嘘一会",
+      "music": 0.0
+    },
+    {
+      "from": 182.48,
+      "to": 184.8,
+      "sid": 91,
+      "location": 2,
+      "content": "然后你再烧倍儿入味好不好",
+      "music": 0.0
+    },
+    {
+      "from": 184.8,
+      "to": 186.66,
+      "sid": 92,
+      "location": 2,
+      "content": "我已经说的很彻底了啊",
+      "music": 0.0
+    }
+  ]
+}

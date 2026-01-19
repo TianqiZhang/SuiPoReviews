@@ -1,0 +1,748 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.26,
+      "to": 2.2,
+      "sid": 1,
+      "location": 2,
+      "content": "其实我一直好奇一件事",
+      "music": 0.0
+    },
+    {
+      "from": 4.46,
+      "to": 6.48,
+      "sid": 2,
+      "location": 2,
+      "content": "今天在三个同学的帮助下",
+      "music": 0.0
+    },
+    {
+      "from": 6.48,
+      "to": 9.26,
+      "sid": 3,
+      "location": 2,
+      "content": "我们进行异常友爱的食堂横屏",
+      "music": 0.0
+    },
+    {
+      "from": 9.26,
+      "to": 11.0,
+      "sid": 4,
+      "location": 2,
+      "content": "给你们上清华还是上北大",
+      "music": 0.0
+    },
+    {
+      "from": 11.0,
+      "to": 13.24,
+      "sid": 5,
+      "location": 2,
+      "content": "在食品方面给你一些建议",
+      "music": 0.0
+    },
+    {
+      "from": 16.04,
+      "to": 19.32,
+      "sid": 6,
+      "location": 2,
+      "content": "这个先上今天的红烧肉这个主要角色吧",
+      "music": 0.0
+    },
+    {
+      "from": 21.24,
+      "to": 22.62,
+      "sid": 7,
+      "location": 2,
+      "content": "这边是点了两份的量",
+      "music": 0.0
+    },
+    {
+      "from": 22.62,
+      "to": 24.59,
+      "sid": 8,
+      "location": 2,
+      "content": "大概是十几块钱一份",
+      "music": 0.0
+    },
+    {
+      "from": 25.56,
+      "to": 31.56,
+      "sid": 9,
+      "location": 2,
+      "content": "我们12哈哈哈哈哈哈好",
+      "music": 0.0
+    },
+    {
+      "from": 31.56,
+      "to": 33.72,
+      "sid": 10,
+      "location": 2,
+      "content": "咱们先说性价比这一块",
+      "music": 0.0
+    },
+    {
+      "from": 34.96,
+      "to": 35.76,
+      "sid": 11,
+      "location": 2,
+      "content": "第一枪",
+      "music": 0.0
+    },
+    {
+      "from": 38.96,
+      "to": 40.12,
+      "sid": 12,
+      "location": 2,
+      "content": "那来吧来吧",
+      "music": 0.0
+    },
+    {
+      "from": 40.12,
+      "to": 41.1,
+      "sid": 13,
+      "location": 2,
+      "content": "先尝这个了啊",
+      "music": 0.0
+    },
+    {
+      "from": 41.1,
+      "to": 44.14,
+      "sid": 14,
+      "location": 2,
+      "content": "尝尝尝北大的哈哈尝一口",
+      "music": 0.0
+    },
+    {
+      "from": 44.14,
+      "to": 47.1,
+      "sid": 15,
+      "location": 2,
+      "content": "这个刚才我们那个同学说了",
+      "music": 0.0
+    },
+    {
+      "from": 47.1,
+      "to": 48.12,
+      "sid": 16,
+      "location": 2,
+      "content": "这个是上海风味",
+      "music": 0.0
+    },
+    {
+      "from": 48.12,
+      "to": 50.939,
+      "sid": 17,
+      "location": 2,
+      "content": "甜咸香肉炖的软烂",
+      "music": 0.0
+    },
+    {
+      "from": 50.939,
+      "to": 52.299,
+      "sid": 18,
+      "location": 2,
+      "content": "在食堂里面能吃",
+      "music": 0.0
+    },
+    {
+      "from": 52.299,
+      "to": 53.259,
+      "sid": 19,
+      "location": 2,
+      "content": "这个味不错",
+      "music": 0.0
+    },
+    {
+      "from": 53.259,
+      "to": 54.799,
+      "sid": 20,
+      "location": 2,
+      "content": "这能达到8.5了吧",
+      "music": 0.0
+    },
+    {
+      "from": 54.799,
+      "to": 57.659,
+      "sid": 21,
+      "location": 2,
+      "content": "这个是我们北大的啊",
+      "music": 0.0
+    },
+    {
+      "from": 60.38,
+      "to": 62.32,
+      "sid": 22,
+      "location": 2,
+      "content": "他的肉块做的比较小",
+      "music": 0.0
+    },
+    {
+      "from": 62.32,
+      "to": 63.08,
+      "sid": 23,
+      "location": 2,
+      "content": "从里到外",
+      "music": 0.0
+    },
+    {
+      "from": 63.08,
+      "to": 65.46,
+      "sid": 24,
+      "location": 2,
+      "content": "我觉得这个咸味和香味都穿透了",
+      "music": 0.0
+    },
+    {
+      "from": 65.46,
+      "to": 66.8,
+      "sid": 25,
+      "location": 2,
+      "content": "回口一点点的甜",
+      "music": 0.0
+    },
+    {
+      "from": 66.8,
+      "to": 67.92,
+      "sid": 26,
+      "location": 2,
+      "content": "这个不分上下",
+      "music": 0.0
+    },
+    {
+      "from": 67.92,
+      "to": 68.56,
+      "sid": 27,
+      "location": 2,
+      "content": "第一轮打平",
+      "music": 0.0
+    },
+    {
+      "from": 68.56,
+      "to": 71.54,
+      "sid": 28,
+      "location": 2,
+      "content": "这个是观畴园三楼那个荔枝虾球",
+      "music": 0.0
+    },
+    {
+      "from": 71.54,
+      "to": 74.44,
+      "sid": 29,
+      "location": 2,
+      "content": "我们这个是家园三楼的烤鱼",
+      "music": 0.0
+    },
+    {
+      "from": 74.44,
+      "to": 76.16,
+      "sid": 30,
+      "location": 2,
+      "content": "然后这个烤鱼它是这样一整条",
+      "music": 0.0
+    },
+    {
+      "from": 76.16,
+      "to": 77.16,
+      "sid": 31,
+      "location": 2,
+      "content": "然后没有刺",
+      "music": 0.0
+    },
+    {
+      "from": 77.16,
+      "to": 78.08,
+      "sid": 32,
+      "location": 2,
+      "content": "也很好吃",
+      "music": 0.0
+    },
+    {
+      "from": 78.08,
+      "to": 79.52,
+      "sid": 33,
+      "location": 2,
+      "content": "但我们这个现在性价比",
+      "music": 0.0
+    },
+    {
+      "from": 79.52,
+      "to": 80.52,
+      "sid": 34,
+      "location": 2,
+      "content": "他不敢说价格",
+      "music": 0.0
+    },
+    {
+      "from": 80.52,
+      "to": 83.16,
+      "sid": 35,
+      "location": 2,
+      "content": "我们这15块钱把这个90块钱",
+      "music": 0.0
+    },
+    {
+      "from": 84.23,
+      "to": 86.89,
+      "sid": 36,
+      "location": 2,
+      "content": "周老师看出来两位同学都想赢的决心哦",
+      "music": 0.0
+    },
+    {
+      "from": 86.89,
+      "to": 90.54,
+      "sid": 37,
+      "location": 2,
+      "content": "哎还是实际品尝一下",
+      "music": 0.0
+    },
+    {
+      "from": 93.36,
+      "to": 95.48,
+      "sid": 38,
+      "location": 2,
+      "content": "肉呢非常有弹性味",
+      "music": 0.0
+    },
+    {
+      "from": 95.48,
+      "to": 96.0,
+      "sid": 39,
+      "location": 2,
+      "content": "特别透",
+      "music": 0.0
+    },
+    {
+      "from": 96.0,
+      "to": 98.94,
+      "sid": 40,
+      "location": 2,
+      "content": "蒜香孜然和辣椒面的香味腌的非常透",
+      "music": 0.0
+    },
+    {
+      "from": 98.94,
+      "to": 100.7,
+      "sid": 41,
+      "location": 2,
+      "content": "这要是热着吃会更好吃",
+      "music": 0.0
+    },
+    {
+      "from": 100.7,
+      "to": 102.23,
+      "sid": 42,
+      "location": 2,
+      "content": "来尝尝下酒啊",
+      "music": 0.0
+    },
+    {
+      "from": 105.17,
+      "to": 107.13,
+      "sid": 43,
+      "location": 2,
+      "content": "虾弹韧鲜香",
+      "music": 0.0
+    },
+    {
+      "from": 107.13,
+      "to": 110.57,
+      "sid": 44,
+      "location": 2,
+      "content": "最巧妙的是它中间加了点酱",
+      "music": 0.0
+    },
+    {
+      "from": 110.57,
+      "to": 112.6,
+      "sid": 45,
+      "location": 2,
+      "content": "就跟整体味道就很搭",
+      "music": 0.0
+    },
+    {
+      "from": 112.6,
+      "to": 114.84,
+      "sid": 46,
+      "location": 2,
+      "content": "从那么老远的地方拿过来",
+      "music": 0.0
+    },
+    {
+      "from": 114.84,
+      "to": 116.62,
+      "sid": 47,
+      "location": 2,
+      "content": "我们现在还能吃到酥脆的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 116.62,
+      "to": 118.22,
+      "sid": 48,
+      "location": 2,
+      "content": "这个的技术点更高一点",
+      "music": 0.0
+    },
+    {
+      "from": 118.22,
+      "to": 119.08,
+      "sid": 49,
+      "location": 2,
+      "content": "而且味道不差",
+      "music": 0.0
+    },
+    {
+      "from": 119.08,
+      "to": 120.02,
+      "sid": 50,
+      "location": 2,
+      "content": "要从技术点来",
+      "music": 0.0
+    },
+    {
+      "from": 120.02,
+      "to": 121.26,
+      "sid": 51,
+      "location": 2,
+      "content": "这个要胜出了",
+      "music": 0.0
+    },
+    {
+      "from": 121.26,
+      "to": 122.4,
+      "sid": 52,
+      "location": 2,
+      "content": "这个性价比比较高",
+      "music": 0.0
+    },
+    {
+      "from": 122.4,
+      "to": 123.8,
+      "sid": 53,
+      "location": 2,
+      "content": "所以你们各有优势",
+      "music": 0.0
+    },
+    {
+      "from": 123.8,
+      "to": 126.1,
+      "sid": 54,
+      "location": 2,
+      "content": "你这个是哪个食堂的菜啊",
+      "music": 0.0
+    },
+    {
+      "from": 126.1,
+      "to": 128.48,
+      "sid": 55,
+      "location": 2,
+      "content": "这是那个观畴三楼北大门",
+      "music": 0.0
+    },
+    {
+      "from": 128.48,
+      "to": 129.96,
+      "sid": 56,
+      "location": 2,
+      "content": "已想去清华吃",
+      "music": 0.0
+    },
+    {
+      "from": 129.96,
+      "to": 131.2,
+      "sid": 57,
+      "location": 2,
+      "content": "我已经记住了",
+      "music": 0.0
+    },
+    {
+      "from": 131.2,
+      "to": 132.73,
+      "sid": 58,
+      "location": 2,
+      "content": "确实很好吃",
+      "music": 0.0
+    },
+    {
+      "from": 132.73,
+      "to": 134.69,
+      "sid": 59,
+      "location": 2,
+      "content": "是的哈哈哈哈嗯",
+      "music": 0.0
+    },
+    {
+      "from": 134.69,
+      "to": 138.35,
+      "sid": 60,
+      "location": 2,
+      "content": "这个是紫荆食堂三楼澳门窗口菌菇白汁鸡",
+      "music": 0.0
+    },
+    {
+      "from": 138.35,
+      "to": 139.8,
+      "sid": 61,
+      "location": 2,
+      "content": "这个是12块钱",
+      "music": 0.0
+    },
+    {
+      "from": 139.8,
+      "to": 141.36,
+      "sid": 62,
+      "location": 2,
+      "content": "那我们这次价格一样",
+      "music": 0.0
+    },
+    {
+      "from": 141.36,
+      "to": 142.28,
+      "sid": 63,
+      "location": 2,
+      "content": "我们也是12",
+      "music": 0.0
+    },
+    {
+      "from": 142.28,
+      "to": 143.7,
+      "sid": 64,
+      "location": 2,
+      "content": "这个是我们明星菜",
+      "music": 0.0
+    },
+    {
+      "from": 143.7,
+      "to": 144.96,
+      "sid": 65,
+      "location": 2,
+      "content": "叫仔鸡饭",
+      "music": 0.0
+    },
+    {
+      "from": 144.96,
+      "to": 148.36,
+      "sid": 66,
+      "location": 2,
+      "content": "我们先来这个浅色的",
+      "music": 0.0
+    },
+    {
+      "from": 149.9,
+      "to": 152.76,
+      "sid": 67,
+      "location": 2,
+      "content": "有明显的那种椰浆的奶香味",
+      "music": 0.0
+    },
+    {
+      "from": 152.76,
+      "to": 153.78,
+      "sid": 68,
+      "location": 2,
+      "content": "甜香",
+      "music": 0.0
+    },
+    {
+      "from": 153.78,
+      "to": 156.34,
+      "sid": 69,
+      "location": 2,
+      "content": "一点点的咸鸡肉选的非常好一点",
+      "music": 0.0
+    },
+    {
+      "from": 156.34,
+      "to": 158.22,
+      "sid": 70,
+      "location": 2,
+      "content": "鲜味没有煮的软烂适中",
+      "music": 0.0
+    },
+    {
+      "from": 158.22,
+      "to": 158.9,
+      "sid": 71,
+      "location": 2,
+      "content": "在澳门来讲",
+      "music": 0.0
+    },
+    {
+      "from": 158.9,
+      "to": 159.86,
+      "sid": 72,
+      "location": 2,
+      "content": "我觉得这个没问题",
+      "music": 0.0
+    },
+    {
+      "from": 159.86,
+      "to": 162.03,
+      "sid": 73,
+      "location": 2,
+      "content": "多少个我给你能给个八分吧",
+      "music": 0.0
+    },
+    {
+      "from": 162.03,
+      "to": 167.31,
+      "sid": 74,
+      "location": 2,
+      "content": "北大的嗯",
+      "music": 0.0
+    },
+    {
+      "from": 168.83,
+      "to": 170.05,
+      "sid": 75,
+      "location": 2,
+      "content": "接二连三",
+      "music": 0.0
+    },
+    {
+      "from": 172.74,
+      "to": 174.98,
+      "sid": 76,
+      "location": 2,
+      "content": "这个菜配饭挺绝的",
+      "music": 0.0
+    },
+    {
+      "from": 178.26,
+      "to": 180.0,
+      "sid": 77,
+      "location": 2,
+      "content": "MVP结算画面",
+      "music": 0.0
+    },
+    {
+      "from": 180.0,
+      "to": 182.5,
+      "sid": 78,
+      "location": 2,
+      "content": "这个鸡肉呢它是下锅炸了一下",
+      "music": 0.0
+    },
+    {
+      "from": 182.5,
+      "to": 185.1,
+      "sid": 79,
+      "location": 2,
+      "content": "而且在炸之前它还浅浅的腌了个味儿",
+      "music": 0.0
+    },
+    {
+      "from": 185.1,
+      "to": 188.42,
+      "sid": 80,
+      "location": 2,
+      "content": "这个口呢又特别像鱼香味那种",
+      "music": 0.0
+    },
+    {
+      "from": 188.42,
+      "to": 191.03,
+      "sid": 81,
+      "location": 2,
+      "content": "酸甜咸辣都有",
+      "music": 0.0
+    },
+    {
+      "from": 191.03,
+      "to": 192.83,
+      "sid": 82,
+      "location": 2,
+      "content": "这个拌饭真的不错",
+      "music": 0.0
+    },
+    {
+      "from": 192.83,
+      "to": 194.97,
+      "sid": 83,
+      "location": 2,
+      "content": "这味道能到8.8",
+      "music": 0.0
+    },
+    {
+      "from": 197.36,
+      "to": 199.12,
+      "sid": 84,
+      "location": 2,
+      "content": "又吃一口还在吃",
+      "music": 0.0
+    },
+    {
+      "from": 200.04,
+      "to": 200.86,
+      "sid": 85,
+      "location": 2,
+      "content": "好好好",
+      "music": 0.0
+    },
+    {
+      "from": 200.86,
+      "to": 201.36,
+      "sid": 86,
+      "location": 2,
+      "content": "明星菜",
+      "music": 0.0
+    },
+    {
+      "from": 201.36,
+      "to": 202.48,
+      "sid": 87,
+      "location": 2,
+      "content": "明星菜该不该下锅",
+      "music": 0.0
+    },
+    {
+      "from": 203.72,
+      "to": 205.15,
+      "sid": 88,
+      "location": 2,
+      "content": "只吃鱼了哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 205.15,
+      "to": 208.27,
+      "sid": 89,
+      "location": 2,
+      "content": "总食堂现吃热的那个肯定要比这个还要好",
+      "music": 0.0
+    },
+    {
+      "from": 208.27,
+      "to": 210.47,
+      "sid": 90,
+      "location": 2,
+      "content": "无论你们学校食堂味道做的怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 210.47,
+      "to": 212.85,
+      "sid": 91,
+      "location": 2,
+      "content": "他肯定是你毕业之后最想念的那个味道",
+      "music": 0.0
+    },
+    {
+      "from": 212.85,
+      "to": 213.46,
+      "sid": 92,
+      "location": 2,
+      "content": "咱们开吃",
+      "music": 0.0
+    }
+  ]
+}

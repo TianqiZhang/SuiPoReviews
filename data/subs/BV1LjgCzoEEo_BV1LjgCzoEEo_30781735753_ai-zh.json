@@ -1,0 +1,756 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.38,
+      "to": 1.56,
+      "sid": 1,
+      "location": 2,
+      "content": "咱们能接受贵",
+      "music": 0.0
+    },
+    {
+      "from": 1.56,
+      "to": 4.52,
+      "sid": 2,
+      "location": 2,
+      "content": "但还是接受不了又贵又难吃的",
+      "music": 0.0
+    },
+    {
+      "from": 4.52,
+      "to": 5.24,
+      "sid": 3,
+      "location": 2,
+      "content": "你说的对",
+      "music": 0.0
+    },
+    {
+      "from": 5.24,
+      "to": 6.5,
+      "sid": 4,
+      "location": 2,
+      "content": "所以陪摊好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 6.5,
+      "to": 9.62,
+      "sid": 5,
+      "location": 2,
+      "content": "上海石炉餐厅1123",
+      "music": 0.0
+    },
+    {
+      "from": 14.3,
+      "to": 15.28,
+      "sid": 6,
+      "location": 2,
+      "content": "拌香干",
+      "music": 0.0
+    },
+    {
+      "from": 15.28,
+      "to": 16.66,
+      "sid": 7,
+      "location": 2,
+      "content": "这个是店家送的啊",
+      "music": 0.0
+    },
+    {
+      "from": 16.66,
+      "to": 19.82,
+      "sid": 8,
+      "location": 2,
+      "content": "盘前小菜真是手工切的",
+      "music": 0.0
+    },
+    {
+      "from": 19.82,
+      "to": 22.36,
+      "sid": 9,
+      "location": 2,
+      "content": "看真的粗细不细",
+      "music": 0.0
+    },
+    {
+      "from": 22.36,
+      "to": 25.36,
+      "sid": 10,
+      "location": 2,
+      "content": "这饭真好吃啊",
+      "music": 0.3734939534039779
+    },
+    {
+      "from": 25.36,
+      "to": 27.24,
+      "sid": 11,
+      "location": 2,
+      "content": "你说谁要是再敢收咱那么多钱",
+      "music": 0.0
+    },
+    {
+      "from": 27.24,
+      "to": 28.96,
+      "sid": 12,
+      "location": 2,
+      "content": "给咱们上半成品啊",
+      "music": 0.0
+    },
+    {
+      "from": 28.96,
+      "to": 29.52,
+      "sid": 13,
+      "location": 2,
+      "content": "直接撤了",
+      "music": 0.0
+    },
+    {
+      "from": 29.52,
+      "to": 33.18,
+      "sid": 14,
+      "location": 2,
+      "content": "撤龙须富贵鱼398",
+      "music": 0.0
+    },
+    {
+      "from": 33.18,
+      "to": 34.0,
+      "sid": 15,
+      "location": 2,
+      "content": "你点完之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 34.0,
+      "to": 36.54,
+      "sid": 16,
+      "location": 2,
+      "content": "人家在现场给你糖烹",
+      "music": 0.12962962362825847
+    },
+    {
+      "from": 38.65,
+      "to": 41.09,
+      "sid": 17,
+      "location": 2,
+      "content": "入口之后煸过的很香的锅",
+      "music": 0.0
+    },
+    {
+      "from": 41.09,
+      "to": 42.21,
+      "sid": 18,
+      "location": 2,
+      "content": "气味特别的足",
+      "music": 0.0
+    },
+    {
+      "from": 42.21,
+      "to": 43.59,
+      "sid": 19,
+      "location": 2,
+      "content": "鱼肉滑嫩",
+      "music": 0.0
+    },
+    {
+      "from": 43.59,
+      "to": 44.53,
+      "sid": 20,
+      "location": 2,
+      "content": "火腿的香味",
+      "music": 0.0
+    },
+    {
+      "from": 44.53,
+      "to": 47.28,
+      "sid": 21,
+      "location": 2,
+      "content": "青椒的味道相互都很大",
+      "music": 0.0
+    },
+    {
+      "from": 47.28,
+      "to": 48.4,
+      "sid": 22,
+      "location": 2,
+      "content": "不错啊不错啊",
+      "music": 0.0
+    },
+    {
+      "from": 50.6,
+      "to": 52.84,
+      "sid": 23,
+      "location": 2,
+      "content": "咸江河豚鱼268",
+      "music": 0.0
+    },
+    {
+      "from": 55.0,
+      "to": 56.16,
+      "sid": 24,
+      "location": 2,
+      "content": "咸豆浆加了点高",
+      "music": 0.0
+    },
+    {
+      "from": 56.16,
+      "to": 57.82,
+      "sid": 25,
+      "location": 2,
+      "content": "汤醇厚鲜",
+      "music": 0.0
+    },
+    {
+      "from": 57.82,
+      "to": 59.6,
+      "sid": 26,
+      "location": 2,
+      "content": "里面配着油条豆腐",
+      "music": 0.0
+    },
+    {
+      "from": 59.6,
+      "to": 60.3,
+      "sid": 27,
+      "location": 2,
+      "content": "紫菜",
+      "music": 0.0
+    },
+    {
+      "from": 60.3,
+      "to": 62.08,
+      "sid": 28,
+      "location": 2,
+      "content": "吃过河豚没",
+      "music": 0.0
+    },
+    {
+      "from": 68.21,
+      "to": 69.07,
+      "sid": 29,
+      "location": 2,
+      "content": "河豚也不错",
+      "music": 0.0
+    },
+    {
+      "from": 69.07,
+      "to": 74.14,
+      "sid": 30,
+      "location": 2,
+      "content": "河豚人今天新杀的肉质的弹香烂度都合适",
+      "music": 0.0
+    },
+    {
+      "from": 74.14,
+      "to": 75.24,
+      "sid": 31,
+      "location": 2,
+      "content": "煮的非常的透",
+      "music": 0.0
+    },
+    {
+      "from": 75.24,
+      "to": 78.54,
+      "sid": 32,
+      "location": 2,
+      "content": "煮的肉也都煮烂乎了哇",
+      "music": 0.0
+    },
+    {
+      "from": 78.54,
+      "to": 79.32,
+      "sid": 33,
+      "location": 2,
+      "content": "挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 79.32,
+      "to": 79.92,
+      "sid": 34,
+      "location": 2,
+      "content": "素鸳鸯",
+      "music": 0.0
+    },
+    {
+      "from": 79.92,
+      "to": 81.18,
+      "sid": 35,
+      "location": 2,
+      "content": "78",
+      "music": 0.0
+    },
+    {
+      "from": 83.46,
+      "to": 84.68,
+      "sid": 36,
+      "location": 2,
+      "content": "很浓的鸡汤",
+      "music": 0.0
+    },
+    {
+      "from": 84.68,
+      "to": 86.42,
+      "sid": 37,
+      "location": 2,
+      "content": "其香味真的很浓",
+      "music": 0.0
+    },
+    {
+      "from": 87.68,
+      "to": 89.08,
+      "sid": 38,
+      "location": 2,
+      "content": "豆皮煮的也挺透的",
+      "music": 0.0
+    },
+    {
+      "from": 89.08,
+      "to": 91.49,
+      "sid": 39,
+      "location": 2,
+      "content": "主的豆腥味杂味都没有",
+      "music": 0.0
+    },
+    {
+      "from": 91.97,
+      "to": 93.41,
+      "sid": 40,
+      "location": 2,
+      "content": "特别的特别嫩的那种",
+      "music": 0.0
+    },
+    {
+      "from": 93.41,
+      "to": 94.49,
+      "sid": 41,
+      "location": 2,
+      "content": "烧菜没有老杆",
+      "music": 0.0
+    },
+    {
+      "from": 94.49,
+      "to": 95.37,
+      "sid": 42,
+      "location": 2,
+      "content": "就两种原料",
+      "music": 0.0
+    },
+    {
+      "from": 95.37,
+      "to": 97.77,
+      "sid": 43,
+      "location": 2,
+      "content": "把那个汤吸味吸都挺足的",
+      "music": 0.0
+    },
+    {
+      "from": 97.77,
+      "to": 98.53,
+      "sid": 44,
+      "location": 2,
+      "content": "这个菜啊",
+      "music": 0.0
+    },
+    {
+      "from": 98.53,
+      "to": 99.45,
+      "sid": 45,
+      "location": 2,
+      "content": "说实话卖的不便宜",
+      "music": 0.0
+    },
+    {
+      "from": 99.45,
+      "to": 100.49,
+      "sid": 46,
+      "location": 2,
+      "content": "但是真挺好吃的啊",
+      "music": 0.0
+    },
+    {
+      "from": 100.49,
+      "to": 101.51,
+      "sid": 47,
+      "location": 2,
+      "content": "咱们能接受贵",
+      "music": 0.0
+    },
+    {
+      "from": 101.51,
+      "to": 104.31,
+      "sid": 48,
+      "location": 2,
+      "content": "虽然是接受不了又贵又难吃的",
+      "music": 0.0
+    },
+    {
+      "from": 104.31,
+      "to": 105.13,
+      "sid": 49,
+      "location": 2,
+      "content": "你说的对",
+      "music": 0.0
+    },
+    {
+      "from": 105.13,
+      "to": 107.47,
+      "sid": 50,
+      "location": 2,
+      "content": "有一些商家真人把自己抬得特别高",
+      "music": 0.0
+    },
+    {
+      "from": 107.47,
+      "to": 109.21,
+      "sid": 51,
+      "location": 2,
+      "content": "哎呀满墙挂一溜牌子",
+      "music": 0.0
+    },
+    {
+      "from": 109.21,
+      "to": 110.64,
+      "sid": 52,
+      "location": 2,
+      "content": "咱们把菜做好",
+      "music": 0.0
+    },
+    {
+      "from": 110.64,
+      "to": 111.82,
+      "sid": 53,
+      "location": 2,
+      "content": "很关键的一个事",
+      "music": 0.0
+    },
+    {
+      "from": 111.82,
+      "to": 113.72,
+      "sid": 54,
+      "location": 2,
+      "content": "有一天气球会破的菜",
+      "music": 0.0
+    },
+    {
+      "from": 113.72,
+      "to": 114.92,
+      "sid": 55,
+      "location": 2,
+      "content": "包狮子头68",
+      "music": 0.0
+    },
+    {
+      "from": 114.92,
+      "to": 117.88,
+      "sid": 56,
+      "location": 2,
+      "content": "你看他这白菜屁股人就切了",
+      "music": 0.0
+    },
+    {
+      "from": 120.72,
+      "to": 123.4,
+      "sid": 57,
+      "location": 2,
+      "content": "还是很扎实的",
+      "music": 0.0
+    },
+    {
+      "from": 125.68,
+      "to": 127.76,
+      "sid": 58,
+      "location": 2,
+      "content": "入口之后一咬有点腻",
+      "music": 0.0
+    },
+    {
+      "from": 127.76,
+      "to": 129.14,
+      "sid": 59,
+      "location": 2,
+      "content": "他这个炖的时间不太够",
+      "music": 0.0
+    },
+    {
+      "from": 129.14,
+      "to": 129.76,
+      "sid": 60,
+      "location": 2,
+      "content": "肥肉的油啊",
+      "music": 0.0
+    },
+    {
+      "from": 129.76,
+      "to": 130.96,
+      "sid": 61,
+      "location": 2,
+      "content": "都在这窝着呢",
+      "music": 0.0
+    },
+    {
+      "from": 130.96,
+      "to": 131.88,
+      "sid": 62,
+      "location": 2,
+      "content": "实在不行",
+      "music": 0.0
+    },
+    {
+      "from": 131.88,
+      "to": 133.88,
+      "sid": 63,
+      "location": 2,
+      "content": "但是你真的是刀工调味",
+      "music": 0.0
+    },
+    {
+      "from": 133.88,
+      "to": 136.28,
+      "sid": 64,
+      "location": 2,
+      "content": "火候都不到哦",
+      "music": 0.0
+    },
+    {
+      "from": 136.329,
+      "to": 138.889,
+      "sid": 65,
+      "location": 2,
+      "content": "哦这师傅干活挺小的",
+      "music": 0.0
+    },
+    {
+      "from": 138.889,
+      "to": 140.369,
+      "sid": 66,
+      "location": 2,
+      "content": "嘿瘦肉是剁的",
+      "music": 0.0
+    },
+    {
+      "from": 140.369,
+      "to": 143.589,
+      "sid": 67,
+      "location": 2,
+      "content": "肥肉丁是切的干肥肉丁方方正正的",
+      "music": 0.0
+    },
+    {
+      "from": 143.589,
+      "to": 145.509,
+      "sid": 68,
+      "location": 2,
+      "content": "你看这丁还特别脆呢",
+      "music": 0.0
+    },
+    {
+      "from": 145.509,
+      "to": 146.589,
+      "sid": 69,
+      "location": 2,
+      "content": "所以你刚咬一口",
+      "music": 0.0
+    },
+    {
+      "from": 146.589,
+      "to": 148.03,
+      "sid": 70,
+      "location": 2,
+      "content": "腻的来源就在这里",
+      "music": 0.0
+    },
+    {
+      "from": 148.03,
+      "to": 149.27,
+      "sid": 71,
+      "location": 2,
+      "content": "如果按我理解的话",
+      "music": 0.0
+    },
+    {
+      "from": 149.27,
+      "to": 151.23,
+      "sid": 72,
+      "location": 2,
+      "content": "正常的都应该是这个大小啊",
+      "music": 0.0
+    },
+    {
+      "from": 151.23,
+      "to": 153.57,
+      "sid": 73,
+      "location": 2,
+      "content": "对对肥瘦肉跟瘦肉应该都这样",
+      "music": 0.0
+    },
+    {
+      "from": 153.57,
+      "to": 154.55,
+      "sid": 74,
+      "location": 2,
+      "content": "那我弄个肉馅",
+      "music": 0.0
+    },
+    {
+      "from": 154.55,
+      "to": 156.45,
+      "sid": 75,
+      "location": 2,
+      "content": "切点肉片扔那就行了",
+      "music": 0.0
+    },
+    {
+      "from": 156.45,
+      "to": 158.89,
+      "sid": 76,
+      "location": 2,
+      "content": "葱油胡萝188",
+      "music": 0.0
+    },
+    {
+      "from": 160.96,
+      "to": 162.08,
+      "sid": 77,
+      "location": 2,
+      "content": "一吃能吃出来",
+      "music": 0.0
+    },
+    {
+      "from": 162.08,
+      "to": 163.36,
+      "sid": 78,
+      "location": 2,
+      "content": "这个螺是很新鲜的",
+      "music": 0.0
+    },
+    {
+      "from": 163.36,
+      "to": 164.32,
+      "sid": 79,
+      "location": 2,
+      "content": "是今天处理的",
+      "music": 0.0
+    },
+    {
+      "from": 164.32,
+      "to": 165.56,
+      "sid": 80,
+      "location": 2,
+      "content": "焯水的时间也合适",
+      "music": 0.0
+    },
+    {
+      "from": 165.56,
+      "to": 167.48,
+      "sid": 81,
+      "location": 2,
+      "content": "螺片的那种脆弹也出来了",
+      "music": 0.0
+    },
+    {
+      "from": 167.48,
+      "to": 168.42,
+      "sid": 82,
+      "location": 2,
+      "content": "葱香味也够",
+      "music": 0.0
+    },
+    {
+      "from": 168.42,
+      "to": 169.3,
+      "sid": 83,
+      "location": 2,
+      "content": "因为它新鲜",
+      "music": 0.0
+    },
+    {
+      "from": 169.3,
+      "to": 171.26,
+      "sid": 84,
+      "location": 2,
+      "content": "哪怕就是搁点盐拌拌都好吃好",
+      "music": 0.0
+    },
+    {
+      "from": 171.26,
+      "to": 172.1,
+      "sid": 85,
+      "location": 2,
+      "content": "我们做个总结啊",
+      "music": 0.0
+    },
+    {
+      "from": 172.1,
+      "to": 173.74,
+      "sid": 86,
+      "location": 2,
+      "content": "今儿我们吃了1123",
+      "music": 0.0
+    },
+    {
+      "from": 173.74,
+      "to": 174.94,
+      "sid": 87,
+      "location": 2,
+      "content": "也是三四个人的量吧",
+      "music": 0.0
+    },
+    {
+      "from": 174.94,
+      "to": 175.329,
+      "sid": 88,
+      "location": 2,
+      "content": "没问题",
+      "music": 0.0
+    },
+    {
+      "from": 175.329,
+      "to": 175.969,
+      "sid": 89,
+      "location": 2,
+      "content": "以后啊",
+      "music": 0.0
+    },
+    {
+      "from": 175.969,
+      "to": 176.969,
+      "sid": 90,
+      "location": 2,
+      "content": "我们会出一个合集",
+      "music": 0.0
+    },
+    {
+      "from": 176.969,
+      "to": 178.669,
+      "sid": 91,
+      "location": 2,
+      "content": "叫全好评餐厅",
+      "music": 0.0
+    },
+    {
+      "from": 178.669,
+      "to": 180.869,
+      "sid": 92,
+      "location": 2,
+      "content": "这家店如果不是那个狮子头",
+      "music": 0.0
+    },
+    {
+      "from": 180.869,
+      "to": 182.12,
+      "sid": 93,
+      "location": 2,
+      "content": "他会上的",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.22,
+      "to": 0.94,
+      "sid": 1,
+      "location": 2,
+      "content": "手机播一单",
+      "music": 0.0
+    },
+    {
+      "from": 0.94,
+      "to": 1.58,
+      "sid": 2,
+      "location": 2,
+      "content": "好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 1.58,
+      "to": 5.22,
+      "sid": 3,
+      "location": 2,
+      "content": "广州酒家吃早茶363",
+      "music": 0.0
+    },
+    {
+      "from": 10.26,
+      "to": 13.26,
+      "sid": 4,
+      "location": 2,
+      "content": "合江瑶柱糯米鸡33",
+      "music": 0.0
+    },
+    {
+      "from": 14.6,
+      "to": 16.22,
+      "sid": 5,
+      "location": 2,
+      "content": "嚯挺好吃的啊",
+      "music": 0.0
+    },
+    {
+      "from": 16.22,
+      "to": 18.76,
+      "sid": 6,
+      "location": 2,
+      "content": "瑶柱海米鸡肉咸蛋黄",
+      "music": 0.0
+    },
+    {
+      "from": 18.76,
+      "to": 20.92,
+      "sid": 7,
+      "location": 2,
+      "content": "糯米也蒸的够软够糯",
+      "music": 0.0
+    },
+    {
+      "from": 20.92,
+      "to": 23.86,
+      "sid": 8,
+      "location": 2,
+      "content": "而且这个糯米还吸了蒸鸡的那个油",
+      "music": 0.0
+    },
+    {
+      "from": 23.86,
+      "to": 25.34,
+      "sid": 9,
+      "location": 2,
+      "content": "够咸够香够糯",
+      "music": 0.0
+    },
+    {
+      "from": 25.34,
+      "to": 28.54,
+      "sid": 10,
+      "location": 2,
+      "content": "鸡肉呢吃着还是有一点点冰箱的醋笋的味道",
+      "music": 0.0
+    },
+    {
+      "from": 28.54,
+      "to": 31.6,
+      "sid": 11,
+      "location": 2,
+      "content": "选择鸡肉一般其他的味都没问题哇",
+      "music": 0.0
+    },
+    {
+      "from": 31.6,
+      "to": 33.56,
+      "sid": 12,
+      "location": 2,
+      "content": "这师傅现包的啊",
+      "music": 0.0
+    },
+    {
+      "from": 33.56,
+      "to": 35.32,
+      "sid": 13,
+      "location": 2,
+      "content": "一看这个饺子的形状",
+      "music": 0.0
+    },
+    {
+      "from": 35.32,
+      "to": 39.72,
+      "sid": 14,
+      "location": 2,
+      "content": "就是像现包的碎成笋尖虾饺黄48",
+      "music": 0.0
+    },
+    {
+      "from": 41.74,
+      "to": 45.8,
+      "sid": 15,
+      "location": 2,
+      "content": "吃着虾仁里面的水分还是有的脆嫩鲜香",
+      "music": 0.0
+    },
+    {
+      "from": 45.8,
+      "to": 47.06,
+      "sid": 16,
+      "location": 2,
+      "content": "很新鲜的虾肉",
+      "music": 0.0
+    },
+    {
+      "from": 47.06,
+      "to": 47.96,
+      "sid": 17,
+      "location": 2,
+      "content": "吃的特别的脆",
+      "music": 0.0
+    },
+    {
+      "from": 47.96,
+      "to": 50.54,
+      "sid": 18,
+      "location": 2,
+      "content": "不是被汁浸的很透那种味道",
+      "music": 0.0
+    },
+    {
+      "from": 50.54,
+      "to": 51.44,
+      "sid": 19,
+      "location": 2,
+      "content": "味道没问题",
+      "music": 0.0
+    },
+    {
+      "from": 51.44,
+      "to": 52.54,
+      "sid": 20,
+      "location": 2,
+      "content": "原料选的没问题",
+      "music": 0.0
+    },
+    {
+      "from": 52.54,
+      "to": 56.06,
+      "sid": 21,
+      "location": 2,
+      "content": "陈年果香牛肉球33",
+      "music": 0.0
+    },
+    {
+      "from": 58.18,
+      "to": 60.68,
+      "sid": 22,
+      "location": 2,
+      "content": "牛肉丸非常的紧实香弹",
+      "music": 0.0
+    },
+    {
+      "from": 60.68,
+      "to": 61.52,
+      "sid": 23,
+      "location": 2,
+      "content": "肉够新鲜",
+      "music": 0.0
+    },
+    {
+      "from": 61.52,
+      "to": 63.18,
+      "sid": 24,
+      "location": 2,
+      "content": "咬到最后才吃的出来吃",
+      "music": 0.0
+    },
+    {
+      "from": 63.18,
+      "to": 64.98,
+      "sid": 25,
+      "location": 2,
+      "content": "有点淡淡的陈皮的香味",
+      "music": 0.0
+    },
+    {
+      "from": 64.98,
+      "to": 66.469,
+      "sid": 26,
+      "location": 2,
+      "content": "而且这是剁的",
+      "music": 0.0
+    },
+    {
+      "from": 66.469,
+      "to": 67.789,
+      "sid": 27,
+      "location": 2,
+      "content": "就连砸带剁",
+      "music": 0.0
+    },
+    {
+      "from": 67.789,
+      "to": 68.629,
+      "sid": 28,
+      "location": 2,
+      "content": "摔打上劲",
+      "music": 0.0
+    },
+    {
+      "from": 68.629,
+      "to": 70.829,
+      "sid": 29,
+      "location": 2,
+      "content": "就类似于那种弹的那种牛肉丸",
+      "music": 0.0
+    },
+    {
+      "from": 70.829,
+      "to": 72.029,
+      "sid": 30,
+      "location": 2,
+      "content": "差不多",
+      "music": 0.0
+    },
+    {
+      "from": 75.04,
+      "to": 78.16,
+      "sid": 31,
+      "location": 2,
+      "content": "丽荣蜂巢预缴31",
+      "music": 0.0
+    },
+    {
+      "from": 80.24,
+      "to": 83.2,
+      "sid": 32,
+      "location": 2,
+      "content": "一咬立马那香味就嘎就在嘴里边就爆上",
+      "music": 0.0
+    },
+    {
+      "from": 83.2,
+      "to": 84.28,
+      "sid": 33,
+      "location": 2,
+      "content": "吃到中间的馅儿呢",
+      "music": 0.0
+    },
+    {
+      "from": 84.28,
+      "to": 86.04,
+      "sid": 34,
+      "location": 2,
+      "content": "有一点点蛋黄的香味",
+      "music": 0.0
+    },
+    {
+      "from": 86.04,
+      "to": 87.02,
+      "sid": 35,
+      "location": 2,
+      "content": "里边还有虾仁",
+      "music": 0.0
+    },
+    {
+      "from": 87.02,
+      "to": 88.0,
+      "sid": 36,
+      "location": 2,
+      "content": "个别的虾仁粒",
+      "music": 0.0
+    },
+    {
+      "from": 88.0,
+      "to": 89.18,
+      "sid": 37,
+      "location": 2,
+      "content": "它外面是啥啊",
+      "music": 0.0
+    },
+    {
+      "from": 89.46,
+      "to": 91.5,
+      "sid": 38,
+      "location": 2,
+      "content": "这个就是荔浦芋头",
+      "music": 0.0
+    },
+    {
+      "from": 91.5,
+      "to": 93.1,
+      "sid": 39,
+      "location": 2,
+      "content": "然后里边给它加上大油",
+      "music": 0.0
+    },
+    {
+      "from": 93.1,
+      "to": 93.76,
+      "sid": 40,
+      "location": 2,
+      "content": "下锅一炸",
+      "music": 0.0
+    },
+    {
+      "from": 93.76,
+      "to": 95.57,
+      "sid": 41,
+      "location": 2,
+      "content": "它就会在加热过程当中飞起来",
+      "music": 0.0
+    },
+    {
+      "from": 95.57,
+      "to": 96.61,
+      "sid": 42,
+      "location": 2,
+      "content": "非常讲究",
+      "music": 0.0
+    },
+    {
+      "from": 96.61,
+      "to": 98.15,
+      "sid": 43,
+      "location": 2,
+      "content": "这个比例有火候",
+      "music": 0.0
+    },
+    {
+      "from": 98.15,
+      "to": 99.73,
+      "sid": 44,
+      "location": 2,
+      "content": "油多了它就全飞没了",
+      "music": 0.0
+    },
+    {
+      "from": 99.73,
+      "to": 101.2,
+      "sid": 45,
+      "location": 2,
+      "content": "油少了就散不开",
+      "music": 0.0
+    },
+    {
+      "from": 101.2,
+      "to": 101.96,
+      "sid": 46,
+      "location": 2,
+      "content": "不错啊",
+      "music": 0.0
+    },
+    {
+      "from": 101.96,
+      "to": 103.0,
+      "sid": 47,
+      "location": 2,
+      "content": "这一点都不凑合",
+      "music": 0.0
+    },
+    {
+      "from": 103.0,
+      "to": 104.9,
+      "sid": 48,
+      "location": 2,
+      "content": "哎咱们来这么远的地方出差",
+      "music": 0.0
+    },
+    {
+      "from": 104.9,
+      "to": 106.2,
+      "sid": 49,
+      "location": 2,
+      "content": "手机流量真不够用",
+      "music": 0.0
+    },
+    {
+      "from": 106.2,
+      "to": 108.22,
+      "sid": 50,
+      "location": 2,
+      "content": "用超了扣100多话费试试",
+      "music": 0.0
+    },
+    {
+      "from": 108.22,
+      "to": 111.28,
+      "sid": 51,
+      "location": 2,
+      "content": "我这种官方大流量卡月租最多29元",
+      "music": 0.0
+    },
+    {
+      "from": 111.28,
+      "to": 114.66,
+      "sid": 52,
+      "location": 2,
+      "content": "每个月上百G流量算下来累计才一毛钱",
+      "music": 0.0
+    },
+    {
+      "from": 114.66,
+      "to": 116.52,
+      "sid": 53,
+      "location": 2,
+      "content": "省了钱可以吃好几顿大餐了",
+      "music": 0.0
+    },
+    {
+      "from": 116.52,
+      "to": 117.42,
+      "sid": 54,
+      "location": 2,
+      "content": "套餐是不错的",
+      "music": 0.0
+    },
+    {
+      "from": 117.42,
+      "to": 119.34,
+      "sid": 55,
+      "location": 2,
+      "content": "就怕像以前办的卡那样",
+      "music": 0.0
+    },
+    {
+      "from": 119.34,
+      "to": 120.86,
+      "sid": 56,
+      "location": 2,
+      "content": "后面涨价限速",
+      "music": 0.0
+    },
+    {
+      "from": 120.86,
+      "to": 122.06,
+      "sid": 57,
+      "location": 2,
+      "content": "你得找正规渠道",
+      "music": 0.0
+    },
+    {
+      "from": 122.06,
+      "to": 123.66,
+      "sid": 58,
+      "location": 2,
+      "content": "我这张是流量卡测评",
+      "music": 0.0
+    },
+    {
+      "from": 123.66,
+      "to": 126.24,
+      "sid": 59,
+      "location": 2,
+      "content": "头部up主流量卡大忽悠推荐的",
+      "music": 0.0
+    },
+    {
+      "from": 126.24,
+      "to": 128.38,
+      "sid": 60,
+      "location": 2,
+      "content": "它可是有运营商官方授权",
+      "music": 0.0
+    },
+    {
+      "from": 128.38,
+      "to": 130.7,
+      "sid": 61,
+      "location": 2,
+      "content": "专业靠谱套餐是长期优惠",
+      "music": 0.0
+    },
+    {
+      "from": 130.7,
+      "to": 131.94,
+      "sid": 62,
+      "location": 2,
+      "content": "网速最高500兆",
+      "music": 0.0
+    },
+    {
+      "from": 131.94,
+      "to": 133.62,
+      "sid": 63,
+      "location": 2,
+      "content": "刷视频玩游戏都流畅",
+      "music": 0.0
+    },
+    {
+      "from": 133.62,
+      "to": 135.38,
+      "sid": 64,
+      "location": 2,
+      "content": "有问题找客服也负责",
+      "music": 0.0
+    },
+    {
+      "from": 135.38,
+      "to": 136.1,
+      "sid": 65,
+      "location": 2,
+      "content": "在哪申请",
+      "music": 0.0
+    },
+    {
+      "from": 136.1,
+      "to": 138.3,
+      "sid": 66,
+      "location": 2,
+      "content": "我现在就有点我置顶链接就能领",
+      "music": 0.0
+    },
+    {
+      "from": 138.3,
+      "to": 139.58,
+      "sid": 67,
+      "location": 2,
+      "content": "首页免费试用包邮",
+      "music": 0.0
+    },
+    {
+      "from": 139.58,
+      "to": 141.42,
+      "sid": 68,
+      "location": 2,
+      "content": "大家月租超29的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 141.42,
+      "to": 142.58,
+      "sid": 69,
+      "location": 2,
+      "content": "真心推荐试试",
+      "music": 0.0
+    },
+    {
+      "from": 142.58,
+      "to": 143.12,
+      "sid": 70,
+      "location": 2,
+      "content": "不想用了",
+      "music": 0.0
+    },
+    {
+      "from": 143.12,
+      "to": 144.66,
+      "sid": 71,
+      "location": 2,
+      "content": "可以随时线上注销",
+      "music": 0.0
+    },
+    {
+      "from": 144.66,
+      "to": 145.92,
+      "sid": 72,
+      "location": 2,
+      "content": "无法校考",
+      "music": 0.0
+    },
+    {
+      "from": 145.92,
+      "to": 147.72,
+      "sid": 73,
+      "location": 2,
+      "content": "叉烧包28",
+      "music": 0.0
+    },
+    {
+      "from": 149.06,
+      "to": 150.38,
+      "sid": 74,
+      "location": 2,
+      "content": "烤包做的也不错",
+      "music": 0.0
+    },
+    {
+      "from": 150.38,
+      "to": 154.08,
+      "sid": 75,
+      "location": 2,
+      "content": "外边这个形状裂的非常的均匀好看",
+      "music": 0.0
+    },
+    {
+      "from": 154.08,
+      "to": 156.7,
+      "sid": 76,
+      "location": 2,
+      "content": "面皮松软还带着筋道",
+      "music": 0.0
+    },
+    {
+      "from": 156.7,
+      "to": 159.74,
+      "sid": 77,
+      "location": 2,
+      "content": "而且里边的馅料这种甜咸度比例合适",
+      "music": 0.0
+    },
+    {
+      "from": 159.74,
+      "to": 161.82,
+      "sid": 78,
+      "location": 2,
+      "content": "不是咬一口全是面味",
+      "music": 0.0
+    },
+    {
+      "from": 161.82,
+      "to": 163.34,
+      "sid": 79,
+      "location": 2,
+      "content": "既有面皮的香味",
+      "music": 0.0
+    },
+    {
+      "from": 163.34,
+      "to": 166.12,
+      "sid": 80,
+      "location": 2,
+      "content": "你还能吃出来里边叉烧的香味和肉香",
+      "music": 0.0
+    },
+    {
+      "from": 166.12,
+      "to": 167.34,
+      "sid": 81,
+      "location": 2,
+      "content": "吃起来是非常的舒服",
+      "music": 0.0
+    },
+    {
+      "from": 167.34,
+      "to": 169.64,
+      "sid": 82,
+      "location": 2,
+      "content": "非常合适的不错",
+      "music": 0.0
+    },
+    {
+      "from": 169.64,
+      "to": 171.44,
+      "sid": 83,
+      "location": 2,
+      "content": "投手紫菜炸虾饼",
+      "music": 0.0
+    },
+    {
+      "from": 171.44,
+      "to": 173.36,
+      "sid": 84,
+      "location": 2,
+      "content": "33",
+      "music": 0.0
+    },
+    {
+      "from": 175.18,
+      "to": 178.3,
+      "sid": 85,
+      "location": 2,
+      "content": "嚯嚯嚯虾是极其的新鲜颗粒状",
+      "music": 0.0
+    },
+    {
+      "from": 178.3,
+      "to": 178.9,
+      "sid": 86,
+      "location": 2,
+      "content": "剁了剁",
+      "music": 0.0
+    },
+    {
+      "from": 178.9,
+      "to": 180.28,
+      "sid": 87,
+      "location": 2,
+      "content": "跟紫菜放到一起",
+      "music": 0.0
+    },
+    {
+      "from": 180.28,
+      "to": 181.24,
+      "sid": 88,
+      "location": 2,
+      "content": "做成饼之后",
+      "music": 0.0
+    },
+    {
+      "from": 181.24,
+      "to": 182.72,
+      "sid": 89,
+      "location": 2,
+      "content": "外边拍点面包糠",
+      "music": 0.0
+    },
+    {
+      "from": 182.72,
+      "to": 183.36,
+      "sid": 90,
+      "location": 2,
+      "content": "下锅一炸",
+      "music": 0.0
+    },
+    {
+      "from": 183.36,
+      "to": 185.17,
+      "sid": 91,
+      "location": 2,
+      "content": "这俩在一块还挺大不错啊",
+      "music": 0.0
+    },
+    {
+      "from": 185.17,
+      "to": 185.97,
+      "sid": 92,
+      "location": 2,
+      "content": "好我们做个总结",
+      "music": 0.0
+    },
+    {
+      "from": 185.97,
+      "to": 187.51,
+      "sid": 93,
+      "location": 2,
+      "content": "今天我们吃了363",
+      "music": 0.0
+    },
+    {
+      "from": 187.51,
+      "to": 188.78,
+      "sid": 94,
+      "location": 2,
+      "content": "其实都挺不错的",
+      "music": 0.0
+    },
+    {
+      "from": 188.78,
+      "to": 190.82,
+      "sid": 95,
+      "location": 2,
+      "content": "其实我一直好奇一件事",
+      "music": 0.0
+    },
+    {
+      "from": 190.82,
+      "to": 192.58,
+      "sid": 96,
+      "location": 2,
+      "content": "这个得问问广州的朋友们",
+      "music": 0.0
+    },
+    {
+      "from": 192.58,
+      "to": 194.3,
+      "sid": 97,
+      "location": 2,
+      "content": "像你们这个每一盘都是三个",
+      "music": 0.0
+    },
+    {
+      "from": 194.3,
+      "to": 195.14,
+      "sid": 98,
+      "location": 2,
+      "content": "要是来四个人",
+      "music": 0.0
+    },
+    {
+      "from": 195.14,
+      "to": 196.0,
+      "sid": 99,
+      "location": 2,
+      "content": "你们怎么分啊",
+      "music": 0.0
+    }
+  ]
+}

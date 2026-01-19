@@ -1,0 +1,1020 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.2,
+      "to": 1.28,
+      "sid": 1,
+      "location": 2,
+      "content": "明显就少了一块",
+      "music": 0.0
+    },
+    {
+      "from": 1.28,
+      "to": 3.08,
+      "sid": 2,
+      "location": 2,
+      "content": "他不会偷得扒拉回来",
+      "music": 0.0
+    },
+    {
+      "from": 3.08,
+      "to": 4.36,
+      "sid": 3,
+      "location": 2,
+      "content": "所以迫切菜好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 4.36,
+      "to": 5.68,
+      "sid": 4,
+      "location": 2,
+      "content": "从大连开到北京",
+      "music": 0.0
+    },
+    {
+      "from": 5.68,
+      "to": 8.88,
+      "sid": 5,
+      "location": 2,
+      "content": "然后爆火的喜顶654",
+      "music": 0.0
+    },
+    {
+      "from": 13.8,
+      "to": 18.8,
+      "sid": 6,
+      "location": 2,
+      "content": "喜鼎海胆水饺二十二一份一",
+      "music": 0.0
+    },
+    {
+      "from": 19.7,
+      "to": 21.7,
+      "sid": 7,
+      "location": 2,
+      "content": "海胆的鲜香味还是非常足的",
+      "music": 0.0
+    },
+    {
+      "from": 21.7,
+      "to": 23.42,
+      "sid": 8,
+      "location": 2,
+      "content": "里边汤汁让我一口咬跑了",
+      "music": 0.0
+    },
+    {
+      "from": 23.42,
+      "to": 24.689,
+      "sid": 9,
+      "location": 2,
+      "content": "滋甲子滋出去了",
+      "music": 0.0
+    },
+    {
+      "from": 24.689,
+      "to": 26.969,
+      "sid": 10,
+      "location": 2,
+      "content": "这个就像咱们去逛市场吃那个海胆",
+      "music": 0.0
+    },
+    {
+      "from": 26.969,
+      "to": 27.649,
+      "sid": 11,
+      "location": 2,
+      "content": "刚抠出来",
+      "music": 0.0
+    },
+    {
+      "from": 27.649,
+      "to": 29.749,
+      "sid": 12,
+      "location": 2,
+      "content": "那个有现包的那个那种感觉似的",
+      "music": 0.0
+    },
+    {
+      "from": 29.749,
+      "to": 30.449,
+      "sid": 13,
+      "location": 2,
+      "content": "鲜香味",
+      "music": 0.0
+    },
+    {
+      "from": 30.449,
+      "to": 32.489,
+      "sid": 14,
+      "location": 2,
+      "content": "颗粒感都很足",
+      "music": 0.0
+    },
+    {
+      "from": 34.52,
+      "to": 36.6,
+      "sid": 15,
+      "location": 2,
+      "content": "调料放的也很克制",
+      "music": 0.0
+    },
+    {
+      "from": 36.6,
+      "to": 37.78,
+      "sid": 16,
+      "location": 2,
+      "content": "我葱姜水",
+      "music": 0.0
+    },
+    {
+      "from": 37.78,
+      "to": 38.56,
+      "sid": 17,
+      "location": 2,
+      "content": "香油",
+      "music": 0.0
+    },
+    {
+      "from": 38.56,
+      "to": 42.6,
+      "sid": 18,
+      "location": 2,
+      "content": "胡椒粉那些会影响海胆鲜味的那些调料都没放",
+      "music": 0.0
+    },
+    {
+      "from": 42.6,
+      "to": 44.92,
+      "sid": 19,
+      "location": 2,
+      "content": "而且吃着海胆的占比是挺高的",
+      "music": 0.0
+    },
+    {
+      "from": 44.92,
+      "to": 45.54,
+      "sid": 20,
+      "location": 2,
+      "content": "很鲜啊",
+      "music": 0.0
+    },
+    {
+      "from": 45.54,
+      "to": 47.12,
+      "sid": 21,
+      "location": 2,
+      "content": "很鲜很好吃",
+      "music": 0.0
+    },
+    {
+      "from": 47.77,
+      "to": 49.15,
+      "sid": 22,
+      "location": 2,
+      "content": "东沟蟹香草笨",
+      "music": 0.0
+    },
+    {
+      "from": 49.15,
+      "to": 50.03,
+      "sid": 23,
+      "location": 2,
+      "content": "138",
+      "music": 0.0
+    },
+    {
+      "from": 50.03,
+      "to": 51.55,
+      "sid": 24,
+      "location": 2,
+      "content": "这草笨哎呀",
+      "music": 0.0
+    },
+    {
+      "from": 51.55,
+      "to": 52.67,
+      "sid": 25,
+      "location": 2,
+      "content": "就这么多字",
+      "music": 0.0
+    },
+    {
+      "from": 52.67,
+      "to": 56.26,
+      "sid": 26,
+      "location": 2,
+      "content": "你绝你",
+      "music": 0.0
+    },
+    {
+      "from": 56.26,
+      "to": 60.9,
+      "sid": 27,
+      "location": 2,
+      "content": "第一口下去就很像就方便面的那个面料味",
+      "music": 0.0
+    },
+    {
+      "from": 60.9,
+      "to": 62.07,
+      "sid": 28,
+      "location": 2,
+      "content": "真的有一点点像啊",
+      "music": 0.0
+    },
+    {
+      "from": 62.07,
+      "to": 62.91,
+      "sid": 29,
+      "location": 2,
+      "content": "不是贬低的",
+      "music": 0.0
+    },
+    {
+      "from": 62.91,
+      "to": 64.31,
+      "sid": 30,
+      "location": 2,
+      "content": "我只是想跟你们形容一下味道",
+      "music": 0.0
+    },
+    {
+      "from": 64.31,
+      "to": 65.59,
+      "sid": 31,
+      "location": 2,
+      "content": "红颜色来自于辣椒油",
+      "music": 0.0
+    },
+    {
+      "from": 65.59,
+      "to": 67.97,
+      "sid": 32,
+      "location": 2,
+      "content": "这个蟹搁那个汤里煮了半天的",
+      "music": 0.0
+    },
+    {
+      "from": 67.97,
+      "to": 69.63,
+      "sid": 33,
+      "location": 2,
+      "content": "所以他这个汤特别浓的时候",
+      "music": 0.0
+    },
+    {
+      "from": 69.63,
+      "to": 70.61,
+      "sid": 34,
+      "location": 2,
+      "content": "柴鸡蛋倒进去",
+      "music": 0.0
+    },
+    {
+      "from": 70.61,
+      "to": 71.87,
+      "sid": 35,
+      "location": 2,
+      "content": "慢慢慢慢水炒蛋",
+      "music": 0.0
+    },
+    {
+      "from": 71.87,
+      "to": 75.13,
+      "sid": 36,
+      "location": 2,
+      "content": "蟹蟹汤的味道呢完全融到蛋里边了",
+      "music": 0.0
+    },
+    {
+      "from": 79.32,
+      "to": 81.34,
+      "sid": 37,
+      "location": 2,
+      "content": "这蟹确实比我们来的早",
+      "music": 0.0
+    },
+    {
+      "from": 81.34,
+      "to": 85.2,
+      "sid": 38,
+      "location": 2,
+      "content": "里边的蟹肉呢它是绵绵的软软的啊",
+      "music": 0.0
+    },
+    {
+      "from": 85.2,
+      "to": 86.8,
+      "sid": 39,
+      "location": 2,
+      "content": "跟那个海胆的新鲜程度差不多啊",
+      "music": 0.0
+    },
+    {
+      "from": 86.8,
+      "to": 89.06,
+      "sid": 40,
+      "location": 2,
+      "content": "鱼籽虾仁水饺78块钱一份",
+      "music": 0.0
+    },
+    {
+      "from": 89.06,
+      "to": 90.26,
+      "sid": 41,
+      "location": 2,
+      "content": "689少一个",
+      "music": 0.0
+    },
+    {
+      "from": 90.26,
+      "to": 91.699,
+      "sid": 42,
+      "location": 2,
+      "content": "有些人说是少了仨",
+      "music": 0.0
+    },
+    {
+      "from": 91.699,
+      "to": 92.919,
+      "sid": 43,
+      "location": 2,
+      "content": "12代啊",
+      "music": 0.0
+    },
+    {
+      "from": 92.919,
+      "to": 94.059,
+      "sid": 44,
+      "location": 2,
+      "content": "明显就少了一块",
+      "music": 0.0
+    },
+    {
+      "from": 94.059,
+      "to": 95.979,
+      "sid": 45,
+      "location": 2,
+      "content": "他不会偷得扒拉回来",
+      "music": 0.0
+    },
+    {
+      "from": 95.979,
+      "to": 100.139,
+      "sid": 46,
+      "location": 2,
+      "content": "鱼籽也是很不好处理的一个原料",
+      "music": 0.0
+    },
+    {
+      "from": 103.56,
+      "to": 105.56,
+      "sid": 47,
+      "location": 2,
+      "content": "哎很巧妙",
+      "music": 0.0
+    },
+    {
+      "from": 105.56,
+      "to": 106.32,
+      "sid": 48,
+      "location": 2,
+      "content": "不好处理的",
+      "music": 0.0
+    },
+    {
+      "from": 106.32,
+      "to": 107.33,
+      "sid": 49,
+      "location": 2,
+      "content": "我给你少放点",
+      "music": 0.0
+    },
+    {
+      "from": 108.23,
+      "to": 109.41,
+      "sid": 50,
+      "location": 2,
+      "content": "没有任何的腥味",
+      "music": 0.0
+    },
+    {
+      "from": 109.41,
+      "to": 110.85,
+      "sid": 51,
+      "location": 2,
+      "content": "吃着就像里的小胶囊似的",
+      "music": 0.0
+    },
+    {
+      "from": 110.85,
+      "to": 112.13,
+      "sid": 52,
+      "location": 2,
+      "content": "搁着搁着嚼着挺好玩的",
+      "music": 0.0
+    },
+    {
+      "from": 112.13,
+      "to": 114.94,
+      "sid": 53,
+      "location": 2,
+      "content": "有一个大约5160的一个小虾仁",
+      "music": 0.0
+    },
+    {
+      "from": 114.94,
+      "to": 117.19,
+      "sid": 54,
+      "location": 2,
+      "content": "就给我手指这么大肉的香",
+      "music": 0.0
+    },
+    {
+      "from": 117.19,
+      "to": 118.39,
+      "sid": 55,
+      "location": 2,
+      "content": "虾仁的脆",
+      "music": 0.0
+    },
+    {
+      "from": 118.39,
+      "to": 119.59,
+      "sid": 56,
+      "location": 2,
+      "content": "整点也吃着挺好吃的",
+      "music": 0.0
+    },
+    {
+      "from": 119.59,
+      "to": 120.83,
+      "sid": 57,
+      "location": 2,
+      "content": "哎史老师拍了一天了",
+      "music": 0.0
+    },
+    {
+      "from": 120.83,
+      "to": 123.03,
+      "sid": 58,
+      "location": 2,
+      "content": "你怎么看起来还是这么清爽又精致",
+      "music": 0.0
+    },
+    {
+      "from": 123.03,
+      "to": 125.319,
+      "sid": 59,
+      "location": 2,
+      "content": "因为我用了这个我们的老朋友",
+      "music": 0.0
+    },
+    {
+      "from": 125.319,
+      "to": 127.479,
+      "sid": 60,
+      "location": 2,
+      "content": "西木源男士航海王联名礼盒",
+      "music": 0.0
+    },
+    {
+      "from": 127.479,
+      "to": 128.799,
+      "sid": 61,
+      "location": 2,
+      "content": "帮他们一套搞定",
+      "music": 0.0
+    },
+    {
+      "from": 128.799,
+      "to": 130.52,
+      "sid": 62,
+      "location": 2,
+      "content": "控油抗痘可保湿焕肤",
+      "music": 0.0
+    },
+    {
+      "from": 130.52,
+      "to": 131.6,
+      "sid": 63,
+      "location": 2,
+      "content": "简单且高效",
+      "music": 0.0
+    },
+    {
+      "from": 131.6,
+      "to": 132.72,
+      "sid": 64,
+      "location": 2,
+      "content": "我一直坚持用",
+      "music": 0.0
+    },
+    {
+      "from": 132.72,
+      "to": 133.4,
+      "sid": 65,
+      "location": 2,
+      "content": "要省心的啊",
+      "music": 0.0
+    },
+    {
+      "from": 133.4,
+      "to": 135.92,
+      "sid": 66,
+      "location": 2,
+      "content": "毕竟出镜拍摄还得需要收拾的妥当",
+      "music": 0.0
+    },
+    {
+      "from": 135.92,
+      "to": 137.34,
+      "sid": 67,
+      "location": 2,
+      "content": "观众看着舒心",
+      "music": 0.0
+    },
+    {
+      "from": 137.34,
+      "to": 139.46,
+      "sid": 68,
+      "location": 2,
+      "content": "而且这套还拿下了沙利文认证的",
+      "music": 0.0
+    },
+    {
+      "from": 139.46,
+      "to": 141.3,
+      "sid": 69,
+      "location": 2,
+      "content": "全国线上回购率第一",
+      "music": 0.0
+    },
+    {
+      "from": 141.3,
+      "to": 141.9,
+      "sid": 70,
+      "location": 2,
+      "content": "口碑靠谱啊",
+      "music": 0.0
+    },
+    {
+      "from": 141.9,
+      "to": 143.34,
+      "sid": 71,
+      "location": 2,
+      "content": "洁面五秒就能起泡",
+      "music": 0.0
+    },
+    {
+      "from": 143.34,
+      "to": 145.72,
+      "sid": 72,
+      "location": 2,
+      "content": "能把黑头油脂洗的干干净净",
+      "music": 0.0
+    },
+    {
+      "from": 145.72,
+      "to": 146.68,
+      "sid": 73,
+      "location": 2,
+      "content": "再拍个水",
+      "music": 0.0
+    },
+    {
+      "from": 146.68,
+      "to": 148.74,
+      "sid": 74,
+      "location": 2,
+      "content": "抹个乳来控油保湿",
+      "music": 0.0
+    },
+    {
+      "from": 148.74,
+      "to": 150.66,
+      "sid": 75,
+      "location": 2,
+      "content": "内含黑云山控油精粹",
+      "music": 0.0
+    },
+    {
+      "from": 150.66,
+      "to": 152.8,
+      "sid": 76,
+      "location": 2,
+      "content": "控油效果比维EA酸还强",
+      "music": 0.0
+    },
+    {
+      "from": 152.8,
+      "to": 153.6,
+      "sid": 77,
+      "location": 2,
+      "content": "13.6%",
+      "music": 0.0
+    },
+    {
+      "from": 153.6,
+      "to": 155.04,
+      "sid": 78,
+      "location": 2,
+      "content": "用完脸不泛油光",
+      "music": 0.0
+    },
+    {
+      "from": 155.04,
+      "to": 156.52,
+      "sid": 79,
+      "location": 2,
+      "content": "看着更加的清爽透亮",
+      "music": 0.0
+    },
+    {
+      "from": 156.52,
+      "to": 157.6,
+      "sid": 80,
+      "location": 2,
+      "content": "小李也一直在用",
+      "music": 0.0
+    },
+    {
+      "from": 157.6,
+      "to": 159.94,
+      "sid": 81,
+      "location": 2,
+      "content": "现在每天起床再也不会摸着一眼油了",
+      "music": 0.0
+    },
+    {
+      "from": 159.94,
+      "to": 161.6,
+      "sid": 82,
+      "location": 2,
+      "content": "出门见人哎也精神了不少",
+      "music": 0.0
+    },
+    {
+      "from": 161.6,
+      "to": 162.98,
+      "sid": 83,
+      "location": 2,
+      "content": "这用的真挺不错的",
+      "music": 0.0
+    },
+    {
+      "from": 162.98,
+      "to": 164.38,
+      "sid": 84,
+      "location": 2,
+      "content": "我用了一段油少了",
+      "music": 0.0
+    },
+    {
+      "from": 164.38,
+      "to": 165.28,
+      "sid": 85,
+      "location": 2,
+      "content": "皮肤也干净",
+      "music": 0.0
+    },
+    {
+      "from": 165.28,
+      "to": 166.44,
+      "sid": 86,
+      "location": 2,
+      "content": "现在置顶领券",
+      "music": 0.0
+    },
+    {
+      "from": 166.44,
+      "to": 169.76,
+      "sid": 87,
+      "location": 2,
+      "content": "下单还能获得海贼王角色透卡和电脑鼠标垫",
+      "music": 0.0
+    },
+    {
+      "from": 169.76,
+      "to": 172.88,
+      "sid": 88,
+      "location": 2,
+      "content": "用普通款的价格拿下航海王正版联名礼盒",
+      "music": 0.0
+    },
+    {
+      "from": 172.88,
+      "to": 174.02,
+      "sid": 89,
+      "location": 2,
+      "content": "不管自用还是送人",
+      "music": 0.0
+    },
+    {
+      "from": 174.02,
+      "to": 175.6,
+      "sid": 90,
+      "location": 2,
+      "content": "性价比都直接拉满",
+      "music": 0.0
+    },
+    {
+      "from": 175.6,
+      "to": 177.28,
+      "sid": 91,
+      "location": 2,
+      "content": "有需要的兄弟千万别错过",
+      "music": 0.0
+    },
+    {
+      "from": 177.28,
+      "to": 180.03,
+      "sid": 92,
+      "location": 2,
+      "content": "春饼聊申108饺子春饼",
+      "music": 0.0
+    },
+    {
+      "from": 180.03,
+      "to": 181.99,
+      "sid": 93,
+      "location": 2,
+      "content": "海参装到中间尝一口啊",
+      "music": 0.0
+    },
+    {
+      "from": 181.99,
+      "to": 183.91,
+      "sid": 94,
+      "location": 2,
+      "content": "看着好豪横啊",
+      "music": 0.0
+    },
+    {
+      "from": 184.23,
+      "to": 186.33,
+      "sid": 95,
+      "location": 2,
+      "content": "哥哥你翻上我往年的视频",
+      "music": 0.0
+    },
+    {
+      "from": 186.33,
+      "to": 190.38,
+      "sid": 96,
+      "location": 2,
+      "content": "这个至少从那年我在家就就已经卷过这个了",
+      "music": 0.0
+    },
+    {
+      "from": 190.38,
+      "to": 191.78,
+      "sid": 97,
+      "location": 2,
+      "content": "跟我的做法一样啊",
+      "music": 0.0
+    },
+    {
+      "from": 191.78,
+      "to": 192.78,
+      "sid": 98,
+      "location": 2,
+      "content": "下边抹点酱",
+      "music": 0.0
+    },
+    {
+      "from": 192.78,
+      "to": 195.49,
+      "sid": 99,
+      "location": 2,
+      "content": "海参入口脆弹鲜",
+      "music": 0.0
+    },
+    {
+      "from": 195.49,
+      "to": 196.95,
+      "sid": 100,
+      "location": 2,
+      "content": "没有任何的杂味",
+      "music": 0.0
+    },
+    {
+      "from": 196.95,
+      "to": 200.85,
+      "sid": 101,
+      "location": 2,
+      "content": "里边应该我感觉应该还有个有葱汁的味道",
+      "music": 0.0
+    },
+    {
+      "from": 201.13,
+      "to": 202.49,
+      "sid": 102,
+      "location": 2,
+      "content": "哎被我猜中了吧",
+      "music": 0.0
+    },
+    {
+      "from": 202.49,
+      "to": 203.67,
+      "sid": 103,
+      "location": 2,
+      "content": "肚子是长着呢",
+      "music": 0.0
+    },
+    {
+      "from": 203.67,
+      "to": 205.17,
+      "sid": 104,
+      "location": 2,
+      "content": "洋葱还有一根绿香菜",
+      "music": 0.0
+    },
+    {
+      "from": 205.17,
+      "to": 206.16,
+      "sid": 105,
+      "location": 2,
+      "content": "很巧妙啊",
+      "music": 0.0
+    },
+    {
+      "from": 206.16,
+      "to": 207.36,
+      "sid": 106,
+      "location": 2,
+      "content": "设计的非常巧妙",
+      "music": 0.0
+    },
+    {
+      "from": 207.36,
+      "to": 208.24,
+      "sid": 107,
+      "location": 2,
+      "content": "海参也挺好",
+      "music": 0.0
+    },
+    {
+      "from": 208.24,
+      "to": 209.96,
+      "sid": 108,
+      "location": 2,
+      "content": "自制哈尔滨红肠68",
+      "music": 0.0
+    },
+    {
+      "from": 209.96,
+      "to": 210.66,
+      "sid": 109,
+      "location": 2,
+      "content": "好贵啊",
+      "music": 0.0
+    },
+    {
+      "from": 210.66,
+      "to": 212.42,
+      "sid": 110,
+      "location": 2,
+      "content": "好贵啊",
+      "music": 0.0
+    },
+    {
+      "from": 213.42,
+      "to": 215.22,
+      "sid": 111,
+      "location": 2,
+      "content": "这个没吃过",
+      "music": 0.0
+    },
+    {
+      "from": 215.22,
+      "to": 217.58,
+      "sid": 112,
+      "location": 2,
+      "content": "有什么就跟我们常吃的不太一样的地方",
+      "music": 0.0
+    },
+    {
+      "from": 217.58,
+      "to": 218.42,
+      "sid": 113,
+      "location": 2,
+      "content": "这说不准啊",
+      "music": 0.0
+    },
+    {
+      "from": 218.42,
+      "to": 219.72,
+      "sid": 114,
+      "location": 2,
+      "content": "人家用的糖衣啊",
+      "music": 0.0
+    },
+    {
+      "from": 219.72,
+      "to": 222.03,
+      "sid": 115,
+      "location": 2,
+      "content": "里边的肉馅有特殊的选点",
+      "music": 0.0
+    },
+    {
+      "from": 222.03,
+      "to": 224.6,
+      "sid": 116,
+      "location": 2,
+      "content": "还是我们嘴笨的",
+      "music": 0.0
+    },
+    {
+      "from": 225.72,
+      "to": 227.08,
+      "sid": 117,
+      "location": 2,
+      "content": "好我们做个总结",
+      "music": 0.0
+    },
+    {
+      "from": 227.08,
+      "to": 229.12,
+      "sid": 118,
+      "location": 2,
+      "content": "今儿我们吃了654",
+      "music": 0.0
+    },
+    {
+      "from": 229.12,
+      "to": 230.78,
+      "sid": 119,
+      "location": 2,
+      "content": "三个人吃的干干净净的",
+      "music": 0.0
+    },
+    {
+      "from": 230.78,
+      "to": 231.72,
+      "sid": 120,
+      "location": 2,
+      "content": "加了两盒饺子",
+      "music": 0.0
+    },
+    {
+      "from": 231.72,
+      "to": 232.62,
+      "sid": 121,
+      "location": 2,
+      "content": "一说得40",
+      "music": 0.0
+    },
+    {
+      "from": 233.32,
+      "to": 234.82,
+      "sid": 122,
+      "location": 2,
+      "content": "不过那红肠我没吃",
+      "music": 0.0
+    },
+    {
+      "from": 234.82,
+      "to": 235.7,
+      "sid": 123,
+      "location": 2,
+      "content": "太明媚之外",
+      "music": 0.0
+    },
+    {
+      "from": 235.7,
+      "to": 237.58,
+      "sid": 124,
+      "location": 2,
+      "content": "其他的菜做的都还不错",
+      "music": 0.0
+    },
+    {
+      "from": 237.58,
+      "to": 239.08,
+      "sid": 125,
+      "location": 2,
+      "content": "吃着不错的基础上",
+      "music": 0.0
+    },
+    {
+      "from": 239.08,
+      "to": 242.08,
+      "sid": 126,
+      "location": 2,
+      "content": "明显的感觉到饺子会更好一大截",
+      "music": 0.0
+    }
+  ]
+}

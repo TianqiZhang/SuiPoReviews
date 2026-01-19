@@ -1,0 +1,988 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.24,
+      "to": 1.46,
+      "sid": 1,
+      "location": 2,
+      "content": "随铺一单好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 1.46,
+      "to": 4.46,
+      "sid": 2,
+      "location": 2,
+      "content": "哈尔滨还有两顿才吃上的家常菜馆",
+      "music": 0.0
+    },
+    {
+      "from": 4.46,
+      "to": 7.6,
+      "sid": 3,
+      "location": 2,
+      "content": "知音酒楼238",
+      "music": 0.0
+    },
+    {
+      "from": 8.06,
+      "to": 9.86,
+      "sid": 4,
+      "location": 2,
+      "content": "我们第二次来了啊",
+      "music": 0.0
+    },
+    {
+      "from": 9.86,
+      "to": 12.14,
+      "sid": 5,
+      "location": 2,
+      "content": "第一次来没排上队",
+      "music": 0.0
+    },
+    {
+      "from": 14.18,
+      "to": 18.12,
+      "sid": 6,
+      "location": 2,
+      "content": "搁东北做本地菜能那么多人过来吃",
+      "music": 0.0
+    },
+    {
+      "from": 18.12,
+      "to": 19.48,
+      "sid": 7,
+      "location": 2,
+      "content": "我对他期待很高啊",
+      "music": 0.0
+    },
+    {
+      "from": 19.48,
+      "to": 21.38,
+      "sid": 8,
+      "location": 2,
+      "content": "虎皮肘子现在68块八",
+      "music": 0.0
+    },
+    {
+      "from": 21.38,
+      "to": 23.8,
+      "sid": 9,
+      "location": 2,
+      "content": "现在已经没有虎皮好吃",
+      "music": 0.0
+    },
+    {
+      "from": 23.8,
+      "to": 25.48,
+      "sid": 10,
+      "location": 2,
+      "content": "肘子先叨皮",
+      "music": 0.0
+    },
+    {
+      "from": 25.9,
+      "to": 27.84,
+      "sid": 11,
+      "location": 2,
+      "content": "对四川外是有鸡",
+      "music": 0.0
+    },
+    {
+      "from": 27.84,
+      "to": 29.3,
+      "sid": 12,
+      "location": 2,
+      "content": "对他们挺当地的",
+      "music": 0.0
+    },
+    {
+      "from": 29.3,
+      "to": 30.78,
+      "sid": 13,
+      "location": 2,
+      "content": "东北酱油搁点酱",
+      "music": 0.0
+    },
+    {
+      "from": 30.78,
+      "to": 32.16,
+      "sid": 14,
+      "location": 2,
+      "content": "别的地方会酱味重一点",
+      "music": 0.0
+    },
+    {
+      "from": 32.16,
+      "to": 33.36,
+      "sid": 15,
+      "location": 2,
+      "content": "以咸鲜为主",
+      "music": 0.0
+    },
+    {
+      "from": 33.36,
+      "to": 34.98,
+      "sid": 16,
+      "location": 2,
+      "content": "其实还可以再多泡一会",
+      "music": 0.0
+    },
+    {
+      "from": 34.98,
+      "to": 37.34,
+      "sid": 17,
+      "location": 2,
+      "content": "这个扒拉起来还稍微的费点劲",
+      "music": 0.0
+    },
+    {
+      "from": 37.34,
+      "to": 39.06,
+      "sid": 18,
+      "location": 2,
+      "content": "黑椒小滑肉46",
+      "music": 0.0
+    },
+    {
+      "from": 39.06,
+      "to": 40.28,
+      "sid": 19,
+      "location": 2,
+      "content": "这不是他这一盘肉",
+      "music": 0.0
+    },
+    {
+      "from": 40.28,
+      "to": 45.42,
+      "sid": 20,
+      "location": 2,
+      "content": "我好好在下面啊",
+      "music": 0.0
+    },
+    {
+      "from": 45.58,
+      "to": 46.94,
+      "sid": 21,
+      "location": 2,
+      "content": "奶包好香吗",
+      "music": 0.0
+    },
+    {
+      "from": 46.94,
+      "to": 48.44,
+      "sid": 22,
+      "location": 2,
+      "content": "别看是东北饭馆",
+      "music": 0.0
+    },
+    {
+      "from": 48.44,
+      "to": 50.46,
+      "sid": 23,
+      "location": 2,
+      "content": "这黑椒味调的也还可以",
+      "music": 0.0
+    },
+    {
+      "from": 50.46,
+      "to": 51.88,
+      "sid": 24,
+      "location": 2,
+      "content": "汁儿的味道比较复合",
+      "music": 0.0
+    },
+    {
+      "from": 51.88,
+      "to": 52.88,
+      "sid": 25,
+      "location": 2,
+      "content": "有点面捞啊",
+      "music": 0.0
+    },
+    {
+      "from": 52.88,
+      "to": 54.06,
+      "sid": 26,
+      "location": 2,
+      "content": "黄油一点点",
+      "music": 0.0
+    },
+    {
+      "from": 54.06,
+      "to": 55.83,
+      "sid": 27,
+      "location": 2,
+      "content": "咖喱洋葱蒜",
+      "music": 0.0
+    },
+    {
+      "from": 55.83,
+      "to": 58.47,
+      "sid": 28,
+      "location": 2,
+      "content": "所有调料放在一起咕嘟咕嘟咕嘟咕嘟一熬",
+      "music": 0.0
+    },
+    {
+      "from": 58.47,
+      "to": 59.91,
+      "sid": 29,
+      "location": 2,
+      "content": "他的黑椒的味道出来了",
+      "music": 0.0
+    },
+    {
+      "from": 59.91,
+      "to": 60.99,
+      "sid": 30,
+      "location": 2,
+      "content": "但是味道不烈",
+      "music": 0.0
+    },
+    {
+      "from": 60.99,
+      "to": 62.19,
+      "sid": 31,
+      "location": 2,
+      "content": "还可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 62.19,
+      "to": 64.35,
+      "sid": 32,
+      "location": 2,
+      "content": "东北泡泡能吃出这味的黑椒哎",
+      "music": 0.0
+    },
+    {
+      "from": 64.35,
+      "to": 65.35,
+      "sid": 33,
+      "location": 2,
+      "content": "可以了可以了可以了",
+      "music": 0.0
+    },
+    {
+      "from": 65.35,
+      "to": 68.23,
+      "sid": 34,
+      "location": 2,
+      "content": "森林小炒38",
+      "music": 0.0
+    },
+    {
+      "from": 70.13,
+      "to": 71.25,
+      "sid": 35,
+      "location": 2,
+      "content": "哟我说",
+      "music": 0.0
+    },
+    {
+      "from": 73.61,
+      "to": 74.87,
+      "sid": 36,
+      "location": 2,
+      "content": "你这味儿做的挺好",
+      "music": 0.0
+    },
+    {
+      "from": 74.87,
+      "to": 76.49,
+      "sid": 37,
+      "location": 2,
+      "content": "有什么杏鲍菇啊",
+      "music": 0.0
+    },
+    {
+      "from": 76.49,
+      "to": 77.39,
+      "sid": 38,
+      "location": 2,
+      "content": "茶树菇",
+      "music": 0.0
+    },
+    {
+      "from": 77.39,
+      "to": 78.35,
+      "sid": 39,
+      "location": 2,
+      "content": "白玉菇啊",
+      "music": 0.0
+    },
+    {
+      "from": 78.35,
+      "to": 79.23,
+      "sid": 40,
+      "location": 2,
+      "content": "这有什么算什么",
+      "music": 0.0
+    },
+    {
+      "from": 79.23,
+      "to": 80.65,
+      "sid": 41,
+      "location": 2,
+      "content": "只要你炸的炸的干爽了",
+      "music": 0.0
+    },
+    {
+      "from": 80.65,
+      "to": 82.43,
+      "sid": 42,
+      "location": 2,
+      "content": "然后一炒那味儿差不了味儿",
+      "music": 0.0
+    },
+    {
+      "from": 82.43,
+      "to": 84.31,
+      "sid": 43,
+      "location": 2,
+      "content": "炒的非常的透咸鲜",
+      "music": 0.0
+    },
+    {
+      "from": 84.31,
+      "to": 86.49,
+      "sid": 44,
+      "location": 2,
+      "content": "一点点的辣蘑菇香味都出来了啊",
+      "music": 0.0
+    },
+    {
+      "from": 86.49,
+      "to": 87.79,
+      "sid": 45,
+      "location": 2,
+      "content": "胃口一点点甜",
+      "music": 0.0
+    },
+    {
+      "from": 87.79,
+      "to": 88.57,
+      "sid": 46,
+      "location": 2,
+      "content": "挺好吃的",
+      "music": 0.0
+    },
+    {
+      "from": 88.57,
+      "to": 91.12,
+      "sid": 47,
+      "location": 2,
+      "content": "铁板酸菜32块八",
+      "music": 0.0
+    },
+    {
+      "from": 91.12,
+      "to": 96.89,
+      "sid": 48,
+      "location": 2,
+      "content": "这个酸菜选料一般",
+      "music": 0.0
+    },
+    {
+      "from": 96.89,
+      "to": 97.99,
+      "sid": 49,
+      "location": 2,
+      "content": "酸菜没有酸味",
+      "music": 0.0
+    },
+    {
+      "from": 97.99,
+      "to": 98.53,
+      "sid": 50,
+      "location": 2,
+      "content": "也不香",
+      "music": 0.0
+    },
+    {
+      "from": 98.53,
+      "to": 99.45,
+      "sid": 51,
+      "location": 2,
+      "content": "也没炒透",
+      "music": 0.0
+    },
+    {
+      "from": 99.45,
+      "to": 102.01,
+      "sid": 52,
+      "location": 2,
+      "content": "就像是那个北京卖的东北菜啊",
+      "music": 0.0
+    },
+    {
+      "from": 102.01,
+      "to": 104.3,
+      "sid": 53,
+      "location": 2,
+      "content": "吃到现在我脸一直往外冒油",
+      "music": 0.0
+    },
+    {
+      "from": 104.3,
+      "to": 106.74,
+      "sid": 54,
+      "location": 2,
+      "content": "尤其是大热天的探店美食还能冒痘",
+      "music": 0.0
+    },
+    {
+      "from": 106.74,
+      "to": 107.08,
+      "sid": 55,
+      "location": 2,
+      "content": "哎",
+      "music": 0.0
+    },
+    {
+      "from": 107.08,
+      "to": 108.93,
+      "sid": 56,
+      "location": 2,
+      "content": "幸亏我带了这套",
+      "music": 0.0
+    },
+    {
+      "from": 108.93,
+      "to": 113.17,
+      "sid": 57,
+      "location": 2,
+      "content": "西木源和海贼王联名的男士护肤礼盒",
+      "music": 0.0
+    },
+    {
+      "from": 113.41,
+      "to": 114.87,
+      "sid": 58,
+      "location": 2,
+      "content": "一套就能搞定",
+      "music": 0.0
+    },
+    {
+      "from": 114.87,
+      "to": 117.38,
+      "sid": 59,
+      "location": 2,
+      "content": "清洁控油抗痘简单且高效",
+      "music": 0.0
+    },
+    {
+      "from": 117.38,
+      "to": 118.22,
+      "sid": 60,
+      "location": 2,
+      "content": "我用了大半月",
+      "music": 0.0
+    },
+    {
+      "from": 118.22,
+      "to": 118.98,
+      "sid": 61,
+      "location": 2,
+      "content": "用着挺省心的",
+      "music": 0.0
+    },
+    {
+      "from": 118.98,
+      "to": 120.46,
+      "sid": 62,
+      "location": 2,
+      "content": "毕竟出镜拍摄还得收拾妥当",
+      "music": 0.0
+    },
+    {
+      "from": 120.46,
+      "to": 121.28,
+      "sid": 63,
+      "location": 2,
+      "content": "观众还看着舒心",
+      "music": 0.0
+    },
+    {
+      "from": 121.28,
+      "to": 123.74,
+      "sid": 64,
+      "location": 2,
+      "content": "而且他常年登顶回购好评",
+      "music": 0.0
+    },
+    {
+      "from": 123.74,
+      "to": 126.16,
+      "sid": 65,
+      "location": 2,
+      "content": "热销三榜第一口碑有市场检验",
+      "music": 0.0
+    },
+    {
+      "from": 126.16,
+      "to": 127.52,
+      "sid": 66,
+      "location": 2,
+      "content": "周边包含礼盒礼袋",
+      "music": 0.0
+    },
+    {
+      "from": 127.52,
+      "to": 128.22,
+      "sid": 67,
+      "location": 2,
+      "content": "大鼠标要店",
+      "music": 0.0
+    },
+    {
+      "from": 128.22,
+      "to": 130.2,
+      "sid": 68,
+      "location": 2,
+      "content": "还有随机赠送的角色透卡一张",
+      "music": 0.0
+    },
+    {
+      "from": 130.2,
+      "to": 131.42,
+      "sid": 69,
+      "location": 2,
+      "content": "据说里边有隐藏款的",
+      "music": 0.0
+    },
+    {
+      "from": 131.42,
+      "to": 132.2,
+      "sid": 70,
+      "location": 2,
+      "content": "就看各位手下了",
+      "music": 0.0
+    },
+    {
+      "from": 132.2,
+      "to": 134.22,
+      "sid": 71,
+      "location": 2,
+      "content": "里边还有一克足金黄金船票",
+      "music": 0.0
+    },
+    {
+      "from": 134.22,
+      "to": 135.16,
+      "sid": 72,
+      "location": 2,
+      "content": "谷子免费送",
+      "music": 0.0
+    },
+    {
+      "from": 135.16,
+      "to": 135.88,
+      "sid": 73,
+      "location": 2,
+      "content": "限量九张",
+      "music": 0.0
+    },
+    {
+      "from": 135.88,
+      "to": 136.76,
+      "sid": 74,
+      "location": 2,
+      "content": "人人都有机划",
+      "music": 0.0
+    },
+    {
+      "from": 136.76,
+      "to": 138.36,
+      "sid": 75,
+      "location": 2,
+      "content": "我平时就用它洁面一洗",
+      "music": 0.0
+    },
+    {
+      "from": 138.36,
+      "to": 139.6,
+      "sid": 76,
+      "location": 2,
+      "content": "水一拍乳液一抹",
+      "music": 0.0
+    },
+    {
+      "from": 139.6,
+      "to": 140.16,
+      "sid": 77,
+      "location": 2,
+      "content": "三个步骤",
+      "music": 0.0
+    },
+    {
+      "from": 140.16,
+      "to": 140.88,
+      "sid": 78,
+      "location": 2,
+      "content": "2分钟搞定",
+      "music": 0.0
+    },
+    {
+      "from": 140.88,
+      "to": 141.88,
+      "sid": 79,
+      "location": 2,
+      "content": "用完清清爽爽",
+      "music": 0.0
+    },
+    {
+      "from": 141.88,
+      "to": 142.46,
+      "sid": 80,
+      "location": 2,
+      "content": "不泛油光",
+      "music": 0.0
+    },
+    {
+      "from": 142.46,
+      "to": 144.3,
+      "sid": 81,
+      "location": 2,
+      "content": "里边加了黑云山控油精粹",
+      "music": 0.0
+    },
+    {
+      "from": 144.3,
+      "to": 147.16,
+      "sid": 82,
+      "location": 2,
+      "content": "控油效果比一维A酸还整体高13.6%",
+      "music": 0.0
+    },
+    {
+      "from": 147.16,
+      "to": 148.48,
+      "sid": 83,
+      "location": 2,
+      "content": "小李也坚持用了大半月",
+      "music": 0.0
+    },
+    {
+      "from": 148.48,
+      "to": 149.86,
+      "sid": 84,
+      "location": 2,
+      "content": "每天起床也不会摸这一脸油了",
+      "music": 0.0
+    },
+    {
+      "from": 149.86,
+      "to": 151.22,
+      "sid": 85,
+      "location": 2,
+      "content": "早起刷完牙顺手一抹",
+      "music": 0.0
+    },
+    {
+      "from": 151.22,
+      "to": 152.5,
+      "sid": 86,
+      "location": 2,
+      "content": "一整天脸不油不腻",
+      "music": 0.0
+    },
+    {
+      "from": 152.5,
+      "to": 154.34,
+      "sid": 87,
+      "location": 2,
+      "content": "不管出门见人还是约会都有底气",
+      "music": 0.0
+    },
+    {
+      "from": 154.34,
+      "to": 155.62,
+      "sid": 88,
+      "location": 2,
+      "content": "现在置顶令大优惠券",
+      "music": 0.0
+    },
+    {
+      "from": 155.62,
+      "to": 157.14,
+      "sid": 89,
+      "location": 2,
+      "content": "就能用普通款的价格就能拿下",
+      "music": 0.0
+    },
+    {
+      "from": 157.14,
+      "to": 157.98,
+      "sid": 90,
+      "location": 2,
+      "content": "西木源海贼王",
+      "music": 0.0
+    },
+    {
+      "from": 157.98,
+      "to": 160.5,
+      "sid": 91,
+      "location": 2,
+      "content": "正版联名礼盒和黄金船票的抽奖机会",
+      "music": 0.0
+    },
+    {
+      "from": 160.5,
+      "to": 161.18,
+      "sid": 92,
+      "location": 2,
+      "content": "性价比很高",
+      "music": 0.0
+    },
+    {
+      "from": 161.18,
+      "to": 162.86,
+      "sid": 93,
+      "location": 2,
+      "content": "需要的各位可以试试溜",
+      "music": 0.0
+    },
+    {
+      "from": 162.86,
+      "to": 164.79,
+      "sid": 94,
+      "location": 2,
+      "content": "双段50块八毛",
+      "music": 0.0
+    },
+    {
+      "from": 164.79,
+      "to": 168.25,
+      "sid": 95,
+      "location": 2,
+      "content": "这个很像锅包肉那个货啊",
+      "music": 0.0
+    },
+    {
+      "from": 168.25,
+      "to": 169.519,
+      "sid": 96,
+      "location": 2,
+      "content": "像吗",
+      "music": 0.0
+    },
+    {
+      "from": 169.519,
+      "to": 170.899,
+      "sid": 97,
+      "location": 2,
+      "content": "一个咸鲜的味道",
+      "music": 0.0
+    },
+    {
+      "from": 170.899,
+      "to": 174.519,
+      "sid": 98,
+      "location": 2,
+      "content": "你尝尝虾仁外酥里嫩",
+      "music": 0.0
+    },
+    {
+      "from": 174.519,
+      "to": 175.899,
+      "sid": 99,
+      "location": 2,
+      "content": "原料非常新鲜",
+      "music": 0.0
+    },
+    {
+      "from": 175.899,
+      "to": 177.91,
+      "sid": 100,
+      "location": 2,
+      "content": "表面有一点点的酥",
+      "music": 0.0
+    },
+    {
+      "from": 177.91,
+      "to": 178.31,
+      "sid": 101,
+      "location": 2,
+      "content": "招",
+      "music": 0.0
+    },
+    {
+      "from": 178.31,
+      "to": 180.21,
+      "sid": 102,
+      "location": 2,
+      "content": "汁的多的地方就有点软塌塌",
+      "music": 0.0
+    },
+    {
+      "from": 180.21,
+      "to": 181.59,
+      "sid": 103,
+      "location": 2,
+      "content": "泡过汤汁的地方",
+      "music": 0.0
+    },
+    {
+      "from": 181.59,
+      "to": 183.23,
+      "sid": 104,
+      "location": 2,
+      "content": "你吃了就会有点淀粉的那种",
+      "music": 0.0
+    },
+    {
+      "from": 183.23,
+      "to": 184.04,
+      "sid": 105,
+      "location": 2,
+      "content": "糯糯叽叽的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 184.04,
+      "to": 185.74,
+      "sid": 106,
+      "location": 2,
+      "content": "这种口感呢它就有点挑人",
+      "music": 0.0
+    },
+    {
+      "from": 185.74,
+      "to": 186.56,
+      "sid": 107,
+      "location": 2,
+      "content": "有人觉得好吃",
+      "music": 0.0
+    },
+    {
+      "from": 186.56,
+      "to": 187.62,
+      "sid": 108,
+      "location": 2,
+      "content": "有人觉得就不好吃",
+      "music": 0.0
+    },
+    {
+      "from": 187.62,
+      "to": 188.5,
+      "sid": 109,
+      "location": 2,
+      "content": "好我们做个总结",
+      "music": 0.0
+    },
+    {
+      "from": 188.5,
+      "to": 190.16,
+      "sid": 110,
+      "location": 2,
+      "content": "今儿我们吃了238",
+      "music": 0.0
+    },
+    {
+      "from": 190.16,
+      "to": 191.46,
+      "sid": 111,
+      "location": 2,
+      "content": "得了15个人的量",
+      "music": 0.0
+    },
+    {
+      "from": 191.46,
+      "to": 192.54,
+      "sid": 112,
+      "location": 2,
+      "content": "太阳是有点大",
+      "music": 0.0
+    },
+    {
+      "from": 192.54,
+      "to": 193.58,
+      "sid": 113,
+      "location": 2,
+      "content": "他们家的风格呢",
+      "music": 0.0
+    },
+    {
+      "from": 193.58,
+      "to": 196.0,
+      "sid": 114,
+      "location": 2,
+      "content": "就是很能够迎合大多数人的口味",
+      "music": 0.0
+    },
+    {
+      "from": 196.0,
+      "to": 198.1,
+      "sid": 115,
+      "location": 2,
+      "content": "反正一般这种店生意都是最好",
+      "music": 0.0
+    },
+    {
+      "from": 198.1,
+      "to": 199.44,
+      "sid": 116,
+      "location": 2,
+      "content": "要不然咱也不会来",
+      "music": 0.0
+    },
+    {
+      "from": 199.44,
+      "to": 200.14,
+      "sid": 117,
+      "location": 2,
+      "content": "排了两顿",
+      "music": 0.0
+    },
+    {
+      "from": 200.14,
+      "to": 200.94,
+      "sid": 118,
+      "location": 2,
+      "content": "还吃到了",
+      "music": 0.0
+    },
+    {
+      "from": 200.94,
+      "to": 201.66,
+      "sid": 119,
+      "location": 2,
+      "content": "量也不小",
+      "music": 0.0
+    },
+    {
+      "from": 201.66,
+      "to": 203.82,
+      "sid": 120,
+      "location": 2,
+      "content": "我估计搁东北是不是菜量小了",
+      "music": 0.0
+    },
+    {
+      "from": 203.82,
+      "to": 204.14,
+      "sid": 121,
+      "location": 2,
+      "content": "不好意思",
+      "music": 0.0
+    },
+    {
+      "from": 204.14,
+      "to": 204.9,
+      "sid": 122,
+      "location": 2,
+      "content": "端出来的",
+      "music": 0.0
+    }
+  ]
+}

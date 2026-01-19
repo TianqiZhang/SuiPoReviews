@@ -1,0 +1,812 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.36,
+      "to": 2.24,
+      "sid": 1,
+      "location": 2,
+      "content": "看老板这个年龄能做出这样的菜",
+      "music": 0.0
+    },
+    {
+      "from": 2.24,
+      "to": 5.0,
+      "sid": 2,
+      "location": 2,
+      "content": "我挺佩服的",
+      "music": 0.0
+    },
+    {
+      "from": 5.0,
+      "to": 6.78,
+      "sid": 3,
+      "location": 2,
+      "content": "所以破一摊好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 6.78,
+      "to": 8.26,
+      "sid": 4,
+      "location": 2,
+      "content": "网上很有争议的小馆",
+      "music": 0.0
+    },
+    {
+      "from": 8.26,
+      "to": 10.84,
+      "sid": 5,
+      "location": 2,
+      "content": "上海食贵211",
+      "music": 0.0
+    },
+    {
+      "from": 14.26,
+      "to": 16.38,
+      "sid": 6,
+      "location": 2,
+      "content": "个性炒菜连盘子都没有",
+      "music": 0.0
+    },
+    {
+      "from": 16.38,
+      "to": 17.98,
+      "sid": 7,
+      "location": 2,
+      "content": "他桌上一溜全是一次性饭盒",
+      "music": 0.0
+    },
+    {
+      "from": 17.98,
+      "to": 19.02,
+      "sid": 8,
+      "location": 2,
+      "content": "贵阳辣子鸡28",
+      "music": 0.0
+    },
+    {
+      "from": 19.02,
+      "to": 19.9,
+      "sid": 9,
+      "location": 2,
+      "content": "我们坐在桌这吃",
+      "music": 0.0
+    },
+    {
+      "from": 19.9,
+      "to": 20.94,
+      "sid": 10,
+      "location": 2,
+      "content": "老板就在旁边炒",
+      "music": 0.0
+    },
+    {
+      "from": 20.94,
+      "to": 23.22,
+      "sid": 11,
+      "location": 2,
+      "content": "这下真成了趴在锅边上吃了",
+      "music": 0.0
+    },
+    {
+      "from": 25.36,
+      "to": 27.08,
+      "sid": 12,
+      "location": 2,
+      "content": "嚯正经的好吃",
+      "music": 0.0
+    },
+    {
+      "from": 27.08,
+      "to": 27.82,
+      "sid": 13,
+      "location": 2,
+      "content": "很新鲜的鸡",
+      "music": 0.0
+    },
+    {
+      "from": 27.82,
+      "to": 28.48,
+      "sid": 14,
+      "location": 2,
+      "content": "过油一炸",
+      "music": 0.0
+    },
+    {
+      "from": 28.48,
+      "to": 30.62,
+      "sid": 15,
+      "location": 2,
+      "content": "贵州他们那种糟辣椒味儿特别透",
+      "music": 0.0
+    },
+    {
+      "from": 30.62,
+      "to": 31.76,
+      "sid": 16,
+      "location": 2,
+      "content": "辣的那不那么燥",
+      "music": 0.0
+    },
+    {
+      "from": 31.76,
+      "to": 33.74,
+      "sid": 17,
+      "location": 2,
+      "content": "那个豆豉味非常的香",
+      "music": 0.0
+    },
+    {
+      "from": 33.74,
+      "to": 34.86,
+      "sid": 18,
+      "location": 2,
+      "content": "站好行吗",
+      "music": 0.0
+    },
+    {
+      "from": 34.86,
+      "to": 36.14,
+      "sid": 19,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 36.18,
+      "to": 38.52,
+      "sid": 20,
+      "location": 2,
+      "content": "小吃好吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 38.52,
+      "to": 40.46,
+      "sid": 21,
+      "location": 2,
+      "content": "酸辣椒肥肠拌鸡",
+      "music": 0.0
+    },
+    {
+      "from": 41.38,
+      "to": 42.18,
+      "sid": 22,
+      "location": 2,
+      "content": "先是咸",
+      "music": 0.0
+    },
+    {
+      "from": 42.18,
+      "to": 42.7,
+      "sid": 23,
+      "location": 2,
+      "content": "后是辣",
+      "music": 0.0
+    },
+    {
+      "from": 42.7,
+      "to": 44.06,
+      "sid": 24,
+      "location": 2,
+      "content": "最后都是肥肠的香味",
+      "music": 0.0
+    },
+    {
+      "from": 44.06,
+      "to": 44.74,
+      "sid": 25,
+      "location": 2,
+      "content": "越嚼越香",
+      "music": 0.0
+    },
+    {
+      "from": 44.74,
+      "to": 47.52,
+      "sid": 26,
+      "location": 2,
+      "content": "香料的味道只是去掉大肠的那种腥味",
+      "music": 0.0
+    },
+    {
+      "from": 47.52,
+      "to": 48.24,
+      "sid": 27,
+      "location": 2,
+      "content": "异味杂味",
+      "music": 0.0
+    },
+    {
+      "from": 48.24,
+      "to": 49.88,
+      "sid": 28,
+      "location": 2,
+      "content": "所以你吃的很大一部分香味",
+      "music": 0.0
+    },
+    {
+      "from": 49.88,
+      "to": 51.72,
+      "sid": 29,
+      "location": 2,
+      "content": "来源于肥肠本身的那个香味",
+      "music": 0.0
+    },
+    {
+      "from": 51.72,
+      "to": 57.8,
+      "sid": 30,
+      "location": 2,
+      "content": "很融合也贵州糍粑辣椒炒牛肉40哦",
+      "music": 0.0
+    },
+    {
+      "from": 57.8,
+      "to": 59.72,
+      "sid": 31,
+      "location": 2,
+      "content": "对嗯好好",
+      "music": 0.0
+    },
+    {
+      "from": 59.72,
+      "to": 61.35,
+      "sid": 32,
+      "location": 2,
+      "content": "我们那个时候我们店不大",
+      "music": 0.0
+    },
+    {
+      "from": 61.35,
+      "to": 62.29,
+      "sid": 33,
+      "location": 2,
+      "content": "但是火非常旺",
+      "music": 0.0
+    },
+    {
+      "from": 62.29,
+      "to": 64.22,
+      "sid": 34,
+      "location": 2,
+      "content": "炒这个菜炒的非常的透",
+      "music": 0.0
+    },
+    {
+      "from": 64.22,
+      "to": 66.42,
+      "sid": 35,
+      "location": 2,
+      "content": "牛肉里边能不渗得出来辣椒的香味",
+      "music": 0.0
+    },
+    {
+      "from": 66.42,
+      "to": 68.34,
+      "sid": 36,
+      "location": 2,
+      "content": "还有青蒜的那边汁水的味道",
+      "music": 0.0
+    },
+    {
+      "from": 68.34,
+      "to": 69.62,
+      "sid": 37,
+      "location": 2,
+      "content": "所有味道都融到一块了",
+      "music": 0.0
+    },
+    {
+      "from": 69.62,
+      "to": 70.66,
+      "sid": 38,
+      "location": 2,
+      "content": "锅气味特别足",
+      "music": 0.0
+    },
+    {
+      "from": 70.66,
+      "to": 71.57,
+      "sid": 39,
+      "location": 2,
+      "content": "可好吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 74.65,
+      "to": 75.71,
+      "sid": 40,
+      "location": 2,
+      "content": "酸辣椒炒鸡蛋",
+      "music": 0.0
+    },
+    {
+      "from": 75.71,
+      "to": 77.69,
+      "sid": 41,
+      "location": 2,
+      "content": "26来给你说说吧",
+      "music": 0.1917808087821361
+    },
+    {
+      "from": 77.69,
+      "to": 79.32,
+      "sid": 42,
+      "location": 2,
+      "content": "沃尔玛鸡蛋呢",
+      "music": 0.0
+    },
+    {
+      "from": 79.32,
+      "to": 81.2,
+      "sid": 43,
+      "location": 2,
+      "content": "看他煎到那种金黄的颜色",
+      "music": 0.0
+    },
+    {
+      "from": 81.2,
+      "to": 83.18,
+      "sid": 44,
+      "location": 2,
+      "content": "到那个焦香的那个味道",
+      "music": 0.0
+    },
+    {
+      "from": 83.18,
+      "to": 84.28,
+      "sid": 45,
+      "location": 2,
+      "content": "必须得出这个点",
+      "music": 0.0
+    },
+    {
+      "from": 84.28,
+      "to": 85.28,
+      "sid": 46,
+      "location": 2,
+      "content": "一口咬下去",
+      "music": 0.0
+    },
+    {
+      "from": 85.28,
+      "to": 87.74,
+      "sid": 47,
+      "location": 2,
+      "content": "爆辣椒的那种香味特别的足",
+      "music": 0.0
+    },
+    {
+      "from": 87.74,
+      "to": 89.34,
+      "sid": 48,
+      "location": 2,
+      "content": "跟咱们在贵州吃的很像",
+      "music": 0.0
+    },
+    {
+      "from": 89.34,
+      "to": 90.62,
+      "sid": 49,
+      "location": 2,
+      "content": "但是跟贵州很像",
+      "music": 0.0
+    },
+    {
+      "from": 90.62,
+      "to": 94.23,
+      "sid": 50,
+      "location": 2,
+      "content": "这已经是个褒义了哦",
+      "music": 0.0
+    },
+    {
+      "from": 94.23,
+      "to": 95.89,
+      "sid": 51,
+      "location": 2,
+      "content": "菜得味道够才吃得爽",
+      "music": 0.0
+    },
+    {
+      "from": 95.89,
+      "to": 98.03,
+      "sid": 52,
+      "location": 2,
+      "content": "就像我这个官方大流量的卡",
+      "music": 0.0
+    },
+    {
+      "from": 98.03,
+      "to": 98.74,
+      "sid": 53,
+      "location": 2,
+      "content": "流量够了",
+      "music": 0.0
+    },
+    {
+      "from": 98.74,
+      "to": 99.54,
+      "sid": 54,
+      "location": 2,
+      "content": "用用才爽",
+      "music": 0.0
+    },
+    {
+      "from": 99.54,
+      "to": 101.1,
+      "sid": 55,
+      "location": 2,
+      "content": "月租最多29元",
+      "music": 0.0
+    },
+    {
+      "from": 101.1,
+      "to": 102.58,
+      "sid": 56,
+      "location": 2,
+      "content": "每个月上百G流量",
+      "music": 0.0
+    },
+    {
+      "from": 102.58,
+      "to": 103.94,
+      "sid": 57,
+      "location": 2,
+      "content": "算下来一季才一毛钱",
+      "music": 0.0
+    },
+    {
+      "from": 103.94,
+      "to": 106.06,
+      "sid": 58,
+      "location": 2,
+      "content": "省的钱够吃好几顿大餐了",
+      "music": 0.0
+    },
+    {
+      "from": 106.06,
+      "to": 107.06,
+      "sid": 59,
+      "location": 2,
+      "content": "套餐是不错",
+      "music": 0.0
+    },
+    {
+      "from": 107.06,
+      "to": 108.74,
+      "sid": 60,
+      "location": 2,
+      "content": "但就怕以前办的流量卡那样",
+      "music": 0.0
+    },
+    {
+      "from": 108.74,
+      "to": 110.0,
+      "sid": 61,
+      "location": 2,
+      "content": "后面先不打架",
+      "music": 0.0
+    },
+    {
+      "from": 110.0,
+      "to": 111.34,
+      "sid": 62,
+      "location": 2,
+      "content": "你得找正规渠道",
+      "music": 0.0
+    },
+    {
+      "from": 111.34,
+      "to": 112.6,
+      "sid": 63,
+      "location": 2,
+      "content": "我这张是流量卡",
+      "music": 0.0
+    },
+    {
+      "from": 112.6,
+      "to": 114.96,
+      "sid": 64,
+      "location": 2,
+      "content": "测评猴巴布主流量卡大忽悠推荐的",
+      "music": 0.0
+    },
+    {
+      "from": 114.96,
+      "to": 117.52,
+      "sid": 65,
+      "location": 2,
+      "content": "它是运营商官方授权专业靠谱套餐",
+      "music": 0.0
+    },
+    {
+      "from": 117.52,
+      "to": 118.34,
+      "sid": 66,
+      "location": 2,
+      "content": "是长期优惠",
+      "music": 0.0
+    },
+    {
+      "from": 118.34,
+      "to": 119.62,
+      "sid": 67,
+      "location": 2,
+      "content": "网速最高500兆",
+      "music": 0.0
+    },
+    {
+      "from": 119.62,
+      "to": 120.4,
+      "sid": 68,
+      "location": 2,
+      "content": "刷刷视频",
+      "music": 0.0
+    },
+    {
+      "from": 120.4,
+      "to": 121.38,
+      "sid": 69,
+      "location": 2,
+      "content": "玩游戏都流畅",
+      "music": 0.0
+    },
+    {
+      "from": 121.38,
+      "to": 122.98,
+      "sid": 70,
+      "location": 2,
+      "content": "有问题找客服也负责",
+      "music": 0.0
+    },
+    {
+      "from": 122.98,
+      "to": 123.62,
+      "sid": 71,
+      "location": 2,
+      "content": "在哪申请啊",
+      "music": 0.0
+    },
+    {
+      "from": 123.62,
+      "to": 126.92,
+      "sid": 72,
+      "location": 2,
+      "content": "我现在就要点置顶链接就能领首页免费试用",
+      "music": 0.0
+    },
+    {
+      "from": 126.92,
+      "to": 127.52,
+      "sid": 73,
+      "location": 2,
+      "content": "包邮到家",
+      "music": 0.0
+    },
+    {
+      "from": 127.52,
+      "to": 129.08,
+      "sid": 74,
+      "location": 2,
+      "content": "月租超29的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 129.08,
+      "to": 130.06,
+      "sid": 75,
+      "location": 2,
+      "content": "真心推荐试试",
+      "music": 0.0
+    },
+    {
+      "from": 130.06,
+      "to": 130.72,
+      "sid": 76,
+      "location": 2,
+      "content": "不想用了",
+      "music": 0.0
+    },
+    {
+      "from": 130.72,
+      "to": 133.2,
+      "sid": 77,
+      "location": 2,
+      "content": "线上可随时注销豆豉回锅肉32",
+      "music": 0.0
+    },
+    {
+      "from": 133.2,
+      "to": 135.12,
+      "sid": 78,
+      "location": 2,
+      "content": "这肉看着还给了不少",
+      "music": 0.0
+    },
+    {
+      "from": 136.66,
+      "to": 139.06,
+      "sid": 79,
+      "location": 2,
+      "content": "看所有的原料都放在那个边上",
+      "music": 0.0
+    },
+    {
+      "from": 139.06,
+      "to": 140.52,
+      "sid": 80,
+      "location": 2,
+      "content": "旁边没有储存的冰箱",
+      "music": 0.0
+    },
+    {
+      "from": 140.52,
+      "to": 141.5,
+      "sid": 81,
+      "location": 2,
+      "content": "卖完就买不卖了",
+      "music": 0.0
+    },
+    {
+      "from": 141.5,
+      "to": 143.08,
+      "sid": 82,
+      "location": 2,
+      "content": "所以每天原料都很新鲜",
+      "music": 0.0
+    },
+    {
+      "from": 143.08,
+      "to": 143.94,
+      "sid": 83,
+      "location": 2,
+      "content": "一点骚味都没有",
+      "music": 0.0
+    },
+    {
+      "from": 143.94,
+      "to": 144.38,
+      "sid": 84,
+      "location": 2,
+      "content": "糍粑",
+      "music": 0.0
+    },
+    {
+      "from": 144.38,
+      "to": 146.58,
+      "sid": 85,
+      "location": 2,
+      "content": "辣椒和豆豉的香味都裹在那个肉上面",
+      "music": 0.0
+    },
+    {
+      "from": 146.58,
+      "to": 148.14,
+      "sid": 86,
+      "location": 2,
+      "content": "其实所有菜我全是下饭菜",
+      "music": 0.0
+    },
+    {
+      "from": 148.14,
+      "to": 149.34,
+      "sid": 87,
+      "location": 2,
+      "content": "真的很像贵州当地",
+      "music": 0.0
+    },
+    {
+      "from": 149.34,
+      "to": 151.3,
+      "sid": 88,
+      "location": 2,
+      "content": "但是看老板这个年龄能做出这样的菜",
+      "music": 0.0
+    },
+    {
+      "from": 151.3,
+      "to": 154.17,
+      "sid": 89,
+      "location": 2,
+      "content": "我我挺佩服的",
+      "music": 0.0
+    },
+    {
+      "from": 154.17,
+      "to": 155.25,
+      "sid": 90,
+      "location": 2,
+      "content": "好我们做个总结",
+      "music": 0.0
+    },
+    {
+      "from": 155.25,
+      "to": 156.85,
+      "sid": 91,
+      "location": 2,
+      "content": "就是我们吃的211",
+      "music": 0.0
+    },
+    {
+      "from": 156.85,
+      "to": 159.35,
+      "sid": 92,
+      "location": 2,
+      "content": "听说这个老板啊会主动的跟客人要差别",
+      "music": 0.0
+    },
+    {
+      "from": 159.35,
+      "to": 160.95,
+      "sid": 93,
+      "location": 2,
+      "content": "说太多了之后忙不过来",
+      "music": 0.0
+    },
+    {
+      "from": 160.95,
+      "to": 162.01,
+      "sid": 94,
+      "location": 2,
+      "content": "但是对不起了啊",
+      "music": 0.0
+    },
+    {
+      "from": 162.01,
+      "to": 163.6,
+      "sid": 95,
+      "location": 2,
+      "content": "老板味道确实做的不错",
+      "music": 0.0
+    },
+    {
+      "from": 163.6,
+      "to": 164.4,
+      "sid": 96,
+      "location": 2,
+      "content": "缺也没有",
+      "music": 0.0
+    },
+    {
+      "from": 164.4,
+      "to": 166.14,
+      "sid": 97,
+      "location": 2,
+      "content": "基本上是办自助服务啊",
+      "music": 0.0
+    },
+    {
+      "from": 166.14,
+      "to": 167.76,
+      "sid": 98,
+      "location": 2,
+      "content": "结账都是老板让你自己算",
+      "music": 0.0
+    },
+    {
+      "from": 167.76,
+      "to": 169.04,
+      "sid": 99,
+      "location": 2,
+      "content": "算好了以后直接转就行了",
+      "music": 0.0
+    },
+    {
+      "from": 169.04,
+      "to": 171.72,
+      "sid": 100,
+      "location": 2,
+      "content": "呵呵自己吃完自己收拾得还拍那",
+      "music": 0.0
+    }
+  ]
+}

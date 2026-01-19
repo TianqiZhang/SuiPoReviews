@@ -1,0 +1,868 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.1,
+      "to": 1.3,
+      "sid": 1,
+      "location": 2,
+      "content": "你不是帮我拌吗",
+      "music": 0.0
+    },
+    {
+      "from": 1.3,
+      "to": 2.78,
+      "sid": 2,
+      "location": 2,
+      "content": "你怎么自己吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 2.78,
+      "to": 4.06,
+      "sid": 3,
+      "location": 2,
+      "content": "我实在忍不住了",
+      "music": 0.0
+    },
+    {
+      "from": 4.06,
+      "to": 4.58,
+      "sid": 4,
+      "location": 2,
+      "content": "诱惑了",
+      "music": 0.0
+    },
+    {
+      "from": 4.58,
+      "to": 5.1,
+      "sid": 5,
+      "location": 2,
+      "content": "随坡一摊",
+      "music": 0.0
+    },
+    {
+      "from": 5.1,
+      "to": 5.74,
+      "sid": 6,
+      "location": 2,
+      "content": "好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 5.74,
+      "to": 6.5,
+      "sid": 7,
+      "location": 2,
+      "content": "陕西西安",
+      "music": 0.0
+    },
+    {
+      "from": 6.5,
+      "to": 7.3,
+      "sid": 8,
+      "location": 2,
+      "content": "下了飞机",
+      "music": 0.0
+    },
+    {
+      "from": 7.3,
+      "to": 8.5,
+      "sid": 9,
+      "location": 2,
+      "content": "拖着行李箱来吃面",
+      "music": 0.0
+    },
+    {
+      "from": 8.5,
+      "to": 10.22,
+      "sid": 10,
+      "location": 2,
+      "content": "刘记腊汁肉揪面片",
+      "music": 0.0
+    },
+    {
+      "from": 10.22,
+      "to": 11.58,
+      "sid": 11,
+      "location": 2,
+      "content": "118",
+      "music": 0.0
+    },
+    {
+      "from": 15.92,
+      "to": 18.32,
+      "sid": 12,
+      "location": 2,
+      "content": "嗯啊刚才你换位子的时候",
+      "music": 0.0
+    },
+    {
+      "from": 18.32,
+      "to": 20.64,
+      "sid": 13,
+      "location": 2,
+      "content": "我尝了一口香嫩了",
+      "music": 0.0
+    },
+    {
+      "from": 20.64,
+      "to": 22.44,
+      "sid": 14,
+      "location": 2,
+      "content": "哈哈哎呦",
+      "music": 0.0
+    },
+    {
+      "from": 22.44,
+      "to": 23.2,
+      "sid": 15,
+      "location": 2,
+      "content": "看你不害怕",
+      "music": 0.0
+    },
+    {
+      "from": 23.2,
+      "to": 25.34,
+      "sid": 16,
+      "location": 2,
+      "content": "都是你包吃糖",
+      "music": 0.0
+    },
+    {
+      "from": 27.2,
+      "to": 28.21,
+      "sid": 17,
+      "location": 2,
+      "content": "毛病",
+      "music": 0.0
+    },
+    {
+      "from": 28.21,
+      "to": 33.58,
+      "sid": 18,
+      "location": 2,
+      "content": "第一口咬下去是最香最香的那个辣椒的香味",
+      "music": 0.0
+    },
+    {
+      "from": 33.58,
+      "to": 34.56,
+      "sid": 19,
+      "location": 2,
+      "content": "享受啊",
+      "music": 0.0
+    },
+    {
+      "from": 34.56,
+      "to": 35.84,
+      "sid": 20,
+      "location": 2,
+      "content": "这个面片是没过水的",
+      "music": 0.0
+    },
+    {
+      "from": 35.84,
+      "to": 38.36,
+      "sid": 21,
+      "location": 2,
+      "content": "煮完面片表面的一点点的黏糊劲儿",
+      "music": 0.0
+    },
+    {
+      "from": 38.36,
+      "to": 40.92,
+      "sid": 22,
+      "location": 2,
+      "content": "会把那个肉汤和辣椒挂的满满的",
+      "music": 0.0
+    },
+    {
+      "from": 40.92,
+      "to": 42.88,
+      "sid": 23,
+      "location": 2,
+      "content": "里边给你放了不少那个腊汁肉",
+      "music": 0.0
+    },
+    {
+      "from": 42.88,
+      "to": 44.32,
+      "sid": 24,
+      "location": 2,
+      "content": "我夹一片给你们看看啊",
+      "music": 0.0
+    },
+    {
+      "from": 44.32,
+      "to": 45.92,
+      "sid": 25,
+      "location": 2,
+      "content": "这个腊汁肉的味儿啊",
+      "music": 0.0
+    },
+    {
+      "from": 45.92,
+      "to": 46.7,
+      "sid": 26,
+      "location": 2,
+      "content": "非常的香",
+      "music": 0.0
+    },
+    {
+      "from": 46.7,
+      "to": 47.78,
+      "sid": 27,
+      "location": 2,
+      "content": "配着点韭菜",
+      "music": 0.0
+    },
+    {
+      "from": 47.78,
+      "to": 49.0,
+      "sid": 28,
+      "location": 2,
+      "content": "整体搁嘴肉哇",
+      "music": 0.0
+    },
+    {
+      "from": 49.0,
+      "to": 50.94,
+      "sid": 29,
+      "location": 2,
+      "content": "他一咀嚼满嘴的香味",
+      "music": 0.0
+    },
+    {
+      "from": 50.94,
+      "to": 51.9,
+      "sid": 30,
+      "location": 2,
+      "content": "这根是小李点的",
+      "music": 0.0
+    },
+    {
+      "from": 51.9,
+      "to": 53.26,
+      "sid": 31,
+      "location": 2,
+      "content": "我得帮他霍乱一下",
+      "music": 0.0
+    },
+    {
+      "from": 53.26,
+      "to": 55.299,
+      "sid": 32,
+      "location": 2,
+      "content": "要不然坨了三合一裤带面",
+      "music": 0.0
+    },
+    {
+      "from": 55.299,
+      "to": 57.079,
+      "sid": 33,
+      "location": 2,
+      "content": "22里边是腊汁肉",
+      "music": 0.0
+    },
+    {
+      "from": 57.079,
+      "to": 57.739,
+      "sid": 34,
+      "location": 2,
+      "content": "西红柿鸡蛋",
+      "music": 0.0
+    },
+    {
+      "from": 57.739,
+      "to": 62.44,
+      "sid": 35,
+      "location": 2,
+      "content": "油泼辣椒啊",
+      "music": 0.0
+    },
+    {
+      "from": 63.24,
+      "to": 65.28,
+      "sid": 36,
+      "location": 2,
+      "content": "裤带面一整根的上边啊",
+      "music": 0.0
+    },
+    {
+      "from": 65.28,
+      "to": 66.32,
+      "sid": 37,
+      "location": 2,
+      "content": "有一层油泼辣椒",
+      "music": 0.0
+    },
+    {
+      "from": 66.32,
+      "to": 67.6,
+      "sid": 38,
+      "location": 2,
+      "content": "就跟那个油泼面似的",
+      "music": 0.0
+    },
+    {
+      "from": 67.6,
+      "to": 70.3,
+      "sid": 39,
+      "location": 2,
+      "content": "这个辣椒的香味要比那个还要足",
+      "music": 0.0
+    },
+    {
+      "from": 70.3,
+      "to": 71.26,
+      "sid": 40,
+      "location": 2,
+      "content": "刚才那个优点呢",
+      "music": 0.0
+    },
+    {
+      "from": 71.26,
+      "to": 72.06,
+      "sid": 41,
+      "location": 2,
+      "content": "它全部都有",
+      "music": 0.0
+    },
+    {
+      "from": 72.06,
+      "to": 74.93,
+      "sid": 42,
+      "location": 2,
+      "content": "又增加了一层西红柿和鸡蛋的那种鲜",
+      "music": 0.0
+    },
+    {
+      "from": 74.93,
+      "to": 75.85,
+      "sid": 43,
+      "location": 2,
+      "content": "它又不一样",
+      "music": 0.0
+    },
+    {
+      "from": 75.85,
+      "to": 77.17,
+      "sid": 44,
+      "location": 2,
+      "content": "别看东西比较多",
+      "music": 0.0
+    },
+    {
+      "from": 77.17,
+      "to": 79.95,
+      "sid": 45,
+      "location": 2,
+      "content": "哎哎这个太协调了",
+      "music": 0.0
+    },
+    {
+      "from": 79.95,
+      "to": 81.17,
+      "sid": 46,
+      "location": 2,
+      "content": "你不是帮我办吗",
+      "music": 0.0
+    },
+    {
+      "from": 81.17,
+      "to": 82.65,
+      "sid": 47,
+      "location": 2,
+      "content": "你怎么自己吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 82.65,
+      "to": 83.93,
+      "sid": 48,
+      "location": 2,
+      "content": "我实在忍不住了",
+      "music": 0.0
+    },
+    {
+      "from": 83.93,
+      "to": 84.67,
+      "sid": 49,
+      "location": 2,
+      "content": "诱惑了",
+      "music": 0.0
+    },
+    {
+      "from": 84.67,
+      "to": 85.58,
+      "sid": 50,
+      "location": 2,
+      "content": "啧啧",
+      "music": 0.0
+    },
+    {
+      "from": 88.38,
+      "to": 91.44,
+      "sid": 51,
+      "location": 2,
+      "content": "啧好吃啊好吃",
+      "music": 0.0
+    },
+    {
+      "from": 91.44,
+      "to": 94.01,
+      "sid": 52,
+      "location": 2,
+      "content": "但这种就不顾吃相了啊",
+      "music": 0.0
+    },
+    {
+      "from": 94.01,
+      "to": 95.29,
+      "sid": 53,
+      "location": 2,
+      "content": "咱俩一块坐的飞机",
+      "music": 0.0
+    },
+    {
+      "from": 95.29,
+      "to": 96.98,
+      "sid": 54,
+      "location": 2,
+      "content": "你怎么精神状态看着这么好",
+      "music": 0.0
+    },
+    {
+      "from": 96.98,
+      "to": 97.66,
+      "sid": 55,
+      "location": 2,
+      "content": "这里人多",
+      "music": 0.0
+    },
+    {
+      "from": 97.66,
+      "to": 98.56,
+      "sid": 56,
+      "location": 2,
+      "content": "不好意思上广告",
+      "music": 0.0
+    },
+    {
+      "from": 98.56,
+      "to": 99.54,
+      "sid": 57,
+      "location": 2,
+      "content": "咱们换个场景",
+      "music": 0.0
+    },
+    {
+      "from": 99.54,
+      "to": 100.5,
+      "sid": 58,
+      "location": 2,
+      "content": "你看着我状态好",
+      "music": 0.0
+    },
+    {
+      "from": 100.5,
+      "to": 102.38,
+      "sid": 59,
+      "location": 2,
+      "content": "是因为我刚才在飞机上用这个了",
+      "music": 0.0
+    },
+    {
+      "from": 102.38,
+      "to": 103.3,
+      "sid": 60,
+      "location": 2,
+      "content": "刚才外边人多",
+      "music": 0.0
+    },
+    {
+      "from": 103.3,
+      "to": 104.22,
+      "sid": 61,
+      "location": 2,
+      "content": "我不好意思说",
+      "music": 0.0
+    },
+    {
+      "from": 104.22,
+      "to": 105.26,
+      "sid": 62,
+      "location": 2,
+      "content": "就他脸皮薄了",
+      "music": 0.0
+    },
+    {
+      "from": 105.26,
+      "to": 107.1,
+      "sid": 63,
+      "location": 2,
+      "content": "在飞机上拿它就直接当眼罩用了",
+      "music": 0.0
+    },
+    {
+      "from": 107.1,
+      "to": 108.7,
+      "sid": 64,
+      "location": 2,
+      "content": "而且用完之后眼睛润润的",
+      "music": 0.0
+    },
+    {
+      "from": 108.7,
+      "to": 109.38,
+      "sid": 65,
+      "location": 2,
+      "content": "特别的舒服",
+      "music": 0.0
+    },
+    {
+      "from": 109.38,
+      "to": 111.0,
+      "sid": 66,
+      "location": 2,
+      "content": "不愧是热销好评榜",
+      "music": 0.0
+    },
+    {
+      "from": 111.0,
+      "to": 112.24,
+      "sid": 67,
+      "location": 2,
+      "content": "魅力确实大",
+      "music": 0.0
+    },
+    {
+      "from": 112.24,
+      "to": 113.8,
+      "sid": 68,
+      "location": 2,
+      "content": "里边的雾化是我见过的最细腻的",
+      "music": 0.0
+    },
+    {
+      "from": 113.8,
+      "to": 115.16,
+      "sid": 69,
+      "location": 2,
+      "content": "几分钟眼睛就要喝饱水",
+      "music": 0.0
+    },
+    {
+      "from": 115.16,
+      "to": 116.08,
+      "sid": 70,
+      "location": 2,
+      "content": "在开车热敷",
+      "music": 0.0
+    },
+    {
+      "from": 116.08,
+      "to": 118.08,
+      "sid": 71,
+      "location": 2,
+      "content": "把眼周这块的血液都循环起来了",
+      "music": 0.0
+    },
+    {
+      "from": 118.08,
+      "to": 119.84,
+      "sid": 72,
+      "location": 2,
+      "content": "促进了泪腺和油脂的自主分泌",
+      "music": 0.0
+    },
+    {
+      "from": 119.84,
+      "to": 121.32,
+      "sid": 73,
+      "location": 2,
+      "content": "黑眼圈红血丝都淡了",
+      "music": 0.0
+    },
+    {
+      "from": 121.32,
+      "to": 122.92,
+      "sid": 74,
+      "location": 2,
+      "content": "而且它不仅能按摩眼周",
+      "music": 0.0
+    },
+    {
+      "from": 122.92,
+      "to": 125.32,
+      "sid": 75,
+      "location": 2,
+      "content": "连太阳穴都有单独的气囊放松",
+      "music": 0.0
+    },
+    {
+      "from": 125.32,
+      "to": 127.88,
+      "sid": 76,
+      "location": 2,
+      "content": "就跟有人帮着做眼保健操一样享受的",
+      "music": 0.0
+    },
+    {
+      "from": 127.88,
+      "to": 129.8,
+      "sid": 77,
+      "location": 2,
+      "content": "你再连个蓝牙一首歌的时间",
+      "music": 0.0
+    },
+    {
+      "from": 129.8,
+      "to": 130.56,
+      "sid": 78,
+      "location": 2,
+      "content": "大脑就放松了",
+      "music": 0.0
+    },
+    {
+      "from": 130.56,
+      "to": 132.36,
+      "sid": 79,
+      "location": 2,
+      "content": "我猜不少人喜欢跟小李一样",
+      "music": 0.0
+    },
+    {
+      "from": 132.36,
+      "to": 133.72,
+      "sid": 80,
+      "location": 2,
+      "content": "黑灯瞎火的玩手机算了",
+      "music": 0.0
+    },
+    {
+      "from": 133.72,
+      "to": 134.56,
+      "sid": 81,
+      "location": 2,
+      "content": "还直接上手揉",
+      "music": 0.0
+    },
+    {
+      "from": 134.56,
+      "to": 136.38,
+      "sid": 82,
+      "location": 2,
+      "content": "万一发展到干眼症结膜炎",
+      "music": 0.0
+    },
+    {
+      "from": 136.38,
+      "to": 138.94,
+      "sid": 83,
+      "location": 2,
+      "content": "医院做雾化一次可需要大几百续航长",
+      "music": 0.0
+    },
+    {
+      "from": 138.94,
+      "to": 141.3,
+      "sid": 84,
+      "location": 2,
+      "content": "像这次我们出差就带着累了就能按关键",
+      "music": 0.0
+    },
+    {
+      "from": 141.3,
+      "to": 142.56,
+      "sid": 85,
+      "location": 2,
+      "content": "一个就等于雾化仪",
+      "music": 0.0
+    },
+    {
+      "from": 142.56,
+      "to": 145.04,
+      "sid": 86,
+      "location": 2,
+      "content": "眼罩护眼仪比月月囤眼罩划算",
+      "music": 0.0
+    },
+    {
+      "from": 145.04,
+      "to": 145.84,
+      "sid": 87,
+      "location": 2,
+      "content": "需要戳评论",
+      "music": 0.0
+    },
+    {
+      "from": 145.84,
+      "to": 146.54,
+      "sid": 88,
+      "location": 2,
+      "content": "售后有保障",
+      "music": 0.0
+    },
+    {
+      "from": 146.54,
+      "to": 147.58,
+      "sid": 89,
+      "location": 2,
+      "content": "放心试试",
+      "music": 0.0
+    },
+    {
+      "from": 147.58,
+      "to": 151.2,
+      "sid": 90,
+      "location": 2,
+      "content": "蘸水面15把它捞到这里边",
+      "music": 0.0
+    },
+    {
+      "from": 153.9,
+      "to": 155.78,
+      "sid": 91,
+      "location": 2,
+      "content": "这他妈太过瘾了",
+      "music": 0.0
+    },
+    {
+      "from": 157.7,
+      "to": 159.14,
+      "sid": 92,
+      "location": 2,
+      "content": "面条还是特别劲道",
+      "music": 0.0
+    },
+    {
+      "from": 159.14,
+      "to": 160.56,
+      "sid": 93,
+      "location": 2,
+      "content": "软硬度是非常合适的",
+      "music": 0.0
+    },
+    {
+      "from": 160.56,
+      "to": 161.68,
+      "sid": 94,
+      "location": 2,
+      "content": "这个不得不说啊",
+      "music": 0.0
+    },
+    {
+      "from": 161.68,
+      "to": 162.64,
+      "sid": 95,
+      "location": 2,
+      "content": "你说这个油泼辣",
+      "music": 0.0
+    },
+    {
+      "from": 162.64,
+      "to": 163.8,
+      "sid": 96,
+      "location": 2,
+      "content": "陕西油泼辣子真香",
+      "music": 0.0
+    },
+    {
+      "from": 163.8,
+      "to": 166.66,
+      "sid": 97,
+      "location": 2,
+      "content": "入口之后就炸开来的那种状态是特别香",
+      "music": 0.0
+    },
+    {
+      "from": 166.66,
+      "to": 168.88,
+      "sid": 98,
+      "location": 2,
+      "content": "就把整体的味道全是支撑起来了",
+      "music": 0.0
+    },
+    {
+      "from": 168.88,
+      "to": 170.18,
+      "sid": 99,
+      "location": 2,
+      "content": "你要不放这油辣子",
+      "music": 0.0
+    },
+    {
+      "from": 170.18,
+      "to": 172.72,
+      "sid": 100,
+      "location": 2,
+      "content": "就像我们那个北京的这个打卤面似的好",
+      "music": 0.0
+    },
+    {
+      "from": 172.72,
+      "to": 173.38,
+      "sid": 101,
+      "location": 2,
+      "content": "我们做个总结",
+      "music": 0.0
+    },
+    {
+      "from": 173.38,
+      "to": 176.5,
+      "sid": 102,
+      "location": 2,
+      "content": "今儿我们吃了一百一十八三个面的风味不一样",
+      "music": 0.0
+    },
+    {
+      "from": 176.5,
+      "to": 177.54,
+      "sid": 103,
+      "location": 2,
+      "content": "但是都很好吃",
+      "music": 0.0
+    },
+    {
+      "from": 177.54,
+      "to": 178.74,
+      "sid": 104,
+      "location": 2,
+      "content": "我们为了吃上中午",
+      "music": 0.0
+    },
+    {
+      "from": 178.74,
+      "to": 182.31,
+      "sid": 105,
+      "location": 2,
+      "content": "这碗面做的是早上最早一班飞机飞来的",
+      "music": 0.05844155654410783
+    },
+    {
+      "from": 182.55,
+      "to": 185.39,
+      "sid": 106,
+      "location": 2,
+      "content": "又掉哦",
+      "music": 0.0
+    },
+    {
+      "from": 185.39,
+      "to": 186.6,
+      "sid": 107,
+      "location": 2,
+      "content": "哎",
+      "music": 0.0
+    }
+  ]
+}

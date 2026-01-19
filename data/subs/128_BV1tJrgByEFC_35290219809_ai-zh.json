@@ -1,0 +1,764 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.22,
+      "to": 1.62,
+      "sid": 1,
+      "location": 2,
+      "content": "所以回一单好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 1.62,
+      "to": 3.74,
+      "sid": 2,
+      "location": 2,
+      "content": "成都川菜天花板之一",
+      "music": 0.0
+    },
+    {
+      "from": 3.74,
+      "to": 7.74,
+      "sid": 3,
+      "location": 2,
+      "content": "许家菜二含10%的服务费",
+      "music": 0.0
+    },
+    {
+      "from": 10.98,
+      "to": 13.62,
+      "sid": 4,
+      "location": 2,
+      "content": "你看咱单子是几点了",
+      "music": 0.0
+    },
+    {
+      "from": 13.62,
+      "to": 15.42,
+      "sid": 5,
+      "location": 2,
+      "content": "12.01我早看过了",
+      "music": 0.0
+    },
+    {
+      "from": 15.42,
+      "to": 16.74,
+      "sid": 6,
+      "location": 2,
+      "content": "现在41了",
+      "music": 0.0
+    },
+    {
+      "from": 16.74,
+      "to": 20.48,
+      "sid": 7,
+      "location": 2,
+      "content": "他们没有那个不上菜包退的那个业务",
+      "music": 0.0
+    },
+    {
+      "from": 21.13,
+      "to": 24.45,
+      "sid": 8,
+      "location": 2,
+      "content": "胡辣荔枝黑虎虾180",
+      "music": 0.0
+    },
+    {
+      "from": 27.42,
+      "to": 30.96,
+      "sid": 9,
+      "location": 2,
+      "content": "虾把胡辣小酸甜的汁儿吸得很饱满",
+      "music": 0.0
+    },
+    {
+      "from": 30.96,
+      "to": 32.02,
+      "sid": 10,
+      "location": 2,
+      "content": "吃着很舒服啊",
+      "music": 0.0
+    },
+    {
+      "from": 32.02,
+      "to": 33.62,
+      "sid": 11,
+      "location": 2,
+      "content": "这个微型我记得还挺不好做的",
+      "music": 0.0
+    },
+    {
+      "from": 33.62,
+      "to": 34.36,
+      "sid": 12,
+      "location": 2,
+      "content": "挺不太好做",
+      "music": 0.0
+    },
+    {
+      "from": 34.36,
+      "to": 35.36,
+      "sid": 13,
+      "location": 2,
+      "content": "烹到锅上面",
+      "music": 0.0
+    },
+    {
+      "from": 35.36,
+      "to": 36.86,
+      "sid": 14,
+      "location": 2,
+      "content": "那醋挥发的多了",
+      "music": 0.0
+    },
+    {
+      "from": 36.86,
+      "to": 37.66,
+      "sid": 15,
+      "location": 2,
+      "content": "它就不酸了",
+      "music": 0.0
+    },
+    {
+      "from": 37.66,
+      "to": 39.44,
+      "sid": 16,
+      "location": 2,
+      "content": "碰到中间挥发的少了",
+      "music": 0.0
+    },
+    {
+      "from": 39.44,
+      "to": 40.92,
+      "sid": 17,
+      "location": 2,
+      "content": "它又没有那种香味",
+      "music": 0.0
+    },
+    {
+      "from": 40.92,
+      "to": 42.38,
+      "sid": 18,
+      "location": 2,
+      "content": "挺考验技术的",
+      "music": 0.0
+    },
+    {
+      "from": 42.38,
+      "to": 44.72,
+      "sid": 19,
+      "location": 2,
+      "content": "里边的花椒辣椒放能量",
+      "music": 0.0
+    },
+    {
+      "from": 44.72,
+      "to": 47.14,
+      "sid": 20,
+      "location": 2,
+      "content": "煸的时间火候都挺合适",
+      "music": 0.0
+    },
+    {
+      "from": 47.14,
+      "to": 50.66,
+      "sid": 21,
+      "location": 2,
+      "content": "陈年芽菜黄玉参499",
+      "music": 0.0
+    },
+    {
+      "from": 51.14,
+      "to": 53.2,
+      "sid": 22,
+      "location": 2,
+      "content": "做这个菜应该也挺有难度的",
+      "music": 0.0
+    },
+    {
+      "from": 53.2,
+      "to": 56.9,
+      "sid": 23,
+      "location": 2,
+      "content": "这么厚的海参中间很不容易入味",
+      "music": 0.0
+    },
+    {
+      "from": 58.18,
+      "to": 59.4,
+      "sid": 24,
+      "location": 2,
+      "content": "确实没味",
+      "music": 0.0
+    },
+    {
+      "from": 59.4,
+      "to": 61.1,
+      "sid": 25,
+      "location": 2,
+      "content": "海参的原料非常好",
+      "music": 0.0
+    },
+    {
+      "from": 61.1,
+      "to": 61.86,
+      "sid": 26,
+      "location": 2,
+      "content": "厨房自己发的",
+      "music": 0.0
+    },
+    {
+      "from": 61.86,
+      "to": 63.26,
+      "sid": 27,
+      "location": 2,
+      "content": "它中间没有腥味",
+      "music": 0.0
+    },
+    {
+      "from": 63.26,
+      "to": 64.26,
+      "sid": 28,
+      "location": 2,
+      "content": "搁了几个小辣椒",
+      "music": 0.0
+    },
+    {
+      "from": 64.26,
+      "to": 66.4,
+      "sid": 29,
+      "location": 2,
+      "content": "杏鲍菇肉末一起炒",
+      "music": 0.0
+    },
+    {
+      "from": 66.4,
+      "to": 67.16,
+      "sid": 30,
+      "location": 2,
+      "content": "咸香",
+      "music": 0.0
+    },
+    {
+      "from": 67.16,
+      "to": 68.42,
+      "sid": 31,
+      "location": 2,
+      "content": "回口有一点点的甜",
+      "music": 0.0
+    },
+    {
+      "from": 68.42,
+      "to": 70.12,
+      "sid": 32,
+      "location": 2,
+      "content": "一种选择再切小一点",
+      "music": 0.0
+    },
+    {
+      "from": 70.12,
+      "to": 73.4,
+      "sid": 33,
+      "location": 2,
+      "content": "第二种选择加上汁之后搁蒸箱里稍微蒸一会儿",
+      "music": 0.0
+    },
+    {
+      "from": 73.4,
+      "to": 75.02,
+      "sid": 34,
+      "location": 2,
+      "content": "都会比现在好很多",
+      "music": 0.0
+    },
+    {
+      "from": 75.02,
+      "to": 78.16,
+      "sid": 35,
+      "location": 2,
+      "content": "糖做水炒蓝壳鸡蛋128",
+      "music": 0.0
+    },
+    {
+      "from": 78.16,
+      "to": 79.72,
+      "sid": 36,
+      "location": 2,
+      "content": "本来是想吃那个蓝壳鸡蛋的",
+      "music": 0.0
+    },
+    {
+      "from": 79.72,
+      "to": 81.0,
+      "sid": 37,
+      "location": 2,
+      "content": "它变成鸡蛋",
+      "music": 0.0
+    },
+    {
+      "from": 81.0,
+      "to": 81.66,
+      "sid": 38,
+      "location": 2,
+      "content": "红皮的",
+      "music": 0.0
+    },
+    {
+      "from": 81.66,
+      "to": 83.1,
+      "sid": 39,
+      "location": 2,
+      "content": "不是蓝皮吗",
+      "music": 0.0
+    },
+    {
+      "from": 83.1,
+      "to": 86.64,
+      "sid": 40,
+      "location": 2,
+      "content": "换了说是水炒蛋",
+      "music": 0.0
+    },
+    {
+      "from": 86.64,
+      "to": 87.58,
+      "sid": 41,
+      "location": 2,
+      "content": "这什么油啊",
+      "music": 0.0
+    },
+    {
+      "from": 87.58,
+      "to": 88.98,
+      "sid": 42,
+      "location": 2,
+      "content": "葱油",
+      "music": 0.0
+    },
+    {
+      "from": 90.56,
+      "to": 91.32,
+      "sid": 43,
+      "location": 2,
+      "content": "水炒蛋",
+      "music": 0.0
+    },
+    {
+      "from": 92.52,
+      "to": 94.36,
+      "sid": 44,
+      "location": 2,
+      "content": "水煮蛋就就不应该加油",
+      "music": 0.0
+    },
+    {
+      "from": 94.36,
+      "to": 96.92,
+      "sid": 45,
+      "location": 2,
+      "content": "一点油都不要尝一口",
+      "music": 0.0
+    },
+    {
+      "from": 103.64,
+      "to": 105.38,
+      "sid": 46,
+      "location": 2,
+      "content": "这就不说了吧",
+      "music": 0.0
+    },
+    {
+      "from": 105.38,
+      "to": 106.86,
+      "sid": 47,
+      "location": 2,
+      "content": "这没什么可说的",
+      "music": 0.0
+    },
+    {
+      "from": 106.86,
+      "to": 107.9,
+      "sid": 48,
+      "location": 2,
+      "content": "连咸味都没有",
+      "music": 0.0
+    },
+    {
+      "from": 107.9,
+      "to": 109.04,
+      "sid": 49,
+      "location": 2,
+      "content": "和我草的嘴菜",
+      "music": 0.0
+    },
+    {
+      "from": 109.04,
+      "to": 111.88,
+      "sid": 50,
+      "location": 2,
+      "content": "嘿你别说你俩真有一拼",
+      "music": 0.0
+    },
+    {
+      "from": 112.57,
+      "to": 113.67,
+      "sid": 51,
+      "location": 2,
+      "content": "128",
+      "music": 0.0
+    },
+    {
+      "from": 113.67,
+      "to": 117.29,
+      "sid": 52,
+      "location": 2,
+      "content": "青辣汁蒸水库翘壳鱼二斤",
+      "music": 0.0
+    },
+    {
+      "from": 117.29,
+      "to": 118.47,
+      "sid": 53,
+      "location": 2,
+      "content": "796",
+      "music": 0.0
+    },
+    {
+      "from": 118.47,
+      "to": 119.45,
+      "sid": 54,
+      "location": 2,
+      "content": "三百八十八一斤呗",
+      "music": 0.0
+    },
+    {
+      "from": 119.45,
+      "to": 121.555,
+      "sid": 55,
+      "location": 2,
+      "content": "398个",
+      "music": 0.0
+    },
+    {
+      "from": 122.89,
+      "to": 125.21,
+      "sid": 56,
+      "location": 2,
+      "content": "哎忘了数学老师",
+      "music": 0.0
+    },
+    {
+      "from": 128.88,
+      "to": 130.94,
+      "sid": 57,
+      "location": 2,
+      "content": "鱼肉鲜嫩香弹",
+      "music": 0.0
+    },
+    {
+      "from": 130.94,
+      "to": 132.7,
+      "sid": 58,
+      "location": 2,
+      "content": "蒸完的鱼还有点翘",
+      "music": 0.0
+    },
+    {
+      "from": 132.7,
+      "to": 134.4,
+      "sid": 59,
+      "location": 2,
+      "content": "活鱼蒸的没有杂味",
+      "music": 0.0
+    },
+    {
+      "from": 134.4,
+      "to": 135.12,
+      "sid": 60,
+      "location": 2,
+      "content": "没有土腥味",
+      "music": 0.0
+    },
+    {
+      "from": 135.12,
+      "to": 136.04,
+      "sid": 61,
+      "location": 2,
+      "content": "这鱼挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 136.04,
+      "to": 138.72,
+      "sid": 62,
+      "location": 2,
+      "content": "尝尝上面的浇的这个辣椒",
+      "music": 0.0
+    },
+    {
+      "from": 139.83,
+      "to": 141.43,
+      "sid": 63,
+      "location": 2,
+      "content": "辣椒炒的翠绿",
+      "music": 0.0
+    },
+    {
+      "from": 141.43,
+      "to": 142.35,
+      "sid": 64,
+      "location": 2,
+      "content": "搁点麻椒",
+      "music": 0.0
+    },
+    {
+      "from": 142.35,
+      "to": 143.59,
+      "sid": 65,
+      "location": 2,
+      "content": "回口还有一点麻椒",
+      "music": 0.0
+    },
+    {
+      "from": 143.59,
+      "to": 144.42,
+      "sid": 66,
+      "location": 2,
+      "content": "一点点的苦",
+      "music": 0.0
+    },
+    {
+      "from": 144.42,
+      "to": 146.24,
+      "sid": 67,
+      "location": 2,
+      "content": "而且它名字叫青辣汁",
+      "music": 0.0
+    },
+    {
+      "from": 146.24,
+      "to": 147.36,
+      "sid": 68,
+      "location": 2,
+      "content": "你就几乎没有辣",
+      "music": 0.0
+    },
+    {
+      "from": 147.36,
+      "to": 148.96,
+      "sid": 69,
+      "location": 2,
+      "content": "可能有商务上的考量",
+      "music": 0.0
+    },
+    {
+      "from": 148.96,
+      "to": 150.3,
+      "sid": 70,
+      "location": 2,
+      "content": "但是失去了风格",
+      "music": 0.0
+    },
+    {
+      "from": 150.3,
+      "to": 155.449,
+      "sid": 71,
+      "location": 2,
+      "content": "许家私房乱炒128出肝猪肉",
+      "music": 0.0
+    },
+    {
+      "from": 158.609,
+      "to": 159.569,
+      "sid": 72,
+      "location": 2,
+      "content": "没了就两种",
+      "music": 0.0
+    },
+    {
+      "from": 159.569,
+      "to": 161.129,
+      "sid": 73,
+      "location": 2,
+      "content": "搁点韭菜",
+      "music": 0.0
+    },
+    {
+      "from": 161.45,
+      "to": 162.81,
+      "sid": 74,
+      "location": 2,
+      "content": "朋友们180",
+      "music": 0.0
+    },
+    {
+      "from": 162.81,
+      "to": 164.37,
+      "sid": 75,
+      "location": 2,
+      "content": "抛开价格来说啊",
+      "music": 0.0
+    },
+    {
+      "from": 164.37,
+      "to": 166.31,
+      "sid": 76,
+      "location": 2,
+      "content": "这个猪肝脆嫩",
+      "music": 0.0
+    },
+    {
+      "from": 166.31,
+      "to": 169.22,
+      "sid": 77,
+      "location": 2,
+      "content": "他现在整体的味道的和谐度就非常好",
+      "music": 0.0
+    },
+    {
+      "from": 169.22,
+      "to": 170.54,
+      "sid": 78,
+      "location": 2,
+      "content": "调味也非常好",
+      "music": 0.0
+    },
+    {
+      "from": 170.54,
+      "to": 171.14,
+      "sid": 79,
+      "location": 2,
+      "content": "汁儿芡",
+      "music": 0.0
+    },
+    {
+      "from": 171.14,
+      "to": 172.8,
+      "sid": 80,
+      "location": 2,
+      "content": "用油啊也都挺好",
+      "music": 0.0
+    },
+    {
+      "from": 172.8,
+      "to": 174.02,
+      "sid": 81,
+      "location": 2,
+      "content": "非常漂亮挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 174.02,
+      "to": 174.46,
+      "sid": 82,
+      "location": 2,
+      "content": "除了贵",
+      "music": 0.0
+    },
+    {
+      "from": 174.46,
+      "to": 175.36,
+      "sid": 83,
+      "location": 2,
+      "content": "别的没毛病",
+      "music": 0.0
+    },
+    {
+      "from": 175.36,
+      "to": 176.22,
+      "sid": 84,
+      "location": 2,
+      "content": "就要我的肝",
+      "music": 0.0
+    },
+    {
+      "from": 176.22,
+      "to": 177.06,
+      "sid": 85,
+      "location": 2,
+      "content": "他妈的卖800",
+      "music": 0.0
+    },
+    {
+      "from": 177.06,
+      "to": 178.26,
+      "sid": 86,
+      "location": 2,
+      "content": "不得不行",
+      "music": 0.0
+    },
+    {
+      "from": 178.26,
+      "to": 180.08,
+      "sid": 87,
+      "location": 2,
+      "content": "我的肝出了这味",
+      "music": 0.0
+    },
+    {
+      "from": 184.26,
+      "to": 185.18,
+      "sid": 88,
+      "location": 2,
+      "content": "好做个总结",
+      "music": 0.0
+    },
+    {
+      "from": 185.18,
+      "to": 188.38,
+      "sid": 89,
+      "location": 2,
+      "content": "今儿我们吃了R含10%的服务费",
+      "music": 0.0
+    },
+    {
+      "from": 188.38,
+      "to": 191.1,
+      "sid": 90,
+      "location": 2,
+      "content": "那个虾球正经做的那个味型",
+      "music": 0.0
+    },
+    {
+      "from": 191.1,
+      "to": 192.46,
+      "sid": 91,
+      "location": 2,
+      "content": "做的真的非常准",
+      "music": 0.0
+    },
+    {
+      "from": 192.46,
+      "to": 193.24,
+      "sid": 92,
+      "location": 2,
+      "content": "你们等着啊",
+      "music": 0.0
+    },
+    {
+      "from": 193.24,
+      "to": 195.66,
+      "sid": 93,
+      "location": 2,
+      "content": "这条视频如果点赞够多",
+      "music": 0.0
+    },
+    {
+      "from": 195.66,
+      "to": 197.46,
+      "sid": 94,
+      "location": 2,
+      "content": "我给你们复刻一模一样",
+      "music": 0.0
+    }
+  ]
+}

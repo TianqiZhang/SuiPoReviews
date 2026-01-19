@@ -1,0 +1,604 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.16,
+      "to": 0.94,
+      "sid": 1,
+      "location": 2,
+      "content": "吃到底了",
+      "music": 0.0
+    },
+    {
+      "from": 0.94,
+      "to": 2.64,
+      "sid": 2,
+      "location": 2,
+      "content": "还真是咱这个西瓜最好吃",
+      "music": 0.0
+    },
+    {
+      "from": 2.64,
+      "to": 4.12,
+      "sid": 3,
+      "location": 2,
+      "content": "卧槽哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 4.12,
+      "to": 4.82,
+      "sid": 4,
+      "location": 2,
+      "content": "随口一单",
+      "music": 0.0
+    },
+    {
+      "from": 4.82,
+      "to": 5.56,
+      "sid": 5,
+      "location": 2,
+      "content": "好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 5.56,
+      "to": 7.46,
+      "sid": 6,
+      "location": 2,
+      "content": "西安始于1929",
+      "music": 0.0
+    },
+    {
+      "from": 7.46,
+      "to": 9.76,
+      "sid": 7,
+      "location": 2,
+      "content": "西安饭庄715",
+      "music": 0.0
+    },
+    {
+      "from": 11.56,
+      "to": 12.0,
+      "sid": 8,
+      "location": 2,
+      "content": "你",
+      "music": 0.0
+    },
+    {
+      "from": 15.28,
+      "to": 16.96,
+      "sid": 9,
+      "location": 2,
+      "content": "点的菜你给我推荐吧",
+      "music": 0.0
+    },
+    {
+      "from": 16.96,
+      "to": 19.28,
+      "sid": 10,
+      "location": 2,
+      "content": "来个五个菜",
+      "music": 0.0
+    },
+    {
+      "from": 20.77,
+      "to": 22.87,
+      "sid": 11,
+      "location": 2,
+      "content": "金线油塔五块钱一个",
+      "music": 0.0
+    },
+    {
+      "from": 22.87,
+      "to": 25.05,
+      "sid": 12,
+      "location": 2,
+      "content": "刚才菜单我们看了这里边淮扬菜",
+      "music": 0.0
+    },
+    {
+      "from": 25.05,
+      "to": 25.93,
+      "sid": 13,
+      "location": 2,
+      "content": "川菜都有",
+      "music": 0.0
+    },
+    {
+      "from": 25.93,
+      "to": 27.13,
+      "sid": 14,
+      "location": 2,
+      "content": "我们实在是有点点不出来了",
+      "music": 0.0
+    },
+    {
+      "from": 27.13,
+      "to": 29.58,
+      "sid": 15,
+      "location": 2,
+      "content": "就让他们推荐了",
+      "music": 0.0
+    },
+    {
+      "from": 29.58,
+      "to": 31.38,
+      "sid": 16,
+      "location": 2,
+      "content": "就跟吃了烙饼那个瓤似的",
+      "music": 0.0
+    },
+    {
+      "from": 31.38,
+      "to": 31.9,
+      "sid": 17,
+      "location": 2,
+      "content": "很软",
+      "music": 0.0
+    },
+    {
+      "from": 31.9,
+      "to": 33.1,
+      "sid": 18,
+      "location": 2,
+      "content": "但是很有嚼头",
+      "music": 0.0
+    },
+    {
+      "from": 33.1,
+      "to": 34.14,
+      "sid": 19,
+      "location": 2,
+      "content": "这做的有点意思",
+      "music": 0.0
+    },
+    {
+      "from": 34.14,
+      "to": 35.94,
+      "sid": 20,
+      "location": 2,
+      "content": "普通临锦98块钱一位",
+      "music": 0.0
+    },
+    {
+      "from": 35.94,
+      "to": 37.32,
+      "sid": 21,
+      "location": 2,
+      "content": "花刀打的不太一样",
+      "music": 0.0
+    },
+    {
+      "from": 37.32,
+      "to": 39.22,
+      "sid": 22,
+      "location": 2,
+      "content": "这种味上的你卖这么贵",
+      "music": 0.0
+    },
+    {
+      "from": 39.22,
+      "to": 41.32,
+      "sid": 23,
+      "location": 2,
+      "content": "你最起码上来应该差不多吧",
+      "music": 0.0
+    },
+    {
+      "from": 41.32,
+      "to": 43.24,
+      "sid": 24,
+      "location": 2,
+      "content": "看下这边这边贵",
+      "music": 0.0
+    },
+    {
+      "from": 43.24,
+      "to": 45.54,
+      "sid": 25,
+      "location": 2,
+      "content": "应该有贵的道理",
+      "music": 0.0
+    },
+    {
+      "from": 46.52,
+      "to": 49.6,
+      "sid": 26,
+      "location": 2,
+      "content": "一个酸甜的汁儿鱼呢就不脆了",
+      "music": 0.0
+    },
+    {
+      "from": 49.6,
+      "to": 50.8,
+      "sid": 27,
+      "location": 2,
+      "content": "拍粉的问题",
+      "music": 0.0
+    },
+    {
+      "from": 50.8,
+      "to": 52.24,
+      "sid": 28,
+      "location": 2,
+      "content": "粉要拍好的话",
+      "music": 0.0
+    },
+    {
+      "from": 52.24,
+      "to": 54.28,
+      "sid": 29,
+      "location": 2,
+      "content": "能挺个一个小时都没问题",
+      "music": 0.0
+    },
+    {
+      "from": 54.28,
+      "to": 55.24,
+      "sid": 30,
+      "location": 2,
+      "content": "上来没多久",
+      "music": 0.0
+    },
+    {
+      "from": 55.24,
+      "to": 57.42,
+      "sid": 31,
+      "location": 2,
+      "content": "他这鱼现在已经就全软掉了",
+      "music": 0.0
+    },
+    {
+      "from": 57.42,
+      "to": 58.76,
+      "sid": 32,
+      "location": 2,
+      "content": "师傅得再研究一下",
+      "music": 0.0
+    },
+    {
+      "from": 58.76,
+      "to": 59.52,
+      "sid": 33,
+      "location": 2,
+      "content": "一半了",
+      "music": 0.0
+    },
+    {
+      "from": 59.52,
+      "to": 62.28,
+      "sid": 34,
+      "location": 2,
+      "content": "不是我刚才看他菜单上有松鼠桂鱼",
+      "music": 0.0
+    },
+    {
+      "from": 62.28,
+      "to": 64.009,
+      "sid": 35,
+      "location": 2,
+      "content": "那跟这个有啥不一样呢",
+      "music": 0.0
+    },
+    {
+      "from": 64.009,
+      "to": 65.469,
+      "sid": 36,
+      "location": 2,
+      "content": "那卖多少钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 65.469,
+      "to": 68.089,
+      "sid": 37,
+      "location": 2,
+      "content": "有可能是人家看着我们人少吃不了",
+      "music": 0.0
+    },
+    {
+      "from": 68.089,
+      "to": 70.82,
+      "sid": 38,
+      "location": 2,
+      "content": "还有还有哈密瓜球呢",
+      "music": 0.0
+    },
+    {
+      "from": 70.82,
+      "to": 72.56,
+      "sid": 39,
+      "location": 2,
+      "content": "大理官府带半肘子",
+      "music": 0.0
+    },
+    {
+      "from": 72.56,
+      "to": 73.9,
+      "sid": 40,
+      "location": 2,
+      "content": "168来块",
+      "music": 0.0
+    },
+    {
+      "from": 73.9,
+      "to": 76.26,
+      "sid": 41,
+      "location": 2,
+      "content": "带皮的",
+      "music": 0.0
+    },
+    {
+      "from": 77.36,
+      "to": 78.58,
+      "sid": 42,
+      "location": 2,
+      "content": "是海星吗",
+      "music": 0.0
+    },
+    {
+      "from": 78.58,
+      "to": 80.72,
+      "sid": 43,
+      "location": 2,
+      "content": "说的那味儿就算好腥吧",
+      "music": 0.0
+    },
+    {
+      "from": 80.72,
+      "to": 83.88,
+      "sid": 44,
+      "location": 2,
+      "content": "就皮下的那个就跟猪蹄那味一样",
+      "music": 0.0
+    },
+    {
+      "from": 83.88,
+      "to": 85.52,
+      "sid": 45,
+      "location": 2,
+      "content": "不好吃",
+      "music": 0.0
+    },
+    {
+      "from": 86.18,
+      "to": 87.52,
+      "sid": 46,
+      "location": 2,
+      "content": "这个不好吃",
+      "music": 0.0
+    },
+    {
+      "from": 87.52,
+      "to": 88.5,
+      "sid": 47,
+      "location": 2,
+      "content": "你脾气真好",
+      "music": 0.0
+    },
+    {
+      "from": 88.5,
+      "to": 91.02,
+      "sid": 48,
+      "location": 2,
+      "content": "这个肘子应该是咱们这么多年吃的",
+      "music": 0.0
+    },
+    {
+      "from": 91.02,
+      "to": 92.18,
+      "sid": 49,
+      "location": 2,
+      "content": "最腥的肘子了",
+      "music": 0.0
+    },
+    {
+      "from": 92.18,
+      "to": 95.18,
+      "sid": 50,
+      "location": 2,
+      "content": "哎呀所以很多店其实",
+      "music": 0.0
+    },
+    {
+      "from": 97.02,
+      "to": 98.74,
+      "sid": 51,
+      "location": 2,
+      "content": "每天爱你",
+      "music": 0.0
+    },
+    {
+      "from": 98.74,
+      "to": 100.8,
+      "sid": 52,
+      "location": 2,
+      "content": "让我从哪下嘴",
+      "music": 0.0
+    },
+    {
+      "from": 103.299,
+      "to": 104.279,
+      "sid": 53,
+      "location": 2,
+      "content": "你先别下嘴吧",
+      "music": 0.0
+    },
+    {
+      "from": 104.279,
+      "to": 106.84,
+      "sid": 54,
+      "location": 2,
+      "content": "呃等我换个电池多",
+      "music": 0.0
+    },
+    {
+      "from": 109.06,
+      "to": 111.56,
+      "sid": 55,
+      "location": 2,
+      "content": "是一个去了骨的整鸡腿",
+      "music": 0.0
+    },
+    {
+      "from": 111.56,
+      "to": 112.6,
+      "sid": 56,
+      "location": 2,
+      "content": "腌得特别透",
+      "music": 0.0
+    },
+    {
+      "from": 112.6,
+      "to": 114.02,
+      "sid": 57,
+      "location": 2,
+      "content": "然后往上挂一糊一炸",
+      "music": 0.0
+    },
+    {
+      "from": 114.02,
+      "to": 115.22,
+      "sid": 58,
+      "location": 2,
+      "content": "一个挺好吃的",
+      "music": 0.0
+    },
+    {
+      "from": 115.22,
+      "to": 116.05,
+      "sid": 59,
+      "location": 2,
+      "content": "炸鸡腿",
+      "music": 0.0
+    },
+    {
+      "from": 116.05,
+      "to": 118.79,
+      "sid": 60,
+      "location": 2,
+      "content": "炸鸡腿38块钱吧",
+      "music": 0.0
+    },
+    {
+      "from": 118.79,
+      "to": 119.97,
+      "sid": 61,
+      "location": 2,
+      "content": "是不是可以拿走啊",
+      "music": 0.0
+    },
+    {
+      "from": 121.85,
+      "to": 122.77,
+      "sid": 62,
+      "location": 2,
+      "content": "38吃个鸡腿",
+      "music": 0.0
+    },
+    {
+      "from": 122.77,
+      "to": 125.19,
+      "sid": 63,
+      "location": 2,
+      "content": "确实呵呵",
+      "music": 0.0
+    },
+    {
+      "from": 125.19,
+      "to": 126.21,
+      "sid": 64,
+      "location": 2,
+      "content": "怕你心里不舒服",
+      "music": 0.0
+    },
+    {
+      "from": 126.21,
+      "to": 127.09,
+      "sid": 65,
+      "location": 2,
+      "content": "回去睡不着觉啊",
+      "music": 0.0
+    },
+    {
+      "from": 127.09,
+      "to": 128.33,
+      "sid": 66,
+      "location": 2,
+      "content": "我仔细想了想",
+      "music": 0.0
+    },
+    {
+      "from": 128.33,
+      "to": 134.43,
+      "sid": 67,
+      "location": 2,
+      "content": "咱是不是跟38这个数相克啊啊啊都总结了",
+      "music": 0.0
+    },
+    {
+      "from": 134.43,
+      "to": 134.81,
+      "sid": 68,
+      "location": 2,
+      "content": "哥",
+      "music": 0.0
+    },
+    {
+      "from": 134.81,
+      "to": 138.01,
+      "sid": 69,
+      "location": 2,
+      "content": "你差不多吃饱了好",
+      "music": 0.0
+    },
+    {
+      "from": 138.01,
+      "to": 138.77,
+      "sid": 70,
+      "location": 2,
+      "content": "我们做个总结",
+      "music": 0.0
+    },
+    {
+      "from": 138.77,
+      "to": 141.01,
+      "sid": 71,
+      "location": 2,
+      "content": "今儿我们吃的715出门",
+      "music": 0.0
+    },
+    {
+      "from": 141.01,
+      "to": 142.41,
+      "sid": 72,
+      "location": 2,
+      "content": "昨晚巷子里边有个水果店",
+      "music": 0.0
+    },
+    {
+      "from": 142.41,
+      "to": 145.44,
+      "sid": 73,
+      "location": 2,
+      "content": "水果店里的西瓜还可以还可以",
+      "music": 0.0
+    },
+    {
+      "from": 145.44,
+      "to": 146.42,
+      "sid": 74,
+      "location": 2,
+      "content": "其他的就",
+      "music": 0.0
+    }
+  ]
+}

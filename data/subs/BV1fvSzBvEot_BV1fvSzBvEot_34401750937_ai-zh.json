@@ -1,0 +1,860 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 2.0,
+      "to": 4.96,
+      "sid": 1,
+      "location": 2,
+      "content": "哇好久没吃这么香肉串了",
+      "music": 0.0
+    },
+    {
+      "from": 4.96,
+      "to": 7.14,
+      "sid": 2,
+      "location": 2,
+      "content": "哈哈所以会谈好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 7.14,
+      "to": 10.28,
+      "sid": 3,
+      "location": 2,
+      "content": "齐齐哈尔下雪天吃肉",
+      "music": 0.0
+    },
+    {
+      "from": 13.66,
+      "to": 14.96,
+      "sid": 4,
+      "location": 2,
+      "content": "拌萝卜芽12",
+      "music": 0.0
+    },
+    {
+      "from": 14.96,
+      "to": 15.98,
+      "sid": 5,
+      "location": 2,
+      "content": "把袖子撸一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 15.98,
+      "to": 17.38,
+      "sid": 6,
+      "location": 2,
+      "content": "开开干",
+      "music": 0.0
+    },
+    {
+      "from": 20.18,
+      "to": 23.0,
+      "sid": 7,
+      "location": 2,
+      "content": "嚯这真跟吃那个旱萝卜皮似的",
+      "music": 0.0
+    },
+    {
+      "from": 23.0,
+      "to": 24.16,
+      "sid": 8,
+      "location": 2,
+      "content": "你嚼萝卜皮什么味",
+      "music": 0.0
+    },
+    {
+      "from": 24.16,
+      "to": 24.8,
+      "sid": 9,
+      "location": 2,
+      "content": "这就是什么味",
+      "music": 0.0
+    },
+    {
+      "from": 24.8,
+      "to": 26.12,
+      "sid": 10,
+      "location": 2,
+      "content": "有萝卜的那个辣",
+      "music": 0.0
+    },
+    {
+      "from": 26.12,
+      "to": 28.7,
+      "sid": 11,
+      "location": 2,
+      "content": "加上糖醋盐拌了一下",
+      "music": 0.0
+    },
+    {
+      "from": 28.7,
+      "to": 31.4,
+      "sid": 12,
+      "location": 2,
+      "content": "吃的倍儿有意思",
+      "music": 0.0
+    },
+    {
+      "from": 32.38,
+      "to": 36.62,
+      "sid": 13,
+      "location": 2,
+      "content": "大肉串六十二十串真挺搭的",
+      "music": 0.0
+    },
+    {
+      "from": 37.56,
+      "to": 38.88,
+      "sid": 14,
+      "location": 2,
+      "content": "很新鲜的牛肉",
+      "music": 0.0
+    },
+    {
+      "from": 38.88,
+      "to": 40.98,
+      "sid": 15,
+      "location": 2,
+      "content": "这个肥肉的部分呢吃着还有点脆",
+      "music": 0.0
+    },
+    {
+      "from": 40.98,
+      "to": 41.94,
+      "sid": 16,
+      "location": 2,
+      "content": "带着少量的筋",
+      "music": 0.0
+    },
+    {
+      "from": 41.94,
+      "to": 42.48,
+      "sid": 17,
+      "location": 2,
+      "content": "一咬啊",
+      "music": 0.0
+    },
+    {
+      "from": 42.48,
+      "to": 43.64,
+      "sid": 18,
+      "location": 2,
+      "content": "滋滋的往嘴上流油",
+      "music": 0.0
+    },
+    {
+      "from": 43.64,
+      "to": 46.12,
+      "sid": 19,
+      "location": 2,
+      "content": "他真的挺简单的吃的嗯",
+      "music": 0.0
+    },
+    {
+      "from": 46.12,
+      "to": 47.34,
+      "sid": 20,
+      "location": 2,
+      "content": "但是真的好香",
+      "music": 0.0
+    },
+    {
+      "from": 47.34,
+      "to": 48.32,
+      "sid": 21,
+      "location": 2,
+      "content": "火透大",
+      "music": 0.0
+    },
+    {
+      "from": 48.32,
+      "to": 49.38,
+      "sid": 22,
+      "location": 2,
+      "content": "里面还有汁水",
+      "music": 0.0
+    },
+    {
+      "from": 49.38,
+      "to": 51.09,
+      "sid": 23,
+      "location": 2,
+      "content": "每桌给配点辣椒",
+      "music": 0.0
+    },
+    {
+      "from": 51.09,
+      "to": 53.61,
+      "sid": 24,
+      "location": 2,
+      "content": "蘸点辣椒炒的",
+      "music": 0.0
+    },
+    {
+      "from": 56.6,
+      "to": 59.64,
+      "sid": 25,
+      "location": 2,
+      "content": "是整辣椒炒的糊香之后弄碎了",
+      "music": 0.0
+    },
+    {
+      "from": 59.64,
+      "to": 60.56,
+      "sid": 26,
+      "location": 2,
+      "content": "不就像辣椒啊",
+      "music": 0.0
+    },
+    {
+      "from": 60.56,
+      "to": 61.2,
+      "sid": 27,
+      "location": 2,
+      "content": "不是生辣椒",
+      "music": 0.0
+    },
+    {
+      "from": 61.2,
+      "to": 61.76,
+      "sid": 28,
+      "location": 2,
+      "content": "还挺香",
+      "music": 0.0
+    },
+    {
+      "from": 61.76,
+      "to": 64.48,
+      "sid": 29,
+      "location": 2,
+      "content": "那香哇",
+      "music": 0.0
+    },
+    {
+      "from": 66.36,
+      "to": 67.8,
+      "sid": 30,
+      "location": 2,
+      "content": "好久没吃这么香菇串了",
+      "music": 0.0
+    },
+    {
+      "from": 67.8,
+      "to": 72.49,
+      "sid": 31,
+      "location": 2,
+      "content": "呵呵尤其因为外面还下着雪",
+      "music": 0.0
+    },
+    {
+      "from": 73.44,
+      "to": 75.0,
+      "sid": 32,
+      "location": 2,
+      "content": "虽然嚼的牙都很累",
+      "music": 0.0
+    },
+    {
+      "from": 75.0,
+      "to": 76.12,
+      "sid": 33,
+      "location": 2,
+      "content": "但是越嚼越想",
+      "music": 0.0
+    },
+    {
+      "from": 76.12,
+      "to": 78.04,
+      "sid": 34,
+      "location": 2,
+      "content": "嚼肉是非常的新鲜",
+      "music": 0.0
+    },
+    {
+      "from": 78.04,
+      "to": 79.26,
+      "sid": 35,
+      "location": 2,
+      "content": "一点杂味都没有",
+      "music": 0.0
+    },
+    {
+      "from": 79.26,
+      "to": 80.0,
+      "sid": 36,
+      "location": 2,
+      "content": "脂肪的香味",
+      "music": 0.0
+    },
+    {
+      "from": 80.0,
+      "to": 80.68,
+      "sid": 37,
+      "location": 2,
+      "content": "太香了",
+      "music": 0.0
+    },
+    {
+      "from": 80.68,
+      "to": 82.6,
+      "sid": 38,
+      "location": 2,
+      "content": "这个高温一咬一咬",
+      "music": 0.0
+    },
+    {
+      "from": 82.62,
+      "to": 84.18,
+      "sid": 39,
+      "location": 2,
+      "content": "满足我再来一串",
+      "music": 0.0
+    },
+    {
+      "from": 84.18,
+      "to": 86.28,
+      "sid": 40,
+      "location": 2,
+      "content": "我我已经好长时间没这么吃肉了",
+      "music": 0.0
+    },
+    {
+      "from": 90.4,
+      "to": 91.94,
+      "sid": 41,
+      "location": 2,
+      "content": "土豆茄子22",
+      "music": 0.0
+    },
+    {
+      "from": 91.94,
+      "to": 96.24,
+      "sid": 42,
+      "location": 2,
+      "content": "接下来就是本地朋友们给推荐的第三种吃法",
+      "music": 0.0
+    },
+    {
+      "from": 98.18,
+      "to": 100.26,
+      "sid": 43,
+      "location": 2,
+      "content": "嘿嗯也挺有意思的",
+      "music": 0.0
+    },
+    {
+      "from": 100.26,
+      "to": 101.74,
+      "sid": 44,
+      "location": 2,
+      "content": "先是土豆茄子的香味",
+      "music": 0.0
+    },
+    {
+      "from": 101.74,
+      "to": 104.62,
+      "sid": 45,
+      "location": 2,
+      "content": "最后咬出来是牛肉和油香和肉香",
+      "music": 0.0
+    },
+    {
+      "from": 104.62,
+      "to": 107.26,
+      "sid": 46,
+      "location": 2,
+      "content": "这土豆茄子单吃也挺好吃",
+      "music": 0.0
+    },
+    {
+      "from": 107.86,
+      "to": 109.86,
+      "sid": 47,
+      "location": 2,
+      "content": "师姐来碗米饭",
+      "music": 0.0
+    },
+    {
+      "from": 109.86,
+      "to": 110.6,
+      "sid": 48,
+      "location": 2,
+      "content": "来碗米饭",
+      "music": 0.0
+    },
+    {
+      "from": 110.6,
+      "to": 112.78,
+      "sid": 49,
+      "location": 2,
+      "content": "这东西得拌米饭",
+      "music": 0.0
+    },
+    {
+      "from": 114.88,
+      "to": 116.74,
+      "sid": 50,
+      "location": 2,
+      "content": "这玩意得香成啥样",
+      "music": 0.0
+    },
+    {
+      "from": 116.74,
+      "to": 119.42,
+      "sid": 51,
+      "location": 2,
+      "content": "我",
+      "music": 0.0
+    },
+    {
+      "from": 126.57,
+      "to": 127.45,
+      "sid": 52,
+      "location": 2,
+      "content": "给我留半吧",
+      "music": 0.0
+    },
+    {
+      "from": 127.45,
+      "to": 129.14,
+      "sid": 53,
+      "location": 2,
+      "content": "宝哥今天吃爽了不",
+      "music": 0.0
+    },
+    {
+      "from": 129.14,
+      "to": 129.6,
+      "sid": 54,
+      "location": 2,
+      "content": "嘿嘿",
+      "music": 0.0
+    },
+    {
+      "from": 129.6,
+      "to": 131.58,
+      "sid": 55,
+      "location": 2,
+      "content": "十串吃完了又要了十串走吧",
+      "music": 0.0
+    },
+    {
+      "from": 131.58,
+      "to": 133.36,
+      "sid": 56,
+      "location": 2,
+      "content": "咱们第二家还有第二家啊",
+      "music": 0.0
+    },
+    {
+      "from": 133.36,
+      "to": 136.5,
+      "sid": 57,
+      "location": 2,
+      "content": "今儿咱们把齐齐哈尔的烧烤给他吃透",
+      "music": 0.0
+    },
+    {
+      "from": 139.3,
+      "to": 140.26,
+      "sid": 58,
+      "location": 2,
+      "content": "先串串",
+      "music": 0.0
+    },
+    {
+      "from": 140.26,
+      "to": 142.08,
+      "sid": 59,
+      "location": 2,
+      "content": "他们这边都是按斤称的",
+      "music": 0.0
+    },
+    {
+      "from": 142.08,
+      "to": 143.14,
+      "sid": 60,
+      "location": 2,
+      "content": "这个叫什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 143.14,
+      "to": 144.64,
+      "sid": 61,
+      "location": 2,
+      "content": "刚才我都不知道叫什么哦",
+      "music": 0.0
+    },
+    {
+      "from": 144.64,
+      "to": 148.36,
+      "sid": 62,
+      "location": 2,
+      "content": "牛腩的鼻炎和胸口连接的肱为什么叫肱后",
+      "music": 0.0
+    },
+    {
+      "from": 148.36,
+      "to": 150.12,
+      "sid": 63,
+      "location": 2,
+      "content": "肱二头肌后哦",
+      "music": 0.0
+    },
+    {
+      "from": 150.12,
+      "to": 152.85,
+      "sid": 64,
+      "location": 2,
+      "content": "哦肱二头肌后边行",
+      "music": 0.0
+    },
+    {
+      "from": 153.09,
+      "to": 154.35,
+      "sid": 65,
+      "location": 2,
+      "content": "开造了啊",
+      "music": 0.0
+    },
+    {
+      "from": 154.35,
+      "to": 156.31,
+      "sid": 66,
+      "location": 2,
+      "content": "这看着太权威了",
+      "music": 0.0
+    },
+    {
+      "from": 156.31,
+      "to": 156.97,
+      "sid": 67,
+      "location": 2,
+      "content": "这没吃的",
+      "music": 0.0
+    },
+    {
+      "from": 156.97,
+      "to": 159.11,
+      "sid": 68,
+      "location": 2,
+      "content": "你看这个这个串的是软乎乎的",
+      "music": 0.0
+    },
+    {
+      "from": 159.11,
+      "to": 160.05,
+      "sid": 69,
+      "location": 2,
+      "content": "很颤巍巍的",
+      "music": 0.0
+    },
+    {
+      "from": 160.05,
+      "to": 162.235,
+      "sid": 70,
+      "location": 2,
+      "content": "这应该是煮熟了再烤的",
+      "music": 0.0
+    },
+    {
+      "from": 165.2,
+      "to": 166.28,
+      "sid": 71,
+      "location": 2,
+      "content": "特别的软烂",
+      "music": 0.0
+    },
+    {
+      "from": 166.28,
+      "to": 167.74,
+      "sid": 72,
+      "location": 2,
+      "content": "肉呢足够新鲜",
+      "music": 0.0
+    },
+    {
+      "from": 167.74,
+      "to": 168.92,
+      "sid": 73,
+      "location": 2,
+      "content": "烤的焦香",
+      "music": 0.0
+    },
+    {
+      "from": 168.92,
+      "to": 170.1,
+      "sid": 74,
+      "location": 2,
+      "content": "一块肥的一块瘦的",
+      "music": 0.0
+    },
+    {
+      "from": 170.1,
+      "to": 171.22,
+      "sid": 75,
+      "location": 2,
+      "content": "它又筋又油",
+      "music": 0.0
+    },
+    {
+      "from": 171.22,
+      "to": 173.0,
+      "sid": 76,
+      "location": 2,
+      "content": "中间穿块洋葱",
+      "music": 0.0
+    },
+    {
+      "from": 174.72,
+      "to": 176.76,
+      "sid": 77,
+      "location": 2,
+      "content": "蘸点那湿料尝尝",
+      "music": 0.0
+    },
+    {
+      "from": 179.58,
+      "to": 184.24,
+      "sid": 78,
+      "location": 2,
+      "content": "还是吃的东西还没这个小料不错",
+      "music": 0.34545451404958727
+    },
+    {
+      "from": 184.24,
+      "to": 185.24,
+      "sid": 79,
+      "location": 2,
+      "content": "搁点香菜",
+      "music": 0.0
+    },
+    {
+      "from": 185.24,
+      "to": 186.34,
+      "sid": 80,
+      "location": 2,
+      "content": "蒜蓉辣椒",
+      "music": 0.0
+    },
+    {
+      "from": 186.34,
+      "to": 187.5,
+      "sid": 81,
+      "location": 2,
+      "content": "甜香辣",
+      "music": 0.0
+    },
+    {
+      "from": 187.5,
+      "to": 190.97,
+      "sid": 82,
+      "location": 2,
+      "content": "配这个一蘸解腻增香",
+      "music": 0.0
+    },
+    {
+      "from": 192.44,
+      "to": 193.96,
+      "sid": 83,
+      "location": 2,
+      "content": "他这块真的好大气啊",
+      "music": 0.0
+    },
+    {
+      "from": 193.96,
+      "to": 194.68,
+      "sid": 84,
+      "location": 2,
+      "content": "好爽",
+      "music": 0.0
+    },
+    {
+      "from": 194.68,
+      "to": 195.84,
+      "sid": 85,
+      "location": 2,
+      "content": "一口吃一口",
+      "music": 0.0
+    },
+    {
+      "from": 195.84,
+      "to": 197.4,
+      "sid": 86,
+      "location": 2,
+      "content": "这个叫肥瘦相间",
+      "music": 0.0
+    },
+    {
+      "from": 197.4,
+      "to": 200.28,
+      "sid": 87,
+      "location": 2,
+      "content": "外底板牛通脊下面那个",
+      "music": 0.0
+    },
+    {
+      "from": 202.579,
+      "to": 203.739,
+      "sid": 88,
+      "location": 2,
+      "content": "一口咬下去",
+      "music": 0.0
+    },
+    {
+      "from": 203.739,
+      "to": 205.599,
+      "sid": 89,
+      "location": 2,
+      "content": "先入嘴的是烤完的焦香",
+      "music": 0.0
+    },
+    {
+      "from": 205.599,
+      "to": 207.419,
+      "sid": 90,
+      "location": 2,
+      "content": "被高温炙烤的那个味道",
+      "music": 0.0
+    },
+    {
+      "from": 207.419,
+      "to": 209.119,
+      "sid": 91,
+      "location": 2,
+      "content": "牛油的部分咯吱的一咬",
+      "music": 0.0
+    },
+    {
+      "from": 209.119,
+      "to": 210.299,
+      "sid": 92,
+      "location": 2,
+      "content": "滋滋往外冒油",
+      "music": 0.0
+    },
+    {
+      "from": 210.299,
+      "to": 211.92,
+      "sid": 93,
+      "location": 2,
+      "content": "显得这个肉非常香",
+      "music": 0.0
+    },
+    {
+      "from": 213.37,
+      "to": 214.99,
+      "sid": 94,
+      "location": 2,
+      "content": "其他的牛肉就不一样",
+      "music": 0.0
+    },
+    {
+      "from": 214.99,
+      "to": 217.45,
+      "sid": 95,
+      "location": 2,
+      "content": "和牛肉可能不一样",
+      "music": 0.0
+    },
+    {
+      "from": 217.45,
+      "to": 219.17,
+      "sid": 96,
+      "location": 2,
+      "content": "咱家那边牛肉叫牛底板",
+      "music": 0.0
+    },
+    {
+      "from": 219.17,
+      "to": 219.83,
+      "sid": 97,
+      "location": 2,
+      "content": "辣够呛",
+      "music": 0.0
+    },
+    {
+      "from": 219.83,
+      "to": 221.97,
+      "sid": 98,
+      "location": 2,
+      "content": "估计比鞋底都难吃",
+      "music": 0.0
+    },
+    {
+      "from": 223.96,
+      "to": 225.4,
+      "sid": 99,
+      "location": 2,
+      "content": "这这真香嗯",
+      "music": 0.0
+    },
+    {
+      "from": 225.4,
+      "to": 225.9,
+      "sid": 100,
+      "location": 2,
+      "content": "做个总结",
+      "music": 0.0
+    },
+    {
+      "from": 225.9,
+      "to": 228.64,
+      "sid": 101,
+      "location": 2,
+      "content": "齐齐哈尔最火的两家给你们都吃完了啊",
+      "music": 0.0
+    },
+    {
+      "from": 228.64,
+      "to": 230.12,
+      "sid": 102,
+      "location": 2,
+      "content": "都还是挺有特色的",
+      "music": 0.0
+    },
+    {
+      "from": 230.12,
+      "to": 231.88,
+      "sid": 103,
+      "location": 2,
+      "content": "齐齐哈尔的烤串太权威了",
+      "music": 0.0
+    },
+    {
+      "from": 231.88,
+      "to": 232.6,
+      "sid": 104,
+      "location": 2,
+      "content": "我们赶紧走吧",
+      "music": 0.0
+    },
+    {
+      "from": 232.6,
+      "to": 233.66,
+      "sid": 105,
+      "location": 2,
+      "content": "赶紧给人挪位置",
+      "music": 0.0
+    },
+    {
+      "from": 233.66,
+      "to": 234.9,
+      "sid": 106,
+      "location": 2,
+      "content": "人太多了",
+      "music": 0.0
+    }
+  ]
+}

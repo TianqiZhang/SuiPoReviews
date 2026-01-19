@@ -1,0 +1,564 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.14,
+      "to": 1.22,
+      "sid": 1,
+      "location": 2,
+      "content": "这搁这店做",
+      "music": 0.0
+    },
+    {
+      "from": 1.22,
+      "to": 2.72,
+      "sid": 2,
+      "location": 2,
+      "content": "我觉得都不带及格的",
+      "music": 0.0
+    },
+    {
+      "from": 2.72,
+      "to": 3.36,
+      "sid": 3,
+      "location": 2,
+      "content": "随口一单",
+      "music": 0.0
+    },
+    {
+      "from": 3.36,
+      "to": 4.1,
+      "sid": 4,
+      "location": 2,
+      "content": "好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 4.1,
+      "to": 8.42,
+      "sid": 5,
+      "location": 2,
+      "content": "四川成都中华老字号陈麻婆豆腐300",
+      "music": 0.0
+    },
+    {
+      "from": 13.7,
+      "to": 15.25,
+      "sid": 6,
+      "location": 2,
+      "content": "鸡豆花22",
+      "music": 0.0
+    },
+    {
+      "from": 15.25,
+      "to": 16.21,
+      "sid": 7,
+      "location": 2,
+      "content": "同治年间",
+      "music": 0.0
+    },
+    {
+      "from": 16.21,
+      "to": 16.93,
+      "sid": 8,
+      "location": 2,
+      "content": "1862年",
+      "music": 0.0
+    },
+    {
+      "from": 16.93,
+      "to": 18.35,
+      "sid": 9,
+      "location": 2,
+      "content": "那个婚后还挺明显",
+      "music": 0.0
+    },
+    {
+      "from": 18.35,
+      "to": 19.21,
+      "sid": 10,
+      "location": 2,
+      "content": "店是老店",
+      "music": 0.0
+    },
+    {
+      "from": 19.21,
+      "to": 23.66,
+      "sid": 11,
+      "location": 2,
+      "content": "餐具可以吃新达0770770",
+      "music": 0.04556961909950325
+    },
+    {
+      "from": 23.815,
+      "to": 27.1,
+      "sid": 12,
+      "location": 2,
+      "content": "表面的状态呢就很像就是家常版的",
+      "music": 0.0
+    },
+    {
+      "from": 27.1,
+      "to": 28.34,
+      "sid": 13,
+      "location": 2,
+      "content": "这就像豆渣了似的",
+      "music": 0.0
+    },
+    {
+      "from": 28.34,
+      "to": 33.75,
+      "sid": 14,
+      "location": 2,
+      "content": "吃到嘴里面的有没有做的那么的细腻",
+      "music": 0.0
+    },
+    {
+      "from": 33.75,
+      "to": 37.25,
+      "sid": 15,
+      "location": 2,
+      "content": "鸡蛋清和鸡蓉融合的度呢稍微差一点",
+      "music": 0.0
+    },
+    {
+      "from": 37.25,
+      "to": 40.925,
+      "sid": 16,
+      "location": 2,
+      "content": "陈麻婆豆腐22",
+      "music": 0.0
+    },
+    {
+      "from": 41.84,
+      "to": 44.21,
+      "sid": 17,
+      "location": 2,
+      "content": "嫩辣鲜咸",
+      "music": 0.0
+    },
+    {
+      "from": 44.21,
+      "to": 44.83,
+      "sid": 18,
+      "location": 2,
+      "content": "还有麻",
+      "music": 0.0
+    },
+    {
+      "from": 44.83,
+      "to": 46.21,
+      "sid": 19,
+      "location": 2,
+      "content": "这几种味道都出来了",
+      "music": 0.0
+    },
+    {
+      "from": 46.21,
+      "to": 47.79,
+      "sid": 20,
+      "location": 2,
+      "content": "估计他现在这生意特别好",
+      "music": 0.0
+    },
+    {
+      "from": 47.79,
+      "to": 50.3,
+      "sid": 21,
+      "location": 2,
+      "content": "有可能这花椒粉呢都不是每天去备的",
+      "music": 0.0
+    },
+    {
+      "from": 50.3,
+      "to": 53.16,
+      "sid": 22,
+      "location": 2,
+      "content": "所以呢你吃着那花椒粉那种香味就没有那么浓",
+      "music": 0.0
+    },
+    {
+      "from": 53.16,
+      "to": 54.24,
+      "sid": 23,
+      "location": 2,
+      "content": "哪怕你隔一夜",
+      "music": 0.0
+    },
+    {
+      "from": 54.24,
+      "to": 55.66,
+      "sid": 24,
+      "location": 2,
+      "content": "这味也会差很多的",
+      "music": 0.0
+    },
+    {
+      "from": 55.66,
+      "to": 57.16,
+      "sid": 25,
+      "location": 2,
+      "content": "上面飘的这个肉沫",
+      "music": 0.0
+    },
+    {
+      "from": 57.16,
+      "to": 58.48,
+      "sid": 26,
+      "location": 2,
+      "content": "这编的有点太干了",
+      "music": 0.0
+    },
+    {
+      "from": 58.48,
+      "to": 59.56,
+      "sid": 27,
+      "location": 2,
+      "content": "搁嘴里嚼着垫牙",
+      "music": 0.0
+    },
+    {
+      "from": 59.56,
+      "to": 61.6,
+      "sid": 28,
+      "location": 2,
+      "content": "这就是一份正常的麻婆豆腐",
+      "music": 0.0
+    },
+    {
+      "from": 61.6,
+      "to": 63.12,
+      "sid": 29,
+      "location": 2,
+      "content": "我不讨论那正宗不正宗货",
+      "music": 0.0
+    },
+    {
+      "from": 63.12,
+      "to": 64.88,
+      "sid": 30,
+      "location": 2,
+      "content": "我只是把味道跟你们说清楚而已",
+      "music": 0.0
+    },
+    {
+      "from": 64.88,
+      "to": 66.479,
+      "sid": 31,
+      "location": 2,
+      "content": "水煮肉片42烫",
+      "music": 0.0
+    },
+    {
+      "from": 66.479,
+      "to": 68.639,
+      "sid": 32,
+      "location": 2,
+      "content": "表面那样跟我之前认识的不太一样",
+      "music": 0.0
+    },
+    {
+      "from": 68.639,
+      "to": 70.599,
+      "sid": 33,
+      "location": 2,
+      "content": "哈哈原来都是刀口辣椒",
+      "music": 0.0
+    },
+    {
+      "from": 70.599,
+      "to": 72.759,
+      "sid": 34,
+      "location": 2,
+      "content": "这都是辣椒面面",
+      "music": 0.0
+    },
+    {
+      "from": 76.52,
+      "to": 77.9,
+      "sid": 35,
+      "location": 2,
+      "content": "牛肉极嫩",
+      "music": 0.0
+    },
+    {
+      "from": 77.9,
+      "to": 79.6,
+      "sid": 36,
+      "location": 2,
+      "content": "入口即化",
+      "music": 0.0
+    },
+    {
+      "from": 80.94,
+      "to": 82.66,
+      "sid": 37,
+      "location": 2,
+      "content": "卧槽一牙给他夹断了",
+      "music": 0.0
+    },
+    {
+      "from": 83.84,
+      "to": 85.88,
+      "sid": 38,
+      "location": 2,
+      "content": "这腌料时候下料下的有点狠啊",
+      "music": 0.0
+    },
+    {
+      "from": 85.88,
+      "to": 86.86,
+      "sid": 39,
+      "location": 2,
+      "content": "这搁这店做",
+      "music": 0.0
+    },
+    {
+      "from": 86.86,
+      "to": 88.36,
+      "sid": 40,
+      "location": 2,
+      "content": "我觉得做不太及格的",
+      "music": 0.0
+    },
+    {
+      "from": 88.36,
+      "to": 90.36,
+      "sid": 41,
+      "location": 2,
+      "content": "过桥茄子36",
+      "music": 0.0
+    },
+    {
+      "from": 93.12,
+      "to": 94.52,
+      "sid": 42,
+      "location": 2,
+      "content": "长茄子不去皮",
+      "music": 0.0
+    },
+    {
+      "from": 94.52,
+      "to": 95.0,
+      "sid": 43,
+      "location": 2,
+      "content": "打个花",
+      "music": 0.0
+    },
+    {
+      "from": 95.0,
+      "to": 95.16,
+      "sid": 44,
+      "location": 2,
+      "content": "刀",
+      "music": 0.0
+    },
+    {
+      "from": 95.16,
+      "to": 96.08,
+      "sid": 45,
+      "location": 2,
+      "content": "里边酿了个肉馅",
+      "music": 0.0
+    },
+    {
+      "from": 96.08,
+      "to": 97.12,
+      "sid": 46,
+      "location": 2,
+      "content": "下锅高油温一炸",
+      "music": 0.0
+    },
+    {
+      "from": 97.12,
+      "to": 98.08,
+      "sid": 47,
+      "location": 2,
+      "content": "浇一个鱼香汁",
+      "music": 0.0
+    },
+    {
+      "from": 98.08,
+      "to": 100.6,
+      "sid": 48,
+      "location": 2,
+      "content": "而且那肉馅给的特少",
+      "music": 0.0
+    },
+    {
+      "from": 100.6,
+      "to": 102.78,
+      "sid": 49,
+      "location": 2,
+      "content": "刀口可以打的稍微狠一点",
+      "music": 0.0
+    },
+    {
+      "from": 102.78,
+      "to": 104.04,
+      "sid": 50,
+      "location": 2,
+      "content": "你看这夹不断啊",
+      "music": 0.0
+    },
+    {
+      "from": 105.77,
+      "to": 108.11,
+      "sid": 51,
+      "location": 2,
+      "content": "下边一半的茄子都是白白的",
+      "music": 0.0
+    },
+    {
+      "from": 108.11,
+      "to": 109.37,
+      "sid": 52,
+      "location": 2,
+      "content": "有茄子的生味吗",
+      "music": 0.0
+    },
+    {
+      "from": 109.37,
+      "to": 110.89,
+      "sid": 53,
+      "location": 2,
+      "content": "没有茄子熟了啊",
+      "music": 0.0
+    },
+    {
+      "from": 110.89,
+      "to": 113.419,
+      "sid": 54,
+      "location": 2,
+      "content": "肉汤蹄花好多油啊",
+      "music": 0.0
+    },
+    {
+      "from": 119.2,
+      "to": 121.26,
+      "sid": 55,
+      "location": 2,
+      "content": "这个菜是需要放很多油的菜吗",
+      "music": 0.0
+    },
+    {
+      "from": 121.26,
+      "to": 123.94,
+      "sid": 56,
+      "location": 2,
+      "content": "我不知道这里边是就一个猪蹄",
+      "music": 0.0
+    },
+    {
+      "from": 123.94,
+      "to": 126.05,
+      "sid": 57,
+      "location": 2,
+      "content": "也不是那么的很烂",
+      "music": 0.0
+    },
+    {
+      "from": 126.05,
+      "to": 132.02,
+      "sid": 58,
+      "location": 2,
+      "content": "你就看着不帮我",
+      "music": 0.0
+    },
+    {
+      "from": 134.3,
+      "to": 138.22,
+      "sid": 59,
+      "location": 2,
+      "content": "哎猪蹄儿估计是今天早上起来煮的很新鲜",
+      "music": 0.0
+    },
+    {
+      "from": 138.22,
+      "to": 139.88,
+      "sid": 60,
+      "location": 2,
+      "content": "猪蹄里的味儿还没泡出去呢",
+      "music": 0.0
+    },
+    {
+      "from": 139.88,
+      "to": 143.0,
+      "sid": 61,
+      "location": 2,
+      "content": "还有被火炙烤过的那个味道",
+      "music": 0.0
+    },
+    {
+      "from": 143.0,
+      "to": 144.14,
+      "sid": 62,
+      "location": 2,
+      "content": "我好难过啊",
+      "music": 0.0
+    },
+    {
+      "from": 144.14,
+      "to": 146.22,
+      "sid": 63,
+      "location": 2,
+      "content": "我本来特别期待来这家",
+      "music": 0.0
+    },
+    {
+      "from": 146.22,
+      "to": 147.41,
+      "sid": 64,
+      "location": 2,
+      "content": "那咋办好",
+      "music": 0.0
+    },
+    {
+      "from": 147.41,
+      "to": 148.31,
+      "sid": 65,
+      "location": 2,
+      "content": "我们做个总结",
+      "music": 0.0
+    },
+    {
+      "from": 148.31,
+      "to": 149.63,
+      "sid": 66,
+      "location": 2,
+      "content": "干口麻婆豆腐吃的早",
+      "music": 0.0
+    },
+    {
+      "from": 149.63,
+      "to": 152.17,
+      "sid": 67,
+      "location": 2,
+      "content": "对他的评价稍微有点偏颇",
+      "music": 0.0
+    },
+    {
+      "from": 152.17,
+      "to": 154.39,
+      "sid": 68,
+      "location": 2,
+      "content": "麻婆豆腐不愧是王牌产品",
+      "music": 0.0
+    },
+    {
+      "from": 154.39,
+      "to": 156.44,
+      "sid": 69,
+      "location": 2,
+      "content": "在这一桌尤为突出",
+      "music": 0.0
+    }
+  ]
+}

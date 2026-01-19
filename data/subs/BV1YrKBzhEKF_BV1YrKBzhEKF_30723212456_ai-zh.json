@@ -1,0 +1,860 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 2.9,
+      "to": 4.28,
+      "sid": 1,
+      "location": 2,
+      "content": "水坡一摊好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 4.28,
+      "to": 9.02,
+      "sid": 2,
+      "location": 2,
+      "content": "北京网红小馆泽秀饭馆327",
+      "music": 0.0
+    },
+    {
+      "from": 13.02,
+      "to": 15.42,
+      "sid": 3,
+      "location": 2,
+      "content": "炖丸子48",
+      "music": 0.0
+    },
+    {
+      "from": 17.38,
+      "to": 21.26,
+      "sid": 4,
+      "location": 2,
+      "content": "我也不知道他的汤不太好吃",
+      "music": 0.06756756528488042
+    },
+    {
+      "from": 21.26,
+      "to": 23.7,
+      "sid": 5,
+      "location": 2,
+      "content": "嘿嘿淀粉放的真不少",
+      "music": 0.0
+    },
+    {
+      "from": 23.7,
+      "to": 25.16,
+      "sid": 6,
+      "location": 2,
+      "content": "就是肉里一点点油啊",
+      "music": 0.0
+    },
+    {
+      "from": 25.16,
+      "to": 26.82,
+      "sid": 7,
+      "location": 2,
+      "content": "都他妈被淀粉吸完了",
+      "music": 0.0
+    },
+    {
+      "from": 26.82,
+      "to": 27.6,
+      "sid": 8,
+      "location": 2,
+      "content": "体验不足",
+      "music": 0.0
+    },
+    {
+      "from": 27.6,
+      "to": 29.72,
+      "sid": 9,
+      "location": 2,
+      "content": "肉香汤里边就是简单的酱油",
+      "music": 0.0
+    },
+    {
+      "from": 29.72,
+      "to": 30.36,
+      "sid": 10,
+      "location": 2,
+      "content": "要安抚",
+      "music": 0.0
+    },
+    {
+      "from": 30.36,
+      "to": 32.2,
+      "sid": 11,
+      "location": 2,
+      "content": "40多块钱也不太便宜了啊",
+      "music": 0.0
+    },
+    {
+      "from": 32.2,
+      "to": 33.38,
+      "sid": 12,
+      "location": 2,
+      "content": "这个性价比来讲",
+      "music": 0.0
+    },
+    {
+      "from": 33.38,
+      "to": 34.11,
+      "sid": 13,
+      "location": 2,
+      "content": "你说吧",
+      "music": 0.0
+    },
+    {
+      "from": 35.45,
+      "to": 37.17,
+      "sid": 14,
+      "location": 2,
+      "content": "炖牛肉52",
+      "music": 0.0
+    },
+    {
+      "from": 37.17,
+      "to": 38.97,
+      "sid": 15,
+      "location": 2,
+      "content": "这牛咋这么红啊",
+      "music": 0.0
+    },
+    {
+      "from": 38.97,
+      "to": 39.97,
+      "sid": 16,
+      "location": 2,
+      "content": "尝一尝",
+      "music": 0.0
+    },
+    {
+      "from": 42.41,
+      "to": 44.49,
+      "sid": 17,
+      "location": 2,
+      "content": "这牛肉呢买回来是熟的",
+      "music": 0.0
+    },
+    {
+      "from": 44.49,
+      "to": 45.29,
+      "sid": 18,
+      "location": 2,
+      "content": "明显的",
+      "music": 0.0
+    },
+    {
+      "from": 45.29,
+      "to": 48.64,
+      "sid": 19,
+      "location": 2,
+      "content": "吃着跟自己做的那个味道有点区别",
+      "music": 0.0
+    },
+    {
+      "from": 48.64,
+      "to": 50.52,
+      "sid": 20,
+      "location": 2,
+      "content": "咱们去哪吃的这种炖牛肉",
+      "music": 0.0
+    },
+    {
+      "from": 50.52,
+      "to": 51.62,
+      "sid": 21,
+      "location": 2,
+      "content": "它会汪一点油",
+      "music": 0.0
+    },
+    {
+      "from": 51.62,
+      "to": 52.56,
+      "sid": 22,
+      "location": 2,
+      "content": "做的时候会有油",
+      "music": 0.0
+    },
+    {
+      "from": 52.56,
+      "to": 54.02,
+      "sid": 23,
+      "location": 2,
+      "content": "你看他这汤里面都没有油",
+      "music": 0.0
+    },
+    {
+      "from": 54.02,
+      "to": 56.22,
+      "sid": 24,
+      "location": 2,
+      "content": "就证明他这油管是煮熟了再炖",
+      "music": 0.0
+    },
+    {
+      "from": 56.22,
+      "to": 57.46,
+      "sid": 25,
+      "location": 2,
+      "content": "没有生牛肉",
+      "music": 0.0
+    },
+    {
+      "from": 57.46,
+      "to": 58.3,
+      "sid": 26,
+      "location": 2,
+      "content": "很香的",
+      "music": 0.0
+    },
+    {
+      "from": 58.3,
+      "to": 59.43,
+      "sid": 27,
+      "location": 2,
+      "content": "牛肉的那种香味",
+      "music": 0.0
+    },
+    {
+      "from": 59.43,
+      "to": 63.07,
+      "sid": 28,
+      "location": 2,
+      "content": "炖鱼下巴48",
+      "music": 0.0
+    },
+    {
+      "from": 65.15,
+      "to": 66.75,
+      "sid": 29,
+      "location": 2,
+      "content": "跟原来吃的味道一样吧",
+      "music": 0.0
+    },
+    {
+      "from": 66.75,
+      "to": 70.979,
+      "sid": 30,
+      "location": 2,
+      "content": "哎差不多就是这个味一点点的辣",
+      "music": 0.0
+    },
+    {
+      "from": 70.979,
+      "to": 72.079,
+      "sid": 31,
+      "location": 2,
+      "content": "有花椒的味道",
+      "music": 0.0
+    },
+    {
+      "from": 72.079,
+      "to": 73.039,
+      "sid": 32,
+      "location": 2,
+      "content": "回口有点甜",
+      "music": 0.0
+    },
+    {
+      "from": 73.039,
+      "to": 74.159,
+      "sid": 33,
+      "location": 2,
+      "content": "酸炖挺入味",
+      "music": 0.0
+    },
+    {
+      "from": 74.159,
+      "to": 74.919,
+      "sid": 34,
+      "location": 2,
+      "content": "没有什么腥味",
+      "music": 0.0
+    },
+    {
+      "from": 74.919,
+      "to": 76.739,
+      "sid": 35,
+      "location": 2,
+      "content": "鱼虾巴的口感还不一样呢",
+      "music": 0.0
+    },
+    {
+      "from": 76.739,
+      "to": 78.94,
+      "sid": 36,
+      "location": 2,
+      "content": "鱼下巴就是都是肉啊",
+      "music": 0.0
+    },
+    {
+      "from": 78.94,
+      "to": 79.66,
+      "sid": 37,
+      "location": 2,
+      "content": "没有刺儿",
+      "music": 0.0
+    },
+    {
+      "from": 79.66,
+      "to": 80.68,
+      "sid": 38,
+      "location": 2,
+      "content": "就一个大骨头",
+      "music": 0.0
+    },
+    {
+      "from": 80.68,
+      "to": 81.82,
+      "sid": 39,
+      "location": 2,
+      "content": "吃法更嫩一点",
+      "music": 0.0
+    },
+    {
+      "from": 81.82,
+      "to": 85.34,
+      "sid": 40,
+      "location": 2,
+      "content": "不像那个像草鱼鲤鱼的那个背部肉那么柴",
+      "music": 0.0
+    },
+    {
+      "from": 85.34,
+      "to": 88.86,
+      "sid": 41,
+      "location": 2,
+      "content": "是我普遍吃的都会有一点重",
+      "music": 0.0
+    },
+    {
+      "from": 88.86,
+      "to": 91.38,
+      "sid": 42,
+      "location": 2,
+      "content": "何老师今天做的特板正啊",
+      "music": 0.0
+    },
+    {
+      "from": 91.38,
+      "to": 92.44,
+      "sid": 43,
+      "location": 2,
+      "content": "感觉要成仙了",
+      "music": 0.0
+    },
+    {
+      "from": 92.44,
+      "to": 96.98,
+      "sid": 44,
+      "location": 2,
+      "content": "你怎么知道我带了妙界新品按摩护腰坐姿椅",
+      "music": 0.0
+    },
+    {
+      "from": 96.98,
+      "to": 98.22,
+      "sid": 45,
+      "location": 2,
+      "content": "喵街先生来了",
+      "music": 0.0
+    },
+    {
+      "from": 98.22,
+      "to": 99.62,
+      "sid": 46,
+      "location": 2,
+      "content": "上回刚合作完",
+      "music": 0.0
+    },
+    {
+      "from": 99.62,
+      "to": 101.66,
+      "sid": 47,
+      "location": 2,
+      "content": "不少朋友就去妙界那催更",
+      "music": 0.0
+    },
+    {
+      "from": 101.66,
+      "to": 102.76,
+      "sid": 48,
+      "location": 2,
+      "content": "妙界说给咱撑腰",
+      "music": 0.0
+    },
+    {
+      "from": 102.76,
+      "to": 103.98,
+      "sid": 49,
+      "location": 2,
+      "content": "没想到是物理上的",
+      "music": 0.0
+    },
+    {
+      "from": 103.98,
+      "to": 104.74,
+      "sid": 50,
+      "location": 2,
+      "content": "他创新的",
+      "music": 0.0
+    },
+    {
+      "from": 104.74,
+      "to": 107.78,
+      "sid": 51,
+      "location": 2,
+      "content": "他把按摩护腰脚姿热敷四合一了",
+      "music": 0.0
+    },
+    {
+      "from": 107.78,
+      "to": 108.74,
+      "sid": 52,
+      "location": 2,
+      "content": "就是往后一靠",
+      "music": 0.0
+    },
+    {
+      "from": 108.74,
+      "to": 110.24,
+      "sid": 53,
+      "location": 2,
+      "content": "腰背肌肉就放松开了",
+      "music": 0.0
+    },
+    {
+      "from": 110.24,
+      "to": 111.28,
+      "sid": 54,
+      "location": 2,
+      "content": "坐姿也直溜了",
+      "music": 0.0
+    },
+    {
+      "from": 111.28,
+      "to": 114.0,
+      "sid": 55,
+      "location": 2,
+      "content": "六大分区加53度黄金支撑脚",
+      "music": 0.0
+    },
+    {
+      "from": 114.0,
+      "to": 115.0,
+      "sid": 56,
+      "location": 2,
+      "content": "腰椎有了靠山",
+      "music": 0.0
+    },
+    {
+      "from": 115.0,
+      "to": 116.36,
+      "sid": 57,
+      "location": 2,
+      "content": "二郎腿都不知道怎么翘了",
+      "music": 0.0
+    },
+    {
+      "from": 116.36,
+      "to": 118.5,
+      "sid": 58,
+      "location": 2,
+      "content": "坐垫是35mm厚的高密度海绵",
+      "music": 0.0
+    },
+    {
+      "from": 118.5,
+      "to": 119.56,
+      "sid": 59,
+      "location": 2,
+      "content": "往沙发地上",
+      "music": 0.0
+    },
+    {
+      "from": 119.56,
+      "to": 121.24,
+      "sid": 60,
+      "location": 2,
+      "content": "车上一个怎么做都有支撑",
+      "music": 0.0
+    },
+    {
+      "from": 121.24,
+      "to": 122.4,
+      "sid": 61,
+      "location": 2,
+      "content": "承重有260斤",
+      "music": 0.0
+    },
+    {
+      "from": 122.4,
+      "to": 123.76,
+      "sid": 62,
+      "location": 2,
+      "content": "能坐下1.5个",
+      "music": 0.0
+    },
+    {
+      "from": 123.76,
+      "to": 126.24,
+      "sid": 63,
+      "location": 2,
+      "content": "我或者一个小李向前一坐大半天",
+      "music": 0.0
+    },
+    {
+      "from": 126.24,
+      "to": 126.72,
+      "sid": 64,
+      "location": 2,
+      "content": "椅子呀",
+      "music": 0.0
+    },
+    {
+      "from": 126.72,
+      "to": 127.32,
+      "sid": 65,
+      "location": 2,
+      "content": "空落落的",
+      "music": 0.0
+    },
+    {
+      "from": 127.32,
+      "to": 128.92,
+      "sid": 66,
+      "location": 2,
+      "content": "不改良一下腰椎别提多难受",
+      "music": 0.0
+    },
+    {
+      "from": 128.92,
+      "to": 130.54,
+      "sid": 67,
+      "location": 2,
+      "content": "拿它调好按摩和热敷",
+      "music": 0.0
+    },
+    {
+      "from": 130.54,
+      "to": 132.78,
+      "sid": 68,
+      "location": 2,
+      "content": "对着腰背穴位温透开肌肉",
+      "music": 0.0
+    },
+    {
+      "from": 132.78,
+      "to": 133.82,
+      "sid": 69,
+      "location": 2,
+      "content": "坐姿马上掰正",
+      "music": 0.0
+    },
+    {
+      "from": 133.82,
+      "to": 136.04,
+      "sid": 70,
+      "location": 2,
+      "content": "而且妙界是按摩榜上的销量榜",
+      "music": 0.0
+    },
+    {
+      "from": 136.04,
+      "to": 137.4,
+      "sid": 71,
+      "location": 2,
+      "content": "一质保售后很靠谱",
+      "music": 0.0
+    },
+    {
+      "from": 137.4,
+      "to": 138.48,
+      "sid": 72,
+      "location": 2,
+      "content": "需要选好颜色",
+      "music": 0.0
+    },
+    {
+      "from": 138.48,
+      "to": 139.18,
+      "sid": 73,
+      "location": 2,
+      "content": "领好券",
+      "music": 0.0
+    },
+    {
+      "from": 139.18,
+      "to": 141.1,
+      "sid": 74,
+      "location": 2,
+      "content": "趁优惠给家人朋友也带上",
+      "music": 0.0
+    },
+    {
+      "from": 141.1,
+      "to": 142.26,
+      "sid": 75,
+      "location": 2,
+      "content": "炖腰子45",
+      "music": 0.0
+    },
+    {
+      "from": 142.26,
+      "to": 146.449,
+      "sid": 76,
+      "location": 2,
+      "content": "那你问这是猪腰子还是吃牛腰的球球",
+      "music": 0.0
+    },
+    {
+      "from": 146.449,
+      "to": 150.07,
+      "sid": 77,
+      "location": 2,
+      "content": "3325333",
+      "music": 0.0
+    },
+    {
+      "from": 150.07,
+      "to": 151.8,
+      "sid": 78,
+      "location": 2,
+      "content": "好走走哪",
+      "music": 0.9999997058824395
+    },
+    {
+      "from": 151.8,
+      "to": 153.76,
+      "sid": 79,
+      "location": 2,
+      "content": "腰子的腥味还是比较重",
+      "music": 0.0
+    },
+    {
+      "from": 153.76,
+      "to": 155.08,
+      "sid": 80,
+      "location": 2,
+      "content": "不管是谁的腰子啊",
+      "music": 0.0
+    },
+    {
+      "from": 155.08,
+      "to": 157.06,
+      "sid": 81,
+      "location": 2,
+      "content": "那个腥味太重",
+      "music": 0.0
+    },
+    {
+      "from": 157.06,
+      "to": 160.6,
+      "sid": 82,
+      "location": 2,
+      "content": "你看加了很重的料也没压住吗",
+      "music": 0.0
+    },
+    {
+      "from": 160.66,
+      "to": 162.94,
+      "sid": 83,
+      "location": 2,
+      "content": "我感觉这应该好像也是熟腰子",
+      "music": 0.0
+    },
+    {
+      "from": 162.94,
+      "to": 164.06,
+      "sid": 84,
+      "location": 2,
+      "content": "熟的回来炖的",
+      "music": 0.0
+    },
+    {
+      "from": 164.06,
+      "to": 167.77,
+      "sid": 85,
+      "location": 2,
+      "content": "但是这个真真是我完全下不了嘴",
+      "music": 0.0
+    },
+    {
+      "from": 167.77,
+      "to": 170.33,
+      "sid": 86,
+      "location": 2,
+      "content": "鱼籽炖豆腐55",
+      "music": 0.0
+    },
+    {
+      "from": 172.46,
+      "to": 174.9,
+      "sid": 87,
+      "location": 2,
+      "content": "这个用的就是炖鱼",
+      "music": 0.0
+    },
+    {
+      "from": 174.9,
+      "to": 175.58,
+      "sid": 88,
+      "location": 2,
+      "content": "下巴那个汤",
+      "music": 0.0
+    },
+    {
+      "from": 175.58,
+      "to": 177.12,
+      "sid": 89,
+      "location": 2,
+      "content": "酸咸香回甜",
+      "music": 0.0
+    },
+    {
+      "from": 177.12,
+      "to": 178.06,
+      "sid": 90,
+      "location": 2,
+      "content": "稍微有点干",
+      "music": 0.0
+    },
+    {
+      "from": 178.06,
+      "to": 179.4,
+      "sid": 91,
+      "location": 2,
+      "content": "多加点肥肉",
+      "music": 0.0
+    },
+    {
+      "from": 179.4,
+      "to": 180.94,
+      "sid": 92,
+      "location": 2,
+      "content": "它吃着会更润一点",
+      "music": 0.0
+    },
+    {
+      "from": 180.94,
+      "to": 183.38,
+      "sid": 93,
+      "location": 2,
+      "content": "尝这大的这个里边还是有腥味的",
+      "music": 0.0
+    },
+    {
+      "from": 183.38,
+      "to": 185.32,
+      "sid": 94,
+      "location": 2,
+      "content": "这个我教你们一个这个吃法啊",
+      "music": 0.0
+    },
+    {
+      "from": 185.32,
+      "to": 188.02,
+      "sid": 95,
+      "location": 2,
+      "content": "要拿勺把那大块都给它捣碎",
+      "music": 0.0
+    },
+    {
+      "from": 188.02,
+      "to": 189.88,
+      "sid": 96,
+      "location": 2,
+      "content": "让它所有的都沾上汁",
+      "music": 0.0
+    },
+    {
+      "from": 189.88,
+      "to": 193.82,
+      "sid": 97,
+      "location": 2,
+      "content": "这样就会更好吃",
+      "music": 0.0
+    },
+    {
+      "from": 193.96,
+      "to": 195.12,
+      "sid": 98,
+      "location": 2,
+      "content": "啊这得好吃",
+      "music": 0.0
+    },
+    {
+      "from": 195.12,
+      "to": 198.71,
+      "sid": 99,
+      "location": 2,
+      "content": "50%吧",
+      "music": 0.0
+    },
+    {
+      "from": 198.71,
+      "to": 199.87,
+      "sid": 100,
+      "location": 2,
+      "content": "好我们做个总结",
+      "music": 0.0
+    },
+    {
+      "from": 199.87,
+      "to": 201.99,
+      "sid": 101,
+      "location": 2,
+      "content": "今天我们吃了327",
+      "music": 0.0
+    },
+    {
+      "from": 201.99,
+      "to": 202.9,
+      "sid": 102,
+      "location": 2,
+      "content": "整桌菜呢",
+      "music": 0.0
+    },
+    {
+      "from": 202.9,
+      "to": 205.34,
+      "sid": 103,
+      "location": 2,
+      "content": "那个鱼下巴和鱼籽还可以",
+      "music": 0.0
+    },
+    {
+      "from": 205.34,
+      "to": 207.2,
+      "sid": 104,
+      "location": 2,
+      "content": "其他的就非常一般了",
+      "music": 0.0
+    },
+    {
+      "from": 207.2,
+      "to": 207.9,
+      "sid": 105,
+      "location": 2,
+      "content": "菜没吃完",
+      "music": 0.0
+    },
+    {
+      "from": 207.9,
+      "to": 208.88,
+      "sid": 106,
+      "location": 2,
+      "content": "也没吃饱",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,692 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 4.07,
+      "to": 7.77,
+      "sid": 1,
+      "location": 2,
+      "content": "你看这个就是非常出名的藏香猪",
+      "music": 0.0
+    },
+    {
+      "from": 7.77,
+      "to": 9.879,
+      "sid": 2,
+      "location": 2,
+      "content": "听说他吃这些东西长大的",
+      "music": 0.0
+    },
+    {
+      "from": 9.879,
+      "to": 12.279,
+      "sid": 3,
+      "location": 2,
+      "content": "后面的山都是它们的活动环境",
+      "music": 0.0
+    },
+    {
+      "from": 12.279,
+      "to": 14.159,
+      "sid": 4,
+      "location": 2,
+      "content": "让它的口感非常特殊",
+      "music": 0.0
+    },
+    {
+      "from": 15.639,
+      "to": 17.48,
+      "sid": 5,
+      "location": 2,
+      "content": "打个招呼啊呜",
+      "music": 0.0
+    },
+    {
+      "from": 21.32,
+      "to": 23.94,
+      "sid": 6,
+      "location": 2,
+      "content": "这次为了满足好奇心",
+      "music": 0.0
+    },
+    {
+      "from": 23.94,
+      "to": 25.54,
+      "sid": 7,
+      "location": 2,
+      "content": "我们专门来了林芝",
+      "music": 0.0
+    },
+    {
+      "from": 25.54,
+      "to": 27.28,
+      "sid": 8,
+      "location": 2,
+      "content": "找一个当地的老师傅",
+      "music": 0.0
+    },
+    {
+      "from": 27.28,
+      "to": 30.13,
+      "sid": 9,
+      "location": 2,
+      "content": "看看藏香猪到底是怎么回事",
+      "music": 0.0
+    },
+    {
+      "from": 30.41,
+      "to": 31.69,
+      "sid": 10,
+      "location": 2,
+      "content": "他们也知道抢镜头",
+      "music": 0.0
+    },
+    {
+      "from": 33.37,
+      "to": 34.93,
+      "sid": 11,
+      "location": 2,
+      "content": "我我被包围了",
+      "music": 0.0
+    },
+    {
+      "from": 34.93,
+      "to": 36.75,
+      "sid": 12,
+      "location": 2,
+      "content": "这一站他以为有吃的",
+      "music": 0.0
+    },
+    {
+      "from": 36.75,
+      "to": 37.69,
+      "sid": 13,
+      "location": 2,
+      "content": "我听说啊",
+      "music": 0.0
+    },
+    {
+      "from": 37.69,
+      "to": 38.95,
+      "sid": 14,
+      "location": 2,
+      "content": "咱们这这个藏英猪啊",
+      "music": 0.0
+    },
+    {
+      "from": 38.95,
+      "to": 41.61,
+      "sid": 15,
+      "location": 2,
+      "content": "他是吃松茸和虫草长大的",
+      "music": 0.0
+    },
+    {
+      "from": 41.61,
+      "to": 42.93,
+      "sid": 16,
+      "location": 2,
+      "content": "5月份有虫草",
+      "music": 0.0
+    },
+    {
+      "from": 42.93,
+      "to": 44.19,
+      "sid": 17,
+      "location": 2,
+      "content": "7月份有松茸",
+      "music": 0.0
+    },
+    {
+      "from": 44.19,
+      "to": 45.67,
+      "sid": 18,
+      "location": 2,
+      "content": "还有那个毛桃",
+      "music": 0.0
+    },
+    {
+      "from": 45.67,
+      "to": 46.75,
+      "sid": 19,
+      "location": 2,
+      "content": "以樱桃",
+      "music": 0.0
+    },
+    {
+      "from": 46.75,
+      "to": 47.87,
+      "sid": 20,
+      "location": 2,
+      "content": "以山楂",
+      "music": 0.0
+    },
+    {
+      "from": 47.87,
+      "to": 50.49,
+      "sid": 21,
+      "location": 2,
+      "content": "猪在遛弯的时候就吃那个掉下来的果",
+      "music": 0.0
+    },
+    {
+      "from": 50.49,
+      "to": 51.73,
+      "sid": 22,
+      "location": 2,
+      "content": "那生活的真够惬意",
+      "music": 0.0
+    },
+    {
+      "from": 51.73,
+      "to": 54.7,
+      "sid": 23,
+      "location": 2,
+      "content": "这儿有一些就是这个能吃吗",
+      "music": 0.0
+    },
+    {
+      "from": 54.7,
+      "to": 57.18,
+      "sid": 24,
+      "location": 2,
+      "content": "可以有点淡淡的苦涩",
+      "music": 0.0
+    },
+    {
+      "from": 57.18,
+      "to": 58.42,
+      "sid": 25,
+      "location": 2,
+      "content": "淡淡的苦涩",
+      "music": 0.0
+    },
+    {
+      "from": 58.42,
+      "to": 61.2,
+      "sid": 26,
+      "location": 2,
+      "content": "这个这个今年记得不是很好",
+      "music": 0.0
+    },
+    {
+      "from": 61.2,
+      "to": 63.459,
+      "sid": 27,
+      "location": 2,
+      "content": "这何止是淡淡的苦涩哈",
+      "music": 0.0
+    },
+    {
+      "from": 63.459,
+      "to": 65.599,
+      "sid": 28,
+      "location": 2,
+      "content": "野生的它都是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 65.599,
+      "to": 68.52,
+      "sid": 29,
+      "location": 2,
+      "content": "然后这边的话嘞话说它是许山融水",
+      "music": 0.0
+    },
+    {
+      "from": 68.52,
+      "to": 71.32,
+      "sid": 30,
+      "location": 2,
+      "content": "把他引到这边挖了一个游泳池啊",
+      "music": 0.0
+    },
+    {
+      "from": 71.32,
+      "to": 72.72,
+      "sid": 31,
+      "location": 2,
+      "content": "游泳池对对对对",
+      "music": 0.0
+    },
+    {
+      "from": 72.72,
+      "to": 76.11,
+      "sid": 32,
+      "location": 2,
+      "content": "就有小李小李他们比你生活的好啊",
+      "music": 0.0
+    },
+    {
+      "from": 76.11,
+      "to": 78.88,
+      "sid": 33,
+      "location": 2,
+      "content": "你看看哈哈哈哈哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 78.88,
+      "to": 82.24,
+      "sid": 34,
+      "location": 2,
+      "content": "还有刚才啊我看那个一群猪里边啊",
+      "music": 0.0
+    },
+    {
+      "from": 82.24,
+      "to": 87.22,
+      "sid": 35,
+      "location": 2,
+      "content": "有后背没有皮的那个那个是那个是熊打的哦",
+      "music": 0.0
+    },
+    {
+      "from": 87.22,
+      "to": 90.2,
+      "sid": 36,
+      "location": 2,
+      "content": "哦熊哎对你这前面还有没有啊",
+      "music": 0.0
+    },
+    {
+      "from": 90.2,
+      "to": 92.2,
+      "sid": 37,
+      "location": 2,
+      "content": "一般熊出没的话",
+      "music": 0.0
+    },
+    {
+      "from": 92.2,
+      "to": 94.0,
+      "sid": 38,
+      "location": 2,
+      "content": "它都是在晚上小的时候",
+      "music": 0.0
+    },
+    {
+      "from": 94.0,
+      "to": 95.92,
+      "sid": 39,
+      "location": 2,
+      "content": "有鹰有野狗",
+      "music": 0.0
+    },
+    {
+      "from": 95.92,
+      "to": 97.82,
+      "sid": 40,
+      "location": 2,
+      "content": "有熊有蓝",
+      "music": 0.0
+    },
+    {
+      "from": 97.82,
+      "to": 102.19,
+      "sid": 41,
+      "location": 2,
+      "content": "都是天劫补一份熊醒的时候它要下山",
+      "music": 0.0
+    },
+    {
+      "from": 102.19,
+      "to": 103.51,
+      "sid": 42,
+      "location": 2,
+      "content": "它醒了要吃东西",
+      "music": 0.0
+    },
+    {
+      "from": 103.51,
+      "to": 104.97,
+      "sid": 43,
+      "location": 2,
+      "content": "所以说每天是山头",
+      "music": 0.0
+    },
+    {
+      "from": 104.97,
+      "to": 106.47,
+      "sid": 44,
+      "location": 2,
+      "content": "10月份的时候",
+      "music": 0.0
+    },
+    {
+      "from": 106.47,
+      "to": 108.45,
+      "sid": 45,
+      "location": 2,
+      "content": "那个熊它要冬眠了",
+      "music": 0.0
+    },
+    {
+      "from": 108.45,
+      "to": 109.68,
+      "sid": 46,
+      "location": 2,
+      "content": "它要贴标哎",
+      "music": 0.0
+    },
+    {
+      "from": 109.68,
+      "to": 110.8,
+      "sid": 47,
+      "location": 2,
+      "content": "每天又是三头",
+      "music": 0.0
+    },
+    {
+      "from": 110.8,
+      "to": 113.14,
+      "sid": 48,
+      "location": 2,
+      "content": "连一个猪场的花了有上千头猪",
+      "music": 0.0
+    },
+    {
+      "from": 113.14,
+      "to": 114.74,
+      "sid": 49,
+      "location": 2,
+      "content": "就给脊兽吃光了",
+      "music": 0.0
+    },
+    {
+      "from": 114.74,
+      "to": 115.68,
+      "sid": 50,
+      "location": 2,
+      "content": "力熊的指标",
+      "music": 0.0
+    },
+    {
+      "from": 115.68,
+      "to": 119.11,
+      "sid": 51,
+      "location": 2,
+      "content": "像这种一般都是由公安来解决这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 119.11,
+      "to": 120.47,
+      "sid": 52,
+      "location": 2,
+      "content": "这猪是不是挺难抓的",
+      "music": 0.0
+    },
+    {
+      "from": 120.47,
+      "to": 122.67,
+      "sid": 53,
+      "location": 2,
+      "content": "假如要抓住它们很难",
+      "music": 0.0
+    },
+    {
+      "from": 136.44,
+      "to": 139.53,
+      "sid": 54,
+      "location": 2,
+      "content": "这猪看着确实挺可爱的",
+      "music": 0.0
+    },
+    {
+      "from": 139.575,
+      "to": 140.99,
+      "sid": 55,
+      "location": 2,
+      "content": "可爱是可爱",
+      "music": 0.0
+    },
+    {
+      "from": 140.99,
+      "to": 143.98,
+      "sid": 56,
+      "location": 2,
+      "content": "但是香也是真香啊哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 144.5,
+      "to": 148.48,
+      "sid": 57,
+      "location": 2,
+      "content": "而且在这种地方考风景也不错",
+      "music": 0.0
+    },
+    {
+      "from": 151.3,
+      "to": 153.02,
+      "sid": 58,
+      "location": 2,
+      "content": "等一下",
+      "music": 0.0
+    },
+    {
+      "from": 162.78,
+      "to": 164.46,
+      "sid": 59,
+      "location": 2,
+      "content": "上午还在山上一块玩呢",
+      "music": 0.0
+    },
+    {
+      "from": 164.46,
+      "to": 165.7,
+      "sid": 60,
+      "location": 2,
+      "content": "今儿中午就到我嘴里了",
+      "music": 0.0
+    },
+    {
+      "from": 175.88,
+      "to": 177.9,
+      "sid": 61,
+      "location": 2,
+      "content": "你们能听见吗",
+      "music": 0.0
+    },
+    {
+      "from": 177.9,
+      "to": 179.48,
+      "sid": 62,
+      "location": 2,
+      "content": "吃着咔咔的就咬这声音",
+      "music": 0.0
+    },
+    {
+      "from": 179.48,
+      "to": 183.08,
+      "sid": 63,
+      "location": 2,
+      "content": "吃着焦香纯靠猪肉里面那点皮下脂肪",
+      "music": 0.0
+    },
+    {
+      "from": 183.08,
+      "to": 185.88,
+      "sid": 64,
+      "location": 2,
+      "content": "然后烤出来以后那个脆没有杂味",
+      "music": 0.0
+    },
+    {
+      "from": 185.88,
+      "to": 187.48,
+      "sid": 65,
+      "location": 2,
+      "content": "没有那种猪腥味",
+      "music": 0.0
+    },
+    {
+      "from": 187.48,
+      "to": 188.96,
+      "sid": 66,
+      "location": 2,
+      "content": "骚味都没有",
+      "music": 0.0
+    },
+    {
+      "from": 193.82,
+      "to": 194.72,
+      "sid": 67,
+      "location": 2,
+      "content": "肉很香",
+      "music": 0.0
+    },
+    {
+      "from": 194.72,
+      "to": 196.22,
+      "sid": 68,
+      "location": 2,
+      "content": "下面一层脂肪也没那么厚",
+      "music": 0.0
+    },
+    {
+      "from": 196.22,
+      "to": 197.36,
+      "sid": 69,
+      "location": 2,
+      "content": "汁水还挺足的",
+      "music": 0.0
+    },
+    {
+      "from": 197.36,
+      "to": 198.51,
+      "sid": 70,
+      "location": 2,
+      "content": "嫩不柴",
+      "music": 0.0
+    },
+    {
+      "from": 198.51,
+      "to": 199.93,
+      "sid": 71,
+      "location": 2,
+      "content": "细品的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 199.93,
+      "to": 203.19,
+      "sid": 72,
+      "location": 2,
+      "content": "它还是有一点点类似于像是那种奶香味",
+      "music": 0.0
+    },
+    {
+      "from": 203.19,
+      "to": 204.15,
+      "sid": 73,
+      "location": 2,
+      "content": "是有那么一点点的",
+      "music": 0.0
+    },
+    {
+      "from": 204.15,
+      "to": 205.97,
+      "sid": 74,
+      "location": 2,
+      "content": "而且肉质还有点鲜甜",
+      "music": 0.0
+    },
+    {
+      "from": 205.97,
+      "to": 207.15,
+      "sid": 75,
+      "location": 2,
+      "content": "就确实不太一样",
+      "music": 0.0
+    },
+    {
+      "from": 207.15,
+      "to": 208.31,
+      "sid": 76,
+      "location": 2,
+      "content": "这不错嗯",
+      "music": 0.0
+    },
+    {
+      "from": 208.31,
+      "to": 210.97,
+      "sid": 77,
+      "location": 2,
+      "content": "那不错真不错",
+      "music": 0.0
+    },
+    {
+      "from": 212.74,
+      "to": 213.5,
+      "sid": 78,
+      "location": 2,
+      "content": "真不错",
+      "music": 0.0
+    },
+    {
+      "from": 215.18,
+      "to": 216.46,
+      "sid": 79,
+      "location": 2,
+      "content": "等一下呃",
+      "music": 0.0
+    },
+    {
+      "from": 216.46,
+      "to": 218.459,
+      "sid": 80,
+      "location": 2,
+      "content": "外面也在杀猪了",
+      "music": 0.0
+    },
+    {
+      "from": 220.799,
+      "to": 222.699,
+      "sid": 81,
+      "location": 2,
+      "content": "今天这么有氛围感吗",
+      "music": 0.0
+    },
+    {
+      "from": 224.329,
+      "to": 227.489,
+      "sid": 82,
+      "location": 2,
+      "content": "不知道大家对于我们这个第一期的溯源系列",
+      "music": 0.0
+    },
+    {
+      "from": 227.489,
+      "to": 228.169,
+      "sid": 83,
+      "location": 2,
+      "content": "感不感兴趣",
+      "music": 0.0
+    },
+    {
+      "from": 228.169,
+      "to": 230.129,
+      "sid": 84,
+      "location": 2,
+      "content": "如果你的家乡有什么特别好吃的东西",
+      "music": 0.0
+    },
+    {
+      "from": 230.129,
+      "to": 231.26,
+      "sid": 85,
+      "location": 2,
+      "content": "也可以给我们留言",
+      "music": 0.0
+    }
+  ]
+}

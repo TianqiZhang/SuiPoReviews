@@ -1,0 +1,604 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.1,
+      "to": 2.02,
+      "sid": 1,
+      "location": 2,
+      "content": "喝着好舒服好好舒服",
+      "music": 0.0
+    },
+    {
+      "from": 2.02,
+      "to": 3.36,
+      "sid": 2,
+      "location": 2,
+      "content": "肥婆一带好好吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 3.36,
+      "to": 4.32,
+      "sid": 3,
+      "location": 2,
+      "content": "深圳逛街",
+      "music": 0.0
+    },
+    {
+      "from": 4.32,
+      "to": 5.04,
+      "sid": 4,
+      "location": 2,
+      "content": "我不想吃",
+      "music": 0.0
+    },
+    {
+      "from": 5.04,
+      "to": 7.14,
+      "sid": 5,
+      "location": 2,
+      "content": "小李非要拉我吃的好香啊",
+      "music": 0.0
+    },
+    {
+      "from": 7.14,
+      "to": 8.4,
+      "sid": 6,
+      "location": 2,
+      "content": "鳗鱼老砂锅粥",
+      "music": 0.0
+    },
+    {
+      "from": 8.4,
+      "to": 10.32,
+      "sid": 7,
+      "location": 2,
+      "content": "哈哈一定要相信我啊",
+      "music": 0.0
+    },
+    {
+      "from": 10.32,
+      "to": 11.4,
+      "sid": 8,
+      "location": 2,
+      "content": "是他拉我来吃",
+      "music": 0.0
+    },
+    {
+      "from": 11.4,
+      "to": 12.38,
+      "sid": 9,
+      "location": 2,
+      "content": "掏多少钱",
+      "music": 0.0
+    },
+    {
+      "from": 12.38,
+      "to": 14.32,
+      "sid": 10,
+      "location": 2,
+      "content": "270",
+      "music": 0.0
+    },
+    {
+      "from": 16.7,
+      "to": 18.9,
+      "sid": 11,
+      "location": 2,
+      "content": "普宁炸豆腐20",
+      "music": 0.06521738775992512
+    },
+    {
+      "from": 20.09,
+      "to": 23.74,
+      "sid": 12,
+      "location": 2,
+      "content": "我们古董一点点都没有",
+      "music": 0.0
+    },
+    {
+      "from": 23.74,
+      "to": 25.74,
+      "sid": 13,
+      "location": 2,
+      "content": "表面炸他妈特别的酥",
+      "music": 0.0
+    },
+    {
+      "from": 25.74,
+      "to": 28.02,
+      "sid": 14,
+      "location": 2,
+      "content": "嚯里边这豆腐就特别的软",
+      "music": 0.0
+    },
+    {
+      "from": 28.02,
+      "to": 29.62,
+      "sid": 15,
+      "location": 2,
+      "content": "里边就跟那豆腐脑似的",
+      "music": 0.0
+    },
+    {
+      "from": 29.62,
+      "to": 31.21,
+      "sid": 16,
+      "location": 2,
+      "content": "一到你嘴里它会化",
+      "music": 0.0
+    },
+    {
+      "from": 31.21,
+      "to": 33.09,
+      "sid": 17,
+      "location": 2,
+      "content": "你们要是没吃过普宁炸豆腐的",
+      "music": 0.0
+    },
+    {
+      "from": 33.09,
+      "to": 33.45,
+      "sid": 18,
+      "location": 2,
+      "content": "我跟你说",
+      "music": 0.0
+    },
+    {
+      "from": 33.45,
+      "to": 34.37,
+      "sid": 19,
+      "location": 2,
+      "content": "一定要试试啊",
+      "music": 0.0
+    },
+    {
+      "from": 34.37,
+      "to": 35.45,
+      "sid": 20,
+      "location": 2,
+      "content": "看得我直咽口水啊",
+      "music": 0.0
+    },
+    {
+      "from": 35.45,
+      "to": 36.12,
+      "sid": 21,
+      "location": 2,
+      "content": "你",
+      "music": 0.0
+    },
+    {
+      "from": 37.92,
+      "to": 40.72,
+      "sid": 22,
+      "location": 2,
+      "content": "嗯对我也要我也要肯定要啊",
+      "music": 0.0
+    },
+    {
+      "from": 40.72,
+      "to": 41.84,
+      "sid": 23,
+      "location": 2,
+      "content": "好谢谢你",
+      "music": 0.0
+    },
+    {
+      "from": 41.84,
+      "to": 46.499,
+      "sid": 24,
+      "location": 2,
+      "content": "最大份的来挑两个大的没啊",
+      "music": 0.0
+    },
+    {
+      "from": 46.499,
+      "to": 50.719,
+      "sid": 25,
+      "location": 2,
+      "content": "够够意思够意思够不够够够够够够够",
+      "music": 0.0
+    },
+    {
+      "from": 50.719,
+      "to": 52.899,
+      "sid": 26,
+      "location": 2,
+      "content": "今天接受充值两个百香果",
+      "music": 0.0
+    },
+    {
+      "from": 52.899,
+      "to": 58.879,
+      "sid": 27,
+      "location": 2,
+      "content": "呵呵里边有香菜干贝螃蟹鲜虾",
+      "music": 0.0
+    },
+    {
+      "from": 61.53,
+      "to": 63.59,
+      "sid": 28,
+      "location": 2,
+      "content": "你们就想想这这玩意有多鲜吧",
+      "music": 0.0
+    },
+    {
+      "from": 63.59,
+      "to": 65.37,
+      "sid": 29,
+      "location": 2,
+      "content": "有这个螃蟹是膏蟹",
+      "music": 0.0
+    },
+    {
+      "from": 65.37,
+      "to": 66.65,
+      "sid": 30,
+      "location": 2,
+      "content": "滚的时间长了之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 66.65,
+      "to": 69.03,
+      "sid": 31,
+      "location": 2,
+      "content": "螃蟹的肉啊膏啊就全都滚到粥里面去",
+      "music": 0.0
+    },
+    {
+      "from": 69.03,
+      "to": 70.77,
+      "sid": 32,
+      "location": 2,
+      "content": "虾也给的不少",
+      "music": 0.0
+    },
+    {
+      "from": 73.42,
+      "to": 74.96,
+      "sid": 33,
+      "location": 2,
+      "content": "虾是鲜甜的",
+      "music": 0.0
+    },
+    {
+      "from": 74.96,
+      "to": 75.96,
+      "sid": 34,
+      "location": 2,
+      "content": "瑶柱的加入呢",
+      "music": 0.0
+    },
+    {
+      "from": 75.96,
+      "to": 77.06,
+      "sid": 35,
+      "location": 2,
+      "content": "它是另一种香味",
+      "music": 0.0
+    },
+    {
+      "from": 77.06,
+      "to": 78.24,
+      "sid": 36,
+      "location": 2,
+      "content": "这种粥不搁瑶柱",
+      "music": 0.0
+    },
+    {
+      "from": 78.24,
+      "to": 79.14,
+      "sid": 37,
+      "location": 2,
+      "content": "不搁姜丝",
+      "music": 0.0
+    },
+    {
+      "from": 79.14,
+      "to": 81.59,
+      "sid": 38,
+      "location": 2,
+      "content": "这味就会差很多",
+      "music": 0.0
+    },
+    {
+      "from": 82.32,
+      "to": 84.31,
+      "sid": 39,
+      "location": 2,
+      "content": "看到了没有啊",
+      "music": 0.999999545454752
+    },
+    {
+      "from": 84.375,
+      "to": 85.85,
+      "sid": 40,
+      "location": 2,
+      "content": "好香啊",
+      "music": 0.0
+    },
+    {
+      "from": 85.85,
+      "to": 88.81,
+      "sid": 41,
+      "location": 2,
+      "content": "喝着喝着就会嚼到一根细的那种鱿鱼干",
+      "music": 0.0
+    },
+    {
+      "from": 88.81,
+      "to": 91.03,
+      "sid": 42,
+      "location": 2,
+      "content": "它会提供一个Q弹跳跃的口感",
+      "music": 0.0
+    },
+    {
+      "from": 91.03,
+      "to": 91.95,
+      "sid": 43,
+      "location": 2,
+      "content": "一点不无聊",
+      "music": 0.0
+    },
+    {
+      "from": 91.95,
+      "to": 93.805,
+      "sid": 44,
+      "location": 2,
+      "content": "寻宝芹菜的啊",
+      "music": 0.0
+    },
+    {
+      "from": 95.95,
+      "to": 97.81,
+      "sid": 45,
+      "location": 2,
+      "content": "里边满滑",
+      "music": 0.0
+    },
+    {
+      "from": 97.81,
+      "to": 98.05,
+      "sid": 46,
+      "location": 2,
+      "content": "哎",
+      "music": 0.0
+    },
+    {
+      "from": 98.05,
+      "to": 101.19,
+      "sid": 47,
+      "location": 2,
+      "content": "真挺多的",
+      "music": 0.24615383353057432
+    },
+    {
+      "from": 101.27,
+      "to": 103.17,
+      "sid": 48,
+      "location": 2,
+      "content": "搬走自己拿走吧",
+      "music": 0.0
+    },
+    {
+      "from": 103.17,
+      "to": 103.67,
+      "sid": 49,
+      "location": 2,
+      "content": "搬运翻啊",
+      "music": 0.0
+    },
+    {
+      "from": 103.67,
+      "to": 105.71,
+      "sid": 50,
+      "location": 2,
+      "content": "感觉粥底有不少好东西了",
+      "music": 0.0
+    },
+    {
+      "from": 105.71,
+      "to": 108.67,
+      "sid": 51,
+      "location": 2,
+      "content": "哎呦还有一个还有一个",
+      "music": 0.0
+    },
+    {
+      "from": 108.67,
+      "to": 109.45,
+      "sid": 52,
+      "location": 2,
+      "content": "这给你吧",
+      "music": 0.0
+    },
+    {
+      "from": 109.45,
+      "to": 110.47,
+      "sid": 53,
+      "location": 2,
+      "content": "兄弟啊",
+      "music": 0.0
+    },
+    {
+      "from": 110.47,
+      "to": 111.37,
+      "sid": 54,
+      "location": 2,
+      "content": "这给你吧",
+      "music": 0.0
+    },
+    {
+      "from": 111.37,
+      "to": 111.81,
+      "sid": 55,
+      "location": 2,
+      "content": "收多少",
+      "music": 0.0
+    },
+    {
+      "from": 111.81,
+      "to": 113.55,
+      "sid": 56,
+      "location": 2,
+      "content": "我给你说一下",
+      "music": 0.0
+    },
+    {
+      "from": 114.87,
+      "to": 116.89,
+      "sid": 57,
+      "location": 2,
+      "content": "茶心呢哎真快啊",
+      "music": 0.0
+    },
+    {
+      "from": 116.89,
+      "to": 120.39,
+      "sid": 58,
+      "location": 2,
+      "content": "哎酒精喝水好喝",
+      "music": 0.0
+    },
+    {
+      "from": 120.39,
+      "to": 121.75,
+      "sid": 59,
+      "location": 2,
+      "content": "我觉得蛮好喝的",
+      "music": 0.0
+    },
+    {
+      "from": 121.75,
+      "to": 122.37,
+      "sid": 60,
+      "location": 2,
+      "content": "就这个呀",
+      "music": 0.0
+    },
+    {
+      "from": 122.37,
+      "to": 123.63,
+      "sid": 61,
+      "location": 2,
+      "content": "你说多高的技术含量",
+      "music": 0.0
+    },
+    {
+      "from": 123.63,
+      "to": 124.83,
+      "sid": 62,
+      "location": 2,
+      "content": "可真的没有一点都没有",
+      "music": 0.0
+    },
+    {
+      "from": 124.83,
+      "to": 125.97,
+      "sid": 63,
+      "location": 2,
+      "content": "但是就是喝着很舒服",
+      "music": 0.0
+    },
+    {
+      "from": 125.97,
+      "to": 132.95,
+      "sid": 64,
+      "location": 2,
+      "content": "特别是晚上潮州玉子园23是嗯嗯",
+      "music": 0.0
+    },
+    {
+      "from": 132.95,
+      "to": 135.15,
+      "sid": 65,
+      "location": 2,
+      "content": "外圈吃的特别的酥脆",
+      "music": 0.0
+    },
+    {
+      "from": 135.15,
+      "to": 137.27,
+      "sid": 66,
+      "location": 2,
+      "content": "回口还有芋头的那种香甜",
+      "music": 0.0
+    },
+    {
+      "from": 137.27,
+      "to": 139.47,
+      "sid": 67,
+      "location": 2,
+      "content": "还有点葱香味好吃",
+      "music": 0.0
+    },
+    {
+      "from": 139.75,
+      "to": 142.01,
+      "sid": 68,
+      "location": 2,
+      "content": "我也觉得好吃好",
+      "music": 0.0
+    },
+    {
+      "from": 142.01,
+      "to": 142.73,
+      "sid": 69,
+      "location": 2,
+      "content": "我们做个总结",
+      "music": 0.0
+    },
+    {
+      "from": 142.73,
+      "to": 144.79,
+      "sid": 70,
+      "location": 2,
+      "content": "今儿我们吃了270仨人吧",
+      "music": 0.0
+    },
+    {
+      "from": 144.79,
+      "to": 147.93,
+      "sid": 71,
+      "location": 2,
+      "content": "人家这个周围也都是4~5人的量",
+      "music": 0.0
+    },
+    {
+      "from": 147.93,
+      "to": 150.85,
+      "sid": 72,
+      "location": 2,
+      "content": "然后俩人给他喝着",
+      "music": 0.0
+    },
+    {
+      "from": 150.85,
+      "to": 152.37,
+      "sid": 73,
+      "location": 2,
+      "content": "好舒服好好舒服",
+      "music": 0.0
+    },
+    {
+      "from": 152.37,
+      "to": 154.76,
+      "sid": 74,
+      "location": 2,
+      "content": "只能说潮汕菜还在发力",
+      "music": 0.0
+    }
+  ]
+}

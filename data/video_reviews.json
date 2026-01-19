@@ -1,0 +1,503 @@
+{
+  "BV1RirSBKED9": {
+    "is_food_review": true,
+    "restaurant_name": null,
+    "city": null,
+    "rating": "好评",
+    "quote": "给大家来一个2025的年度榜单总结"
+  },
+  "BV1rpr4B2ENn": {
+    "is_food_review": true,
+    "restaurant_name": "红光面馆",
+    "city": "成都",
+    "rating": "好评",
+    "quote": "但是就是好香"
+  },
+  "BV1tJrgByEFC": {
+    "is_food_review": true,
+    "restaurant_name": "许家菜",
+    "city": "成都",
+    "rating": "好评",
+    "quote": "成都川菜天花板之一"
+  },
+  "BV13ritBdERw": {
+    "is_food_review": true,
+    "restaurant_name": "一哥大排档",
+    "city": "广西钦州",
+    "rating": "好评",
+    "quote": "我靠我觉得这是今天晚上最好吃的菜了"
+  },
+  "BV15BvYBuEjq": {
+    "is_food_review": false
+  },
+  "BV1bXBgB3E77": {
+    "is_food_review": true,
+    "restaurant_name": "平平898",
+    "city": "重庆",
+    "rating": "好评",
+    "quote": "但是他们家每个菜都吃的很舒服"
+  },
+  "BV1bqBwBJEQu": {
+    "is_food_review": true,
+    "restaurant_name": null,
+    "city": "重庆",
+    "rating": "差评",
+    "quote": "但是就是做的太糙了，稍微有点华而不实"
+  },
+  "BV1vtq8BKEem": {
+    "is_food_review": true,
+    "restaurant_name": "仁和水上漂",
+    "city": "重庆",
+    "rating": "好评",
+    "quote": "今儿我们吃了242那个辣椒和豆花，留下的印象挺深的"
+  },
+  "BV1Jtm3BSE3s": {
+    "is_food_review": true,
+    "restaurant_name": "爆点麻辣串",
+    "city": "齐齐哈尔",
+    "rating": "好评",
+    "quote": "但是吃的超级的舒服"
+  },
+  "BV15NmPBpEwr": {
+    "is_food_review": true,
+    "restaurant_name": "汇宾包子",
+    "city": "齐齐哈尔",
+    "rating": "好评",
+    "quote": "现包现蒸包子里边儿有少量的汁水，整体呢就是家常味，但是很香啊"
+  },
+  "BV1fc2eBkEMS": {
+    "is_food_review": true,
+    "restaurant_name": "华松饭店",
+    "city": "齐齐哈尔",
+    "rating": "好评",
+    "quote": "我会因为这俩菜进入齐齐哈尔这个城市的"
+  },
+  "BV1fvSzBvEot": {
+    "is_food_review": true,
+    "restaurant_name": null,
+    "city": "齐齐哈尔",
+    "rating": "好评",
+    "quote": "齐齐哈尔的烤串太权威了"
+  },
+  "BV1VxUuBTETo": {
+    "is_food_review": true,
+    "restaurant_name": null,
+    "city": "南宁",
+    "rating": "好评",
+    "quote": "一入口就不一样了，锅气味很足，旺火爆炒味道全都炒到原料里边去了。"
+  },
+  "BV1C4yKBNEjF": {
+    "is_food_review": false,
+    "reason": "empty_subtitle"
+  },
+  "BV17WCUBVEDJ": {
+    "is_food_review": true,
+    "restaurant_name": "厨忆小湖南",
+    "city": null,
+    "rating": "好评",
+    "quote": "每个菜都好下饭啊"
+  },
+  "BV1QVkzBNEAE": {
+    "is_food_review": false
+  },
+  "BV19Z1XBpESg": {
+    "is_food_review": true,
+    "restaurant_name": "炳胜",
+    "city": "广州",
+    "rating": "好评",
+    "quote": "那个鸡特别好吃"
+  },
+  "BV1xM1bBzEfD": {
+    "is_food_review": true,
+    "restaurant_name": "国富老菜馆",
+    "city": null,
+    "rating": "好评",
+    "quote": "菜做的规矩程度的比门脸好的太多太多了"
+  },
+  "BV13FyeB4E6X": {
+    "is_food_review": true,
+    "restaurant_name": "广州白天鹅酒店玉堂春暖",
+    "city": "广州",
+    "rating": "中评",
+    "quote": "菜做的呢有好有坏，能给人留下记忆的"
+  },
+  "BV13LykBEE58": {
+    "is_food_review": true,
+    "restaurant_name": "广州酒家",
+    "city": "广州",
+    "rating": "好评",
+    "quote": "牛肉丸非常的紧实香弹"
+  },
+  "BV1TtsrzkEJU": {
+    "is_food_review": true,
+    "restaurant_name": "粤·向群饭店",
+    "city": "广州",
+    "rating": "好评",
+    "quote": "我们最后总结就是我们吃了256 四五个人的量 除了那个肉饼啊 其他的都不错"
+  },
+  "BV1txW2zsEWn": {
+    "is_food_review": true,
+    "restaurant_name": "全宜美肉饼",
+    "city": null,
+    "rating": "好评",
+    "quote": "肉饼的表皮非常的酥脆，外边是酥的，里边是软的，被里面的油脂全都浸透了"
+  },
+  "BV1erscz6EKZ": {
+    "is_food_review": true,
+    "restaurant_name": "恒仔酒家",
+    "city": "广州",
+    "rating": "中评",
+    "quote": "这种酒楼啊，就是广州很老的酒楼那种感觉有底子，但是你吃的什么样的出品，纯靠你的运气了"
+  },
+  "BV1RWWrznEM4": {
+    "is_food_review": true,
+    "restaurant_name": "利苑",
+    "city": "广州",
+    "rating": "好评",
+    "quote": "牛河做的很牛逼啊"
+  },
+  "BV13j4kzdE6p": {
+    "is_food_review": true,
+    "restaurant_name": "小饭馆大厨师",
+    "city": "北京",
+    "rating": "中评",
+    "quote": "希望师傅做菜还是认真点"
+  },
+  "BV1LCxCzPE1T": {
+    "is_food_review": true,
+    "restaurant_name": "喜鼎",
+    "city": "北京",
+    "rating": "好评",
+    "quote": "很鲜啊，很鲜很好吃"
+  },
+  "BV1dwxCzcEF5": {
+    "is_food_review": false
+  },
+  "BV1haHKz3EMG": {
+    "is_food_review": true,
+    "restaurant_name": "轩轩小院",
+    "city": "成都",
+    "rating": "好评",
+    "quote": "没想到每道菜都是认真想过的，从选料，从技术，从调味都不错，都挺好，吃着挺舒服的"
+  },
+  "BV1BxnBzrEoM": {
+    "is_food_review": true,
+    "restaurant_name": "驼子饭店",
+    "city": null,
+    "rating": "好评",
+    "quote": "东西不贵\n选材新鲜\n味道还不错"
+  },
+  "BV11bn5zHEim": {
+    "is_food_review": false
+  },
+  "BV1ATnpzzEa7": {
+    "is_food_review": true,
+    "restaurant_name": "我家小馆",
+    "city": "杭州",
+    "rating": "好评",
+    "quote": "只有六张桌子，但是全好评"
+  },
+  "BV1GrWPzLEfs": {
+    "is_food_review": true,
+    "restaurant_name": "杨记小炒老店",
+    "city": "郑州",
+    "rating": "好评",
+    "quote": "性价比极高"
+  },
+  "BV1dhprzQERQ": {
+    "is_food_review": true,
+    "restaurant_name": "数福",
+    "city": "郑州",
+    "rating": "好评",
+    "quote": "整体的说一下嗯，性价比也挺值的。"
+  },
+  "BV1LxH9zDEfG": {
+    "is_food_review": true,
+    "restaurant_name": "又一新",
+    "city": "开封",
+    "rating": "中评",
+    "quote": "菜整体做的还不错，但是还是那个特别熟悉的老字号那种感觉"
+  },
+  "BV19ZY7zGE6V": {
+    "is_food_review": true,
+    "restaurant_name": "真不同",
+    "city": "洛阳",
+    "rating": "中评",
+    "quote": "这菜做的太糙了"
+  },
+  "BV1YTaxzxEAA": {
+    "is_food_review": true,
+    "restaurant_name": "川味家小吃",
+    "city": "洛阳",
+    "rating": "好评",
+    "quote": "河咱洛阳听说是全国最便宜的盖浇饭"
+  },
+  "BV1a7hvz2Ew5": {
+    "is_food_review": true,
+    "restaurant_name": "福1088",
+    "city": "上海",
+    "rating": "好评",
+    "quote": "而且甚至于人均1000块钱还挺有性价比"
+  },
+  "BV1FehhzJEtE": {
+    "is_food_review": true,
+    "restaurant_name": "龙井草堂",
+    "city": "杭州",
+    "rating": "中评",
+    "quote": "你这环境600感觉还挺便宜的啊"
+  },
+  "BV1Q7h2zLEGd": {
+    "is_food_review": false
+  },
+  "BV1xCeDzREF4": {
+    "is_food_review": true,
+    "restaurant_name": "烟台海肠记",
+    "city": "烟台",
+    "rating": "好评",
+    "quote": "这个鲜味还是真的跟其他的鲜味不一样，非常有厚度，不是停留在表面"
+  },
+  "BV1FyYSzGEtg": {
+    "is_food_review": true,
+    "restaurant_name": "洋房火锅",
+    "city": "上海",
+    "rating": "好评",
+    "quote": "味道呢说得过去，服务非常不错啊"
+  },
+  "BV1nWYtzjE7d": {
+    "is_food_review": true,
+    "restaurant_name": "大块头排挡",
+    "city": "上海",
+    "rating": "好评",
+    "quote": "但是每一个都不难吃，都是七八十分以上啊，就是让人吃的很舒服"
+  },
+  "BV1rFYBzkEwt": {
+    "is_food_review": true,
+    "restaurant_name": "遇外滩",
+    "city": "上海",
+    "rating": "好评",
+    "quote": "这个菜让我吃的才真的有惊喜感"
+  },
+  "BV13mbzzREaR": {
+    "is_food_review": false
+  },
+  "BV1YzbAzsErN": {
+    "is_food_review": true,
+    "restaurant_name": "金山小馆",
+    "city": null,
+    "rating": "好评",
+    "quote": "麻辣味层次感很好"
+  },
+  "BV1K6tFzPEJ3": {
+    "is_food_review": false
+  },
+  "BV19bhpzSEyv": {
+    "is_food_review": true,
+    "restaurant_name": "老厨家道台食府",
+    "city": "哈尔滨",
+    "rating": "中评",
+    "quote": "原创锅包肉48，这是超级正常的一份锅包肉，你没网上说的那么难吃"
+  },
+  "BV1Hh8fzwESu": {
+    "is_food_review": true,
+    "restaurant_name": "知音酒楼",
+    "city": "哈尔滨",
+    "rating": "中评",
+    "quote": "他们家的风格呢，就是很能够迎合大多数人的口味。"
+  },
+  "BV1Nc8GzKEEM": {
+    "is_food_review": true,
+    "restaurant_name": "丁香小镇民间菜馆",
+    "city": "哈尔滨",
+    "rating": "好评",
+    "quote": "这个锅包肉炸的可真牛逼"
+  },
+  "BV18hbSzjEGG": {
+    "is_food_review": true,
+    "restaurant_name": "益发顺饭庄",
+    "city": "天津",
+    "rating": "好评",
+    "quote": "要不是这个茄子今天就上全好评餐厅了"
+  },
+  "BV1eW8czDEnL": {
+    "is_food_review": false,
+    "reason": "empty_subtitle"
+  },
+  "BV1oGgnzcEiq": {
+    "is_food_review": true,
+    "restaurant_name": "玉泉饭庄",
+    "city": "天津",
+    "rating": "好评",
+    "quote": "今天我们吃了三次菜，做的不错，规矩啊"
+  },
+  "BV1viumziEoF": {
+    "is_food_review": true,
+    "restaurant_name": "西安饭庄",
+    "city": "西安",
+    "rating": "中评",
+    "quote": "这个肘子应该是咱们这么多年吃的 最腥的肘子了"
+  },
+  "BV1H2gFz7EDf": {
+    "is_food_review": true,
+    "restaurant_name": "好再来饭店",
+    "city": "邯郸",
+    "rating": "好评",
+    "quote": "68块钱就这个味道，就这个量，我觉得无敌"
+  },
+  "BV1URuBzaEAQ": {
+    "is_food_review": true,
+    "restaurant_name": "莲花餐饮",
+    "city": "西安",
+    "rating": "好评",
+    "quote": "不管是选材还是调味，都挺用心的，服务也非常好，妈妈式的服务"
+  },
+  "BV1U1u3z9EAT": {
+    "is_food_review": true,
+    "restaurant_name": "刘记腊汁肉揪面片",
+    "city": "西安",
+    "rating": "好评",
+    "quote": "第一口咬下去是最香最香的那个辣椒的香味"
+  },
+  "BV17zGPzxELW": {
+    "is_food_review": true,
+    "restaurant_name": "卖鱼佬",
+    "city": "深圳",
+    "rating": "好评",
+    "quote": "好舒服好好舒服"
+  },
+  "BV1zF3ez6Erw": {
+    "is_food_review": true,
+    "restaurant_name": "宏顺炒菜",
+    "city": "天津",
+    "rating": "好评",
+    "quote": "外边的酥酥脆脆的，鸡肉挺新鲜的啊"
+  },
+  "BV1Xa3gzhEVT": {
+    "is_food_review": true,
+    "restaurant_name": "鑫来子菜馆",
+    "city": "天津",
+    "rating": "好评",
+    "quote": "选材非常之新鲜\n便宜实惠\n味道不错"
+  },
+  "BV1LjgCzoEEo": {
+    "is_food_review": true,
+    "restaurant_name": "食庐餐厅",
+    "city": "上海",
+    "rating": "好评",
+    "quote": "咱们能接受贵，但还是接受不了又贵又难吃的"
+  },
+  "BV1YrKBzhEKF": {
+    "is_food_review": true,
+    "restaurant_name": "泽秀饭馆",
+    "city": "北京",
+    "rating": "中评",
+    "quote": "那个鱼下巴和鱼籽还可以，其他的就非常一般了"
+  },
+  "BV1bqKnzgEwU": {
+    "is_food_review": true,
+    "restaurant_name": "绿波廊",
+    "city": "上海",
+    "rating": "中评",
+    "quote": "要是把它作为餐饮名店来说啊，非常一般"
+  },
+  "BV1MZKhziEKD": {
+    "is_food_review": true,
+    "restaurant_name": "食贵211",
+    "city": "上海",
+    "rating": "好评",
+    "quote": "嚯正经的好吃"
+  },
+  "BV1xANUzVE4T": {
+    "is_food_review": true,
+    "restaurant_name": "清华大学与北京大学食堂",
+    "city": "北京",
+    "rating": "好评",
+    "quote": "无论你们学校食堂味道做的怎么样，他肯定是你毕业之后最想念的那个味道"
+  },
+  "BV1FyMbzsEmA": {
+    "is_food_review": true,
+    "restaurant_name": "四华家常菜",
+    "city": "成都",
+    "rating": "好评",
+    "quote": "从菜的味道来说呢，没有一道踩雷的"
+  },
+  "BV1MrNtzoECN": {
+    "is_food_review": true,
+    "restaurant_name": "包家兄弟牛肉饭店",
+    "city": "成都",
+    "rating": "好评",
+    "quote": "嚼着嚼着真是越嚼越香"
+  },
+  "BV11SMUzQEav": {
+    "is_food_review": true,
+    "restaurant_name": "芙蓉凰",
+    "city": "成都",
+    "rating": "好评",
+    "quote": "说实话这味儿做的还可以哦"
+  },
+  "BV1YWMHzREdb": {
+    "is_food_review": true,
+    "restaurant_name": "陈麻婆豆腐",
+    "city": "成都",
+    "rating": "中评",
+    "quote": "麻婆豆腐不愧是王牌产品，在这一桌尤为突出"
+  },
+  "BV1dvTdzHE3n": {
+    "is_food_review": true,
+    "restaurant_name": "永乐饭店",
+    "city": "成都",
+    "rating": "好评",
+    "quote": "四川成都本地人和游客都认可的永乐饭店"
+  },
+  "BV1FtTGzMEEb": {
+    "is_food_review": true,
+    "restaurant_name": "枣阁园",
+    "city": "成都",
+    "rating": "好评",
+    "quote": "他选材都非常的新鲜，这个已经在80分以上了"
+  },
+  "BV1Ep7KzCE34": {
+    "is_food_review": true,
+    "restaurant_name": "鲁菜根",
+    "city": null,
+    "rating": "差评",
+    "quote": "这是我们厨师应该做的事"
+  },
+  "BV1yk7wzVEDV": {
+    "is_food_review": false,
+    "reason": "empty_subtitle"
+  },
+  "BV1v7jqzWE7N": {
+    "is_food_review": true,
+    "restaurant_name": "聚丰德",
+    "city": "济南",
+    "rating": "中评",
+    "quote": "刀工汁芡火候味道都一般"
+  },
+  "BV1ykjtzLEub": {
+    "is_food_review": true,
+    "restaurant_name": "春江饭店",
+    "city": "济南",
+    "rating": "好评",
+    "quote": "质量完全能对得起价格"
+  },
+  "BV1AvJhzbE45": {
+    "is_food_review": true,
+    "restaurant_name": "水一方鱼馆",
+    "city": null,
+    "rating": "好评",
+    "quote": "关键就是鱼的品质好"
+  },
+  "BV17dEbzVEak": {
+    "is_food_review": false
+  },
+  "BV114EezqEm2": {
+    "is_food_review": false
+  },
+  "BV1BxGXzbEis": {
+    "is_food_review": true,
+    "restaurant_name": "全聚德烤鸭店",
+    "city": "北京",
+    "rating": "好评",
+    "quote": "味道始终如一，软嫩入口即化，还有脂肪的香味。"
+  }
+}
