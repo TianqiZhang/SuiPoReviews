@@ -5,12 +5,13 @@ import json
 from collections import Counter
 from pathlib import Path
 from urllib.request import urlopen
+from urllib.parse import quote
 
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 
-# City coordinates (lon, lat)
-CITY_COORDS = {
+# Cached city coordinates (lon, lat)
+CITY_COORDS_CACHE = {
     "北京": (116.4, 39.9),
     "上海": (121.5, 31.2),
     "广州": (113.3, 23.1),
@@ -31,6 +32,69 @@ CITY_COORDS = {
     "邯郸": (114.5, 36.6),
     "广西钦州": (108.6, 21.9),
 }
+
+COORDS_CACHE_PATH = Path("assets/city_coords.json")
+
+
+def load_coords_cache() -> dict:
+    """Load cached coordinates from file, merged with built-in cache."""
+    coords = CITY_COORDS_CACHE.copy()
+    if COORDS_CACHE_PATH.exists():
+        try:
+            saved = json.loads(COORDS_CACHE_PATH.read_text(encoding="utf-8"))
+            coords.update({k: tuple(v) for k, v in saved.items()})
+        except Exception:
+            pass
+    return coords
+
+
+def save_coords_cache(coords: dict):
+    """Save coordinates cache to file."""
+    COORDS_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    COORDS_CACHE_PATH.write_text(
+        json.dumps(coords, ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
+
+
+def geocode_city(city: str) -> tuple | None:
+    """Query city coordinates using Nominatim API."""
+    # Clean up city name for search
+    search_name = city.replace("广西", "").replace("省", "").replace("市", "")
+    search_query = f"{search_name}, China"
+
+    url = f"https://nominatim.openstreetmap.org/search?q={quote(search_query)}&format=json&limit=1"
+
+    try:
+        import urllib.request
+        req = urllib.request.Request(url, headers={"User-Agent": "SuiPoReviews/1.0"})
+        with urllib.request.urlopen(req, timeout=10) as response:
+            data = json.loads(response.read().decode("utf-8"))
+            if data:
+                lon = float(data[0]["lon"])
+                lat = float(data[0]["lat"])
+                print(f"  Geocoded {city}: ({lon:.2f}, {lat:.2f})")
+                return (lon, lat)
+    except Exception as e:
+        print(f"  Failed to geocode {city}: {e}")
+
+    return None
+
+
+def get_city_coords(cities: list) -> dict:
+    """Get coordinates for all cities, querying API for unknown ones."""
+    coords = load_coords_cache()
+    unknown = [c for c in cities if c not in coords]
+
+    if unknown:
+        print(f"Geocoding {len(unknown)} new cities...")
+        for city in unknown:
+            result = geocode_city(city)
+            if result:
+                coords[city] = result
+        save_coords_cache(coords)
+
+    return coords
 
 REVIEWS_PATH = Path("data/video_reviews.json")
 OUTPUT_PATH = Path("assets/china_map.svg")
@@ -96,12 +160,15 @@ def generate_map(city_counts: Counter):
     # Plot China
     plot_china_provinces(ax)
 
+    # Get coordinates for all cities (with auto-geocoding for new ones)
+    city_coords = get_city_coords(list(city_counts.keys()))
+
     # Plot cities
     for city, count in city_counts.items():
-        if city not in CITY_COORDS:
+        if city not in city_coords:
             print(f"Warning: coordinates not found for {city}")
             continue
-        lon, lat = CITY_COORDS[city]
+        lon, lat = city_coords[city]
         # Marker size based on count
         size = 100 + count * 50
         ax.scatter(lon, lat, s=size, c="#e74c3c", alpha=0.75,
