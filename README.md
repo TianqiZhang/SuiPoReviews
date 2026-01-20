@@ -6,6 +6,12 @@ Bilibili UP主 **特厨隋坡** 的探店视频汇总，自动采集并整理餐
 
 ---
 
+## 探店地图
+
+![特厨隋坡探店地图](assets/china_map.png)
+
+---
+
 ## 探店列表
 
 > 数据半自动更新 | 技术文档见 [TECHNICAL.md](TECHNICAL.md)

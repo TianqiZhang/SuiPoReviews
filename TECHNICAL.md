@@ -8,6 +8,7 @@
 - `summarize_videos.py` - 生成视频摘要与合并后的字幕文本，输出到 `data/videos_summary.json`
 - `analyze_reviews.py` - 调用 Azure OpenAI 识别探店视频并抽取字段，输出到 `data/video_reviews.json`
 - `generate_readme_table.py` - 将分析结果生成 README 中的表格
+- `generate_map.py` - 生成中国地图标注探店城市和次数
 
 每一步都有索引文件，避免重复处理未变化的数据。
 
@@ -16,11 +17,12 @@
 - Python 3.9+
 - `requests`
 - `openai`（Azure OpenAI 客户端）
+- `matplotlib`（地图生成）
 
 ## 安装
 
 ```bash
-pip install requests openai
+pip install requests openai matplotlib
 ```
 
 ## 环境变量
@@ -78,6 +80,22 @@ python generate_readme_table.py
 
 默认仅包含 `is_food_review=true` 的条目；如需包含全部视频，添加 `--all`。
 
+### 6. 生成探店地图
+
+首次运行需下载中国地图数据：
+
+```bash
+python generate_map.py --download
+```
+
+然后生成地图：
+
+```bash
+python generate_map.py
+```
+
+生成 `assets/china_map.png` 和 `assets/china_map.svg`，标注各城市探店次数。
+
 ## 产出数据
 
 | 文件 | 说明 |
@@ -86,6 +104,9 @@ python generate_readme_table.py
 | `data/subs/*.json` | 字幕文件 |
 | `data/videos_summary.json` | 精简统计与合并字幕文本 |
 | `data/video_reviews.json` | 探店识别与字段抽取结果 |
+| `assets/china.geojson` | 中国地图边界数据 |
+| `assets/china_map.png` | 探店地图（PNG 格式） |
+| `assets/china_map.svg` | 探店地图（SVG 格式） |
 
 ## 备注
 
