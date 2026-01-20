@@ -28,6 +28,9 @@ def sanitize_cell(text):
     return text.replace("|", "\\|")
 
 
+RATING_ORDER = {"好评": 0, "中评": 1, "差评": 2}
+
+
 def build_rows(reviews: dict, summary: dict, include_all: bool):
     rows = []
     for bvid, review in reviews.items():
@@ -50,7 +53,11 @@ def build_rows(reviews: dict, summary: dict, include_all: bool):
                 "pubdate": int(meta.get("pubdate") or 0),
             }
         )
-    rows.sort(key=lambda r: (r["pubdate"], r["bvid"]), reverse=True)
+    # Sort by rating (好评 < 中评 < 差评), then by city
+    rows.sort(key=lambda r: (
+        RATING_ORDER.get(r["rating"], 99),
+        r["city"] or "",
+    ))
     return rows
 
 
