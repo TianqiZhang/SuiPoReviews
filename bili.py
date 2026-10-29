@@ -1,325 +1,324 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
+"""Acquire Bilibili metadata/subtitles through yt-dlp; never download video media."""
+import argparse
+import copy
 import json
+import math
 import os
-import time
-import random
-import hashlib
-import urllib.parse
+import re
+import tempfile
 from pathlib import Path
 
-import requests
-
-MIXIN_KEY_ENC_TAB = [
-    46, 47, 18, 2, 53, 8, 23, 32, 15, 50, 10, 31, 58, 3, 45, 35,
-    27, 43, 5, 49, 33, 9, 42, 19, 29, 28, 14, 39, 12, 38, 41, 13,
-    37, 48, 7, 16, 24, 55, 40, 61, 26, 17, 0, 1, 60, 51, 30, 4,
-    22, 25, 54, 21, 56, 59, 6, 63, 57, 62, 11, 36, 20, 34, 44, 52
-]
-
-BASE = "https://api.bilibili.com"
+DEFAULT_MID = "3546888255048212"
+BV_RE = re.compile(r"BV[0-9A-Za-z]{10}")
 
 
-def sleep_slow(min_s=1.2, max_s=2.2):
-    time.sleep(random.uniform(min_s, max_s))
+class ExtractionLog:
+    """Retain warning categories, not URLs or cookie-bearing diagnostics."""
+    def __init__(self):
+        self.login_required = False
+
+    def debug(self, message):
+        pass
+
+    def warning(self, message):
+        text = message.lower()
+        if "log in" in text or "logged in" in text or "login" in text:
+            self.login_required = True
+
+    def error(self, message):
+        self.warning(message)
 
 
-def get_wbi_keys(session: requests.Session):
-    url = f"{BASE}/x/web-interface/nav"
-    resp = session.get(
-        url,
-        headers={
-            "Referer": "https://www.bilibili.com/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        },
-    )
-    resp.raise_for_status()
-    data = resp.json()["data"]["wbi_img"]
-    img_key = data["img_url"].rsplit("/", 1)[1].split(".", 1)[0]
-    sub_key = data["sub_url"].rsplit("/", 1)[1].split(".", 1)[0]
-    return img_key, sub_key
+def load_index(path):
+    return json.loads(path.read_text(encoding="utf-8-sig")) if path.exists() else {}
 
 
-def gen_mixin_key(img_key: str, sub_key: str):
-    raw = img_key + sub_key
-    mixed = "".join(raw[i] for i in MIXIN_KEY_ENC_TAB)
-    return mixed[:32]
+def save_index(path, data):
+    """Replace a complete JSON file, never expose a partially written index/subtitle."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    name = None
+    try:
+        with tempfile.NamedTemporaryFile(mode="w", encoding="utf-8", dir=path.parent,
+                                         delete=False) as stream:
+            name = stream.name
+            json.dump(data, stream, ensure_ascii=False, indent=2)
+            stream.write("\n")
+            stream.flush()
+            os.fsync(stream.fileno())
+        os.replace(name, path)
+    finally:
+        if name and os.path.exists(name):
+            os.unlink(name)
 
 
-def wbi_sign(params: dict, img_key: str, sub_key: str):
-    params = dict(params)
-    params["wts"] = int(time.time())
-    params = dict(sorted(params.items()))
-    params = {k: "".join(c for c in str(v) if c not in "!'()*") for k, v in params.items()}
-    query = urllib.parse.urlencode(params)
-    mixin_key = gen_mixin_key(img_key, sub_key)
-    w_rid = hashlib.md5((query + mixin_key).encode()).hexdigest()
-    params["w_rid"] = w_rid
-    return params
+def subtitle_path(value, root, data_dir):
+    """New paths are data-relative; accept the old root-relative Windows paths."""
+    path = Path(str(value).replace("\\", "/"))
+    if path.is_absolute():
+        return path
+    if path.parts and path.parts[0] == "data":
+        return data_dir.joinpath(*path.parts[1:])
+    return data_dir / path
 
 
-def fetch_all_archives(vmid: int, session: requests.Session, img_key: str, sub_key: str):
-    pn = 1
-    ps = 50
-    all_videos = []
-    while True:
-        params = wbi_sign(
-            {"mid": vmid, "ps": ps, "pn": pn, "order": "pubdate"},
-            img_key,
-            sub_key,
-        )
-        url = f"{BASE}/x/space/wbi/arc/search"
-        r = session.get(url, params=params)
-        r.raise_for_status()
-        payload = r.json()
-        if payload.get("code") == -352:
-            print(json.dumps(payload, ensure_ascii=True))
-            return []
-        if payload.get("code") != 0 or not payload.get("data") or "list" not in payload["data"]:
-            print(json.dumps(payload, ensure_ascii=True))
-            break
-        data = payload["data"]
-        vlist = data["list"]["vlist"]
-        if not vlist:
-            break
-        all_videos.extend(vlist)
-        total = data["page"]["count"]
-        if pn * ps >= total:
-            break
-        pn += 1
-        sleep_slow()
-    return all_videos
+def valid_body(payload):
+    if not isinstance(payload, dict) or not isinstance(payload.get("body"), list):
+        return False
+    nonempty = False
+    for row in payload["body"]:
+        if not isinstance(row, dict) or not isinstance(row.get("content"), str):
+            return False
+        for key in ("from", "to"):
+            value = row.get(key)
+            if value is not None and (type(value) not in (int, float) or not math.isfinite(value) or value < 0):
+                return False
+        if row.get("from") is not None and row.get("to") is not None and row["to"] < row["from"]:
+            return False
+        nonempty = nonempty or bool(row["content"].strip())
+    return nonempty
 
 
-def fetch_all_archives_app(vmid: int, session: requests.Session):
-    all_videos = []
-    last_aid = 0
-    ps = 30
-    while True:
-        params = {"vmid": vmid, "ps": ps}
-        if last_aid:
-            params["aid"] = last_aid
-        url = "https://app.biliapi.com/x/v2/space/archive/cursor"
-        r = session.get(url, params=params)
-        r.raise_for_status()
-        payload = r.json()
-        if payload.get("code") != 0 or not payload.get("data"):
-            print(json.dumps(payload, ensure_ascii=True))
-            break
-        data = payload["data"]
-        items = data.get("item") or []
-        if not items:
-            break
-        for it in items:
-            all_videos.append(
-                {
-                    "bvid": it.get("bvid"),
-                    "title": it.get("title"),
-                    "aid": int(it.get("param", 0)) if it.get("param") else 0,
-                }
-            )
-        last_aid = int(items[-1].get("param", 0)) if items[-1].get("param") else 0
-        if not data.get("has_next"):
-            break
-        sleep_slow()
-    return all_videos
+def valid_subtitle(record, root, data_dir):
+    try:
+        return bool(record.get("file")) and valid_body(
+            load_index(subtitle_path(record["file"], root, data_dir)))
+    except (OSError, ValueError, TypeError):
+        return False
 
 
-def fetch_video_detail(bvid: str, session: requests.Session):
-    url = f"{BASE}/x/web-interface/view"
-    r = session.get(url, params={"bvid": bvid})
-    r.raise_for_status()
-    return r.json()["data"]
+def chinese(lang):
+    return lang.lower().removeprefix("ai-").split("-")[0] in ("zh", "cmn")
 
 
-def fetch_player_subtitles(bvid: str, cid: int, session: requests.Session, img_key: str, sub_key: str):
-    url = f"{BASE}/x/player/wbi/v2"
-    params = wbi_sign({"bvid": bvid, "cid": cid}, img_key, sub_key)
-    r = session.get(url, params=params)
-    r.raise_for_status()
-    data = r.json()["data"]
-    subtitle = data.get("subtitle") or {}
-    return subtitle.get("subtitles") or []
+def complete(record, root, data_dir):
+    pages = record.get("pages") or []
+    good = {str(s.get("cid")) for s in record.get("subtitle_records", [])
+            if chinese(s.get("lan", "")) and valid_subtitle(s, root, data_dir)}
+    return bool(pages) and all(str(p.get("cid")) in good for p in pages)
 
 
-def download_subtitle(sub_url: str, out_path: Path, session: requests.Session):
-    if not sub_url:
-        return
-    if sub_url.startswith("//"):
-        sub_url = "https:" + sub_url
-    r = session.get(sub_url)
-    r.raise_for_status()
-    out_path.write_bytes(r.content)
-
-
-def load_index(path: Path):
-    if not path.exists():
-        return {}
-    return json.loads(path.read_text(encoding="utf-8"))
-
-
-def save_index(path: Path, data: dict):
-    path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-
-
-def safe_name(text: str):
-    return "".join(c for c in text if c.isascii() and (c.isalnum() or c in " _-")).strip()
-
-
-def is_ai_subtitle(item: dict) -> bool:
-    lan = item.get("lan") or ""
-    if lan.startswith("ai-"):
-        return True
-    return bool(item.get("ai_type"))
-
-
-def pick_subtitles(subtitles, preferred_langs, allow_ai_langs):
-    if not subtitles:
-        return []
-
-    def is_preferred(item):
-        lan = item.get("lan") or ""
-        if lan in preferred_langs or lan in allow_ai_langs:
-            return True
-        lan_doc = item.get("lan_doc") or ""
-        return any(tag in lan_doc for tag in ("中文", "简体", "繁体"))
-
-    non_ai_preferred = [s for s in subtitles if is_preferred(s) and not is_ai_subtitle(s)]
-    if non_ai_preferred:
-        return non_ai_preferred
-
-    ai_preferred = [
-        s
-        for s in subtitles
-        if is_preferred(s) and is_ai_subtitle(s) and (s.get("lan") in allow_ai_langs)
-    ]
-    if ai_preferred:
-        return ai_preferred
-
-    non_ai = [s for s in subtitles if not is_ai_subtitle(s)]
-    if non_ai:
-        return non_ai
-
-    if allow_ai_langs:
-        return [s for s in subtitles if s.get("lan") in allow_ai_langs]
-    return []
-
-
-def main():
-    VMID = 3546888255048212  # TODO: 替换成目标 up 主 mid
-    SESSDATA = os.environ.get("SESSDATA", "")  # 可选：需要登录字幕时填 cookie 中的 SESSDATA
-    COOKIE = os.environ.get("COOKIE", "")  # 可选：从浏览器复制的完整 Cookie 字符串
-    PREFERRED_LANGS = ["zh-Hans", "zh-CN", "zh", "zh-Hant", "zh-TW"]
-    ALLOW_AI_LANGS = ["ai-zh"]
-
-    out_dir = Path("data")
-    out_dir.mkdir(parents=True, exist_ok=True)
-    subs_dir = out_dir / "subs"
-    subs_dir.mkdir(parents=True, exist_ok=True)
-
-    index_path = out_dir / "videos.json"
-    index = load_index(index_path)
-
-    session = requests.Session()
-    session.headers.update(
-        {
-            "Referer": "https://www.bilibili.com/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        }
-    )
-    if COOKIE:
-        for part in COOKIE.split(";"):
-            if "=" in part:
-                k, v = part.split("=", 1)
-                session.cookies.set(k.strip(), v.strip(), domain=".bilibili.com")
-    if SESSDATA:
-        session.cookies.set("SESSDATA", SESSDATA, domain=".bilibili.com")
-
-    img_key, sub_key = get_wbi_keys(session)
-    sleep_slow()
-
-    videos = fetch_all_archives(VMID, session, img_key, sub_key)
-    if not videos:
-        print("wbi arc search blocked or empty; try adding cookies or SESSDATA.")
-        print("falling back to app cursor...")
-        videos = fetch_all_archives_app(VMID, session)
-    existing = set(index.keys())
-    work = []
-    for v in videos:
-        bvid = v.get("bvid")
-        if not bvid:
-            continue
-        if bvid not in existing:
-            work.append(("new", v))
-        elif not index.get(bvid, {}).get("subs_done"):
-            work.append(("resume", v))
-
-    new_count = sum(1 for t, _ in work if t == "new")
-    resume_count = sum(1 for t, _ in work if t == "resume")
-    print(f"total videos: {len(videos)}, new: {new_count}, resume: {resume_count}")
-
-    for kind, v in work:
-        bvid = v["bvid"]
-        record = index.get(bvid)
-        if kind == "new" or not record or not record.get("pages"):
-            detail = fetch_video_detail(bvid, session)
-            sleep_slow()
-            record = {
-                "bvid": bvid,
-                "aid": detail.get("aid"),
-                "title": detail.get("title"),
-                "pubdate": detail.get("pubdate"),
-                "desc": detail.get("desc"),
-                "stat": detail.get("stat"),
-                "pages": detail.get("pages"),
-                "subs_done": False,
-            }
-            index[bvid] = record
-            save_index(index_path, index)
-
-        title = record.get("title") or v.get("title") or bvid
-        pages = record.get("pages") or []
-        sub_records = record.get("subtitle_records") or []
-        seen = {(r.get("cid"), r.get("lan"), r.get("subtitle_url")) for r in sub_records}
-        for p in pages:
-            cid = p["cid"]
-            subtitles = fetch_player_subtitles(bvid, cid, session, img_key, sub_key)
-            sleep_slow()
-            subtitles = pick_subtitles(subtitles, PREFERRED_LANGS, ALLOW_AI_LANGS)
-            if not subtitles:
+def pick_subtitle(info):
+    tracks = []
+    for source in ("subtitles", "automatic_captions"):
+        for lang, formats in (info.get(source) or {}).items():
+            if not chinese(lang):
                 continue
-            for s in subtitles:
-                lan = s.get("lan", "unknown")
-                sub_url = s["subtitle_url"]
-                if not sub_url:
-                    continue
-                base = safe_name(title) or bvid
-                fname = f"{base}_{bvid}_{cid}_{lan}.json"
-                out_path = subs_dir / fname
-                if out_path.exists():
-                    rel_path = str(Path("data") / "subs" / fname)
-                else:
-                    download_subtitle(sub_url, out_path, session)
-                    sleep_slow()
-                    msg = f"saved subtitle: {out_path}"
-                    print(msg.encode("ascii", "backslashreplace").decode("ascii"))
-                    rel_path = str(Path("data") / "subs" / fname)
-                key = (cid, lan, sub_url)
-                if key not in seen:
-                    sub_records.append(
-                        {
-                            "cid": cid,
-                            "lan": lan,
-                            "subtitle_url": sub_url,
-                            "file": rel_path,
-                        }
-                    )
-                    seen.add(key)
+            ai = source == "automatic_captions" or lang.startswith("ai-")
+            rank = {"zh-Hans": 0, "zh-CN": 1, "zh": 2, "zh-Hant": 3, "zh-TW": 4}.get(lang, 5)
+            for track in formats:
+                if track.get("ext") in ("json", "srt"):
+                    tracks.append(((ai, rank, lang, track.get("ext") != "json"), lang, track))
+    return min(tracks, key=lambda item: item[0])[1:] if tracks else None
 
-        record["subtitle_records"] = sub_records
-        record["subs_done"] = True
-        index[bvid] = record
-        save_index(index_path, index)
+
+def subtitle_payload(track, ydl):
+    data = track.get("data")
+    if data is None:
+        url = track.get("url")
+        if not url:
+            raise ValueError("empty subtitle")
+        # yt-dlp owns authentication and networking; no handwritten Bili API client.
+        from yt_dlp.networking import Request
+        with ydl.urlopen(Request(url, headers=track.get("http_headers") or {})) as response:
+            data = response.read().decode("utf-8-sig")
+    if track["ext"] == "json":
+        payload = json.loads(data) if isinstance(data, str) else data
+    else:
+        def seconds(value):
+            hours, minutes, seconds = value.replace(",", ".").split(":")
+            return int(hours) * 3600 + int(minutes) * 60 + float(seconds)
+        body = []
+        for block in re.split(r"\n\s*\n", data.replace("\r\n", "\n").strip()):
+            lines = block.splitlines()
+            for number, line in enumerate(lines):
+                match = re.fullmatch(r"(\d+:\d{2}:\d{2}[,.]\d+)\s+-->\s+(\d+:\d{2}:\d{2}[,.]\d+).*", line)
+                if match:
+                    body.append({"from": seconds(match[1]), "to": seconds(match[2]),
+                                 "content": "\n".join(lines[number + 1:]).strip()})
+                    break
+        payload = {"body": body}
+    if not valid_body(payload):
+        raise ValueError("empty or invalid subtitle")
+    return payload
+
+
+def part_cid(info):
+    if info.get("cid"):
+        return int(info["cid"])
+    # Public yt-dlp Bilibili output carries CID in its danmaku URL.
+    for track in (info.get("subtitles") or {}).get("danmaku", []):
+        match = re.search(r"/(\d+)\.xml(?:\?|$)", track.get("url", ""))
+        if match:
+            return int(match[1])
+    raise ValueError("yt-dlp returned no CID")
+
+
+def parts(info):
+    if not info:
+        raise ValueError("empty extractor result")
+    if "entries" in info:
+        for entry in info["entries"]:
+            yield from parts(entry)
+    else:
+        yield info
+
+
+def acquire(bvid, ydl, index, root, data_dir):
+    old = index.get(bvid, {})
+    if complete(old, root, data_dir):
+        old.update(subs_done=True, acquisition_status="complete")
+        return "skipped"
+    record = copy.deepcopy(old)
+    record.setdefault("bvid", bvid)
+    record.setdefault("subtitle_records", [])
+    record["subs_done"] = False
+    logger = getattr(ydl, "params", {}).get("logger")
+    if isinstance(logger, ExtractionLog):
+        logger.login_required = False
+    try:
+        info = ydl.extract_info(f"https://www.bilibili.com/video/{bvid}", download=False)
+        entries = list(parts(info))
+        if not entries:
+            raise ValueError("no parts returned")
+        # Validate the complete part list before replacing existing metadata.
+        cids = [part_cid(entry) for entry in entries]
+        first = entries[0]
+        for target, source in (("title", "title"), ("desc", "description"), ("pubdate", "timestamp")):
+            value = info.get(source, first.get(source))
+            if value is not None:
+                record[target] = value
+        record.setdefault("aid", None)
+        stat = record.setdefault("stat", {})
+        for target, source in (("view", "view_count"), ("like", "like_count"), ("reply", "comment_count")):
+            if first.get(source) is not None:
+                stat[target] = first[source]
+        old_pages = {str(p["cid"]): p for p in old.get("pages", [])}
+        pages = []
+        for number, (entry, cid) in enumerate(zip(entries, cids), 1):
+            page = dict(old_pages.get(str(cid), {}))
+            page.update(cid=cid, page=number, part=entry.get("title", ""), duration=entry.get("duration", 0))
+            pages.append(page)
+        record["pages"] = pages
+        statuses = {}
+        for entry, cid in zip(entries, cids):
+            if any(str(s.get("cid")) == str(cid) and chinese(s.get("lan", ""))
+                   and valid_subtitle(s, root, data_dir) for s in record["subtitle_records"]):
+                statuses[str(cid)] = "complete"
+                continue
+            chosen = pick_subtitle(entry)
+            if not chosen:
+                statuses[str(cid)] = "login_required" if getattr(logger, "login_required", False) else "subtitle_unavailable"
+                continue
+            lang, track = chosen
+            try:
+                payload = subtitle_payload(track, ydl)
+                relative = Path("subs") / bvid / str(cid) / (re.sub(r"[^A-Za-z0-9_-]", "_", lang) + ".json")
+                save_index(data_dir / relative, payload)
+                record["subtitle_records"] = [s for s in record["subtitle_records"]
+                    if not (str(s.get("cid")) == str(cid) and s.get("lan") == lang)]
+                record["subtitle_records"].append({"cid": cid, "lan": lang,
+                    "subtitle_url": "", "file": relative.as_posix()})
+                statuses[str(cid)] = "complete"
+            except ValueError:
+                statuses[str(cid)] = "subtitle_empty_or_invalid"
+            except Exception:
+                statuses[str(cid)] = "subtitle_failed"
+        record["subtitle_status"] = statuses
+        record["subs_done"] = complete(record, root, data_dir)
+        record["acquisition_status"] = ("complete" if record["subs_done"] else
+                                         "login_required" if "login_required" in statuses.values() else "incomplete")
+    except Exception as error:
+        # Keep old successful files and metadata. Do not persist signed URLs/errors.
+        message = str(error).lower()
+        record["acquisition_status"] = (
+            "login_required" if getattr(logger, "login_required", False) else
+            "access_denied" if any(token in message for token in ("403", "412", "429", "-352", "-401", "rate limit", "forbidden"))
+            else "extraction_failed")
+        record["error_type"] = type(error).__name__
+    index[bvid] = record
+    return record["acquisition_status"]
+
+
+def video_id(value):
+    match = BV_RE.search(value)
+    if not match:
+        raise ValueError("Expected a BV ID or Bilibili video URL")
+    return match[0]
+
+
+def main(argv=None, ydl_factory=None):
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--bvid", action="append", default=[])
+    parser.add_argument("--url-file", type=Path, help="One Bilibili video URL or BV ID per line")
+    parser.add_argument("--mid", default=DEFAULT_MID, help="Uploader for discovery when no explicit inputs")
+    parser.add_argument("--limit", type=int, help="Maximum number of videos, not parts")
+    parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parent)
+    parser.add_argument("--data-dir", type=Path, default=Path("data"))
+    parser.add_argument("--cookie-file", type=Path, help="Optional local Netscape cookie file; never committed")
+    args = parser.parse_args(argv)
+    if args.limit is not None and args.limit < 1:
+        parser.error("--limit must be positive")
+    root = args.root.resolve()
+    data_dir = args.data_dir if args.data_dir.is_absolute() else root / args.data_dir
+    try:
+        index = load_index(data_dir / "videos.json")
+        values = list(args.bvid)
+        if args.url_file:
+            values.extend(line.strip() for line in args.url_file.read_text(encoding="utf-8-sig").splitlines()
+                          if line.strip() and not line.lstrip().startswith("#"))
+        ids = list(dict.fromkeys(video_id(value) for value in values))
+        if args.url_file and not ids:
+            raise ValueError("URL file has no video IDs")
+        if ydl_factory is None:
+            from yt_dlp import YoutubeDL
+            ydl_factory = YoutubeDL
+        options = {"skip_download": True, "writesubtitles": True, "writeautomaticsub": True,
+                   "ignoreerrors": False, "quiet": True, "no_warnings": False,
+                   "ignore_no_formats_error": True, "cachedir": False, "logger": ExtractionLog(),
+                   "socket_timeout": 20, "retries": 1, "extractor_retries": 1,
+                   "sleep_interval_requests": 1.2}
+        if args.cookie_file:
+            cookie_path = args.cookie_file.expanduser().resolve()
+            if not cookie_path.is_file():
+                raise FileNotFoundError("cookie file does not exist")
+            options["cookiefile"] = str(cookie_path)
+        discovery = "explicit"
+        discovery_failed = False
+        if not ids:
+            discovery = "limited" if args.limit else "complete"
+            try:
+                with ydl_factory({**options, "extract_flat": True, "playlistend": args.limit}) as ydl:
+                    result = ydl.extract_info(f"https://space.bilibili.com/{args.mid}/video", download=False)
+                    for entry in result["entries"]:
+                        if not entry:
+                            raise ValueError("missing discovery entry")
+                        bvid = video_id(entry.get("id") or entry.get("url", ""))
+                        if bvid not in ids:
+                            ids.append(bvid)
+                        if args.limit and len(ids) >= args.limit:
+                            break
+                    if not ids:
+                        raise ValueError("empty discovery result")
+            except Exception:
+                discovery, discovery_failed = "failed_or_partial", True
+        ids = ids[:args.limit] if args.limit else ids
+        counts = {}
+        with ydl_factory(options) as ydl:
+            for bvid in ids:
+                status = acquire(bvid, ydl, index, root, data_dir)
+                counts[status] = counts.get(status, 0) + 1
+                save_index(data_dir / "videos.json", index)
+                print(f"{bvid}: {status}")
+                if status in ("login_required", "access_denied"):
+                    break
+        print(json.dumps({"discovery": discovery, "selected": len(ids),
+                          "unprocessed": len(ids) - sum(counts.values()), "results": counts}))
+        return int(discovery_failed or any(status not in ("complete", "skipped") for status in counts))
+    except (ImportError, OSError, ValueError, TypeError) as error:
+        print(f"Acquisition stopped ({type(error).__name__}); check dependencies, inputs and local paths.")
+        return 1
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())
