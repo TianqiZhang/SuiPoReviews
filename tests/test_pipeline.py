@@ -202,6 +202,42 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(self.run_main(reviews.main, client=client), 1)
         client.chat.completions.create.assert_not_called()
 
+    def test_new_upstream_failure_is_reported_without_summary(self):
+        self.write("videos.json", {"NEW": {"title": "new video"}})
+        self.assertEqual(self.run_main(summaries.main), 1)
+        self.assertFalse((self.data / "videos_summary.json").exists())
+        client = self.client()
+        self.assertEqual(self.run_main(reviews.main, client=client), 1)
+        self.assertIn("NEW", self.read("video_reviews_errors.json"))
+        client.chat.completions.create.assert_not_called()
+        self.assertFalse((self.data / "video_reviews.json").exists())
+
+    def test_analysis_still_requires_input_when_no_upstream_failures_exist(self):
+        client = self.client()
+        with self.assertRaises(FileNotFoundError):
+            self.run_main(reviews.main, client=client)
+        client.chat.completions.create.assert_not_called()
+
+    def test_missing_summary_error_respects_selection_limit_and_recovery(self):
+        self.input_summary()
+        self.write("videos_summary_errors.json", {"NEW": {"status": "error"}})
+        self.write("video_reviews.json", {"NEW": self.good()})
+        self.write("video_reviews_index.json", {"NEW": "stale"})
+        client = self.client()
+        self.assertEqual(self.run_main(reviews.main, ["--limit", "0"], client=client), 0)
+        self.assertEqual(self.run_main(reviews.main, ["--bvid", "BV1"], client=client), 0)
+        self.assertEqual(self.run_main(reviews.main, ["--bvid", "NEW"], client=client), 1)
+        self.assertEqual(self.read("video_reviews.json")["NEW"], self.good())
+        self.assertNotIn("NEW", self.read("video_reviews_index.json"))
+        self.assertEqual(self.run_main(reviews.main, client=client), 1)
+        self.assertEqual(client.chat.completions.create.call_count, 1)
+        self.write("videos_summary_errors.json", {})
+        self.write("videos_summary.json", {
+            "NEW": {"title": "recovered", "subtitle_text": "味道很好"}})
+        self.assertEqual(self.run_main(reviews.main, client=client), 0)
+        self.assertNotIn("NEW", self.read("video_reviews_errors.json"))
+        self.assertEqual(client.chat.completions.create.call_count, 2)
+
     def test_cache_signature_covers_model_prompt_schema_description(self):
         item = {"title": "a", "subtitle_text": "b", "desc": "c"}
         original = reviews.compute_signature(item)

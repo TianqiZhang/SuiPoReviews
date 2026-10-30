@@ -8,6 +8,7 @@ from pathlib import Path
 from unittest.mock import patch
 
 import bili
+import summarize_videos as summaries
 
 BV = "BV1RirSBKED9"
 BV2 = "BV1bK411W797"
@@ -84,6 +85,48 @@ class AcquisitionTests(unittest.TestCase):
         status, ydl = self.acquire(entry())
         self.assertEqual(status, "complete")
         self.assertEqual(len(ydl.calls), 1)
+
+    def test_repaired_language_change_allows_summary_and_cached_rerun(self):
+        for damaged in (None, "{bad"):
+            with self.subTest(damaged=damaged):
+                path = self.data / "subs/old.json"
+                path.parent.mkdir(parents=True, exist_ok=True)
+                if damaged is None:
+                    path.unlink(missing_ok=True)
+                else:
+                    path.write_text(damaged)
+                self.index = {BV: {"pages": [{"cid": 123}], "subtitle_records": [
+                    {"cid": 123, "lan": "ai-zh", "file": "subs/old.json"}]}}
+                self.assertEqual(self.acquire(entry())[0], "complete")
+                bili.save_index(self.data / "videos.json", self.index)
+                with redirect_stdout(io.StringIO()):
+                    self.assertEqual(summaries.main(["--data-dir", str(self.data)]), 0)
+                summary = bili.load_index(self.data / "videos_summary.json")[BV]
+                self.assertEqual(summary["subtitle_text"], "好吃\n下次再来")
+                status, ydl = self.acquire(RuntimeError("must use cache"))
+                self.assertEqual(status, "skipped")
+                self.assertFalse(ydl.calls)
+                if damaged is not None:
+                    self.assertEqual(path.read_text(), damaged)
+
+    def test_cached_valid_chinese_removes_only_invalid_references(self):
+        self.acquire(entry())
+        valid = copy.deepcopy(self.index[BV]["subtitle_records"])
+        translation = {"cid": 123, "lan": "en", "file": "subs/en.json"}
+        bili.save_index(self.data / translation["file"], {"body": [{"content": "good"}]})
+        self.index[BV]["subtitle_records"] += [translation,
+            {"cid": "123", "lan": "ai-zh", "file": "subs/missing.json"}]
+        status, ydl = self.acquire(RuntimeError("must use cache"))
+        self.assertEqual(status, "skipped")
+        self.assertFalse(ydl.calls)
+        self.assertEqual(self.index[BV]["subtitle_records"], valid + [translation])
+        summaries.read_tracks(self.index[BV], self.data)
+
+    def test_failed_repair_preserves_invalid_reference_for_retry(self):
+        tracks = [{"cid": 123, "lan": "ai-zh", "file": "subs/missing.json"}]
+        self.index[BV] = {"pages": [{"cid": 123}], "subtitle_records": tracks}
+        self.assertEqual(self.acquire(entry(subtitles=False))[0], "incomplete")
+        self.assertEqual(self.index[BV]["subtitle_records"], tracks)
 
     def test_empty_or_missing_tracks_not_complete(self):
         for info, expected in [(entry(subtitles=False), "subtitle_unavailable"),

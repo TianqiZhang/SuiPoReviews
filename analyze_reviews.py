@@ -112,14 +112,21 @@ def create_client():
 def main(argv=None, client=None):
     args = parse_args(argv, description=__doc__)
     data = args.data_dir
-    videos = json.loads((data / "videos_summary.json").read_text(encoding="utf-8"))
+    summary_errors = load_json(data / "videos_summary_errors.json", {})
+    summary_path = data / "videos_summary.json"
+    # A first summary run can fail every item and therefore produce no summary file.
+    # Keep missing required inputs an error unless upstream recorded those failures.
+    videos = (load_json(summary_path, {}) if summary_errors else
+              json.loads(summary_path.read_text(encoding="utf-8")))
+    # Include failed new videos, which have never had a successful summary.
+    for bvid in summary_errors:
+        videos.setdefault(bvid, {})
     if args.bvid and set(args.bvid) - videos.keys():
         print("Unknown BVID(s): " + ", ".join(sorted(set(args.bvid) - videos.keys())))
         return 2
     results = load_json(data / "video_reviews.json", {})
     index = load_json(data / "video_reviews_index.json", {})
     errors = load_json(data / "video_reviews_errors.json", {})
-    summary_errors = load_json(data / "videos_summary_errors.json", {})
     updated = attempted = failed = 0
     for bvid, item in videos.items():
         if args.bvid and bvid not in args.bvid:

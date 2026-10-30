@@ -98,6 +98,17 @@ def complete(record, root, data_dir):
     return bool(pages) and all(str(p.get("cid")) in good for p in pages)
 
 
+def discard_repaired_references(record, root, data_dir):
+    """Drop broken references only for parts with a valid Chinese replacement."""
+    tracks = record.get("subtitle_records", [])
+    checked = [(track, valid_subtitle(track, root, data_dir)) for track in tracks]
+    repaired_cids = {str(track.get("cid")) for track, valid in checked
+                     if valid and chinese(track.get("lan", ""))}
+    # Keep valid translations and unresolved parts; leave all actual files intact.
+    record["subtitle_records"] = [track for track, valid in checked
+                                  if valid or str(track.get("cid")) not in repaired_cids]
+
+
 def pick_subtitle(info):
     tracks = []
     for source in ("subtitles", "automatic_captions"):
@@ -167,6 +178,7 @@ def parts(info):
 def acquire(bvid, ydl, index, root, data_dir):
     old = index.get(bvid, {})
     if complete(old, root, data_dir):
+        discard_repaired_references(old, root, data_dir)
         old.update(subs_done=True, acquisition_status="complete")
         return "skipped"
     record = copy.deepcopy(old)
@@ -225,6 +237,7 @@ def acquire(bvid, ydl, index, root, data_dir):
             except Exception:
                 statuses[str(cid)] = "subtitle_failed"
         record["subtitle_status"] = statuses
+        discard_repaired_references(record, root, data_dir)
         record["subs_done"] = complete(record, root, data_dir)
         record["acquisition_status"] = ("complete" if record["subs_done"] else
                                          "login_required" if "login_required" in statuses.values() else "incomplete")
