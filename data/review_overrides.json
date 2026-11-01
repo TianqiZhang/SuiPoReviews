@@ -86,5 +86,11 @@
     "is_food_review": false,
     "note": "用户确认：无店名，不属于正常探店视频，暂不收录",
     "confirmed_on": "2026-10-31"
+  },
+  "BV1uLgy6TEfA": {
+    "is_food_review": true,
+    "city": "南昌",
+    "note": "用户听原视频确认开场为江西南昌；AI 字幕误识别为七西南昌",
+    "confirmed_on": "2026-11-01"
   }
 }

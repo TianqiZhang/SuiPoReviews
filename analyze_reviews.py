@@ -68,14 +68,15 @@ def override_fields(override):
     """Only explicitly supported human corrections affect output and cache."""
     if not isinstance(override, dict):
         raise ConfigurationError("Each manual review override must be an object.")
-    fields = {key: override[key] for key in ("restaurant_name", "is_food_review") if key in override}
-    if "restaurant_name" in fields and (not isinstance(fields["restaurant_name"], str) or not fields["restaurant_name"].strip()):
-        raise ConfigurationError("Manual restaurant_name must be a nonempty string.")
+    fields = {key: override[key] for key in ("restaurant_name", "city", "is_food_review") if key in override}
+    for key in ("restaurant_name", "city"):
+        if key in fields and (not isinstance(fields[key], str) or not fields[key].strip()):
+            raise ConfigurationError(f"Manual {key} must be a nonempty string.")
     if "is_food_review" in fields and type(fields["is_food_review"]) is not bool:
         raise ConfigurationError("Manual is_food_review must be a boolean.")
-    if fields.get("is_food_review") is False and "restaurant_name" in fields:
-        raise ConfigurationError("A manually excluded video cannot have a restaurant_name.")
-    if "restaurant_name" in fields:
+    if fields.get("is_food_review") is False and any(key in fields for key in ("restaurant_name", "city")):
+        raise ConfigurationError("A manually excluded video cannot have a restaurant_name or city.")
+    if any(key in fields for key in ("restaurant_name", "city")):
         fields.setdefault("is_food_review", True)
     return fields
 

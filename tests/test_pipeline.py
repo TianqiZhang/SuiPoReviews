@@ -452,6 +452,26 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(client.chat.completions.create.call_count, 2)
         self.assertEqual(self.read("video_reviews.json")["BV1"]["restaurant_name"], "人工更正店名")
 
+    def test_manual_city_survives_analysis_and_offline_correction(self):
+        self.input_summary()
+        self.write("review_overrides.json", {"BV1": {"city": "南昌"}})
+        client = self.client()
+        self.assertEqual(self.run_main(reviews.main, client=client), 0)
+        stored = self.read("video_reviews.json")["BV1"]
+        self.assertEqual(stored["city"], "南昌")
+        self.assertEqual(stored["restaurant_name"], "面馆")
+        self.assertEqual(stored["review_summary"], "味道很好")
+        self.assertEqual(self.run_main(reviews.main, client=client), 0)
+        self.assertEqual(client.chat.completions.create.call_count, 1)
+        self.write("review_overrides.json", {"BV1": {"city": "长沙"}})
+        self.assertEqual(reviews.apply_saved_manual_overrides(self.data), ["BV1"])
+        self.assertEqual(self.read("video_reviews.json")["BV1"]["city"], "长沙")
+        self.assertNotIn("BV1", self.read("video_reviews_index.json"))
+        self.assertEqual(reviews.apply_saved_manual_overrides(self.data), [])
+        self.assertEqual(self.run_main(reviews.main, client=client), 0)
+        self.assertEqual(self.read("video_reviews.json")["BV1"]["city"], "长沙")
+        self.assertEqual(client.chat.completions.create.call_count, 2)
+
     def test_manual_exclusion_needs_no_model_or_subtitle_and_clears_old_review(self):
         self.input_summary("")
         self.write("review_overrides.json", {"BV1": {"is_food_review": False}})
@@ -498,7 +518,8 @@ class PipelineTests(unittest.TestCase):
 
     def test_invalid_manual_override_stops_before_model_or_output_changes(self):
         self.input_summary()
-        for override in ({"restaurant_name": []}, {"is_food_review": "false"},
+        for override in ({"restaurant_name": []}, {"city": []}, {"city": " "},
+                         {"is_food_review": False, "city": "南昌"}, {"is_food_review": "false"},
                          {"is_food_review": False, "restaurant_name": "矛盾记录"}):
             self.write("review_overrides.json", {"BV1": override})
             client = self.client()
