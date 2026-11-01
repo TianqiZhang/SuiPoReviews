@@ -213,7 +213,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11590992658552935443507844e011b23f759cd2d4d7847aa1b2258282?auth_key=1768830031-dd87f12efa134cd3bfcb592d6e70641c-0-0af190eabfc73cb5c39359fe3d177f77",
         "file": "data\\subs\\2025_BV1RirSBKED9_35443507844_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1rpr4B2ENn": {
     "bvid": "BV1rpr4B2ENn",
@@ -429,7 +430,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1158944412152693538852360327ae7fc1926e35f0a8835c6dcfc3d3e6?auth_key=1768830036-0bb0a4b7934e4ddda2b8dfa6a0845d8e-0-d755f08e9fa19ba73cc16b2e0fd70314",
         "file": "data\\subs\\BV1rpr4B2ENn_BV1rpr4B2ENn_35388523603_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1tJrgByEFC": {
     "bvid": "BV1tJrgByEFC",
@@ -645,7 +647,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115866591036485352902198096cc0b31b5e169729cb2e89c63b4249c2?auth_key=1768830041-dcae2ff7f703488d9f105a7151ae289d-0-a4decf0b516f0128c25e20bebd26a035",
         "file": "data\\subs\\128_BV1tJrgByEFC_35290219809_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV13ritBdERw": {
     "bvid": "BV13ritBdERw",
@@ -861,7 +864,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115843337947259352117086584638c4c00b57c8ea340f6a188e822af7?auth_key=1768830047-ba093d7dd7fa4e4eb9c38892dcd36e90-0-f477786cbfb775ef8fe45df6bb6f865c",
         "file": "data\\subs\\BV13ritBdERw_BV13ritBdERw_35211708658_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV15BvYBuEjq": {
     "bvid": "BV15BvYBuEjq",
@@ -1077,7 +1081,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115807568790959350738845249ad2517e94214607c599dc0242610d1c?auth_key=1768830052-17951442261f4b82a0357394e5e0eeb4-0-88ca7e8041a4804588eb12b2951f25c0",
         "file": "data\\subs\\BV15BvYBuEjq_BV15BvYBuEjq_35073884524_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1bXBgB3E77": {
     "bvid": "BV1bXBgB3E77",
@@ -1293,7 +1298,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1157699207206643493704590128ba5f851f0bbc86f7db46860c8e8e29?auth_key=1768830059-b84bd13faae74108b00d013525f3ae8e-0-59eeaf274f0b4138e25f5301a2eb5a64",
         "file": "data\\subs\\898_BV1bXBgB3E77_34937045901_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1bqBwBJEQu": {
     "bvid": "BV1bqBwBJEQu",
@@ -1509,7 +1515,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11574742247203034850145904b06b218d0557e5a1b60395ea0a72c06a?auth_key=1768830063-b936bfd48cfa42c9897c88cf347a756b-0-78ee7d657799cf9fcdb37614aaa2c741",
         "file": "data\\subs\\8_BV1bqBwBJEQu_34850145904_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1vtq8BKEem": {
     "bvid": "BV1vtq8BKEem",
@@ -1725,7 +1732,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115726870381163347657997963c6531714e6eff1d83642567443bf79c?auth_key=1768830069-f1e49d86b12a4b41bcb4a058908fd66c-0-abd5540a1dc6ea4b4f03e82d6065dd12",
         "file": "data\\subs\\BV1vtq8BKEem_BV1vtq8BKEem_34765799796_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1Jtm3BSE3s": {
     "bvid": "BV1Jtm3BSE3s",
@@ -1806,7 +1814,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11570178844378534672871601150ebe74b6d9ff487dc1a4c8eb33a4c7?auth_key=1768830074-573d127fbb984e0db61d72498f8adb59-0-d8869c1a0133ecfd8d9275437309d918",
         "file": "data\\subs\\BV1Jtm3BSE3s_BV1Jtm3BSE3s_34672871601_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV15NmPBpEwr": {
     "bvid": "BV15NmPBpEwr",
@@ -1887,7 +1896,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1156787198384793457476295020c7c8331c6f3c5b6c5844749f08de55?auth_key=1768830080-da9fbba6e39c4afdb397bbe8ea10423a-0-0fc3bab89e5c7c17ff7c02e025d28db5",
         "file": "data\\subs\\BV15NmPBpEwr_BV15NmPBpEwr_34574762950_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1fc2eBkEMS": {
     "bvid": "BV1fc2eBkEMS",
@@ -1968,7 +1978,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11566108691891934501364859a3a5b1ca733b9166b674dd7d25246e19?auth_key=1768830085-f0c1f917e7294a7e8c591cf5cd312fac-0-b8ad199536431513ce5dac9eb30ce936",
         "file": "data\\subs\\BV1fc2eBkEMS_BV1fc2eBkEMS_34501364859_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1fvSzBvEot": {
     "bvid": "BV1fvSzBvEot",
@@ -2184,7 +2195,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115640065067934344017509376321d6a5708cf8b729936fbc125b03ca?auth_key=1768830091-ec4c46d3dd0c42bab291a0add892ca73-0-b7dbfe80864a6a97f5035b0e5f652b34",
         "file": "data\\subs\\BV1fvSzBvEot_BV1fvSzBvEot_34401750937_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1VxUuBTETo": {
     "bvid": "BV1VxUuBTETo",
@@ -2373,7 +2385,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11560043728229034215955911b89a5e9365cd8e497c20f0fa113c9216?auth_key=1768830097-ba029fbbb2c74b83af46f6d2d3605848-0-c7489cdcc6efae6715614f6f118b13d0",
         "file": "data\\subs\\BV1VxUuBTETo_BV1VxUuBTETo_34215955911_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1C4yKBNEjF": {
     "bvid": "BV1C4yKBNEjF",
@@ -2383,15 +2396,15 @@
     "desc": "",
     "stat": {
       "aid": 115583072995883,
-      "view": 1627370,
+      "view": 1873699,
       "danmaku": 1356,
-      "reply": 3800,
+      "reply": 3919,
       "favorite": 11281,
       "coin": 8113,
       "share": 10091,
       "now_rank": 0,
       "his_rank": 65,
-      "like": 129497,
+      "like": 138955,
       "dislike": 0,
       "evaluation": "",
       "vt": 0
@@ -2402,7 +2415,7 @@
         "page": 1,
         "from": "vupload",
         "part": "特厨探店|在南宁被各种酸料香晕—老三篇",
-        "duration": 191,
+        "duration": 190.38,
         "vid": "",
         "weblink": "",
         "dimension": {
@@ -2418,8 +2431,12 @@
       "allow_submit": false,
       "list": []
     },
-    "subs_done": true,
-    "subtitle_records": []
+    "subs_done": false,
+    "subtitle_records": [],
+    "subtitle_status": {
+      "34142619860": "subtitle_unavailable"
+    },
+    "acquisition_status": "incomplete"
   },
   "BV17WCUBVEDJ": {
     "bvid": "BV17WCUBVEDJ",
@@ -2635,7 +2652,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115555407236274340323862532014da81e38ca328116bda09e8fad7a9?auth_key=1768830107-9fa6480486fb46b8a929c94a5972c0f6-0-898018608cb676de8015287ca23c0c02",
         "file": "data\\subs\\BV17WCUBVEDJ_BV17WCUBVEDJ_34032386253_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1QVkzBNEAE": {
     "bvid": "BV1QVkzBNEAE",
@@ -2851,7 +2869,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1155288992333393390590313238f7c3c7debfb29a087fa4139b6b31d0?auth_key=1768830112-78a2dc54b7664708980307ae0955895d-0-d261780cedf495c7abb1803b3cffbfca",
         "file": "data\\subs\\BV1QVkzBNEAE_BV1QVkzBNEAE_33905903132_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV19Z1XBpESg": {
     "bvid": "BV19Z1XBpESg",
@@ -3067,7 +3086,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1155151922476333383610618702b067a72939f7483dc61f46b422b7fb?auth_key=1768830118-06184ebd0773485faab40bf271cc5fc9-0-6c270fd4bbbcd8bb78d7415b7a06c800",
         "file": "data\\subs\\BV19Z1XBpESg_BV19Z1XBpESg_33836106187_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1xM1bBzEfD": {
     "bvid": "BV1xM1bBzEfD",
@@ -3283,7 +3303,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115498616359892337362325298da1ff6804d3727bfc1e90ae22678fca?auth_key=1768830123-bd149c0a7a5f474cab69125b173d9c25-0-dd5f39c1c904fd90ce273cb2198431ab",
         "file": "data\\subs\\BV1xM1bBzEfD_BV1xM1bBzEfD_33736232529_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV13FyeB4E6X": {
     "bvid": "BV13FyeB4E6X",
@@ -3499,7 +3520,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1154647096039343354132626538b12fa7b2e4c374489e4b62d312938e?auth_key=1768830128-c72b9e506bc64989a5d072e1a8e815a9-0-c5b5422fdab3d64ae4d0ed1f1ab35351",
         "file": "data\\subs\\BV13FyeB4E6X_BV13FyeB4E6X_33541326265_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV13LykBEE58": {
     "bvid": "BV13LykBEE58",
@@ -3715,7 +3737,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11545291522167833478804141721d5d95b7a9f9c2dbfafd5e341bb678?auth_key=1768830134-a1233f73053d440f8924894caf39d26c-0-74b9cd78dcd428ed92ed05963dac6595",
         "file": "data\\subs\\BV13LykBEE58_BV13LykBEE58_33478804141_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1TtsrzkEJU": {
     "bvid": "BV1TtsrzkEJU",
@@ -3931,7 +3954,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11544192621089033422574869e61d3972feeb7ac7172d766a04b605ea?auth_key=1768830139-b595c181e22540f98912a938e4069781-0-9bae943f6a7a21c4e3512a15de238b38",
         "file": "data\\subs\\BV1TtsrzkEJU_BV1TtsrzkEJU_33422574869_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1txW2zsEWn": {
     "bvid": "BV1txW2zsEWn",
@@ -4147,7 +4171,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115407750958237332515277023848e90f35c9591f90a81fc12740f1a6?auth_key=1768830144-913d632d942943f4a68678f27da10807-0-195a3c970d23bf470957f8b638f60b78",
         "file": "data\\subs\\BV1txW2zsEWn_BV1txW2zsEWn_33251527702_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1erscz6EKZ": {
     "bvid": "BV1erscz6EKZ",
@@ -4336,7 +4361,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115398322162347332000799292d0ae511b4f923c417d7e82ca1142fd4?auth_key=1768830150-ba7bb2f71ec44742bf1a2e4d9950bdd0-0-0a50c72cd8242de0891142b7bac8fe1b",
         "file": "data\\subs\\BV1erscz6EKZ_BV1erscz6EKZ_33200079929_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1RWWrznEM4": {
     "bvid": "BV1RWWrznEM4",
@@ -4552,7 +4578,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11538555470219733135855888ec577f8728b384849f723ebc74c08300?auth_key=1768830155-a5d58a3221d54e53b4274ac25d1cd3ce-0-f0656502b8a8e890efc73d164f2569cd",
         "file": "data\\subs\\128_BV1RWWrznEM4_33135855888_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV13j4kzdE6p": {
     "bvid": "BV13j4kzdE6p",
@@ -4768,7 +4795,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1153630396758593302640909592549b58e444de2394096bc232a255f9?auth_key=1768830160-4802cb4622a64d278b15095c40048ec3-0-5f85e6ed592cd65fbdc195b0356a1e8c",
         "file": "data\\subs\\BV13j4kzdE6p_BV13j4kzdE6p_33026409095_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1LCxCzPE1T": {
     "bvid": "BV1LCxCzPE1T",
@@ -4984,7 +5012,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11534413188531232945604715b90a0de2feaa6b009ce13476b4bf56ed?auth_key=1768830166-848fae902ef748fc8c4f9f16a1f48cc1-0-b6a9bb224b7682af592fa0bf08efd704",
         "file": "data\\subs\\BV1LCxCzPE1T_BV1LCxCzPE1T_32945604715_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1dwxCzcEF5": {
     "bvid": "BV1dwxCzcEF5",
@@ -5200,7 +5229,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11534263858373332930728076a5f73e765b723dfa4c20b4c209041a65?auth_key=1768830172-8b41f1e7e0da41d48322e0e9355287ff-0-5bc2565cb9e73739afcfe418541b267d",
         "file": "data\\subs\\BV1dwxCzcEF5_BV1dwxCzcEF5_32930728076_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1haHKz3EMG": {
     "bvid": "BV1haHKz3EMG",
@@ -5389,7 +5419,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11530540994007132799788683fb6ae6084ad946b3688af5d10b9d5847?auth_key=1768830177-d1a8d2a8c9064f6b8e902a28079bfa56-0-845ff9c89a9c42269e2d8ffe1c4d3398",
         "file": "data\\subs\\BV1haHKz3EMG_BV1haHKz3EMG_32799788683_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1BxnBzrEoM": {
     "bvid": "BV1BxnBzrEoM",
@@ -5605,7 +5636,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11528668656472932701154698ad74607120f22def53f744df9a0df48c?auth_key=1768830182-13682d5334b3445f884a7ce4827f1796-0-bc9e96a112d9bb690f316d365e74f293",
         "file": "data\\subs\\BV1BxnBzrEoM_BV1BxnBzrEoM_32701154698_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV11bn5zHEim": {
     "bvid": "BV11bn5zHEim",
@@ -5821,7 +5853,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115271620626127326569173823d6dc6839207162c4e83f1a9b88c8eed?auth_key=1768830187-6ae1ff403c414da78a503ba2eabdd55b-0-38b96f6f7406495bb0eb64faac8aa913",
         "file": "data\\subs\\BV11bn5zHEim_BV11bn5zHEim_32656917382_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1ATnpzzEa7": {
     "bvid": "BV1ATnpzzEa7",
@@ -6037,7 +6070,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11526043022373632609927392aa670be67561dc533511976e971889f8?auth_key=1768830193-01a2ebe71db24af283f9fa85c6a11ddf-0-6d19df9290b7cbe24d22521e740d929b",
         "file": "data\\subs\\BV1ATnpzzEa7_BV1ATnpzzEa7_32609927392_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1GrWPzLEfs": {
     "bvid": "BV1GrWPzLEfs",
@@ -6253,7 +6287,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1152263894487213247302450041c7a1a5e4dc9753cf883d204a463b2c?auth_key=1768830198-d13c9167e2cd4af8b337ad1fb6c269e0-0-a71e2956f7dda7224adfd9f76752df8a",
         "file": "data\\subs\\BV1GrWPzLEfs_BV1GrWPzLEfs_32473024500_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1dhprzQERQ": {
     "bvid": "BV1dhprzQERQ",
@@ -6469,7 +6504,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11521066900176732408407668bbc15ff48306f8987b64920c51ed1093?auth_key=1768830204-3c44c91b181f48369db12e83870c0602-0-1daa9fa0cfc59b353f8fc96703efd3b8",
         "file": "data\\subs\\BV1dhprzQERQ_BV1dhprzQERQ_32408407668_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1LxH9zDEfG": {
     "bvid": "BV1LxH9zDEfG",
@@ -6685,7 +6721,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11518105721646532298434772cf4ed8b7b5df582cd63dcb787be6231b?auth_key=1768830209-9c3f03f1715843efbdda99959f5a36ef-0-12c671b99d75ed7b95340888f96239e0",
         "file": "data\\subs\\BV1LxH9zDEfG_BV1LxH9zDEfG_32298434772_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV19ZY7zGE6V": {
     "bvid": "BV19ZY7zGE6V",
@@ -6874,7 +6911,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1151647665394963223401481944ec4e27ae6e6927e8e02c7e838e7a36?auth_key=1768830215-f8badaf1c8ea477ab9d496b1b952cb79-0-9cfdd59da0b8a7808a25ca9006362f3e",
         "file": "data\\subs\\BV19ZY7zGE6V_BV19ZY7zGE6V_32234014819_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1YTaxzxEAA": {
     "bvid": "BV1YTaxzxEAA",
@@ -7063,7 +7101,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115148677185842321669071945cd09b1b9db3656899e0ec204426c8b8?auth_key=1768830220-60ad780d4cd945c59f8ac1a24cc5694a-0-d31bec68715bb98e2c4fdaad99d7ae26",
         "file": "data\\subs\\BV1YTaxzxEAA_BV1YTaxzxEAA_32166907194_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1a7hvz2Ew5": {
     "bvid": "BV1a7hvz2Ew5",
@@ -7279,7 +7318,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1151166327701573204763127975501df60bc032395a4e5c048e1eabba?auth_key=1768830226-910f69737f344056bcb428241e147725-0-35fbe9f08c53029ab26b082eea5dacc7",
         "file": "data\\subs\\10001088_BV1a7hvz2Ew5_32047631279_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1FehhzJEtE": {
     "bvid": "BV1FehhzJEtE",
@@ -7495,7 +7535,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11511472010230732039046641600cc9fd556430f19921daa4023be4a8?auth_key=1768830232-31ba461421f44e19b3e0c79089c09a5d-0-39747bbd6a47576daf939cdd7b40973b",
         "file": "data\\subs\\BV1FehhzJEtE_BV1FehhzJEtE_32039046641_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1Q7h2zLEGd": {
     "bvid": "BV1Q7h2zLEGd",
@@ -7657,7 +7698,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115107203911461320072584925731468040dd91300e93ca360eabfd7a?auth_key=1768830237-ff2f1fa38d8444959e120cde394fc1cd-0-06b1ec58dcaff6db883f453a9a4dd48e",
         "file": "data\\subs\\BV1Q7h2zLEGd_BV1Q7h2zLEGd_32007258492_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1xCeDzREF4": {
     "bvid": "BV1xCeDzREF4",
@@ -7873,7 +7915,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11510396590662131988977004f378cd93de962a3b7a48b57d0297661a?auth_key=1768830242-62b9e332739f40fdb5749e2d8aa827df-0-3e3bc0cca08b79a7c86ea6a1a0674083",
         "file": "data\\subs\\BV1xCeDzREF4_BV1xCeDzREF4_31988977004_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1FyYSzGEtg": {
     "bvid": "BV1FyYSzGEtg",
@@ -8089,7 +8132,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11506537830921931843092686918a3e25f3d0b973d7d0e29c854f716a?auth_key=1768830248-e3a5b4a520a54f00a99d12001234e218-0-66c3b99e9d7b3820bd9a9e83118f5ef8",
         "file": "data\\subs\\BV1FyYSzGEtg_BV1FyYSzGEtg_31843092686_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1nWYtzjE7d": {
     "bvid": "BV1nWYtzjE7d",
@@ -8305,7 +8349,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115051201562219317875818559288d22d097794cf5fff7a0bf2ba4ed8?auth_key=1768830253-1a88fc6007084d8c8978795503f09dd5-0-b28c8dbcfecbeee2cd301908c137b6d1",
         "file": "data\\subs\\BV1nWYtzjE7d_BV1nWYtzjE7d_31787581855_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1rFYBzkEwt": {
     "bvid": "BV1rFYBzkEwt",
@@ -8521,7 +8566,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1150387193147963173082823829479b323c47f7b67ebc20e1a24174ca?auth_key=1768830258-25c7bfa13e3e4148a6feae73a25fda01-0-c23b38a1ca6d24053545743d1880dfae",
         "file": "data\\subs\\BV1rFYBzkEwt_BV1rFYBzkEwt_31730828238_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV13mbzzREaR": {
     "bvid": "BV13mbzzREaR",
@@ -8737,7 +8783,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11502627062078831685151335e3fb917bedb6379aa7af8ca98d803a4e?auth_key=1768830263-f3e93f6287c14458a89a2a9db3e6620a-0-00f1578c58bd1069fb19e5c6b4cc3300",
         "file": "data\\subs\\BV13mbzzREaR_BV13mbzzREaR_31685151335_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1YzbAzsErN": {
     "bvid": "BV1YzbAzsErN",
@@ -8953,7 +9000,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/115002161827406315968727180f26667991f9919c4ebd4dd16c4be871?auth_key=1768830269-8bd25f049d4d4be98f320de0062279ca-0-27d15fcb3ce4576e363117e03a922d1e",
         "file": "data\\subs\\BV1YzbAzsErN_BV1YzbAzsErN_31596872718_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1K6tFzPEJ3": {
     "bvid": "BV1K6tFzPEJ3",
@@ -9169,7 +9217,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11497984813052231519540146962990245849c8bf2b0140a747b07ee3?auth_key=1768830274-9c4429b46ceb4cb88315c21be36f44b0-0-53f2e67d62b7ed51f41deb55b29a8e28",
         "file": "data\\subs\\BV1K6tFzPEJ3_BV1K6tFzPEJ3_31519540146_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV19bhpzSEyv": {
     "bvid": "BV19bhpzSEyv",
@@ -9385,7 +9434,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1149546654634033142929735491178ae175758626fe5316e645cb8859?auth_key=1768830280-bd7a62283f944f86b307e693452bb2c9-0-ab6e20fefb6514ccd17a9786d64d476f",
         "file": "data\\subs\\BV19bhpzSEyv_BV19bhpzSEyv_31429297354_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1Hh8fzwESu": {
     "bvid": "BV1Hh8fzwESu",
@@ -9601,7 +9651,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1149397505836063136880958958d071439a07a308693cdf3182d497eb?auth_key=1768830285-853cefe5c54b43779ffa5ff29d609114-0-6507ece1541f6d621cccd1776dbaa4cb",
         "file": "data\\subs\\BV1Hh8fzwESu_BV1Hh8fzwESu_31368809589_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1Nc8GzKEEM": {
     "bvid": "BV1Nc8GzKEEM",
@@ -9736,7 +9787,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1149263958521073132207993234c787f14cb354b06a43c182026162e3?auth_key=1768830291-9e22fdc3de7047cf821fe81d95a587cd-0-1fb254af75b9570a17c763a83f2226ab",
         "file": "data\\subs\\BV1Nc8GzKEEM_BV1Nc8GzKEEM_31322079932_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV18hbSzjEGG": {
     "bvid": "BV18hbSzjEGG",
@@ -9952,7 +10004,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11491278952982731269584897e3eaf05bbc99c1ef4c687ae008cca71a?auth_key=1768830296-3acc33ab09bd4160a4aa9939e30d72c3-0-b6c4f830e7662265c1438a949a6fe011",
         "file": "data\\subs\\BV18hbSzjEGG_BV18hbSzjEGG_31269584897_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1eW8czDEnL": {
     "bvid": "BV1eW8czDEnL",
@@ -9962,15 +10015,15 @@
     "desc": "把特厨隋坡老师抓来做饭啦！如果这期对你有用的话，别忘了点赞+收藏哦！",
     "stat": {
       "aid": 114901146213608,
-      "view": 4243023,
+      "view": 4369656,
       "danmaku": 9759,
-      "reply": 2772,
+      "reply": 2678,
       "favorite": 33291,
       "coin": 66838,
       "share": 7405,
       "now_rank": 0,
       "his_rank": 8,
-      "like": 211409,
+      "like": 214061,
       "dislike": 0,
       "evaluation": "",
       "vt": 0
@@ -9981,7 +10034,7 @@
         "page": 1,
         "from": "vupload",
         "part": "遇到特厨，直接拉他回家烧菜给我吃...",
-        "duration": 922,
+        "duration": 921.593,
         "vid": "",
         "weblink": "",
         "dimension": {
@@ -9997,8 +10050,12 @@
       "allow_submit": false,
       "list": []
     },
-    "subs_done": true,
-    "subtitle_records": []
+    "subs_done": false,
+    "subtitle_records": [],
+    "subtitle_status": {
+      "31250976435": "subtitle_unavailable"
+    },
+    "acquisition_status": "incomplete"
   },
   "BV1oGgnzcEiq": {
     "bvid": "BV1oGgnzcEiq",
@@ -10214,7 +10271,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11489512312356531201624083b4ebf06a68ec39ff442054bafda88b2e?auth_key=1768830305-8c680c404b0f47c7acba2c5cb5793d97-0-c7abd8f96c95678882e8e8a156e3691c",
         "file": "data\\subs\\BV1oGgnzcEiq_BV1oGgnzcEiq_31201624083_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1viumziEoF": {
     "bvid": "BV1viumziEoF",
@@ -10349,7 +10407,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/114875057639229311340592169e303ce45be83775fa19287712f07461?auth_key=1768830311-a7fdb2d2b94d4cd0a4c1d7d92d1d3c62-0-5aab37456dd350ed060891ce328a2bcd",
         "file": "data\\subs\\BV1viumziEoF_BV1viumziEoF_31134059216_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1H2gFz7EDf": {
     "bvid": "BV1H2gFz7EDf",
@@ -10565,7 +10624,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/114864655698916310940179543522429030d6837f36d11ef3cb5676cd?auth_key=1768830316-c8c296559bb746deb24bad2b35cdb6ef-0-a05bf561b5442febc4b5d5089fa60456",
         "file": "data\\subs\\BV1H2gFz7EDf_BV1H2gFz7EDf_31094017954_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1URuBzaEAQ": {
     "bvid": "BV1URuBzaEAQ",
@@ -10727,7 +10787,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/114852576169951310406056399f4cfcf2d56f077ca58a9812a94f5a45?auth_key=1768830322-05bd15d43bef4d0e9dc178dacb0dc50a-0-e22cabd206f538be770730a1b8eef69c",
         "file": "data\\subs\\BV1URuBzaEAQ_BV1URuBzaEAQ_31040605639_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1U1u3z9EAT": {
     "bvid": "BV1U1u3z9EAT",
@@ -10943,7 +11004,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11483537958823430984372225d5edd009c6a2a93f29b1f1b2a490d483?auth_key=1768830327-e9732b7617c64eb082b7d7cfd1bd9a10-0-c8dd94ce69664b55868329fa24f7b359",
         "file": "data\\subs\\-_BV1U1u3z9EAT_30984372225_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV17zGPzxELW": {
     "bvid": "BV17zGPzxELW",
@@ -11105,7 +11167,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1148248265890423094649281027137c97a3d6fc6dc1410e15368aea7f?auth_key=1768830333-496a2632cc464d6db8b5ce0fc0b52333-0-2283407056bfe896a9c8c5d5fe217682",
         "file": "data\\subs\\BV17zGPzxELW_BV17zGPzxELW_30946492810_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1zF3ez6Erw": {
     "bvid": "BV1zF3ez6Erw",
@@ -11321,7 +11384,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11480536501740130870277172d59277f738be4829b064a415ab3bf40b?auth_key=1768830339-a219f707b6e646b8b7fb48f8860a50a5-0-b92890a7682f468bd866570c30258ba1",
         "file": "data\\subs\\BV1zF3ez6Erw_BV1zF3ez6Erw_30870277172_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1Xa3gzhEVT": {
     "bvid": "BV1Xa3gzhEVT",
@@ -11537,7 +11601,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11479004748393430835017071da092909a60f80fa1efb135cbbca1a3e?auth_key=1768830344-b51afc57800a4d30bb8ed809f9f67b11-0-50893021a4bfb6dfa41d583526c2914c",
         "file": "data\\subs\\BV1Xa3gzhEVT_BV1Xa3gzhEVT_30835017071_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1LjgCzoEEo": {
     "bvid": "BV1LjgCzoEEo",
@@ -11753,7 +11818,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1147732534252523078173575371a5b8f6a64d81dd203e04b7672c2c67?auth_key=1768830350-a7d75c90b7c448128a90d80b58977bd1-0-479d68eedc1221e640b7b64e3cf81cde",
         "file": "data\\subs\\BV1LjgCzoEEo_BV1LjgCzoEEo_30781735753_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1YrKBzhEKF": {
     "bvid": "BV1YrKBzhEKF",
@@ -11969,7 +12035,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1147543288574633072321245677e81132fc630ee03f5da80c2e800201?auth_key=1768830356-61b453509903411fa8efb37de3bb4772-0-ee15554050cbfa3273d25e89f93f2e21",
         "file": "data\\subs\\BV1YrKBzhEKF_BV1YrKBzhEKF_30723212456_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1bqKnzgEwU": {
     "bvid": "BV1bqKnzgEwU",
@@ -12185,7 +12252,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1147443295722803069490231799b73393e68f72531623b2364800d805?auth_key=1768830362-e87c5aec6ec04d5d9740d9e439f1f3dd-0-2b5d91852b3d2e161c9d82737c967df2",
         "file": "data\\subs\\BV1bqKnzgEwU_BV1bqKnzgEwU_30694902317_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1MZKhziEKD": {
     "bvid": "BV1MZKhziEKD",
@@ -12401,7 +12469,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11473323976403030658071677ff039855f8c6d44cd8cc17e0c9167fd8?auth_key=1768830367-77a8e7f4128b47aa9a714960456a3b9c-0-54b0c8122fd6525b8840200e654d3507",
         "file": "data\\subs\\BV1MZKhziEKD_BV1MZKhziEKD_30658071677_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1xANUzVE4T": {
     "bvid": "BV1xANUzVE4T",
@@ -12617,7 +12686,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1147218312598043062176293485e658b8bb935472af6767d766e20e23?auth_key=1768830372-d82f068800f840cea99b4f1e0716b16d-0-7cf10d2afe95aad164a23e6bba3ad2b0",
         "file": "data\\subs\\BV1xANUzVE4T_BV1xANUzVE4T_30621762934_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1FyMbzsEmA": {
     "bvid": "BV1FyMbzsEmA",
@@ -12833,7 +12903,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11468836071334830517628392070e26ccbad75e2940b8594e89d4f765?auth_key=1768830377-1f3596fb75fa4908abb0655f62f40401-0-dab0e0167729b1c870018dcac98f18c6",
         "file": "data\\subs\\BV1FyMbzsEmA_BV1FyMbzsEmA_30517628392_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1MrNtzoECN": {
     "bvid": "BV1MrNtzoECN",
@@ -12995,7 +13066,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11469372948869830520183469c31dc3716037babb18b309884c509557?auth_key=1768830382-3aa5f31b6d72430cbf33e334b97f8475-0-40d05d0fdc86528b405d8b83de7829d6",
         "file": "data\\subs\\BV1MrNtzoECN_BV1MrNtzoECN_30520183469_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV11SMUzQEav": {
     "bvid": "BV11SMUzQEav",
@@ -13211,7 +13283,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/114682471911251304985548365eba3b98e6e40d92f90a75a3a7dcb567?auth_key=1768830387-c8aca90bdd1b421e95319d4f0972199d-0-93abbefb6c5df37b0eb8d63a3ed02754",
         "file": "data\\subs\\BV11SMUzQEav_BV11SMUzQEav_30498554836_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1YWMHzREdb": {
     "bvid": "BV1YWMHzREdb",
@@ -13427,7 +13500,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/114665258486891304449474493d5c199d6a6fda929b4b59dbd880c8ea?auth_key=1768830392-3f85d7df4026404bbce59de9eefb7195-0-4691d5d111433ab2a27bf1db6d6fd1da",
         "file": "data\\subs\\BV1YWMHzREdb_BV1YWMHzREdb_30444947449_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1dvTdzHE3n": {
     "bvid": "BV1dvTdzHE3n",
@@ -13643,7 +13717,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/114649538300617303949423061d2cc465f0c0e160b17bf8bae123dd48?auth_key=1768830397-7a48bdc4a12d47a98411f17fc32491fd-0-87b3f77c88eeab9feb6f4dfef9d5030b",
         "file": "data\\subs\\BV1dvTdzHE3n_BV1dvTdzHE3n_30394942306_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1FtTGzMEEb": {
     "bvid": "BV1FtTGzMEEb",
@@ -13805,7 +13880,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11463853238137130360668604f7c1a1a309b1f13534fd1b1c6370a34e?auth_key=1768830403-d5b7baa4d8c440adb6c2fca72d91e224-0-cff40dbf43c142e046a0bafd8611089a",
         "file": "data\\subs\\BV1FtTGzMEEb_BV1FtTGzMEEb_30360668604_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1Ep7KzCE34": {
     "bvid": "BV1Ep7KzCE34",
@@ -13940,7 +14016,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11460328351610730252073454d68f38a404cc7026f6358fa70149a48d?auth_key=1768830409-d730355cfe1b47d083a3c3730421dee3-0-88d8e8f0234c5ef878187adf2bc67aac",
         "file": "data\\subs\\BV1Ep7KzCE34_BV1Ep7KzCE34_30252073454_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1yk7wzVEDV": {
     "bvid": "BV1yk7wzVEDV",
@@ -13950,15 +14027,15 @@
     "desc": "https://m.yangshipin.cn/portrait_video?vid=x000020p0om（央视频号：央宝的秘密花园）",
     "stat": {
       "aid": 114601404403344,
-      "view": 1650269,
+      "view": 1669664,
       "danmaku": 1405,
-      "reply": 3061,
+      "reply": 3064,
       "favorite": 3885,
       "coin": 14438,
       "share": 2667,
       "now_rank": 0,
       "his_rank": 0,
-      "like": 88451,
+      "like": 88970,
       "dislike": 0,
       "evaluation": "",
       "vt": 0
@@ -13969,7 +14046,7 @@
         "page": 1,
         "from": "vupload",
         "part": "特级厨师隋坡教你做毛血旺粽子",
-        "duration": 71,
+        "duration": 70.57,
         "vid": "",
         "weblink": "",
         "dimension": {
@@ -13985,8 +14062,12 @@
       "allow_submit": false,
       "list": []
     },
-    "subs_done": true,
-    "subtitle_records": []
+    "subs_done": false,
+    "subtitle_records": [],
+    "subtitle_status": {
+      "30245522468": "subtitle_unavailable"
+    },
+    "acquisition_status": "incomplete"
   },
   "BV1v7jqzWE7N": {
     "bvid": "BV1v7jqzWE7N",
@@ -14121,7 +14202,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1145850130608843019604309223e967199cd388af802cc4fd837e59cd?auth_key=1768830418-9ca4095418fe46d9928ead045f2b70d6-0-da9c0576234ff814a43705b4f878c012",
         "file": "data\\subs\\BV1v7jqzWE7N_BV1v7jqzWE7N_30196043092_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1ykjtzLEub": {
     "bvid": "BV1ykjtzLEub",
@@ -14256,7 +14338,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1145627329206093013306358520cbba2f4b43a7b07a9f8f7ba0b3232a?auth_key=1768830424-b6dd47b81b044fb4bf0893acef50b8a2-0-30770e55eff3f683bd2fd4928241eebb",
         "file": "data\\subs\\BV1ykjtzLEub_BV1ykjtzLEub_30133063585_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1AvJhzbE45": {
     "bvid": "BV1AvJhzbE45",
@@ -14391,7 +14474,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11454139230067730064575216fab37effc8bb662481b0ef6406f4e0e2?auth_key=1768830428-aa957d8279fa419cac1791bcd355d043-0-04480287ce9ee195f569b340b5c029cf",
         "file": "data\\subs\\-_BV1AvJhzbE45_30064575216_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV17dEbzVEak": {
     "bvid": "BV17dEbzVEak",
@@ -14472,7 +14556,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11451820625257629995043319b25ae5a6c78058c9c315e5f13fd25569?auth_key=1768830433-73c860a270464d9696768d76661fedab-0-ae0fdb04f7e2e72e4a631f997b41bb58",
         "file": "data\\subs\\BV17dEbzVEak_BV17dEbzVEak_29995043319_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV114EezqEm2": {
     "bvid": "BV114EezqEm2",
@@ -14553,7 +14638,8 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11450449920152229951724830578bcfa78a52fd9f0fc216182c7617fe?auth_key=1768830439-d4f33ef67c654577b06cf5235e0babc0-0-e24aaff5d7a2171db00ecf0b6358126c",
         "file": "data\\subs\\BV114EezqEm2_BV114EezqEm2_29951724830_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
   },
   "BV1BxGXzbEis": {
     "bvid": "BV1BxGXzbEis",
@@ -14661,6 +14747,2211 @@
         "subtitle_url": "//aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11442482420142529709045660d2dcf6c9bc39b59eb39e3eb89dc205e5?auth_key=1768830443-146272e9e1de42f3b8db55ab6fda3426-0-e8497b9adf5460fa0c7f6cecb8d17b6d",
         "file": "data\\subs\\B_BV1BxGXzbEis_29709045660_ai-zh.json"
       }
-    ]
+    ],
+    "acquisition_status": "complete"
+  },
+  "BV1qFsZ6REP2": {
+    "bvid": "BV1qFsZ6REP2",
+    "subtitle_records": [
+      {
+        "cid": 43145233194,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1qFsZ6REP2/43145233194/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨隋坡|开在集装箱的私房菜？！到底多自信？？",
+    "desc": "",
+    "pubdate": 1793263800,
+    "aid": null,
+    "stat": {
+      "view": 910175,
+      "like": 63063,
+      "reply": 1490
+    },
+    "pages": [
+      {
+        "cid": 43145233194,
+        "page": 1,
+        "part": "特厨隋坡|开在集装箱的私房菜？！到底多自信？？",
+        "duration": 284.468
+      }
+    ],
+    "subtitle_status": {
+      "43145233194": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1UiHP6SEK9": {
+    "bvid": "BV1UiHP6SEK9",
+    "subtitle_records": [
+      {
+        "cid": 43008789589,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1UiHP6SEK9/43008789589/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨隋坡|米其林二星的西湖醋鱼是啥味道？！",
+    "desc": "",
+    "pubdate": 1792899000,
+    "aid": null,
+    "stat": {
+      "view": 995718,
+      "like": 74246,
+      "reply": 3157
+    },
+    "pages": [
+      {
+        "cid": 43008789589,
+        "page": 1,
+        "part": "特厨隋坡|米其林二星的西湖醋鱼是啥味道？！",
+        "duration": 314.467
+      }
+    ],
+    "subtitle_status": {
+      "43008789589": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1mCnF6vEYn": {
+    "bvid": "BV1mCnF6vEYn",
+    "subtitle_records": [
+      {
+        "cid": 42888201765,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1mCnF6vEYn/42888201765/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨隋坡|排队超久的网红店？！今天我们来说实话！！",
+    "desc": "",
+    "pubdate": 1792467000,
+    "aid": null,
+    "stat": {
+      "view": 2040010,
+      "like": 128341,
+      "reply": 2999
+    },
+    "pages": [
+      {
+        "cid": 42888201765,
+        "page": 1,
+        "part": "特厨隋坡|排队超久的网红店？！今天我们来说实话！！",
+        "duration": 296.402
+      }
+    ],
+    "subtitle_status": {
+      "42888201765": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1S9H26MEAT": {
+    "bvid": "BV1S9H26MEAT",
+    "subtitle_records": [
+      {
+        "cid": 42548856998,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1S9H26MEAT/42548856998/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "矿山上的铜火锅？！特厨来一个沉浸式吃播！",
+    "desc": "",
+    "pubdate": 1791430200,
+    "aid": null,
+    "stat": {
+      "view": 2431603,
+      "like": 183081,
+      "reply": 6005
+    },
+    "pages": [
+      {
+        "cid": 42548856998,
+        "page": 1,
+        "part": "矿山上的铜火锅？！特厨来一个沉浸式吃播！",
+        "duration": 276.039
+      }
+    ],
+    "subtitle_status": {
+      "42548856998": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV16QHi6fESx": {
+    "bvid": "BV16QHi6fESx",
+    "subtitle_records": [
+      {
+        "cid": 42432922767,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV16QHi6fESx/42432922767/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店｜小李：他这个位置，还能有生意，说明味道真不错！",
+    "desc": "",
+    "pubdate": 1791084600,
+    "aid": null,
+    "stat": {
+      "view": 1769324,
+      "like": 136570,
+      "reply": 3780
+    },
+    "pages": [
+      {
+        "cid": 42432922767,
+        "page": 1,
+        "part": "特厨探店｜小李：他这个位置，还能有生意，说明味道真不错！",
+        "duration": 287.672
+      }
+    ],
+    "subtitle_status": {
+      "42432922767": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1pgaf6pEpQ": {
+    "bvid": "BV1pgaf6pEpQ",
+    "subtitle_records": [
+      {
+        "cid": 42346349160,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1pgaf6pEpQ/42346349160/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店 |加长版!他们说这是杭州最好吃的餐厅？！",
+    "desc": "",
+    "pubdate": 1790825400,
+    "aid": null,
+    "stat": {
+      "view": 1299633,
+      "like": 100534,
+      "reply": 3772
+    },
+    "pages": [
+      {
+        "cid": 42346349160,
+        "page": 1,
+        "part": "特厨探店 |加长版!他们说这是杭州最好吃的餐厅？！",
+        "duration": 478.053
+      }
+    ],
+    "subtitle_status": {
+      "42346349160": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1Uthv6fEKw": {
+    "bvid": "BV1Uthv6fEKw",
+    "subtitle_records": [
+      {
+        "cid": 42067755502,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1Uthv6fEKw/42067755502/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店｜最擅长做鲍鱼的餐厅？！阿一鲍鱼！",
+    "desc": "",
+    "pubdate": 1789961400,
+    "aid": null,
+    "stat": {
+      "view": 1950074,
+      "like": 94947,
+      "reply": 8900
+    },
+    "pages": [
+      {
+        "cid": 42067755502,
+        "page": 1,
+        "part": "特厨探店｜最擅长做鲍鱼的餐厅？！阿一鲍鱼！",
+        "duration": 225.651
+      }
+    ],
+    "subtitle_status": {
+      "42067755502": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1JBeS6FEEH": {
+    "bvid": "BV1JBeS6FEEH",
+    "subtitle_records": [
+      {
+        "cid": 42006742596,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1JBeS6FEEH/42006742596/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店｜广州到底把做饭研究的多明白？",
+    "desc": "",
+    "pubdate": 1789788600,
+    "aid": null,
+    "stat": {
+      "view": 1929279,
+      "like": 127739,
+      "reply": 3811
+    },
+    "pages": [
+      {
+        "cid": 42006742596,
+        "page": 1,
+        "part": "特厨探店｜广州到底把做饭研究的多明白？",
+        "duration": 335.272
+      }
+    ],
+    "subtitle_status": {
+      "42006742596": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1mheg6hE6j": {
+    "bvid": "BV1mheg6hE6j",
+    "subtitle_records": [
+      {
+        "cid": 41966504789,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1mheg6hE6j/41966504789/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨做饭|零差评零失误！专业厨师的压箱底",
+    "desc": "",
+    "pubdate": 1789635000,
+    "aid": null,
+    "stat": {
+      "view": 2253695,
+      "like": 195808,
+      "reply": 6820
+    },
+    "pages": [
+      {
+        "cid": 41966504789,
+        "page": 1,
+        "part": "特厨做饭|零差评零失误！专业厨师的压箱底",
+        "duration": 410.436
+      }
+    ],
+    "subtitle_status": {
+      "41966504789": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1xLYU6AEEs": {
+    "bvid": "BV1xLYU6AEEs",
+    "subtitle_records": [
+      {
+        "cid": 41804956457,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1xLYU6AEEs/41804956457/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店 | 餐桌上有一座山？！维人和餐厅",
+    "desc": "",
+    "pubdate": 1789183800,
+    "aid": null,
+    "stat": {
+      "view": 1288261,
+      "like": 89765,
+      "reply": 1337
+    },
+    "pages": [
+      {
+        "cid": 41804956457,
+        "page": 1,
+        "part": "特厨探店 | 餐桌上有一座山？！维人和餐厅",
+        "duration": 152.044
+      }
+    ],
+    "subtitle_status": {
+      "41804956457": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1S1bg6WEEh": {
+    "bvid": "BV1S1bg6WEEh",
+    "subtitle_records": [
+      {
+        "cid": 41671462506,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1S1bg6WEEh/41671462506/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨做菜｜这可能是你最容易学会的糖醋鲤鱼做法！",
+    "desc": "",
+    "pubdate": 1788856200,
+    "aid": null,
+    "stat": {
+      "view": 1121998,
+      "like": 89619,
+      "reply": 2822
+    },
+    "pages": [
+      {
+        "cid": 41671462506,
+        "page": 1,
+        "part": "特厨做菜｜这可能是你最容易学会的糖醋鲤鱼做法！",
+        "duration": 499.391
+      }
+    ],
+    "subtitle_status": {
+      "41671462506": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV11gtf6mEk9": {
+    "bvid": "BV11gtf6mEk9",
+    "subtitle_records": [
+      {
+        "cid": 41559459703,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV11gtf6mEk9/41559459703/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店丨吃宵夜得靠抢?二探洪达面馆!",
+    "desc": "",
+    "pubdate": 1788492600,
+    "aid": null,
+    "stat": {
+      "view": 1523113,
+      "like": 112883,
+      "reply": 3109
+    },
+    "pages": [
+      {
+        "cid": 41559459703,
+        "page": 1,
+        "part": "特厨探店丨吃宵夜得靠抢?二探洪达面馆!",
+        "duration": 186.177
+      }
+    ],
+    "subtitle_status": {
+      "41559459703": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV18s4k6gESU": {
+    "bvid": "BV18s4k6gESU",
+    "subtitle_records": [],
+    "subs_done": false,
+    "title": "如果让专业厨师推荐私藏小店他们会怎么推荐？",
+    "desc": "霆锋很好奇专业大厨们下班后都会去哪些宝藏餐厅解馋？正好「大众点评锋味宝藏榜」9月20日即将发布！一起去看看广州本地专业厨师藏在心尖尖的饭店，到底是什么样！",
+    "pubdate": 1788060600,
+    "aid": null,
+    "stat": {
+      "view": 3281035,
+      "like": 398771,
+      "reply": 5296
+    },
+    "pages": [
+      {
+        "cid": 41384412833,
+        "page": 1,
+        "part": "如果让专业厨师推荐私藏小店他们会怎么推荐？",
+        "duration": 501.902
+      }
+    ],
+    "subtitle_status": {
+      "41384412833": "subtitle_unavailable"
+    },
+    "acquisition_status": "incomplete"
+  },
+  "BV1dehw61EwH": {
+    "bvid": "BV1dehw61EwH",
+    "subtitle_records": [
+      {
+        "cid": 41317827620,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1dehw61EwH/41317827620/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店｜这真不会赔？肉铺老板就敢这样定价？",
+    "desc": "",
+    "pubdate": 1787820600,
+    "aid": null,
+    "stat": {
+      "view": 2373719,
+      "like": 157876,
+      "reply": 4446
+    },
+    "pages": [
+      {
+        "cid": 41317827620,
+        "page": 1,
+        "part": "特厨探店｜这真不会赔？肉铺老板就敢这样定价？",
+        "duration": 182.787
+      }
+    ],
+    "subtitle_status": {
+      "41317827620": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1fzhM6iE5k": {
+    "bvid": "BV1fzhM6iE5k",
+    "subtitle_records": [
+      {
+        "cid": 41237351970,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1fzhM6iE5k/41237351970/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店丨北京最难订?!吃到了能记一生的炒饭!-龙庭",
+    "desc": "",
+    "pubdate": 1787628600,
+    "aid": null,
+    "stat": {
+      "view": 2165223,
+      "like": 131579,
+      "reply": 9332
+    },
+    "pages": [
+      {
+        "cid": 41237351970,
+        "page": 1,
+        "part": "特厨探店丨北京最难订?!吃到了能记一生的炒饭!-龙庭",
+        "duration": 202.385
+      }
+    ],
+    "subtitle_status": {
+      "41237351970": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1W9bk6MEqV": {
+    "bvid": "BV1W9bk6MEqV",
+    "subtitle_records": [
+      {
+        "cid": 40930837401,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1W9bk6MEqV/40930837401/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店丨没外卖没优惠？！全靠味道出名的南昌小馆子是啥样！",
+    "desc": "",
+    "pubdate": 1786851000,
+    "aid": null,
+    "stat": {
+      "view": 1434240,
+      "like": 92576,
+      "reply": 2446
+    },
+    "pages": [
+      {
+        "cid": 40930837401,
+        "page": 1,
+        "part": "特厨探店丨没外卖没优惠？！全靠味道出名的南昌小馆子是啥样！",
+        "duration": 182.578
+      }
+    ],
+    "subtitle_status": {
+      "40930837401": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1xKgs6rECZ": {
+    "bvid": "BV1xKgs6rECZ",
+    "subtitle_records": [
+      {
+        "cid": 40883654003,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1xKgs6rECZ/40883654003/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "隋坡加上安秋金，先狂旋饭后比心-五马难追盖码饭！",
+    "desc": "",
+    "pubdate": 1786676400,
+    "aid": null,
+    "stat": {
+      "view": 889285,
+      "like": 56397,
+      "reply": 2051
+    },
+    "pages": [
+      {
+        "cid": 40883654003,
+        "page": 1,
+        "part": "隋坡加上安秋金，先狂旋饭后比心-五马难追盖码饭！",
+        "duration": 478.889
+      }
+    ],
+    "subtitle_status": {
+      "40883654003": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1wU346yEMH": {
+    "bvid": "BV1wU346yEMH",
+    "subtitle_records": [
+      {
+        "cid": 40438268698,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1wU346yEMH/40438268698/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨做饭|小龙虾的季节就得吃小龙虾！",
+    "desc": "",
+    "pubdate": 1785468600,
+    "aid": null,
+    "stat": {
+      "view": 1191869,
+      "like": 81733,
+      "reply": 2006
+    },
+    "pages": [
+      {
+        "cid": 40438268698,
+        "page": 1,
+        "part": "特厨做饭|小龙虾的季节就得吃小龙虾！",
+        "duration": 263.734
+      }
+    ],
+    "subtitle_status": {
+      "40438268698": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1oe356vEQE": {
+    "bvid": "BV1oe356vEQE",
+    "subtitle_records": [
+      {
+        "cid": 40302936159,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1oe356vEQE/40302936159/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|酒店大厨开的小馆？生意好到隔壁都租了下来？！—胡记小炒",
+    "desc": "",
+    "pubdate": 1785036600,
+    "aid": null,
+    "stat": {
+      "view": 2141213,
+      "like": 124386,
+      "reply": 2510
+    },
+    "pages": [
+      {
+        "cid": 40302936159,
+        "page": 1,
+        "part": "特厨探店|酒店大厨开的小馆？生意好到隔壁都租了下来？！—胡记小炒",
+        "duration": 187.501
+      }
+    ],
+    "subtitle_status": {
+      "40302936159": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1uLgy6TEfA": {
+    "bvid": "BV1uLgy6TEfA",
+    "subtitle_records": [
+      {
+        "cid": 40205026207,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1uLgy6TEfA/40205026207/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|本地人推荐!几代人传承的小饭店—毛毛饭店",
+    "desc": "",
+    "pubdate": 1784777400,
+    "aid": null,
+    "stat": {
+      "view": 2047338,
+      "like": 149850,
+      "reply": 3605
+    },
+    "pages": [
+      {
+        "cid": 40205026207,
+        "page": 1,
+        "part": "特厨探店|本地人推荐!几代人传承的小饭店—毛毛饭店",
+        "duration": 251.334
+      }
+    ],
+    "subtitle_status": {
+      "40205026207": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1k1KN6BEvw": {
+    "bvid": "BV1k1KN6BEvw",
+    "subtitle_records": [
+      {
+        "cid": 40080901302,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1k1KN6BEvw/40080901302/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|小又隐蔽，凭什么能开十多年？小李私藏—三秦人家",
+    "desc": "",
+    "pubdate": 1784431800,
+    "aid": null,
+    "stat": {
+      "view": 1985955,
+      "like": 125438,
+      "reply": 4530
+    },
+    "pages": [
+      {
+        "cid": 40080901302,
+        "page": 1,
+        "part": "特厨探店|小又隐蔽，凭什么能开十多年？小李私藏—三秦人家",
+        "duration": 221.007
+      }
+    ],
+    "subtitle_status": {
+      "40080901302": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1xWKM6nEU7": {
+    "bvid": "BV1xWKM6nEU7",
+    "subtitle_records": [
+      {
+        "cid": 39992690019,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1xWKM6nEU7/39992690019/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|小区和菜市场中间？很难不好吃的—老兵私房菜",
+    "desc": "",
+    "pubdate": 1784172876,
+    "aid": null,
+    "stat": {
+      "view": 2438610,
+      "like": 168724,
+      "reply": 3453
+    },
+    "pages": [
+      {
+        "cid": 39992690019,
+        "page": 1,
+        "part": "特厨探店|小区和菜市场中间？很难不好吃的—老兵私房菜",
+        "duration": 330.402
+      }
+    ],
+    "subtitle_status": {
+      "39992690019": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1LyNw6UEmD": {
+    "bvid": "BV1LyNw6UEmD",
+    "subtitle_records": [
+      {
+        "cid": 39863451805,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1LyNw6UEmD/39863451805/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|不管菜谱有没有，只要好吃就是好菜—151",
+    "desc": "",
+    "pubdate": 1783827000,
+    "aid": null,
+    "stat": {
+      "view": 1918352,
+      "like": 119506,
+      "reply": 1965
+    },
+    "pages": [
+      {
+        "cid": 39863451805,
+        "page": 1,
+        "part": "特厨探店|不管菜谱有没有，只要好吃就是好菜—151",
+        "duration": 200.876
+      }
+    ],
+    "subtitle_status": {
+      "39863451805": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1f9M76BEN9": {
+    "bvid": "BV1f9M76BEN9",
+    "subtitle_records": [
+      {
+        "cid": 39770326538,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1f9M76BEN9/39770326538/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|牛排骨有啥不一样？！—二境餐厅",
+    "desc": "",
+    "pubdate": 1783567800,
+    "aid": null,
+    "stat": {
+      "view": 1690758,
+      "like": 112496,
+      "reply": 2691
+    },
+    "pages": [
+      {
+        "cid": 39770326538,
+        "page": 1,
+        "part": "特厨探店|牛排骨有啥不一样？！—二境餐厅",
+        "duration": 156.572
+      }
+    ],
+    "subtitle_status": {
+      "39770326538": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1MzTm6qEHs": {
+    "bvid": "BV1MzTm6qEHs",
+    "subtitle_records": [
+      {
+        "cid": 39907690254,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1MzTm6qEHs/39907690254/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|为什么开水白菜是开水白菜？—尘香餐厅",
+    "desc": "",
+    "pubdate": 1783308600,
+    "aid": null,
+    "stat": {
+      "view": 2382636,
+      "like": 151901,
+      "reply": 8359
+    },
+    "pages": [
+      {
+        "cid": 39907690254,
+        "page": 1,
+        "part": "特厨探店|为什么开水白菜是开水白菜？—尘香餐厅",
+        "duration": 205.288
+      }
+    ],
+    "subtitle_status": {
+      "39907690254": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1zATE6BEkA": {
+    "bvid": "BV1zATE6BEkA",
+    "subtitle_records": [
+      {
+        "cid": 39595806158,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1zATE6BEkA/39595806158/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|边吃边笑，重庆本地人的食堂到底咋样？—口未餐家常菜",
+    "desc": "",
+    "pubdate": 1783049400,
+    "aid": null,
+    "stat": {
+      "view": 1984763,
+      "like": 177621,
+      "reply": 3864
+    },
+    "pages": [
+      {
+        "cid": 39595806158,
+        "page": 1,
+        "part": "特厨探店|边吃边笑，重庆本地人的食堂到底咋样？—口未餐家常菜",
+        "duration": 246.573
+      }
+    ],
+    "subtitle_status": {
+      "39595806158": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1TwTL6kEjk": {
+    "bvid": "BV1TwTL6kEjk",
+    "subtitle_records": [
+      {
+        "cid": 39494158829,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1TwTL6kEjk/39494158829/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "这是全国最低调的黑珍珠，看门头谁能想到？—飞龙唐小馆",
+    "desc": "",
+    "pubdate": 1782703800,
+    "aid": null,
+    "stat": {
+      "view": 1721885,
+      "like": 114061,
+      "reply": 2358
+    },
+    "pages": [
+      {
+        "cid": 39494158829,
+        "page": 1,
+        "part": "这是全国最低调的黑珍珠，看门头谁能想到？—飞龙唐小馆",
+        "duration": 176.334
+      }
+    ],
+    "subtitle_status": {
+      "39494158829": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1EB7G62EGE": {
+    "bvid": "BV1EB7G62EGE",
+    "subtitle_records": [
+      {
+        "cid": 39419117898,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1EB7G62EGE/39419117898/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "一集吃爽！在重庆的肥肠鸡加串串香到底有啥不一样？！！",
+    "desc": "",
+    "pubdate": 1782531000,
+    "aid": null,
+    "stat": {
+      "view": 3393345,
+      "like": 261400,
+      "reply": 3273
+    },
+    "pages": [
+      {
+        "cid": 39419117898,
+        "page": 1,
+        "part": "一集吃爽！在重庆的肥肠鸡加串串香到底有啥不一样？！！",
+        "duration": 284.421
+      }
+    ],
+    "subtitle_status": {
+      "39419117898": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1Bbjp6zEcd": {
+    "bvid": "BV1Bbjp6zEcd",
+    "subtitle_records": [
+      {
+        "cid": 39274155820,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1Bbjp6zEcd/39274155820/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|新疆最好的烤全羊？！—尉犁烤羊",
+    "desc": "",
+    "pubdate": 1782012600,
+    "aid": null,
+    "stat": {
+      "view": 2116904,
+      "like": 144863,
+      "reply": 4202
+    },
+    "pages": [
+      {
+        "cid": 39274155820,
+        "page": 1,
+        "part": "特厨探店|新疆最好的烤全羊？！—尉犁烤羊",
+        "duration": 233.941
+      }
+    ],
+    "subtitle_status": {
+      "39274155820": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1Acjc6JEA3": {
+    "bvid": "BV1Acjc6JEA3",
+    "subtitle_records": [
+      {
+        "cid": 39209468438,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1Acjc6JEA3/39209468438/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "1234步职业厨师教你如何自助餐吃回本！",
+    "desc": "",
+    "pubdate": 1781772966,
+    "aid": null,
+    "stat": {
+      "view": 2476873,
+      "like": 178864,
+      "reply": 4857
+    },
+    "pages": [
+      {
+        "cid": 39209468438,
+        "page": 1,
+        "part": "1234步职业厨师教你如何自助餐吃回本！",
+        "duration": 320.505
+      }
+    ],
+    "subtitle_status": {
+      "39209468438": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1qYJu6gEqk": {
+    "bvid": "BV1qYJu6gEqk",
+    "subtitle_records": [
+      {
+        "cid": 39125978772,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1qYJu6gEqk/39125978772/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|不好找，无环境，但好吃的—特色辣子鸡大盘鸡",
+    "desc": "",
+    "pubdate": 1781494200,
+    "aid": null,
+    "stat": {
+      "view": 1807525,
+      "like": 114325,
+      "reply": 3572
+    },
+    "pages": [
+      {
+        "cid": 39125978772,
+        "page": 1,
+        "part": "特厨探店|不好找，无环境，但好吃的—特色辣子鸡大盘鸡",
+        "duration": 265.034
+      }
+    ],
+    "subtitle_status": {
+      "39125978772": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1xaEo6pEyd": {
+    "bvid": "BV1xaEo6pEyd",
+    "subtitle_records": [
+      {
+        "cid": 39020463763,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1xaEo6pEyd/39020463763/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|开在家里手慢无？！好吃的—耀兴饭店",
+    "desc": "",
+    "pubdate": 1781148600,
+    "aid": null,
+    "stat": {
+      "view": 1826477,
+      "like": 131496,
+      "reply": 3535
+    },
+    "pages": [
+      {
+        "cid": 39020463763,
+        "page": 1,
+        "part": "特厨探店|开在家里手慢无？！好吃的—耀兴饭店",
+        "duration": 206.541
+      }
+    ],
+    "subtitle_status": {
+      "39020463763": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1AnEx68Eh5": {
+    "bvid": "BV1AnEx68Eh5",
+    "subtitle_records": [
+      {
+        "cid": 38921308257,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1AnEx68Eh5/38921308257/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|明星开的小面馆，真实水平到底怎么样—八号院儿",
+    "desc": "",
+    "pubdate": 1780803000,
+    "aid": null,
+    "stat": {
+      "view": 2041596,
+      "like": 106370,
+      "reply": 3907
+    },
+    "pages": [
+      {
+        "cid": 38921308257,
+        "page": 1,
+        "part": "特厨探店|明星开的小面馆，真实水平到底怎么样—八号院儿",
+        "duration": 156.781
+      }
+    ],
+    "subtitle_status": {
+      "38921308257": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1t7VQ6fEN7": {
+    "bvid": "BV1t7VQ6fEN7",
+    "subtitle_records": [
+      {
+        "cid": 38750586624,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1t7VQ6fEN7/38750586624/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|四张桌子的小店一顿吃几千？—旧款宁波饭店",
+    "desc": "",
+    "pubdate": 1780284600,
+    "aid": null,
+    "stat": {
+      "view": 2097015,
+      "like": 130436,
+      "reply": 3183
+    },
+    "pages": [
+      {
+        "cid": 38750586624,
+        "page": 1,
+        "part": "特厨探店|四张桌子的小店一顿吃几千？—旧款宁波饭店",
+        "duration": 226.511
+      }
+    ],
+    "subtitle_status": {
+      "38750586624": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1vUVg64EJj": {
+    "bvid": "BV1vUVg64EJj",
+    "subtitle_records": [
+      {
+        "cid": 38711789868,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1vUVg64EJj/38711789868/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "三个菜下了七碗饭！超全猪肝下饭菜！",
+    "desc": "",
+    "pubdate": 1780111927,
+    "aid": null,
+    "stat": {
+      "view": 1728059,
+      "like": 105213,
+      "reply": 3681
+    },
+    "pages": [
+      {
+        "cid": 38711789868,
+        "page": 1,
+        "part": "三个菜下了七碗饭！超全猪肝下饭菜！",
+        "duration": 547.736
+      }
+    ],
+    "subtitle_status": {
+      "38711789868": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1RUGf6oE74": {
+    "bvid": "BV1RUGf6oE74",
+    "subtitle_records": [
+      {
+        "cid": 38611781765,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1RUGf6oE74/38611781765/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|不惊艳，但是吃着超级舒服的家常菜—老太婆家常菜",
+    "desc": "",
+    "pubdate": 1779766200,
+    "aid": null,
+    "stat": {
+      "view": 1893452,
+      "like": 150715,
+      "reply": 2519
+    },
+    "pages": [
+      {
+        "cid": 38611781765,
+        "page": 1,
+        "part": "特厨探店|不惊艳，但是吃着超级舒服的家常菜—老太婆家常菜",
+        "duration": 213.855
+      }
+    ],
+    "subtitle_status": {
+      "38611781765": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1e4Ly64EvL": {
+    "bvid": "BV1e4Ly64EvL",
+    "subtitle_records": [
+      {
+        "cid": 38465046312,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1e4Ly64EvL/38465046312/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|差点全好评！超坦诚的老板做出来的菜是什么味道？—胖妹饭店",
+    "desc": "",
+    "pubdate": 1779247800,
+    "aid": null,
+    "stat": {
+      "view": 2140971,
+      "like": 152211,
+      "reply": 2712
+    },
+    "pages": [
+      {
+        "cid": 38465046312,
+        "page": 1,
+        "part": "特厨探店|差点全好评！超坦诚的老板做出来的菜是什么味道？—胖妹饭店",
+        "duration": 261.867
+      }
+    ],
+    "subtitle_status": {
+      "38465046312": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1C8L36jEYN": {
+    "bvid": "BV1C8L36jEYN",
+    "subtitle_records": [
+      {
+        "cid": 38378934036,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1C8L36jEYN/38378934036/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|讲究的淮扬菜是什么样？—二泉园老菜馆",
+    "desc": "",
+    "pubdate": 1779075000,
+    "aid": null,
+    "stat": {
+      "view": 1844404,
+      "like": 113558,
+      "reply": 3056
+    },
+    "pages": [
+      {
+        "cid": 38378934036,
+        "page": 1,
+        "part": "特厨探店|讲究的淮扬菜是什么样？—二泉园老菜馆",
+        "duration": 224.723
+      }
+    ],
+    "subtitle_status": {
+      "38378934036": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV11z536jELv": {
+    "bvid": "BV11z536jELv",
+    "subtitle_records": [
+      {
+        "cid": 38289016280,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV11z536jELv/38289016280/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|吃过但是剪视频又看馋了的—叶家大院",
+    "desc": "",
+    "pubdate": 1778643000,
+    "aid": null,
+    "stat": {
+      "view": 2135909,
+      "like": 151051,
+      "reply": 3271
+    },
+    "pages": [
+      {
+        "cid": 38289016280,
+        "page": 1,
+        "part": "特厨探店|吃过但是剪视频又看馋了的—叶家大院",
+        "duration": 219.067
+      }
+    ],
+    "subtitle_status": {
+      "38289016280": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV12QdKBTEyQ": {
+    "bvid": "BV12QdKBTEyQ",
+    "subtitle_records": [
+      {
+        "cid": 38173804874,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV12QdKBTEyQ/38173804874/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|一口说脏话，村子里的徽菜天花板？—九斤饭店",
+    "desc": "",
+    "pubdate": 1778209200,
+    "aid": null,
+    "stat": {
+      "view": 3101012,
+      "like": 195836,
+      "reply": 4270
+    },
+    "pages": [
+      {
+        "cid": 38173804874,
+        "page": 1,
+        "part": "特厨探店|一口说脏话，村子里的徽菜天花板？—九斤饭店",
+        "duration": 252.001
+      }
+    ],
+    "subtitle_status": {
+      "38173804874": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1cqRJBwEo6": {
+    "bvid": "BV1cqRJBwEo6",
+    "subtitle_records": [
+      {
+        "cid": 38114165966,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1cqRJBwEo6/38114165966/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|淮安获奖超多的淮安宾馆餐厅体验到底怎么样？",
+    "desc": "",
+    "pubdate": 1778038200,
+    "aid": null,
+    "stat": {
+      "view": 1856697,
+      "like": 113653,
+      "reply": 3124
+    },
+    "pages": [
+      {
+        "cid": 38114165966,
+        "page": 1,
+        "part": "特厨探店|淮安获奖超多的淮安宾馆餐厅体验到底怎么样？",
+        "duration": 155.767
+      }
+    ],
+    "subtitle_status": {
+      "38114165966": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV17pREBQEDS": {
+    "bvid": "BV17pREBQEDS",
+    "subtitle_records": [
+      {
+        "cid": 38035849492,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV17pREBQEDS/38035849492/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|在内蒙吃肉还能吃到爽？！—四子王焖把炖",
+    "desc": "",
+    "pubdate": 1777779000,
+    "aid": null,
+    "stat": {
+      "view": 1727378,
+      "like": 123995,
+      "reply": 3911
+    },
+    "pages": [
+      {
+        "cid": 38035849492,
+        "page": 1,
+        "part": "特厨探店|在内蒙吃肉还能吃到爽？！—四子王焖把炖",
+        "duration": 275.067
+      }
+    ],
+    "subtitle_status": {
+      "38035849492": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1JK9BB3E7N": {
+    "bvid": "BV1JK9BB3E7N",
+    "subtitle_records": [
+      {
+        "cid": 37991351971,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1JK9BB3E7N/37991351971/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "一周年啦，给大家抽个奖！",
+    "desc": "",
+    "pubdate": 1777629600,
+    "aid": null,
+    "stat": {
+      "view": 1883653,
+      "like": 176137,
+      "reply": 94869
+    },
+    "pages": [
+      {
+        "cid": 37991351971,
+        "page": 1,
+        "part": "一周年啦，给大家抽个奖！",
+        "duration": 34.066
+      }
+    ],
+    "subtitle_status": {
+      "37991351971": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1PE9tBpEek": {
+    "bvid": "BV1PE9tBpEek",
+    "subtitle_records": [
+      {
+        "cid": 37955243094,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1PE9tBpEek/37955243094/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|什么样的店才能被称为人生饭店？—小六子饺面店",
+    "desc": "",
+    "pubdate": 1777519800,
+    "aid": null,
+    "stat": {
+      "view": 2000457,
+      "like": 157876,
+      "reply": 5739
+    },
+    "pages": [
+      {
+        "cid": 37955243094,
+        "page": 1,
+        "part": "特厨探店|什么样的店才能被称为人生饭店？—小六子饺面店",
+        "duration": 166.603
+      }
+    ],
+    "subtitle_status": {
+      "37955243094": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1pmo7BYEX7": {
+    "bvid": "BV1pmo7BYEX7",
+    "subtitle_records": [
+      {
+        "cid": 37793697511,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1pmo7BYEX7/37793697511/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|辣但不是干辣！调味也非常好的—新安辣菜馆",
+    "desc": "",
+    "pubdate": 1777087800,
+    "aid": null,
+    "stat": {
+      "view": 2331281,
+      "like": 182190,
+      "reply": 5386
+    },
+    "pages": [
+      {
+        "cid": 37793697511,
+        "page": 1,
+        "part": "特厨探店|辣但不是干辣！调味也非常好的—新安辣菜馆",
+        "duration": 354.104
+      }
+    ],
+    "subtitle_status": {
+      "37793697511": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1KToHB7Est": {
+    "bvid": "BV1KToHB7Est",
+    "subtitle_records": [
+      {
+        "cid": 37707777469,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1KToHB7Est/37707777469/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|来淮安物理意义上的\"偷\"菜—蒲鲜菜馆",
+    "desc": "",
+    "pubdate": 1776828600,
+    "aid": null,
+    "stat": {
+      "view": 1627248,
+      "like": 125776,
+      "reply": 2787
+    },
+    "pages": [
+      {
+        "cid": 37707777469,
+        "page": 1,
+        "part": "特厨探店|来淮安物理意义上的\"偷\"菜—蒲鲜菜馆",
+        "duration": 261.016
+      }
+    ],
+    "subtitle_status": {
+      "37707777469": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1DLQhBPE7W": {
+    "bvid": "BV1DLQhBPE7W",
+    "subtitle_records": [
+      {
+        "cid": 37481679018,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1DLQhBPE7W/37481679018/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|下了高铁冒着雨来的餐厅，就这？—徽菜博物馆餐厅",
+    "desc": "",
+    "pubdate": 1776137400,
+    "aid": null,
+    "stat": {
+      "view": 1898114,
+      "like": 117269,
+      "reply": 4133
+    },
+    "pages": [
+      {
+        "cid": 37481679018,
+        "page": 1,
+        "part": "特厨探店|下了高铁冒着雨来的餐厅，就这？—徽菜博物馆餐厅",
+        "duration": 180.767
+      }
+    ],
+    "subtitle_status": {
+      "37481679018": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1BRQNBrEcB": {
+    "bvid": "BV1BRQNBrEcB",
+    "subtitle_records": [
+      {
+        "cid": 37401920232,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1BRQNBrEcB/37401920232/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|全好评！全好吃！上海街边小馆到底多好吃—姐妹餐厅",
+    "desc": "",
+    "pubdate": 1775878200,
+    "aid": null,
+    "stat": {
+      "view": 2500990,
+      "like": 210435,
+      "reply": 6947
+    },
+    "pages": [
+      {
+        "cid": 37401920232,
+        "page": 1,
+        "part": "特厨探店|全好评！全好吃！上海街边小馆到底多好吃—姐妹餐厅",
+        "duration": 237.888
+      }
+    ],
+    "subtitle_status": {
+      "37401920232": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1j9DJB1EdU": {
+    "bvid": "BV1j9DJB1EdU",
+    "subtitle_records": [
+      {
+        "cid": 37346673921,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1j9DJB1EdU/37346673921/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|一顿饭4x万？是噱头还是实力—西郊5号",
+    "desc": "",
+    "pubdate": 1775705400,
+    "aid": null,
+    "stat": {
+      "view": 3417660,
+      "like": 177606,
+      "reply": 6253
+    },
+    "pages": [
+      {
+        "cid": 37346673921,
+        "page": 1,
+        "part": "特厨探店|一顿饭4x万？是噱头还是实力—西郊5号",
+        "duration": 258.182
+      }
+    ],
+    "subtitle_status": {
+      "37346673921": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1qoDgBQE8E": {
+    "bvid": "BV1qoDgBQE8E",
+    "subtitle_records": [
+      {
+        "cid": 37245947831,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1qoDgBQE8E/37245947831/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|上海的...小店？—茂盛饮食店",
+    "desc": "",
+    "pubdate": 1775359800,
+    "aid": null,
+    "stat": {
+      "view": 1933434,
+      "like": 124539,
+      "reply": 3188
+    },
+    "pages": [
+      {
+        "cid": 37245947831,
+        "page": 1,
+        "part": "特厨探店|上海的...小店？—茂盛饮食店",
+        "duration": 146.533
+      }
+    ],
+    "subtitle_status": {
+      "37245947831": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV11x93BkEnq": {
+    "bvid": "BV11x93BkEnq",
+    "subtitle_records": [
+      {
+        "cid": 37135257523,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV11x93BkEnq/37135257523/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|连续8年米*林？真实水平到底如何！—鹿园餐厅",
+    "desc": "",
+    "pubdate": 1775014200,
+    "aid": null,
+    "stat": {
+      "view": 1900823,
+      "like": 128274,
+      "reply": 3165
+    },
+    "pages": [
+      {
+        "cid": 37135257523,
+        "page": 1,
+        "part": "特厨探店|连续8年米*林？真实水平到底如何！—鹿园餐厅",
+        "duration": 222.609
+      }
+    ],
+    "subtitle_status": {
+      "37135257523": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV19UXxBFEj7": {
+    "bvid": "BV19UXxBFEj7",
+    "subtitle_records": [
+      {
+        "cid": 37005690337,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV19UXxBFEj7/37005690337/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|特级厨师帮小店...吗？",
+    "desc": "-",
+    "pubdate": 1774582200,
+    "aid": null,
+    "stat": {
+      "view": 2426833,
+      "like": 174975,
+      "reply": 7670
+    },
+    "pages": [
+      {
+        "cid": 37005690337,
+        "page": 1,
+        "part": "特厨探店|特级厨师帮小店...吗？",
+        "duration": 218.833
+      }
+    ],
+    "subtitle_status": {
+      "37005690337": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1uHANzsEEk": {
+    "bvid": "BV1uHANzsEEk",
+    "subtitle_records": [
+      {
+        "cid": 36873700789,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1uHANzsEEk/36873700789/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|四张桌子干了三碗饭（来个下联）—江西小炒",
+    "desc": "",
+    "pubdate": 1774150200,
+    "aid": null,
+    "stat": {
+      "view": 2323195,
+      "like": 150115,
+      "reply": 4021
+    },
+    "pages": [
+      {
+        "cid": 36873700789,
+        "page": 1,
+        "part": "特厨探店|四张桌子干了三碗饭（来个下联）—江西小炒",
+        "duration": 202.766
+      }
+    ],
+    "subtitle_status": {
+      "36873700789": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV147wBzGEek": {
+    "bvid": "BV147wBzGEek",
+    "subtitle_records": [
+      {
+        "cid": 36798139443,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV147wBzGEek/36798139443/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|太原便宜又好吃的饭店是什么样的？—同泽和",
+    "desc": "",
+    "pubdate": 1773891000,
+    "aid": null,
+    "stat": {
+      "view": 1704777,
+      "like": 114472,
+      "reply": 2843
+    },
+    "pages": [
+      {
+        "cid": 36798139443,
+        "page": 1,
+        "part": "特厨探店|太原便宜又好吃的饭店是什么样的？—同泽和",
+        "duration": 138.669
+      }
+    ],
+    "subtitle_status": {
+      "36798139443": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1ozcCzBEMD": {
+    "bvid": "BV1ozcCzBEMD",
+    "subtitle_records": [
+      {
+        "cid": 36654419393,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1ozcCzBEMD/36654419393/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|山西菜天花板？！—山西饭店",
+    "desc": "",
+    "pubdate": 1773372600,
+    "aid": null,
+    "stat": {
+      "view": 2108728,
+      "like": 130792,
+      "reply": 9134
+    },
+    "pages": [
+      {
+        "cid": 36654419393,
+        "page": 1,
+        "part": "特厨探店|山西菜天花板？！—山西饭店",
+        "duration": 191.5
+      }
+    ],
+    "subtitle_status": {
+      "36654419393": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV17LNGzbEyd": {
+    "bvid": "BV17LNGzbEyd",
+    "subtitle_records": [
+      {
+        "cid": 36556573172,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV17LNGzbEyd/36556573172/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|麻麻咧咧的面是什么面？—海旺黄酱面馆",
+    "desc": "",
+    "pubdate": 1773027000,
+    "aid": null,
+    "stat": {
+      "view": 1850950,
+      "like": 126791,
+      "reply": 4647
+    },
+    "pages": [
+      {
+        "cid": 36556573172,
+        "page": 1,
+        "part": "特厨探店|麻麻咧咧的面是什么面？—海旺黄酱面馆",
+        "duration": 167.033
+      }
+    ],
+    "subtitle_status": {
+      "36556573172": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1AhPuzZEFH": {
+    "bvid": "BV1AhPuzZEFH",
+    "subtitle_records": [
+      {
+        "cid": 36382376797,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1AhPuzZEFH/36382376797/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|吃着舒服的店真的不多见—纪家小馆",
+    "desc": "",
+    "pubdate": 1772422200,
+    "aid": null,
+    "stat": {
+      "view": 2262575,
+      "like": 140145,
+      "reply": 3088
+    },
+    "pages": [
+      {
+        "cid": 36382376797,
+        "page": 1,
+        "part": "特厨探店|吃着舒服的店真的不多见—纪家小馆",
+        "duration": 271.371
+      }
+    ],
+    "subtitle_status": {
+      "36382376797": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1wVcvzsEs9": {
+    "bvid": "BV1wVcvzsEs9",
+    "subtitle_records": [
+      {
+        "cid": 36010984144,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1wVcvzsEs9/36010984144/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|没有门头没有招牌的顺德小店—蒸四味",
+    "desc": "",
+    "pubdate": 1771817400,
+    "aid": null,
+    "stat": {
+      "view": 1670126,
+      "like": 108656,
+      "reply": 2033
+    },
+    "pages": [
+      {
+        "cid": 36010984144,
+        "page": 1,
+        "part": "特厨探店|没有门头没有招牌的顺德小店—蒸四味",
+        "duration": 193.1
+      }
+    ],
+    "subtitle_status": {
+      "36010984144": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1j2cizDEYM": {
+    "bvid": "BV1j2cizDEYM",
+    "subtitle_records": [
+      {
+        "cid": 36019244474,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1j2cizDEYM/36019244474/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|一人20吃一桌的—湖南擂茶",
+    "desc": "",
+    "pubdate": 1771471800,
+    "aid": null,
+    "stat": {
+      "view": 2416609,
+      "like": 176106,
+      "reply": 7220
+    },
+    "pages": [
+      {
+        "cid": 36019244474,
+        "page": 1,
+        "part": "特厨探店|一人20吃一桌的—湖南擂茶",
+        "duration": 230.202
+      }
+    ],
+    "subtitle_status": {
+      "36019244474": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1BUc4ztEsz": {
+    "bvid": "BV1BUc4ztEsz",
+    "subtitle_records": [
+      {
+        "cid": 35987456289,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1BUc4ztEsz/35987456289/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|美食之都最爱的老字号？！—香江饭店",
+    "desc": "",
+    "pubdate": 1771299000,
+    "aid": null,
+    "stat": {
+      "view": 1738470,
+      "like": 125173,
+      "reply": 3949
+    },
+    "pages": [
+      {
+        "cid": 35987456289,
+        "page": 1,
+        "part": "特厨探店|美食之都最爱的老字号？！—香江饭店",
+        "duration": 162.005
+      }
+    ],
+    "subtitle_status": {
+      "35987456289": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1m4FXzyEt9": {
+    "bvid": "BV1m4FXzyEt9",
+    "subtitle_records": [
+      {
+        "cid": 35970417641,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1m4FXzyEt9/35970417641/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|一桌子菜吃出了上下两极？！—顺峰烧鸡",
+    "desc": "",
+    "pubdate": 1771039800,
+    "aid": null,
+    "stat": {
+      "view": 1709392,
+      "like": 111053,
+      "reply": 2448
+    },
+    "pages": [
+      {
+        "cid": 35970417641,
+        "page": 1,
+        "part": "特厨探店|一桌子菜吃出了上下两极？！—顺峰烧鸡",
+        "duration": 179.1
+      }
+    ],
+    "subtitle_status": {
+      "35970417641": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1UQcTz9E8U": {
+    "bvid": "BV1UQcTz9E8U",
+    "subtitle_records": [
+      {
+        "cid": 35935881002,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1UQcTz9E8U/35935881002/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|出名但是评论两极分化？—水仙头私房菜到底怎么样！",
+    "desc": "",
+    "pubdate": 1770694200,
+    "aid": null,
+    "stat": {
+      "view": 1570224,
+      "like": 92495,
+      "reply": 1504
+    },
+    "pages": [
+      {
+        "cid": 35935881002,
+        "page": 1,
+        "part": "特厨探店|出名但是评论两极分化？—水仙头私房菜到底怎么样！",
+        "duration": 159.766
+      }
+    ],
+    "subtitle_status": {
+      "35935881002": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1vbF6zREWD": {
+    "bvid": "BV1vbF6zREWD",
+    "subtitle_records": [
+      {
+        "cid": 35851733191,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1vbF6zREWD/35851733191/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|常德的绝活店到底有多绝？！",
+    "desc": "",
+    "pubdate": 1770348600,
+    "aid": null,
+    "stat": {
+      "view": 1524273,
+      "like": 104286,
+      "reply": 6571
+    },
+    "pages": [
+      {
+        "cid": 35851733191,
+        "page": 1,
+        "part": "特厨探店|常德的绝活店到底有多绝？！",
+        "duration": 209.42
+      }
+    ],
+    "subtitle_status": {
+      "35851733191": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1LuFTz8EPb": {
+    "bvid": "BV1LuFTz8EPb",
+    "subtitle_records": [
+      {
+        "cid": 35778202851,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1LuFTz8EPb/35778202851/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|吃完准备偷锅但是最后忍住了—张伟家农家私房菜",
+    "desc": "",
+    "pubdate": 1770089400,
+    "aid": null,
+    "stat": {
+      "view": 2249587,
+      "like": 153055,
+      "reply": 4981
+    },
+    "pages": [
+      {
+        "cid": 35778202851,
+        "page": 1,
+        "part": "特厨探店|吃完准备偷锅但是最后忍住了—张伟家农家私房菜",
+        "duration": 200.388
+      }
+    ],
+    "subtitle_status": {
+      "35778202851": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1sg6zBnE3d": {
+    "bvid": "BV1sg6zBnE3d",
+    "subtitle_records": [
+      {
+        "cid": 35716468252,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1sg6zBnE3d/35716468252/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|2026年度饭店？好吃到说脏话—老常德土锅土灶",
+    "desc": "",
+    "pubdate": 1769830200,
+    "aid": null,
+    "stat": {
+      "view": 2280663,
+      "like": 153119,
+      "reply": 5026
+    },
+    "pages": [
+      {
+        "cid": 35716468252,
+        "page": 1,
+        "part": "特厨探店|2026年度饭店？好吃到说脏话—老常德土锅土灶",
+        "duration": 289.766
+      }
+    ],
+    "subtitle_status": {
+      "35716468252": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1g9z8BKEkv": {
+    "bvid": "BV1g9z8BKEkv",
+    "subtitle_records": [
+      {
+        "cid": 35618688458,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1g9z8BKEkv/35618688458/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨探店|网上没信息 全靠熟人推？！出品还好的—浩南家家常菜",
+    "desc": "",
+    "pubdate": 1769416500,
+    "aid": null,
+    "stat": {
+      "view": 2103222,
+      "like": 134526,
+      "reply": 4401
+    },
+    "pages": [
+      {
+        "cid": 35618688458,
+        "page": 1,
+        "part": "特厨探店|网上没信息 全靠熟人推？！出品还好的—浩南家家常菜",
+        "duration": 263.533
+      }
+    ],
+    "subtitle_status": {
+      "35618688458": "complete"
+    },
+    "acquisition_status": "complete"
+  },
+  "BV1FUzLBVE5z": {
+    "bvid": "BV1FUzLBVE5z",
+    "subtitle_records": [
+      {
+        "cid": 35523922687,
+        "lan": "ai-zh",
+        "subtitle_url": "",
+        "file": "subs/BV1FUzLBVE5z/35523922687/ai-zh.json"
+      }
+    ],
+    "subs_done": true,
+    "title": "特厨最爱的菜？今天原版来啦！",
+    "desc": "",
+    "pubdate": 1768992760,
+    "aid": null,
+    "stat": {
+      "view": 3713989,
+      "like": 165807,
+      "reply": 9245
+    },
+    "pages": [
+      {
+        "cid": 35523922687,
+        "page": 1,
+        "part": "特厨最爱的菜？今天原版来啦！",
+        "duration": 713.945
+      }
+    ],
+    "subtitle_status": {
+      "35523922687": "complete"
+    },
+    "acquisition_status": "complete"
   }
 }

@@ -1,0 +1,90 @@
+{
+  "BV1pgaf6pEpQ": {
+    "is_food_review": true,
+    "restaurant_name": "如院",
+    "note": "用户确认正式店名",
+    "confirmed_on": "2026-10-31"
+  },
+  "BV1qYJu6gEqk": {
+    "is_food_review": true,
+    "restaurant_name": "余正军特色辣子鸡大盘鸡",
+    "note": "用户补充全名；视频可见名为特色辣子鸡大盘鸡，不能要求模型推断未出现的余正军",
+    "confirmed_on": "2026-10-31"
+  },
+  "BV1j2cizDEYM": {
+    "is_food_review": true,
+    "restaurant_name": "湖南擂茶",
+    "note": "视频信息有限，用户同意使用视频给出的店名",
+    "confirmed_on": "2026-10-31"
+  },
+  "BV1bqBwBJEQu": {
+    "is_food_review": true,
+    "restaurant_name": "于塗",
+    "note": "用户确认以标题字形为准",
+    "confirmed_on": "2026-10-31"
+  },
+  "BV1vtq8BKEem": {
+    "is_food_review": true,
+    "restaurant_name": "人和水上飘",
+    "note": "用户确认以标题字形为准",
+    "confirmed_on": "2026-10-31"
+  },
+  "BV13j4kzdE6p": {
+    "is_food_review": true,
+    "restaurant_name": "小饭馆大厨师",
+    "note": "用户确认标题小饭店大厨师写错，以人工确认为准",
+    "confirmed_on": "2026-10-31"
+  },
+  "BV1FtTGzMEEb": {
+    "is_food_review": true,
+    "restaurant_name": "枣阁园",
+    "note": "用户确认以标题字形为准",
+    "confirmed_on": "2026-10-31"
+  },
+  "BV1LuFTz8EPb": {
+    "is_food_review": true,
+    "restaurant_name": "张伟家农家私房菜",
+    "note": "用户确认以标题为准",
+    "confirmed_on": "2026-10-31"
+  },
+  "BV1a7hvz2Ew5": {
+    "is_food_review": true,
+    "restaurant_name": "福1088",
+    "note": "用户核对标题后确认",
+    "confirmed_on": "2026-10-31"
+  },
+  "BV1bXBgB3E77": {
+    "is_food_review": true,
+    "restaurant_name": "平平898",
+    "note": "用户核对标题后确认",
+    "confirmed_on": "2026-10-31"
+  },
+  "BV1LyNw6UEmD": {
+    "is_food_review": true,
+    "restaurant_name": "151啤酒屋",
+    "note": "用户核对后确认",
+    "confirmed_on": "2026-10-31"
+  },
+  "BV1j9DJB1EdU": {
+    "is_food_review": true,
+    "restaurant_name": "西郊五号",
+    "note": "用户确认店名，采用用户给出的中文五",
+    "confirmed_on": "2026-10-31"
+  },
+  "BV1mCnF6vEYn": {
+    "is_food_review": true,
+    "restaurant_name": "一双好手",
+    "note": "用户此前确认开场店名，一双好手之后的433是金额",
+    "confirmed_on": "2026-10-31"
+  },
+  "BV1Acjc6JEA3": {
+    "is_food_review": false,
+    "note": "用户确认自助餐吃回本属于吃法体验，并非探店，排除收录",
+    "confirmed_on": "2026-10-31"
+  },
+  "BV1dwxCzcEF5": {
+    "is_food_review": false,
+    "note": "用户确认：无店名，不属于正常探店视频，暂不收录",
+    "confirmed_on": "2026-10-31"
+  }
+}

@@ -164,6 +164,7 @@ def generate_map(city_counts: Counter):
     city_coords = get_city_coords(list(city_counts.keys()))
 
     # Plot cities
+    labels = []
     for city, count in city_counts.items():
         if city not in city_coords:
             print(f"Warning: coordinates not found for {city}")
@@ -174,7 +175,7 @@ def generate_map(city_counts: Counter):
         ax.scatter(lon, lat, s=size, c="#e74c3c", alpha=0.75,
                    edgecolors="#c0392b", linewidth=1.5, zorder=5)
         # Label
-        ax.annotate(
+        label = ax.annotate(
             f"{city} ({count})",
             (lon, lat),
             textcoords="offset points",
@@ -186,7 +187,9 @@ def generate_map(city_counts: Counter):
             color="#2c3e50",
             bbox=dict(boxstyle="round,pad=0.2", facecolor="white", alpha=0.7, edgecolor="none"),
             zorder=6,
+            arrowprops=dict(arrowstyle="-", color="#8795a1", linewidth=0.6),
         )
+        labels.append(label)
 
     # Set limits
     ax.set_xlim(73, 136)
@@ -197,13 +200,47 @@ def generate_map(city_counts: Counter):
     # Title
     total = sum(city_counts.values())
     ax.set_title(
-        f"特厨隋坡探店地图\n{len(city_counts)} 个城市 · {total} 家餐厅",
+        f"特厨隋坡探店地图\n{len(city_counts)} 个城市 · {total} 条探店记录",
         fontsize=16, fontweight="bold", color="#2c3e50", pad=15
     )
+
+    # Spread nearby labels in display coordinates; leaders retain city positions.
+    for _ in range(120):
+        fig.canvas.draw()
+        renderer = fig.canvas.get_renderer()
+        boxes = [label.get_bbox_patch().get_window_extent(renderer).expanded(1.08, 1.15)
+                 for label in labels]
+        shifts = [[0.0, 0.0] for _ in labels]
+        collisions = False
+        for i, first in enumerate(boxes):
+            for j in range(i + 1, len(boxes)):
+                second = boxes[j]
+                if not first.overlaps(second):
+                    continue
+                collisions = True
+                overlap_x = min(first.x1, second.x1) - max(first.x0, second.x0)
+                overlap_y = min(first.y1, second.y1) - max(first.y0, second.y0)
+                axis = 0 if overlap_x < overlap_y else 1
+                center_first = first.x0 + first.x1 if axis == 0 else first.y0 + first.y1
+                center_second = second.x0 + second.x1 if axis == 0 else second.y0 + second.y1
+                amount = (min(overlap_x, overlap_y) + 2) / 2
+                direction = -1 if center_first <= center_second else 1
+                shifts[i][axis] += direction * amount
+                shifts[j][axis] -= direction * amount
+        if not collisions:
+            break
+        for label, (dx, dy) in zip(labels, shifts):
+            x, y = label.xyann
+            label.xyann = (x + max(-10, min(10, dx)) * 72 / fig.dpi,
+                           y + max(-10, min(10, dy)) * 72 / fig.dpi)
 
     # Save
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     plt.savefig(OUTPUT_PATH, format="svg", bbox_inches="tight", dpi=150)
+    # Matplotlib emits trailing spaces in SVG paths; keep generated diffs clean.
+    OUTPUT_PATH.write_text("\n".join(line.rstrip() for line in
+                                     OUTPUT_PATH.read_text(encoding="utf-8").splitlines()) + "\n",
+                           encoding="utf-8")
     plt.savefig(OUTPUT_PATH.with_suffix(".png"), format="png", bbox_inches="tight", dpi=150)
     plt.close()
     print(f"Map saved to {OUTPUT_PATH} and {OUTPUT_PATH.with_suffix('.png')}")

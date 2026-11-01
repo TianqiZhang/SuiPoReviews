@@ -1,0 +1,5 @@
+# Tested on Python 3.12. The pinned yt-dlp requires Python 3.11+.
+yt-dlp==2026.10.26
+openai==3.41.0
+requests==2.34.2
+matplotlib>=3.8,<4
