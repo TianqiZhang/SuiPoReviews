@@ -49,7 +49,8 @@ def build_rows(reviews: dict, summary: dict, include_all: bool):
                 "restaurant_name": review.get("restaurant_name"),
                 "city": review.get("city"),
                 "rating": review.get("rating"),
-                "quote": review.get("quote"),
+                "quote": ("（摘述待处理）" if review.get("summary_status") == "pending" else
+                          review.get("review_summary", review.get("quote"))),
                 "pubdate": int(meta.get("pubdate") or 0),
             }
         )
@@ -63,7 +64,7 @@ def build_rows(reviews: dict, summary: dict, include_all: bool):
 
 def render_table(rows):
     header = (
-        "| 标题 | 是否探店 | 餐厅 | 城市 | 评分 | 引用 |\n"
+        "| 标题 | 是否探店 | 餐厅 | 城市 | 评分 | 评价摘述 |\n"
         "| --- | --- | --- | --- | --- | --- |\n"
     )
     body_lines = []
