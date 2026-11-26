@@ -92,5 +92,23 @@
     "city": "南昌",
     "note": "用户听原视频确认开场为江西南昌；AI 字幕误识别为七西南昌",
     "confirmed_on": "2026-11-01"
+  },
+  "BV1rFYBzkEwt": {
+    "is_food_review": true,
+    "city": "上海",
+    "note": "B站原视频开场店名遇外滩；作者上海合集及上海标签确认城市；米其林指南 https://guide.michelin.com/sg/zh_CN/shanghai-municipality/shanghai/restaurant/meet-the-bund 。具体分店未核实。",
+    "confirmed_on": "2026-11-26"
+  },
+  "BV1Ep7KzCE34": {
+    "is_food_review": true,
+    "city": "泰安",
+    "note": "B站原视频00:01烧录画面明确鲁菜根、泰安，作者山东合集；高德同名餐厅 https://www.amap.com/place/B0FFFFZTPV 交叉核实山东泰安，具体分店未核实。",
+    "confirmed_on": "2026-11-26"
+  },
+  "BV1xLYU6AEEs": {
+    "is_food_review": true,
+    "city": "北京",
+    "note": "B站原视频标题及开场确认维人和餐厅；同一作者YouTube视频标题与简介明确北京 https://www.youtube.com/watch?v=ntrWN4Kpm2w ，高德 https://www.amap.com/place/B000A7G5IY 交叉核实；具体分店未确认。",
+    "confirmed_on": "2026-11-26"
   }
 }
