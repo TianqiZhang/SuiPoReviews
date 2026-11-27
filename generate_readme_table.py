@@ -8,6 +8,7 @@ from pathlib import Path
 README_PATH = Path("README.md")
 REVIEWS_PATH = Path("data/video_reviews.json")
 SUMMARY_PATH = Path("data/videos_summary.json")
+VIDEOS_PATH = Path("data/videos.json")
 
 START_MARKER = "<!-- REVIEWS_TABLE_START -->"
 END_MARKER = "<!-- REVIEWS_TABLE_END -->"
@@ -104,6 +105,8 @@ def main():
 
     reviews = load_json(REVIEWS_PATH, {})
     summary = load_json(SUMMARY_PATH, {})
+    # Browser-verified reviews may not have subtitles or a generated summary yet.
+    summary = {**load_json(VIDEOS_PATH, {}), **summary}
 
     rows = build_rows(reviews, summary, include_all=args.all)
     table = render_table(rows)

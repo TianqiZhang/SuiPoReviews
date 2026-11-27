@@ -110,5 +110,33 @@
     "city": "北京",
     "note": "B站原视频标题及开场确认维人和餐厅；同一作者YouTube视频标题与简介明确北京 https://www.youtube.com/watch?v=ntrWN4Kpm2w ，高德 https://www.amap.com/place/B000A7G5IY 交叉核实；具体分店未确认。",
     "confirmed_on": "2026-11-26"
+  },
+  "BV1ZyyQzgE6S": {
+    "is_food_review": true,
+    "restaurant_name": "明辉传统饸饹面",
+    "city": "平顶山",
+    "note": "2026-11-27 浏览器核对 B 站前30秒（https://www.bilibili.com/video/BV1ZyyQzgE6S/）。视频公开开场烧录字幕“河南郏县”，作者标签“明辉传统饸饹面”；郏县属河南平顶山，参考 https://wglj.pds.gov.cn/channels/12525.html 。具体门牌未核实。 未核实全片评价。",
+    "confirmed_on": "2026-11-27"
+  },
+  "BV1ERWq6eEG7": {
+    "is_food_review": true,
+    "restaurant_name": "洁惠餐馆",
+    "city": "南昌",
+    "note": "2026-11-27 浏览器核对 B 站前30秒（https://www.bilibili.com/video/BV1ERWq6eEG7/）。视频公开开场烧录字幕“南昌”，作者标签“洁惠餐馆”；江西南昌商家列表 https://nc.bendibao.com/wangdian/canyinmeishi-j/ ；不确认具体门牌。 未核实全片评价。",
+    "confirmed_on": "2026-11-27"
+  },
+  "BV1LxW863EaB": {
+    "is_food_review": true,
+    "restaurant_name": "辣然餐馆",
+    "city": "赣州",
+    "note": "2026-11-27 浏览器核对 B 站前30秒（https://www.bilibili.com/video/BV1LxW863EaB/）。视频公开开场烧录字幕“赣州”，作者标签“辣然餐馆”；公开探店记录也标注赣州章贡区辣然餐馆。具体门牌未核实。 未核实全片评价。",
+    "confirmed_on": "2026-11-27"
+  },
+  "BV1Ncxb6xExU": {
+    "is_food_review": true,
+    "restaurant_name": "聚味瞿记",
+    "city": "长沙",
+    "note": "2026-11-27 浏览器核对 B 站前30秒（https://www.bilibili.com/video/BV1Ncxb6xExU/）。视频公开开场烧录字幕“聚味瞿记 548”，标题长沙；高德同品牌长沙多分店 https://www.amap.com/place/B0J37HVJ5J ，未确认具体分店，548 为开场消费数字，不作为店名。 未核实全片评价。",
+    "confirmed_on": "2026-11-27"
   }
 }

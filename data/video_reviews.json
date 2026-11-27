@@ -1283,5 +1283,45 @@
     "source_quote": null,
     "review_summary": "原本计划帮扶小店，但店里的菜整体做得不错，粉条劲道，鱼软烂入味，回锅肉也炒得好；糖醋里脊和煎鱼仍有些火候或调味可改进。店家经营不易，视频最后表示能提供的帮助有限，转为探店分享。",
     "summary_status": "complete"
+  },
+  "BV1ZyyQzgE6S": {
+    "is_food_review": true,
+    "restaurant_name": "明辉传统饸饹面",
+    "city": "平顶山",
+    "rating": null,
+    "quote": null,
+    "source_quote": null,
+    "review_summary": null,
+    "summary_status": "pending"
+  },
+  "BV1ERWq6eEG7": {
+    "is_food_review": true,
+    "restaurant_name": "洁惠餐馆",
+    "city": "南昌",
+    "rating": null,
+    "quote": null,
+    "source_quote": null,
+    "review_summary": null,
+    "summary_status": "pending"
+  },
+  "BV1LxW863EaB": {
+    "is_food_review": true,
+    "restaurant_name": "辣然餐馆",
+    "city": "赣州",
+    "rating": null,
+    "quote": null,
+    "source_quote": null,
+    "review_summary": null,
+    "summary_status": "pending"
+  },
+  "BV1Ncxb6xExU": {
+    "is_food_review": true,
+    "restaurant_name": "聚味瞿记",
+    "city": "长沙",
+    "rating": null,
+    "quote": null,
+    "source_quote": null,
+    "review_summary": null,
+    "summary_status": "pending"
   }
 }
