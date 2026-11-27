@@ -138,5 +138,23 @@
     "city": "长沙",
     "note": "2026-11-27 浏览器核对 B 站前30秒（https://www.bilibili.com/video/BV1Ncxb6xExU/）。视频公开开场烧录字幕“聚味瞿记 548”，标题长沙；高德同品牌长沙多分店 https://www.amap.com/place/B0J37HVJ5J ，未确认具体分店，548 为开场消费数字，不作为店名。 未核实全片评价。",
     "confirmed_on": "2026-11-27"
+  },
+  "BV17WCUBVEDJ": {
+    "is_food_review": true,
+    "city": "北京",
+    "note": "B站原视频开场烧录字幕“北京被小李强拉着来拍的”，标题厨忆小湖南，作者北京标签及北京合集。 具体地址未核实。",
+    "confirmed_on": "2026-11-27"
+  },
+  "BV1xM1bBzEfD": {
+    "is_food_review": true,
+    "city": "沧州",
+    "note": "B站原视频前30秒实际播放；原标题国富老菜馆，作者标签沧州及河北合集；同内容 https://www.sina.cn/news/detail/5286478151942639.html 。 具体地址未核实。",
+    "confirmed_on": "2026-11-27"
+  },
+  "BV1txW2zsEWn": {
+    "is_food_review": true,
+    "city": "北京",
+    "note": "B站原视频开场烧录字幕“全宜美肉饼”，作者北京标签及北京合集；同作者微博 https://www.sina.cn/news/detail/5224147974360803.html 。 具体地址未核实。",
+    "confirmed_on": "2026-11-27"
   }
 }
